@@ -4,7 +4,7 @@ translate german strings:
 
     # game/scenes/common/tasks.rpy:8
     old "{e=razor}{e=sparkles}{e=exclamation_white}{e=star_struck}{e=inventory}"
-    new "Wahnsinn! Ein Rasiermesser! Ein toller Fund! Ich werde es sicher später gut gebrauchen können!"
+    new "Wow! Ein Rasierer! Ein toller Fund! Ich werde ihn später sicher gut gebrauchen können!"
 
     # game/scenes/common/tasks.rpy:12
     old "{e=water bottle}{e=exclamation_white}{e=inventory}"
@@ -12,7 +12,7 @@ translate german strings:
 
     # game/scenes/common/tasks.rpy:12
     old "{e=water}{e=arrow_right}{e=water bottle}"
-    new "Ich benutze sie, um Wasser herumzutragen. Kokosnussschalen sind nicht so einfach zu handhaben."
+    new "Ich benutze sie, um Wasser herumzutragen, das spart Kokosnussschalen."
 
     # game/scenes/common/tasks.rpy:20
     old "{e=spring}{e=arrow_right}{e=lake_trap}{e=exclamation_white}"
@@ -20,7 +20,7 @@ translate german strings:
 
     # game/scenes/common/tasks.rpy:24
     old "{e=spring}{e=thinking_face}{e=arrow_right}{e=inventory}"
-    new "Und was haben wir hier? Eine große Feder. Könnte zum Basteln nützlich sein. Ich nehme sie mit."
+    new "Und was haben wir hier? Eine große Feder. Könnte zum Basteln nützlich sein."
 
     # game/scenes/common/tasks.rpy:33
     old "{e=comb}{e=check_mark}{e=smiley}{e=gift}{e=octa}"

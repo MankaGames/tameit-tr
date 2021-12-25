@@ -145,7 +145,7 @@ translate german scene_chapter05_outro_bbed1e73:
 translate german scene_chapter05_outro_6e99cc03:
 
     # lee_think "{e=thermometer}{e=catgirl}{e=smiling_face_with_hearts}{e=yawning_face}{e=sleep}"
-    lee_think "Sie ist so nah, so warm. Und der Regen hört auf, so scheint es."
+    lee_think "Sie ist so nah, so warm. Und der Regen nimmt zu, so scheint es."
     lee_think "Sieh sie dir nur an, wie sie sich dösend an mich klammert."
     lee_think "Auch meine Augen werden schwer."
     lee_think "Ich brauche etwas Ruhe - lass uns darüber schlafen."

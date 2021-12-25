@@ -100,7 +100,7 @@ translate german scene_chapter06_contact3_8d68a5dc:
 translate german scene_chapter06_contact3_97fce14d:
 
     # lee "{e=yes}{e=smiling_face}{e=fish_big}{e=you}{e=catgirl}"
-    lee "Ja, das habe ich für dich gefangen."
+    lee "Ja, den habe ich für dich gefangen."
 
 # game/scenes/chapter06/coldspot.rpy:298
 translate german scene_chapter06_contact3_3a16e192:

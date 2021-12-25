@@ -13,7 +13,7 @@ translate german scene_chapter06_intro_666d4f5d:
     # lee_think "{e=thinking_face}{e=bungalow_wall}{e=arrow_right}{e=bungalow_wrecked}"
     lee_think "Es ist viel schlimmer, als ich dachte."
     lee_think "Der Wind war so stark, dass die ganze Wand abfiel."
-    lee_think "Es ist nicht so weit geflogen, zum Glück."
+    lee_think "Sie ist nicht so weit geflogen, zum Glück."
     lee_think "Ich denke, ich werde sie sammeln und für meine Reparaturen wiederverwenden."
 
 # game/scenes/chapter06/intro.rpy:35

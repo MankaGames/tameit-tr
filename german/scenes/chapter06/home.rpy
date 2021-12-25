@@ -14,8 +14,8 @@ translate german scene_chapter06_home_a41ff28c:
     # lee_think "{e=thinking_face}{e=catgirl}{e=foraging}"
     lee_think "Ich sollte versuchen, ihr ein paar Aufgaben zu geben"
     lee_think "sie wäre ziemlich hilfreich."
-    lee_think "Wenn das klappt, werde ich alle Reparaturen viel schneller abschließen und"
-    lee_think "weniger Probleme haben, Lebensmittel zu bekommen."
+    lee_think "Wenn das klappt, werde ich alle Reparaturen viel schneller abschließen"
+    lee_think "und weniger Probleme haben, Lebensmittel zu bekommen."
 
 # game/scenes/chapter06/home.rpy:97
 translate german scene_chapter06_inside_2ff9347b:
@@ -94,7 +94,7 @@ translate german scene_chapter06_outro_f18a5812:
 
     # lee_think "{e=eggplant}{e=take}{e=unamused_face}"
     lee_think "Und was soll ich jetzt tun?"
-    lee_think "Meiner Wurst den Rest geben, das ist es!"
+    lee_think "Meinem Stamm den Rest geben, das ist es!"
 
 # game/scenes/chapter06/home.rpy:214
 translate german scene_chapter06_outro_eb16a2df:

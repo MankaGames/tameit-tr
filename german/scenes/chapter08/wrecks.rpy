@@ -31,7 +31,7 @@ translate german scene_chapter08_wrecks_plane1_f9c831f3:
     # lee_think "{e=thinking_face}{e=light_bulb}{e=arrow_right}{e=hammer}{e=plane_ladder}"
     lee_think "Verdammt! Ich dachte, ich könnte über die Sitze hochklettern,"
     lee_think "aber es ist nicht so einfach und viele von ihnen halten sich kaum."
-    lee_think "Oh, ich weiß! Ich kann eine Leiter machen!"
+    lee_think "Oh, ich weiß! Ich könnte eine Leiter bauen!"
 
 # game/scenes/chapter08/wrecks.rpy:36
 translate german scene_chapter08_wrecks_plane1_f994eb42:
@@ -104,7 +104,7 @@ translate german scene_chapter08_wrecks_plane3_4ff9f247:
 translate german scene_chapter08_wrecks_plane3_ca9bd7ee:
 
     # lee "{e=laughing}{e=panties}{e=arrow_right}{e=butt}"
-    lee "Ho-ho! Das ist nicht der richtige Körperteil, um sie anzuziehen!"
+    lee "Ho-ho! Das ist nicht Falsch, so zieht man sie nicht an!"
     lee "Ich zeige dir später, wie du sie richtig trägst."
 
 # game/scenes/chapter08/wrecks.rpy:89
@@ -112,14 +112,14 @@ translate german scene_chapter08_wrecks_plane3_366a38c3:
 
     # lee_think "{e=take}{e=panties}{e=arrow_right}{e=inventory}"
     lee_think "Ich schätze, das sind Tonja's Unterhosen. Ich behalte sie."
-    lee_think "Ich erinnere mich sogar daran, dass ich sie ihr abgenommen habe,"
+    lee_think "Ich erinnere mich sogar daran, dass ich sie ihr ausgezogen habe,"
     lee_think "auch wenn es mir vorkommt, als wäre das in einem anderen Leben gewesen."
 
 # game/scenes/chapter08/wrecks.rpy:118
 translate german scene_chapter08_wrecks_plane_cockpit_f7dedd69:
 
     # lee_think "{e=cockpit}{e=exclamation_white}{e=smiley}"
-    lee_think "Ausgezeichnet! Endlich bin ich da!"
+    lee_think "Ausgezeichnet!\nEndlich bin ich da!"
 
 # game/scenes/chapter08/wrecks.rpy:119
 translate german scene_chapter08_wrecks_plane_cockpit_8bcfa4bd:
@@ -157,14 +157,16 @@ translate german scene_chapter08_wrecks_plane_cockpit_b512a901:
 translate german scene_chapter08_wrecks_plane_cockpit_9bcbc088:
 
     # lee_think "{e=tonya}{e=arrow_right}{e=hut}{e=question_white}"
-    lee_think "Die Hütte, die ich gesehen habe... Könnte es Tonjas sein?"
+    lee_think "Die Hütte, die ich gesehen habe..."
+    lee_think "Könnte die Tonja gehören?"
 
 # game/scenes/chapter08/wrecks.rpy:144
 translate german scene_chapter08_wrecks_plane_door_right_02fc6bac:
 
     # lee_think "{e=plane_door}{e=eyes}{e=enter}"
     lee_think "Die Tür ist verschwunden."
-    lee_think "Ich kann herausspringen und mich umsehen. Es klingt wie plätscherndes Wasser."
+    lee_think "Die Tür fehlt. Ich kann rausschauen und mich umsehen."
+    lee_think "Es klingt wie plätscherndes Wasser."
 
 # game/scenes/chapter08/wrecks.rpy:169
 translate german scene_chapter08_wrecks_plane_door_right_view_2a064218:
@@ -184,7 +186,8 @@ translate german scene_chapter08_wrecks_plane_door_right_view_42e4152b:
 translate german scene_chapter08_wrecks_plane_door_right_view_85397762:
 
     # lee_think "{e=hut}{e=fireplace}{e=surprised}{e=exclamation_white}"
-    lee_think "Ist das eine Hütte?! Sieht aus, als wäre es das Lager von jemandem!"
+    lee_think "Ist das eine Hütte?!"
+    lee_think "Sieht aus, als wäre es das Lager von jemandem!"
 
 # game/scenes/chapter08/wrecks.rpy:177
 translate german scene_chapter08_wrecks_plane_door_right_view_f99c1e51:
@@ -197,15 +200,16 @@ translate german scene_chapter08_wrecks_plane_door_right_view_f99c1e51:
 translate german scene_chapter08_wrecks_plane_door_right_view_0aa6c134:
 
     # lee_think "{e=thinking_face}{e=tonya}{e=question_white}{e=silhouette}{e=question_white}"
-    lee_think "Kann es Tonja's Lager sein? Oder gehört es den Eingeborenen?"
+    lee_think "Könnte es Tonja's Lager sein?"
+    lee_think "Oder gehört es den Eingeborenen?"
 
 # game/scenes/chapter08/wrecks.rpy:180
 translate german scene_chapter08_wrecks_plane_door_right_view_622e1172:
 
     # lee_think "{e=me}{e=footprints}{e=hut}{e=question_white}{e=thinking_face}"
-    lee_think "Wie kann ich es auf die andere Seite schaffen?"
-    lee_think "Es ist zu weit weg, um eine Leiter oder ein Seil zu benutzen und"
-    lee_think "es gibt keine Möglichkeit, dort etwas zu befestigen."
+    lee_think "Wie schaffe ich es auf die andere Seite?"
+    lee_think "sie ist zu weit weg, um eine Leiter oder ein Seil zu benutzen"
+    lee_think "und es gibt keine Möglichkeit, dort etwas zu befestigen."
 
 # game/scenes/chapter08/wrecks.rpy:183
 translate german scene_chapter08_wrecks_plane_door_right_view_21075f7a:
@@ -218,8 +222,8 @@ translate german scene_chapter08_wrecks_plane_door_right_view_9df8f2c1:
 
     # lee_think "{e=eyes}{e=exclamation}{e=jaguar}{e=scream}"
     lee_think "Das ist ein Jaguar!"
-    lee_think "Jetzt bin ich sogar froh, dass zwischen uns eine Öffnung ist und"
-    lee_think "er nicht rüberspringen kann."
+    lee_think "Jetzt bin ich sogar froh, dass zwischen uns eine Öffnung ist"
+    lee_think "und er nicht rüberspringen kann."
 
 # game/scenes/chapter08/wrecks.rpy:188
 translate german scene_chapter08_wrecks_plane_door_right_view_96053fc5:
@@ -233,7 +237,7 @@ translate german scene_chapter08_wrecks_plane_door_right_view_96053fc5:
 translate german scene_chapter08_wrecks_plane_door_right_view_f97d2779:
 
     # lee_think "{e=thinking_face}{e=back}{e=jaguar}{e=arrow_right}{e=hut}"
-    lee_think "Ich muss sowieso auf die andere Seite kommen!"
+    lee_think "Ich muss trotzdem irgendwie auf die andere Seite kommen!"
     lee_think "Wir sollten nach alternativen Routen suchen."
     lee_think "Es muss einen Weg geben, die Hütte zu erreichen!"
 

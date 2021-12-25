@@ -24,7 +24,7 @@ translate german scene_chapter05_intro_4da11327:
 
     # lee_think "{e=thinking_face}{e=light_bulb}{e=fireplace}{e=arrow_right}{e=bungalow4}"
     lee_think "Und was soll ich jetzt tun? \nIch kann weder kochen noch mich aufwärmen."
-    lee_think "Ich muss drinnen irgendwie einen Kamin bauen."
+    lee_think "Ich muss einen Kamin bauen."
 
 # game/scenes/chapter05/intro.rpy:38
 translate german scene_chapter05_intro_3aa89023:

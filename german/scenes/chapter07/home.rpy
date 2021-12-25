@@ -2,7 +2,8 @@
 translate german scene_chapter07_inside_f342fd18:
 
     # lee "{e=catgirl}{e=thermometer}{e=relieved}{e=question_white}"
-    lee "Geht es dir gut? Ist dir jetzt etwas wärmer?"
+    lee "Geht es dir gut?"
+    lee "Ist dir jetzt etwas wärmer?"
 
 # game/scenes/chapter07/home.rpy:81
 translate german scene_chapter07_inside_7925694d:
@@ -27,14 +28,16 @@ translate german scene_chapter07_inside_7501bf54:
 translate german scene_chapter07_inside_501d0d7c:
 
     # lee_think "{e=smiling_face_with_hearts}{e=eggplant}{e=hot_pepper}"
-    lee_think "Das ist so heiß, dass ich schon ganz hart bin!"
+    lee_think "Das ist so heiß!"
+    lee_think "Ich bin schon ganz hart!"
 
 # game/scenes/chapter07/home.rpy:85
 translate german scene_chapter07_inside_1d7eb93c:
 
     # lee_think "{e=thinking_face}{e=hot_pepper}{e=fire}"
-    lee_think "Also, was mache ich jetzt? Ich bin so geil, dass ich gar nicht mehr anders kann."
-    lee_think "Sie macht all diese Dinge immer wieder - vielleicht macht es ihr auch Spaß..."
+    lee_think "Also, was mache ich jetzt?"
+    lee_think "Ich bin so geil, dass ich gar nicht mehr anders kann."
+    lee_think "Sie macht diese Dinge immer wieder - vielleicht macht es ihr auch Spaß..."
 
 # game/scenes/chapter07/home.rpy:93
 translate german scene_chapter07_inside_0996dbbe:
@@ -68,7 +71,8 @@ translate german scene_chapter07_inside_e250c6d0:
 translate german scene_chapter07_outro_94377d4c:
 
     # lee_think "{e=smiling_face}{e=star_struck}{e=sparkles}{e=relieved}"
-    lee_think "Das war wie... wow! Ich habe mich schon lange nicht mehr so gut gefühlt!"
+    lee_think "Das war... wow!"
+    lee_think "Ich habe mich schon lange nicht mehr so gut gefühlt!"
 
 # game/scenes/chapter07/home.rpy:126
 translate german scene_chapter07_outro_c398a0e5:
@@ -92,12 +96,12 @@ translate german scene_chapter07_inside_1b7249e7:
 translate german scene_chapter07_inside_3e9607b6:
 
     # lee_think "{e=hushed_face}{e=fishing_pole}{e=lake}{e=no}{e=unamused_face}"
-    lee_think "Sag mir nicht, dass es in den See gefallen ist, als ich Cat helfen wollte."
+    lee_think "Sag mir nicht, dass sie in den See gefallen ist, als ich Cat geholfen habe."
 
 # game/scenes/chapter07/home.rpy:102
 translate german scene_chapter07_inside_db7f2c36:
 
     # lee_think "{e=magnifying_glass}{e=fishing_pole}{e=arrow_right}{e=lake}"
     lee_think "Ich sollte versuchen, sie zu finden."
-    lee_think "Es ist aus Bambus und schwimmt vielleicht noch irgendwo."
+    lee_think "Sie ist aus Bambus und schwimmt vielleicht noch irgendwo."
 

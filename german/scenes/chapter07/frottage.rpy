@@ -15,7 +15,7 @@ translate german scene_chapter07_frottage_7b03c4d1:
 translate german scene_chapter07_frottage_1b0bfe2a:
 
     # lee "{e=catgirl}{e=take}{e=dick}"
-    lee "Fassen ihn mal an. Na also, siehst du? Es ist nichts weiter als ein heißes Würstchen."
+    lee "Fassen ihn mal an. Na also, siehst du? Es ist nichts weiter als ein warmes Würstchen."
     lee "Hab keine Angst, lasst uns etwas ausprobieren..."
 
 # game/scenes/chapter07/frottage.rpy:150

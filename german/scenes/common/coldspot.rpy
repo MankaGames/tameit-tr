@@ -15,7 +15,7 @@ translate german scene_pet_common_0a4b46fc:
 
     # lee_think "{e=smiley}{e=smiling_face_with_hearts}{e=smiling_face}"
     lee_think "Es hat ihr gefallen! Das freut mich sehr."
-    lee_think "Ich bin auch sehr froh, ihr eine Freude zu machen."
+    lee_think "Ich bin sehr froh, ihr eine Freude zu machen."
 
 # game/scenes/common/coldspot.rpy:332
 translate german scene_pet_common_d5fc5509:
@@ -28,7 +28,7 @@ translate german scene_coldspot_common_79127666:
 
     # lee_think "{e=smiling_face_with_hearts}{e=smiling_face}"
     lee_think "Wow, ich habe es wieder geschafft, sie zu befummeln."
-    lee_think "Kein Zweifel, sie mag es sehr!"
+    lee_think "Kein Zweifel, sie mag es!"
 
 # game/scenes/common/coldspot.rpy:277
 translate german scene_coldspot_common_f80e5c4e:

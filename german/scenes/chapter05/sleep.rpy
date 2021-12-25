@@ -12,5 +12,5 @@ translate german strings:
 
     # game/scenes/chapter05/sleep.rpy:26
     old "{e=take}{e=smirk}{e=night}{e=catgirl}"
-    new "Ich kann versuchen, Cat zu befummeln, während sie schläft."
+    new "Ich könnte versuchen, Cat zu befummeln, während sie schläft."
 
