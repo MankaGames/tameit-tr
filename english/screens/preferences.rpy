@@ -32,3 +32,11 @@
     old "Sound volume"
     new "Sound volume"
 
+    # game/screens/preferences.rpy:136
+    old "Set Emoji Language"
+    new "Set Emoji Language"
+
+    # game/screens/preferences.rpy:143
+    old "Set %s Language"
+    new "Set %s Language"
+

@@ -390,3 +390,9 @@ translate english scene_chapter08_lake_7557f437:
     # lee_think "{e=thinking_face}{e=worm}{e=arrow_right}{e=fishnet}{e=question_white}"
     lee_think "I wonder what bait would be the best."
 
+# game/scenes/chapter08/lake_area.rpy:33
+translate english scene_chapter08_lake_shore_8b07c55a:
+
+    # lee_think "{e=spring}{e=question_white}{e=thinking_face}"
+    lee_think "I need a spring for the trap. Where can I find one?"
+

@@ -28,3 +28,7 @@
     old "{e=confounded face}{e=hunger}{e=exclamation}{#girl}"
     new "{e=confounded face}{e=hunger}{e=exclamation}"
 
+    # game/classes/mind_manager.rpy:144
+    old "{e=nauseated_face}{e=ill}{e=sleep}"
+    new "I feel nauseous, think I ate something wrong, I should go to bed."
+

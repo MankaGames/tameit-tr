@@ -33,12 +33,12 @@ translate english scene_coldspot_common_f80e5c4e:
 
     # lee "{e=exclamation}{e=hushed_face}{e=weary_face}{e=frowning_face}{e=pleading_face}"
     lee "Ouch! Okay, okay, it's my fault, I'm sorry!"
-    lee "I'm not touching anymore, see? Please, no more claws!"
+    lee "I'm not touching you anymore, see? Please, no more claws!"
 
 # game/scenes/common/coldspot.rpy:342
 translate english scene_pet_common_f80e5c4e:
 
     # lee "{e=exclamation}{e=hushed_face}{e=weary_face}{e=frowning_face}{e=pleading_face}"
     lee "Ouch! Okay, okay, it's my fault, I'm sorry!"
-    lee "I'm not touching anymore, see? Please, no more claws!"
+    lee "I'm not touching you anymore, see? Please, no more claws!"
 

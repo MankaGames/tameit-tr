@@ -24,15 +24,15 @@ translate english strings:
 
     # game/scenes/common/tasks.rpy:33
     old "{e=comb}{e=check_mark}{e=smiley}{e=gift}{e=octa}"
-    new ""
+    new "I can’t believe my luck, it’s a comb! Just what I need!\nNow I can give it to Octa."
 
     # game/scenes/common/tasks.rpy:35
     old "{e=comb}{e=smirk}{e=gift}"
-    new ""
+    new "Comb! It's useful, and it can be given as a gift."
 
     # game/scenes/common/tasks.rpy:37
     old "{e=magnifying_glass}{e=frowning_face}"
-    new ""
+    new "There's nothing else here."
 
     # game/scenes/common/tasks.rpy:42
     old "{e=mirror}{e=exclamation_white}{e=smiley}"

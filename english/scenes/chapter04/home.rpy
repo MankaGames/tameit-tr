@@ -45,7 +45,7 @@ translate english scene_chapter04_home_0de4a3fa:
 
     # lee_think "{e=sleep}{e=tent}{e=rain}{e=persevering}"
     lee_think "Sleeping in the hut during the rain — \"comfortable\" as fuck!"
-    lee_think "Tonight's feel more like the \"Chilly Willy\" episode."
+    lee_think "Tonight it was absolutely freezing."
 
 # game/scenes/chapter04/home.rpy:60
 translate english scene_chapter04_home_3638b8fa:
@@ -231,7 +231,7 @@ translate english scene_chapter04_view_behindriver_7c858299:
 translate english scene_chapter04_view_behindriver_a4470ba2:
 
     # lee_think "{e=thinking_face}{e=arrow_right}{e=river}{e=question_white}"
-    lee_think "It's over the river, on the other side of an island, perhaps."
+    lee_think "It's over the river, on the other side of the island, perhaps."
     lee_think "But how do I get there?"
 
 # game/scenes/chapter04/home.rpy:91

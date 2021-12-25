@@ -8,7 +8,7 @@ translate english strings:
 
     # game/scenes/common/learning.rpy:116
     old "{e=learn}{e=brain}"
-    new "Brain Puzzle"
+    new "Brain Dots"
 
     # game/scenes/common/learning.rpy:116
     old "{e=learning_1}"

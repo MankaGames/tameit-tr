@@ -4,7 +4,7 @@
 translate english scene_chapter10_wrecks_plane_door_right_view_9de9c4ae:
 
     # lee_think "{e=weary_face}{e=thinking_face}{e=hourglass}{e=arrows_counterclockwise}"
-    lee_think "{e=weary_face}{e=thinking_face}{e=hourglass}{e=arrows_counterclockwise}"
+    lee_think "I need to think it over. There’s nothing I can do at the moment anyway."
 
 # game/scenes/chapter10/lake_area.rpy:234
 translate english scene_chapter10_octa_shelter_9687a0d6:

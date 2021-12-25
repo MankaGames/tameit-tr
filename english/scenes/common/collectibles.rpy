@@ -12,3 +12,7 @@ translate english strings:
     old "{e=thinking_face}{e=firefly}{e=arrow_right}{e=hut}"
     new "Maybe try releasing them in the hut? They would fly and glow beautifully."
 
+    # game/scenes/common/collectibles.rpy:40
+    old "{e=thinking_face}{e=fish_coral}{e=arrow_right}{e=basin2}"
+    new "How about releasing these beautiful little fish into the pond I dug for Octa?"
+

@@ -106,7 +106,7 @@ translate english strings:
 
     # game/dicts/task.rpy:939
     old "{e=boat}{e=yes}{e=smiley}{e=arrow_right}{e=cave}"
-    new "{e=boat}{e=yes}{e=smiley}{e=arrow_right}{e=cave}"
+    new "Perfect! My boat is ready to sail!"
 
 # TODO: Translation updated at 2021-12-17 00:51
 

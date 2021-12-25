@@ -4,17 +4,15 @@ translate english scene_sleep_chapter08_d6aaeb6f:
     # lee_think "[dream]"
     lee_think "[dream]"
 
-# TODO: Translation updated at 2021-09-26 21:54
-
 translate english strings:
 
     # game/scenes/chapter08/sleep.rpy:28
     old "{e=hammer}{e=fishnet}{e=arrow_right}{e=shark}"
-    new "{e=hammer}{e=fishnet}{e=arrow_right}{e=shark}"
+    new "I need to make a net to catch the lake monster."
 
     # game/scenes/chapter08/sleep.rpy:30
     old "{e=stick}{e=hammer}{e=lake_trap}{e=plus}{e=lake_trap}"
-    new "{e=stick}{e=hammer}{e=lake_trap}{e=plus}{e=lake_trap}"
+    new "I need more sticks to set two traps on the lake."
 
 translate english strings:
 

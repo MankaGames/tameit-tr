@@ -2,7 +2,7 @@
 translate english scene_chapter04_voyeur_973a7b7d:
 
     # lee_think "{e=smirk}{e=light_bulb}{e=shushing_face}{e=eye}"
-    lee_think "Time to go stealth mode if I want to snoop on her."
+    lee_think "Time for stealth if I want to snoop on her."
 
 # game/scenes/chapter04/voyeur.rpy:93
 translate english scene_chapter04_voyeur_666a1a1c:

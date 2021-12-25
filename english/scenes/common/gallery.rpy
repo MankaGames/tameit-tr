@@ -10,11 +10,11 @@ translate english gallery_menu_e897898c:
 translate english gallery_remember_b1593b0e:
 
     # lee_think "{e=consume}{e=psilocybe}{e=eyes}{e=framed_picture}{e=sleep}"
-    lee_think ""
+    lee_think "I need to eat a special mushroom, pick a picture and go to bed."
 
 # game/scenes/common/gallery.rpy:21
 translate english gallery_remember_5f0f7a59:
 
     # lee_think "{e=yawning_face}{e=sleep}"
-    lee_think ""
+    lee_think "I need to go to sleep."
 
