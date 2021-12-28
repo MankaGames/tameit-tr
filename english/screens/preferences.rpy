@@ -40,3 +40,19 @@
     old "Set %s Language"
     new "Set %s Language"
 
+    # game/screens/preferences.rpy:38
+    old "Difficulty: %s"
+    new "Difficulty: %s"
+
+    # game/screens/preferences.rpy:91
+    old "L2D animation: %s. Restart required on change"
+    new "L2D animation: %s. Restart required on change"
+
+    # game/screens/preferences.rpy:91
+    old "Enabled"
+    new "Enabled"
+
+    # game/screens/preferences.rpy:91
+    old "Disabled"
+    new "Disabled"
+
