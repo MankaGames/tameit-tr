@@ -8,7 +8,7 @@ translate german scene_chapter05_home_ceab6db7:
 translate german scene_chapter05_inside_exit_f0dadcb3:
 
     # lee_think "{e=storm}{e=exclamation}{e=plane_door}{e=dead_end}"
-    lee_think "Der Sturm ist zu stark. Es ist zu gefährlich, nach draußen zu gehen."
+    lee_think "Der Sturm ist zu stark.\nEs ist zu gefährlich, nach draußen zu gehen."
 
 # game/scenes/chapter05/home.rpy:93
 translate german scene_chapter05_inside_08fd7836:
@@ -30,7 +30,7 @@ translate german scene_chapter05_inside_5bf8a028:
 translate german scene_chapter05_inside_6b6009b0:
 
     # lee_think "{e=smiling_face}{e=catgirl}"
-    lee_think "Sie nahm das Essen - großartig!"
+    lee_think "Sie nimmt das Essen - großartig!"
     lee_think "Sie hat nicht einmal versucht, sich in eine Ecke zurückzuziehen."
     lee_think "Das ist ein gutes Zeichen, denke ich."
 
@@ -145,7 +145,7 @@ translate german scene_chapter05_outro_bbed1e73:
 translate german scene_chapter05_outro_6e99cc03:
 
     # lee_think "{e=thermometer}{e=catgirl}{e=smiling_face_with_hearts}{e=yawning_face}{e=sleep}"
-    lee_think "Sie ist so nah, so warm. Und der Regen nimmt zu, so scheint es."
+    lee_think "Sie ist so nah, so warm. Und der Regen nimmt ab, so scheint es."
     lee_think "Sieh sie dir nur an, wie sie sich dösend an mich klammert."
     lee_think "Auch meine Augen werden schwer."
     lee_think "Ich brauche etwas Ruhe - lass uns darüber schlafen."

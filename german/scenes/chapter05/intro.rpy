@@ -2,7 +2,7 @@
 translate german scene_chapter05_intro_43576a43:
 
     # lee_think "{e=dash}{e=lightning}{e=confounded face}{e=weary_face}"
-    lee_think "Das Wetter ist so beschissen. \nDer Wind fühlt sich an wie eine Tonne Ziegelsteine!"
+    lee_think "Das Wetter ist so beschissen. Der Wind fühlt sich an wie eine Tonne Ziegelsteine!"
 
 # game/scenes/chapter05/intro.rpy:26
 translate german scene_chapter05_intro_905a5088:
@@ -46,13 +46,15 @@ translate german scene_chapter05_intro_5942017f:
     # lee_think "{e=storm}{e=dash}{e=bungalow4}{e=fearful_face}"
     lee_think "Ich hoffe, dass die Hütte nicht in die Luft fliegt."
     lee_think "Der Wind heult so heftig,"
-    lee_think "dass ich mir in die Hose scheißen werde,wenn etwas passiert."
+    lee_think "dass ich mir in die Hose scheißen werde, wenn etwas passiert."
 
 # game/scenes/chapter05/intro.rpy:83
 translate german scene_chapter05_intro_fb2312af:
 
     # lee "{e=surprised}{e=exclamation_white}{e=catgirl}"
-    lee "Wer ist denn da? Cat?! Verdammt, ich habe fast einen Ziegelstein geschissen."
+    lee "Wer ist denn da?"
+    lee "Cat?!"
+    lee "Verdammt, ich habe fast einen Ziegelstein geschissen."
 
 # game/scenes/chapter05/intro.rpy:84
 translate german scene_chapter05_intro_b95f5b3e:

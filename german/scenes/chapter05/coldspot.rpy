@@ -8,7 +8,7 @@ translate german scene_coldspot_ch05_d5fc5509:
 translate german scene_coldspot_ch05_46a7ccf3:
 
     # lee_think "{e=smiley}{e=star_struck}{e=smiling_face_with_hearts}{e=smiling_face}"
-    lee_think "Puh! Ich habe es tatsächlich geschafft, sie zu streicheln! Und nicht nur das."
+    lee_think "Puh! Ich habe es tatsächlich geschafft, sie zu befummeln! Und nicht nur das."
     lee_think "Erstaunlich, wie schön und glatt ihre Haut ist!"
     lee_think "Und ihr Haar fühlt sich eher wie Fell an."
     lee_think "Ihre Ohren zucken ein wenig, wenn sie schläft - wie bei einer richtigen Katze."
