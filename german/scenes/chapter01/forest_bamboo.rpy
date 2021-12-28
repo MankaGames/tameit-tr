@@ -8,7 +8,7 @@ translate german scene_chapter01_forest_bamboo1_41bdaf03:
 translate german scene_chapter01_forest_bamboo1_78b42009:
 
     # lee_think "{e=frog}{e=exclamation_white}"
-    lee_think "Das ist ein Frosch!"
+    lee_think "Da ist ein Frosch!"
 
 # game/scenes/chapter01/forest_bamboo.rpy:26
 translate german scene_chapter01_forest_bamboo1_673ccf89:

@@ -14,13 +14,12 @@ translate german scene_chapter01_altar1_af583976:
 translate german scene_chapter01_altar1_673ccf89:
 
     # lee_think "{e=thinking_face}{e=consume}{e=question_white}"
-    lee_think "Es ist deutlich größer als ein Frosch und wahrscheinlich nicht giftig."
+    lee_think "Sie ist deutlich größer als ein Frosch und wahrscheinlich nicht giftig."
 
 # game/scenes/chapter01/altar1.rpy:27
 translate german scene_chapter01_altar1_4c99901d:
 
     # lee_think "{e=nauseated_face}{e=confounded face}"
-    lee_think "Wenn ich nichts finde, ist es meine einzige Chance, am Leben zu bleiben,"
-    lee_think "wenn ich einen von ihnen fange."
+    lee_think "Wenn ich nichts anderes finde, ist sie meine einzige Chance, am Leben zu bleiben."
     lee_think "Eklig, aber so ist es nun mal."
 
