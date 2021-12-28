@@ -2,7 +2,8 @@
 translate german scene_prologue_cockpit_backview_ee427879:
 
     # lee_think "{e=question}{e=fearful_face}{e=cold_sweat}{e=scream}"
-    lee_think "Was ist passiert? Ach du Scheiße!"
+    lee_think "Was ist passiert?"
+    lee_think "Ach du Scheiße!"
     lee_think "Das ist es, wozu unser kleiner Spaß geführt hat."
     lee_think "Und was machen wir jetzt?"
 

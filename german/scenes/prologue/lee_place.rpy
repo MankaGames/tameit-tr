@@ -2,15 +2,17 @@
 translate german scene_prologue_lee_place_ef4fad28:
 
     # lee_think "{e=fasten belts}"
-    lee_think "Ich scheine der einzige Passagier zu sein."
-    lee_think "Ich schätze, ich muss mich anschnallen. Ach, ich fliege nicht gerne."
+    lee_think "Ich bin wohl der einzige Passagier."
+    lee_think "Das Zeichen zum Anschnallen.\nDann mal los"
+    lee_think "Ach, ich fliege nicht gerne."
 
 # game/scenes/prologue/lee_place.rpy:44
 translate german scene_prologue_lee_place_6a1acff2:
 
     # lee_think "{e=cloud}{e=bird}"
-    lee_think "Beruhig dich, es gibt keinen Grund zur Sorge.\nDer Wetterbericht war gut."
-    lee_think "Nur ich, Möwen und ein klarer Himmel."
+    lee_think "Beruhig dich, es gibt keinen Grund zur Sorge."
+    lee_think "Der Wetterbericht war gut."
+    lee_think "Nur ich, Möwen und ein\u00A0klarer\u00A0Himmel."
 
 # game/scenes/prologue/lee_place.rpy:45
 translate german scene_prologue_lee_place_b2b1da17:
@@ -23,7 +25,8 @@ translate german scene_prologue_lee_place_4ac84862:
 
     # lee_think "{e=exit}{e=relieved}"
     lee_think "Okay, ich muss mich ablenken."
-    lee_think "Übrigens, wo ist der Notausgang? \nGut, er ist gleich da drüben."
+    lee_think "Übrigens, wo ist der Notausgang?"
+    lee_think "Gut, er ist gleich da drüben."
 
 # game/scenes/prologue/lee_place.rpy:196
 translate german scene_prologue_lee_place_drink_a064951c:

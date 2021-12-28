@@ -15,7 +15,8 @@ translate german scene_prologue_cockpit_sideview_8e678bbe:
 translate german scene_prologue_cockpit_sideview_7c9efd05:
 
     # lee "{e=exclamation_question}{e=hushed_face}{e=question}"
-    lee "Was ist los? Habe ich gerade etwas gedrückt?"
+    lee "Was ist los?"
+    lee "Habe ich gerade etwas gedrückt?"
 
 # game/scenes/prologue/cockpit_sideview.rpy:59
 translate german scene_prologue_cockpit_sideview_9f558ff8:
@@ -61,7 +62,8 @@ translate german scene_prologue_cockpit_sideview_drink_993d09c5:
 translate german scene_prologue_cockpit_sideview_drink_b81b206f:
 
     # lee_think "{e=question}{e=boobs}{e=heart}{e=light_bulb}{e=eye}"
-    lee_think "Sie wird sich dort umziehen, richtig? Vielleicht kann ich ihr dabei zuschauen?"
+    lee_think "Sie wird sich dort umziehen, richtig?"
+    lee_think "Vielleicht kann ich ihr dabei zuschauen?"
 
 # game/scenes/prologue/cockpit_sideview.rpy:126
 translate german scene_prologue_cockpit_sideview_voyeur_endgame_708ebfae:
@@ -139,7 +141,7 @@ translate german scene_prologue_cockpit_sideview_tonya_return_e13a6387:
     else:
         lee_think "Oh, Mist! Ihre Hand glitt einfach über meinen..."
     lee_think "Vielleicht bemerkt sie es nicht oder tut zumindest so,"
-    lee_think "als ob sie es nicht bemerkt hätte?"
+    lee_think "als ob sie es nicht bemerkten würde?"
 
 # game/scenes/prologue/cockpit_sideview.rpy:173
 translate german scene_prologue_cockpit_sideview_tonya_return_16ba244f:
@@ -178,7 +180,7 @@ translate german strings:
 translate german scene_prologue_cockpit_sideview_tonya_return_63bba0ab:
 
     # tonya "{e=slightly_smiling_face}{e=ok_hand}{e=arrow_upper_right}{e=arrow_lower_right}{e=relieved}"
-    tonya "Mach dir keine Sorgen. Hier wackelt es oft."
+    tonya "Mach dir keine Sorgen.\nHier wackelt es oft."
 
 # game/scenes/prologue/cockpit_sideview.rpy:172
 translate german scene_prologue_cockpit_sideview_tonya_return_b5b71d6b:

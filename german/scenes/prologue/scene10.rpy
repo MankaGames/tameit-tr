@@ -2,7 +2,8 @@
 translate german scene_prologue_scene100_f5487570:
 
     # lee_think "{e=tonya}{e=blush}{e=heart}"
-    lee_think "Oh, wow! Sie ist noch hübscher, als ich erwartet hatte."
+    lee_think "Oh, wow!"
+    lee_think "Sie ist noch hübscher, als ich erwartet hatte."
     lee_think "Die Flasche rollte ganz bequem weg."
 
 # game/scenes/prologue/scene10.rpy:26
@@ -46,7 +47,8 @@ translate german scene_prologue_scene100_57017a68:
 translate german scene_prologue_scene100_0593d100:
 
     # tonya "{e=yoke}{e=question}"
-    tonya "Willst du vielleicht lenken? \nHast du es schon mal versucht?"
+    tonya "Willst du vielleicht lenken?"
+    tonya "Hast du es schon mal versucht?"
 
 # game/scenes/prologue/scene10.rpy:37
 translate german scene_prologue_scene100_1e495d0d:
