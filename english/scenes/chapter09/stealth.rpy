@@ -8,7 +8,7 @@ translate english chapter09_stealth_77faac7d:
 translate english chapter09_stealth_d0552d07:
 
     # lee_think "{e=cave}{e=octa}{e=hut}{e=exclamation_white}"
-    lee_think "Seems like I was right and Okta really lives here."
+    lee_think "Seems like I was right and Octa really lives here."
 
 # game/scenes/chapter09/stealth.rpy:35
 translate english chapter09_stealth_61eb6710:

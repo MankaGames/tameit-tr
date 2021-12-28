@@ -23,7 +23,7 @@ translate english scene_chapter09_tame_d9093360:
     # lee_think "{e=t-shirt}{e=surprised}{e=exclamation_white}"
     lee_think "Oh, Isn’t it my T-shirt? How did it end up here? And other things too!"
     lee_think "I never noticed all this stuff."
-    lee_think "I guess Okta picks up everything she considers interesting and brings it here."
+    lee_think "I guess Octa picks up everything she considers interesting and brings it here."
 
 # game/scenes/chapter09/tame.rpy:75
 translate english scene_chapter09_tame_59b58972:

@@ -57,7 +57,7 @@ translate english scene_chapter09_home_87c9ee8c:
 translate english scene_chapter09_home_de78f792:
 
     # lee_think "{e=eyes}{e=octa}{e=lake}{e=blush}"
-    lee_think "And then there’s a chance of meeting Okta there again. Just can’t take my mind off her."
+    lee_think "And then there’s a chance of meeting Octa there again. Just can’t take my mind off her."
 
 # game/scenes/chapter09/home.rpy:63
 translate english scene_chapter09_home_9e7829c1:
