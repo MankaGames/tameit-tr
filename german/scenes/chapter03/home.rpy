@@ -24,8 +24,7 @@ translate german scene_chapter03_home_b1b7510e:
 translate german scene_chapter03_setup_trap_78a24db4:
 
     # lee_think "{e=relieved}{e=smirk}{e=arrow_right}{e=night}"
-    lee_think "Der einzige Weg, um zu sehen, ob es funktioniert hat,"
-    lee_think "ist, bis zum Morgen zu warten."
+    lee_think "Der einzige Weg, um zu sehen, ob es funktioniert hat, ist, bis zum Morgen zu warten."
     lee_think "Ich hoffe, ich habe alles richtig gemacht."
 
 # game/scenes/chapter03/home.rpy:71
@@ -44,8 +43,7 @@ translate german scene_chapter03_setup_trap_5df9d169:
 translate german scene_chapter03_setup_trap_78a24db4_1:
 
     # lee_think "{e=relieved}{e=smirk}{e=arrow_right}{e=night}"
-    lee_think "Der einzige Weg, um zu sehen, ob es funktioniert hat,"
-    lee_think "ist, bis zum Morgen zu warten."
+    lee_think "Der einzige Weg, um zu sehen, ob es funktioniert hat, ist, bis zum Morgen zu warten."
     lee_think "Ich hoffe, ich habe alles richtig gemacht."
 
 # game/scenes/chapter03/home.rpy:109
@@ -150,7 +148,7 @@ translate german scene_chapter03_outro_f0da6497:
 translate german scene_chapter03_outro_3bbac6c3:
 
     # lee_think "{e=flushed_face}{e=exclamation_white}{e=strawberry}{e=hot_pepper}{e=heart_eyes}"
-    lee_think "Oh Mann! Sie sieht sogar von hier oben gut aus!"
+    lee_think "Oh Mann! Sie sieht sogar von hier aus, gut aus!"
     lee_think "Mhm, ihre süßen Lippen!"
     lee_think "Wie kann ich in dieser Situation überhaupt an solche Dinge denken?"
 
@@ -159,7 +157,7 @@ translate german scene_chapter03_outro_e377ea58:
 
     # lee "{e=flushed_face}{e=t-shirt}{e=exclamation_question}{e=downcast_face}"
     lee "Hey, das ist meins!"
-    lee "Gib es zurück! Wo willst du hin?"
+    lee "Gib es zurück!\nWo willst du hin?"
     lee "Willst du mir nicht mal helfen?"
 
 # game/scenes/chapter03/home.rpy:43
