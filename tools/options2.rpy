@@ -15,7 +15,7 @@ label scene_debug:
 label scene_examples_translation:
 
     python:
-        example_text_translation = renpy.input("Text")
+        example_text_translation = renpy.input("Text").decode('unicode_escape')
 
     lee "[example_text_translation]"
 
