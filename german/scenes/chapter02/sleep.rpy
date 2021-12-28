@@ -2,8 +2,8 @@
 translate german scene_sleep_chapter02_6152c0cc:
 
     # lee_think "{e=stick}{e=relieved}"
-    lee_think "Ich bin froh, dass ich diesen Stock früher aufgehoben habe,"
-    lee_think "er wird als eine Art Waffe durchgehen."
+    lee_think "Ich bin froh, dass ich diesen Stock aufgehoben habe,"
+    lee_think "er dient als eine Art Waffe."
 
 # game/scenes/chapter02/sleep.rpy:16
 translate german scene_sleep_chapter02_3c90cbbc:
@@ -98,7 +98,7 @@ translate german scene_sleep_chapter02_5f0f7a59:
 translate german scene_sleep_chapter02_92fae8c5:
 
     # lee_think "{e=hushed_face}{e=question_white}"
-    lee_think "Was zum Teufel! Schon wieder Schritte, und sie sind jetzt ganz nah!"
+    lee_think "Was zum Teufel!\nSchon wieder Schritte, und sie sind jetzt ganz nah!"
 
 # game/scenes/chapter02/sleep.rpy:84
 translate german scene_sleep_chapter02_a1983c1b:
@@ -110,7 +110,8 @@ translate german scene_sleep_chapter02_a1983c1b:
 translate german scene_sleep_chapter02_b7948955:
 
     # lee_think "{e=tiger}{e=panther}{e=exclamation_question}{e=fearful_face}"
-    lee_think "Es gibt also doch einige Großkatzen? Tiger oder Panther? Wer könnte es sein?"
+    lee_think "Es gibt also doch einige Großkatzen?"
+    lee_think "Tiger oder Panther?\nWer könnte es sein?"
 
 # game/scenes/chapter02/sleep.rpy:96
 translate german scene_sleep_chapter02_d165def9:
@@ -129,8 +130,8 @@ translate german scene_sleep_chapter02_a9196f80:
 translate german scene_sleep_chapter02_c4933adb:
 
     # lee_think "{e=spear}{e=confounded face}{e=dizzy_face}"
-    lee_think "Nimm einen Speer, schnell! Das war's!"
-    lee_think "Und jetzt festhalten! Scheiße, Scheiße, Scheiße!"
+    lee_think "Mein Speer, schnell!\nDas war's!"
+    lee_think "Und jetzt festhalten!\nScheiße, Scheiße, Scheiße!"
 
 # game/scenes/chapter02/sleep.rpy:111
 translate german scene_sleep_chapter02_3727b841:
@@ -149,7 +150,7 @@ translate german scene_sleep_chapter02_776409f2:
 translate german scene_sleep_chapter02_c2dc22a9:
 
     # lee_think "{e=fearful_face}{e=exclamation}{e=scream}{e=exclamation}"
-    lee_think "Es ist ein Monster!"
+    lee_think "Sie ist ein Monster!"
 
 # game/scenes/chapter02/sleep.rpy:114
 translate german scene_sleep_chapter02_b2693265:
