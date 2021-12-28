@@ -11,7 +11,7 @@ translate german scene_chapter04_behindriver1_600dda1a:
 
     # lee_think "{e=magnifying_glass}{e=arrow_right}{e=smoke}"
     lee_think "Ich muss die Quelle für diesen Rauch finden."
-    lee_think "Wenn es ein Lagerfeuer war, steckt zweifellos eine Person dahinter."
+    lee_think "Wenn es ein Lagerfeuer ist, steckt zweifellos eine Person dahinter."
 
 # game/scenes/chapter04/behindriver.rpy:14
 translate german scene_chapter04_behindriver1_87fb70f8:

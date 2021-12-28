@@ -25,7 +25,8 @@ translate german scene_chapter04_home_7e0a9ca0:
 translate german scene_chapter04_home_54d18f9f:
 
     # lee_think "{e=thinking_face}{e=catgirl}{e=question}{e=pensive_face}"
-    lee_think "Wo ist sie hin? Sag mir nicht, dass sie überhaupt nicht mehr zurückkommt?"
+    lee_think "Wo ist sie hin?"
+    lee_think "Sag mir nicht, dass sie überhaupt nicht mehr zurückkommt?"
     lee_think "Vielleicht hat sie das Interesse an mir verloren,"
     lee_think "oder habe ich sie nur mit all den Fallen abgeschreckt?"
     lee_think "Wahrscheinlich habe ich alles vermasselt."
@@ -125,7 +126,7 @@ translate german scene_chapter04_home_b7de111e:
 translate german scene_chapter04_home_da63d705:
 
     # lee_think "{e=thinking_face}{e=light_bulb}{e=exclamation_white}{e=bridge}"
-    lee_think "Die Brücke, genau! Wie konnte ich da nicht drauf kommen?"
+    lee_think "Eine Brücke, genau! Wie konnte ich da nicht drauf kommen?"
 
 # game/scenes/chapter04/home.rpy:80
 translate german scene_chapter04_home_5e4fccb4:

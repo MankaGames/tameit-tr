@@ -2,7 +2,7 @@
 translate german scene_chapter04_voyeur_973a7b7d:
 
     # lee_think "{e=smirk}{e=light_bulb}{e=shushing_face}{e=eye}"
-    lee_think "Es ist Zeit, in den Stealth-Modus zu wechseln, wenn ich ihr nachspionieren will."
+    lee_think "Es ist Zeit für den Stealth-Modus, wenn ich ihr nachspionieren will."
 
 # game/scenes/chapter04/voyeur.rpy:93
 translate german scene_chapter04_voyeur_666a1a1c:
