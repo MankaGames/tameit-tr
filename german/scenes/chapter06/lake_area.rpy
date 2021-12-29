@@ -45,7 +45,7 @@ translate german scene_chapter06_lake_shore_72011906:
 translate german scene_chapter06_lake_shore_ddc7c836:
 
     # lee_think "{e=airplane}{e=astonished_face}{e=exclamation_white}"
-    lee_think "Oje! Das ist ein Flugzeug!"
+    lee_think "Oje! Da ist ein Flugzeug!"
     lee_think "Ich war so in den See vertieft, dass ich es zuerst gar nicht bemerkt habe."
     lee_think "Ich sollte mir das genauer ansehen."
 
@@ -53,8 +53,8 @@ translate german scene_chapter06_lake_shore_ddc7c836:
 translate german scene_chapter06_lake_shore_28cac388:
 
     # lee_think "{e=thinking_face}{e=smoke}{e=arrow_right}{e=tonya}{e=question_white}"
-    lee_think "Zweifellos kam der Rauch von irgendwo dort. Wenn das das gleiche Flugzeug ist"
-    lee_think "besteht die Chance, dass Tonya auch überlebt hat!"
+    lee_think "Zweifellos kam der Rauch von irgendwo dort."
+    lee_think "Wenn das das gleiche Flugzeug ist, besteht die Chance, dass Tonya auch überlebt hat!"
 
 # game/scenes/chapter06/lake_area.rpy:54
 translate german scene_chapter06_wrecks_43e34169:
@@ -76,7 +76,7 @@ translate german scene_chapter06_wrecks_6baef6e3:
 translate german scene_chapter06_wrecks_5f71f848:
 
     # lee "{e=tonya}{e=exclamation_white}{e=tonya}{e=exclamation_white}"
-    lee "Tonja! Tonya, bist du hier? Bitte, antworte! Ich bin's, Lee!"
+    lee "Tonja! Tonya, bist du hier?\nBitte, antworte!\nIch bin's, Lee!"
 
 # game/scenes/chapter06/lake_area.rpy:57
 translate german scene_chapter06_wrecks_6c1081f5:
@@ -156,5 +156,5 @@ translate german scene_chapter06_wrecks_climb_to_plane_0ae9780b:
 
     # lee_think "{e=weary_face}{e=dont_know}{e=thinking_face}{e=hourglass}{e=arrow_left}"
     lee_think "Aber mir fällt nichts ein,"
-    lee_think "Das muss ich mir etwas überlegen und später wiederkommen."
+    lee_think "ich muss mir etwas überlegen und später wiederkommen."
 

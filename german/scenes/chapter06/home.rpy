@@ -65,7 +65,8 @@ translate german scene_chapter06_outro_8ab16916:
 translate german scene_chapter06_outro_998445b3:
 
     # lee "{e=catgirl}{e=smiling_face_with_hearts}{e=eggplant}{e=question_white}"
-    lee "Sieh mal, was ich für dich habe, Babe. Was denkst du denn?"
+    lee "Sieh mal, was ich für dich habe, Babe."
+    lee "Was denkst du?"
     lee "Würdest du mich reinlassen?"
 
 # game/scenes/chapter06/home.rpy:161

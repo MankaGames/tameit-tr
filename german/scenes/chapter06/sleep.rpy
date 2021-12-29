@@ -12,5 +12,5 @@ translate german strings:
 
     # game/scenes/chapter06/sleep.rpy:32
     old "{e=thinking_face}{e=fish_big}{e=arrow_up}{e=catgirl}{e=heart}"
-    new "Ich sollte weiter nach den Fischen fischen, die Cat mag - vielleicht kommen wir auf diese Weise noch näher."
+    new "Ich werde weiterhin nach den Fischen fischen, die Cat mag, so kommen wir uns noch näher."
 

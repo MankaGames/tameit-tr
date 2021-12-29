@@ -20,6 +20,6 @@ translate german scene_chapter06_intro_666d4f5d:
 translate german scene_chapter06_intro_16ce92a2:
 
     # lee_think "{e=palm_leaf}{e=plus}{e=arrow_up}{e=bungalow_wrecked}"
-    lee_think "Apropos Reparaturen: Das Dach braucht einen ganzen Haufen Palmblätter."
+    lee_think "Apropos Reparaturen:\nDas Dach braucht einen ganzen Haufen Palmblätter."
     lee_think "Leider wird es nicht schnell gehen."
 

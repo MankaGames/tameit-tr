@@ -131,21 +131,24 @@ translate german scene_chapter06_contact1_f80e5c4e:
 
     # lee "{e=exclamation}{e=hushed_face}{e=weary_face}{e=frowning_face}{e=pleading_face}"
     lee "Autsch! Okay, okay, es ist meine Schuld, es tut mir leid!"
-    lee "Ich fasse dich nicht mehr an, siehst du? Bitte, keine Krallen mehr!"
+    lee "Ich fasse dich nicht mehr an, siehst du?"
+    lee "Bitte, keine Krallen mehr!"
 
 # game/scenes/chapter06/coldspot.rpy:239
 translate german scene_chapter06_contact2_f80e5c4e:
 
     # lee "{e=exclamation}{e=hushed_face}{e=weary_face}{e=frowning_face}{e=pleading_face}"
     lee "Autsch! Okay, okay, es ist meine Schuld, es tut mir leid!"
-    lee "Ich fasse dich nicht mehr an, siehst du? Bitte, keine Krallen mehr!"
+    lee "Ich fasse dich nicht mehr an, siehst du?"
+    lee "Bitte, keine Krallen mehr!"
 
 # game/scenes/chapter06/coldspot.rpy:354
 translate german scene_chapter06_contact3_f80e5c4e:
 
     # lee "{e=exclamation}{e=hushed_face}{e=weary_face}{e=frowning_face}{e=pleading_face}"
     lee "Autsch! Okay, okay, es ist meine Schuld, es tut mir leid!"
-    lee "Ich fasse dich nicht mehr an, siehst du? Bitte, keine Krallen mehr!"
+    lee "Ich fasse dich nicht mehr an, siehst du?"
+    lee "Bitte, keine Krallen mehr!"
 
 # game/scenes/chapter06/coldspot.rpy:302
 translate german scene_chapter06_contact3_b750e5e4:
