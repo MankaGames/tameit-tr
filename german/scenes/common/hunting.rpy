@@ -12,7 +12,7 @@ translate german scene_hunting_beach_done_09e1c512:
 
     # lee_think "{e=crab}{rt}[_return]{/rt}{e=arrow_right}{e=inventory}"
     if _return > 1:
-        lee_think "Es ist mir gelungen, [_zurück] Krabben zu fangen"
+        lee_think "Es ist mir gelungen, [_return] Krabben zu fangen"
     else:
         lee_think "Es gelang mir, [_return] Krabbe zu fangen"
 

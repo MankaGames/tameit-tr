@@ -14,3 +14,6 @@ translate german strings:
     old "{e=thinking_face}{e=firefly}{e=arrow_right}{e=hut}"
     new "Vielleicht sollte man sie in der Hütte freilassen? Sie würden fliegen und schön leuchten."
 
+    # game/scenes/common/collectibles.rpy:40
+    old "{e=thinking_face}{e=fish_coral}{e=arrow_right}{e=basin2}"
+    new "Wie wäre es, wenn ich die kleinen Fische im Teich freilasse, den ich für Octa gegraben habe?"

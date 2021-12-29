@@ -8,7 +8,7 @@ translate german strings:
 
     # game/scenes/common/learning.rpy:116
     old "{e=learn}{e=brain}"
-    new "Gehirn-Puzzle"
+    new "Gehirn-Punkte"
 
     # game/scenes/common/learning.rpy:116
     old "{e=learning_1}"

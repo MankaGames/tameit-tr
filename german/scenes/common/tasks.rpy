@@ -24,15 +24,15 @@ translate german strings:
 
     # game/scenes/common/tasks.rpy:33
     old "{e=comb}{e=check_mark}{e=smiley}{e=gift}{e=octa}"
-    new ""
+    new "Ich kann mein Glück nicht fassen, es ist ein Kamm! Den kann ich Octa schenken."
 
     # game/scenes/common/tasks.rpy:35
     old "{e=comb}{e=smirk}{e=gift}"
-    new ""
+    new "Ein Kamm! Er ist nützlich, und man kann ihn verschenken."
 
     # game/scenes/common/tasks.rpy:37
     old "{e=magnifying_glass}{e=frowning_face}"
-    new ""
+    new "Hier gibt es nichts weiteres."
 
     # game/scenes/common/tasks.rpy:42
     old "{e=mirror}{e=exclamation_white}{e=smiley}"
