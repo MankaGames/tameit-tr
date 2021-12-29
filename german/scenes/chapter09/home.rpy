@@ -247,13 +247,13 @@ translate german scene_chapter09_inside_outro_e247903e:
     lee "Sie ist gar nicht so schlimm, wie es scheint - gib ihr einfach eine Chance."
     lee "Zuerst war ich auch erschrocken und dachte, sie sei ein Seemonster."
     lee "Aber dann habe ich gesehen, dass sie genau wie du ist "
-    lee "- ein ungewöhnliches und schönes Mädchen."
+    lee "ein ungewöhnliches und schönes Mädchen."
 
 # game/scenes/chapter09/home.rpy:249
 translate german scene_chapter09_inside_outro_1923f0a3:
 
     # lee "{e=no}{e=wound}{e=face_with_head-bandage}{e=octa}{e=exclamation_white}"
-    lee "Versprich mir, dass du sie nicht wieder angreifst. Komm schon!"
+    lee "Versprich mir, dass du sie nicht wieder angreifst. Komm\u00A0schon!"
 
 # game/scenes/chapter09/home.rpy:250
 translate german scene_chapter09_inside_outro_0085bd78:
