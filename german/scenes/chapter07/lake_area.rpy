@@ -153,7 +153,8 @@ translate german scene_chapter07_wrecks_crash_e39f2c1e:
 translate german scene_chapter07_wrecks_crash_393a33b7:
 
     # lee_think "{e=ear}{e=exclamation}{e=fearful_face}"
-    lee_think "Oh-oh, was war das für ein Geräusch? Das ist eindeutig kein gutes Zeichen!"
+    lee_think "Oh-oh, was war das für ein Geräusch?"
+    lee_think "Das ist eindeutig kein gutes Zeichen!"
 
 # game/scenes/chapter07/lake_area.rpy:156
 translate german scene_chapter07_wrecks_crash_8f31a119:
@@ -433,7 +434,8 @@ translate german scene_chapter07_wrecks_open_door_2736ec9c:
 translate german scene_chapter07_wrecks_open_door_50d49049:
 
     # lee_think "{e=plane_door}{e=hole}{e=arrow_up}{e=grappling}{e=question}"
-    lee_think "Was, wenn ich den Haken an der Tür verankere? Sie sieht irgendwie verbogen aus."
+    lee_think "Was, wenn ich den Haken an der Tür verankere?"
+    lee_think "Sie sieht irgendwie verbogen aus."
     lee_think "Aber ich muss sie erst irgendwie öffnen."
 
 # game/scenes/chapter07/lake_area.rpy:116
