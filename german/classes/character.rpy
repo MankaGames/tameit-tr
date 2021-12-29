@@ -26,5 +26,5 @@
 
     # game/classes/character.rpy:345
     old "There's nobody else who could do this. I need to feed her more often, I guess."
-    new "Es gibt sonst niemanden, der das tun könnte.\nIch muss sie öfter füttern, denke ich."
+    new "Es gibt sonst niemanden, der das tun könnte. Ich muss sie öfter füttern"
 

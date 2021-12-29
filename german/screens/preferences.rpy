@@ -32,3 +32,26 @@
     old "Sound volume"
     new "Lautstärke"
 
+ # game/screens/preferences.rpy:136
+    old "Set Emoji Language"
+    new "Emoji-Sprache auswählen"
+
+    # game/screens/preferences.rpy:143
+    old "Set %s Language"
+    new "%s auswählen"
+
+   # game/screens/preferences.rpy:38
+    old "Difficulty: %s"
+    new "Schwierigkeit: %s"
+
+    # game/screens/preferences.rpy:91
+    old "L2D animation: %s. Restart required on change"
+    new "L2D-Animation: %s. Neustart bei Änderung erforderlich"
+
+    # game/screens/preferences.rpy:91
+    old "Enabled"
+    new "Aktiviert"
+
+    # game/screens/preferences.rpy:91
+    old "Disabled"
+    new "Deaktiviert"

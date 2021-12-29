@@ -14,11 +14,11 @@
 
     # game/dicts/task.rpy:2
     old "{e=smiley}{e=bonfire}{e=exclamation_white}{e=smiling_face}"
-    new "Toll, jetzt ist das Lagerfeuer fertig!\nIch hoffe, ich kann heute Nacht besser schlafen."
+    new "Toll, das Lagerfeuer ist fertig! Ich hoffe, ich kann heute Nacht besser schlafen."
 
     # game/dicts/task.rpy:2
     old "{e=slightly_smiling_face}{e=bungalow1}{e=check_mark}{e=smiling_face}"
-    new "Also gut, der Rahmen ist fertig. Sieht solide aus.\nJetzt ist es Zeit für die Wände."
+    new "Also gut, der Rahmen ist fertig. Sieht solide aus. Jetzt ist es Zeit für die Wände."
 
     # game/dicts/task.rpy:2
     old "{e=bungalow2}{e=slightly_smiling_face}"
@@ -34,11 +34,11 @@
 
     # game/dicts/task.rpy:2
     old "{e=smiley}{e=bungalow4}{e=check_mark}{e=exclamation_white}{e=smiling_face}"
-    new "Nur ein paar Schläge mit einem Stein - sitzt wie angegossen!\nJetzt ist der Bungalow fertig!"
+    new "Nur ein paar Schläge mit einem Stein - sitzt wie angegossen! Jetzt ist der Bungalow fertig!"
 
     # game/dicts/task.rpy:2
     old "{e=catgirl}{e=smiling_face_with_hearts}{e=cat_bed}{e=smiley}"
-    new "Nun, anscheinend ist Cat mit meiner Kreation zufrieden.\nHoffentlich schläft sie von nun an hier bei mir."
+    new "Nun, Cat ist mit meiner Kreation zufrieden. Hoffentlich schläft sie ab jetzt hier"
 
     # game/dicts/task.rpy:633
     old "{e=smiley}{e=gallows}{e=exclamation_white}{e=smiling_face}"
@@ -46,7 +46,7 @@
 
     # game/dicts/task.rpy:633
     old "{e=thinking_face}{e=gallows}{e=plus}{e=poultry_leg}{e=question}"
-    new "Okay, jetzt ist es Zeit für den Köder.\nIch schätze, diese schrägen Vögel werden für sie reichen."
+    new "Okay, es ist Zeit für den Köder. Ich denke, diese Vögel werden für sie ausreichen."
 
     # game/dicts/task.rpy:633
     old "{e=bridge}{e=check_mark}{e=smiling_face}"
@@ -62,11 +62,11 @@
 
     # game/dicts/task.rpy:634
     old "{e=thumbs_up}{e=smiley}{e=grappling}{e=arrow_up}"
-    new "Es hat geklappt! Jetzt kann ich meinen Haken dorthin werfen und versuchen,\nmich an etwas festzuhalten."
+    new "Geschafft! Jetzt kann ich meinen Haken auswerfen und mich an etwas festhalten."
 
     # game/dicts/task.rpy:703
     old "{e=gallows_2}{e=check_mark}{e=slightly_smiling_face}{e=arrow_right}{e=fish}{#ch04}"
-    new "Also gut, die Schlinge ist fertig, jetzt der Köder.\nDer Fisch wird schon passen, denke ich."
+    new "Gut, das Seil ist fertig, jetzt der Köder. Der Fisch wird schon passen."
 
     # game/dicts/task.rpy:703
     old "{e=lake_trap}{e=yes}{e=slightly_smiling_face}"
@@ -106,7 +106,7 @@ translate german strings:
 
     # game/dicts/task.rpy:939
     old "{e=boat}{e=yes}{e=smiley}{e=arrow_right}{e=cave}"
-    new "{e=boat}{e=yes}{e=smiley}{e=arrow_right}{e=cave}"
+    new "Perfekt! Mein Boot ist bereit zum Ablegen!"
 
 # TODO: Translation updated at 2021-12-17 00:51
 

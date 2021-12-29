@@ -14,7 +14,7 @@
 
     # game/dicts/craft.rpy:2
     old "{e=shaving_foam}{e=check_mark}{e=smiley}"
-    new "{e=shaving_foam}{e=check_mark}{e=smiley}"
+    new "Fertig! Schaut gar nicht so schlecht aus."
 
 # TODO: Translation updated at 2021-12-17 00:51
 
