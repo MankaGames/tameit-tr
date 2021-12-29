@@ -10,11 +10,11 @@ translate german strings:
 
     # game/scenes/chapter08/sleep.rpy:28
     old "{e=hammer}{e=fishnet}{e=arrow_right}{e=shark}"
-    new "{e=hammer}{e=fishnet}{e=arrow_right}{e=shark}"
+    new "Ich muss ein Netz herstellen, um das Seemonster zu fangen."
 
     # game/scenes/chapter08/sleep.rpy:30
     old "{e=stick}{e=hammer}{e=lake_trap}{e=plus}{e=lake_trap}"
-    new "{e=stick}{e=hammer}{e=lake_trap}{e=plus}{e=lake_trap}"
+    new "Ich brauche mehr Stöcke, um zwei Fallen am See aufzustellen."
 
 translate german strings:
 

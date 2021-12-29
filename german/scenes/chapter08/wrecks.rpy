@@ -9,7 +9,7 @@ translate german scene_chapter08_wrecks_5f1f09d9:
 translate german scene_chapter08_wrecks_plane1_d9b1e923:
 
     # lee_think "{e=magnifying_glass}{e=no}{e=confused_face}"
-    lee_think "Ich habe die ganze Cabine durchsucht, aber es sieht so aus, als ob da nichts ist."
+    lee_think "Ich habe die ganze Cabine durchsucht, aber es sieht so aus, als ob da nichts wäre."
     lee_think "Es gibt keine Spur von Tonya und nichts Brauchbares."
 
 # game/scenes/chapter08/wrecks.rpy:33
@@ -49,7 +49,8 @@ translate german scene_chapter08_wrecks_plane1_1217aa68:
 translate german scene_chapter08_wrecks_plane1_fec43945:
 
     # lee "{e=me}{e=arrow_up}{e=airplane}{e=arrow_right}{e=cockpit}"
-    lee "Ich will dorthin, siehst du? Vielleicht gibt es dort etwas Interessantes."
+    lee "Ich will dorthin, siehst du?"
+    lee "Vielleicht gibt es dort etwas Interessantes."
 
 # game/scenes/chapter08/wrecks.rpy:40
 translate german scene_chapter08_wrecks_plane1_b1167078:
@@ -104,7 +105,7 @@ translate german scene_chapter08_wrecks_plane3_4ff9f247:
 translate german scene_chapter08_wrecks_plane3_ca9bd7ee:
 
     # lee "{e=laughing}{e=panties}{e=arrow_right}{e=butt}"
-    lee "Ho-ho! Das ist nicht Falsch, so zieht man sie nicht an!"
+    lee "Ho-ho! Das ist Falsch, so zieht man sie nicht an!"
     lee "Ich zeige dir später, wie du sie richtig trägst."
 
 # game/scenes/chapter08/wrecks.rpy:89
@@ -164,8 +165,8 @@ translate german scene_chapter08_wrecks_plane_cockpit_9bcbc088:
 translate german scene_chapter08_wrecks_plane_door_right_02fc6bac:
 
     # lee_think "{e=plane_door}{e=eyes}{e=enter}"
-    lee_think "Die Tür ist verschwunden."
-    lee_think "Die Tür fehlt. Ich kann rausschauen und mich umsehen."
+    lee_think "Die Tür fehlt."
+    lee_think "Ich kann rausschauen und mich umsehen."
     lee_think "Es klingt wie plätscherndes Wasser."
 
 # game/scenes/chapter08/wrecks.rpy:169

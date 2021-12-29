@@ -96,7 +96,7 @@ translate german scene_chapter08_lake_shore_trap1_43e1658e:
 translate german scene_chapter08_lake_shore_trap1_8ee126a9:
 
     # lee_think "{e=octopus}{e=astonished_face}{e=question_white}{e=exclamation_white}"
-    lee_think "Ein Riesenkrake? Können sie wirklich so groß und schwer werden?"
+    lee_think "Eine Riesenkrake? Können die wirklich so groß und schwer werden?"
 
 # game/scenes/chapter08/lake_area.rpy:157
 translate german scene_chapter08_lake_shore_trap1_5da54b88:
@@ -114,7 +114,8 @@ translate german scene_chapter08_lake_shore_trap1_f9cbfdac:
 translate german scene_chapter08_lake_shore_trap1_67cab507:
 
     # lee_think "{e=octo_anon}{e=fishnet}{e=arrow_right}{e=lake}{e=frowning_face}"
-    lee_think "Hat auch das Netz weggezogen! Verdammtes Pech! Die ganze Mühe umsonst!"
+    lee_think "Hat auch das Netz weggezogen!"
+    lee_think "Verdammtes Pech! Die ganze Mühe umsonst!"
     lee_think "Wenigstens sind wir noch in einem Stück."
 
 # game/scenes/chapter08/lake_area.rpy:162
@@ -267,7 +268,7 @@ translate german scene_chapter08_lake_shore_trap2_2c02bfa5:
 translate german scene_chapter08_lake_shore_trap2_c165e187:
 
     # lee_think "{e=octa}{e=swim}{e=arrow_right}"
-    lee_think "Sie schwamm weg und versteckte sich so schnell in der Tiefe des Sees."
+    lee_think "Sie schwamm weg und versteckte sich schnell in der Tiefe des Sees."
 
 # game/scenes/chapter08/lake_area.rpy:283
 translate german scene_chapter08_lake_shore_trap2_c803badf:
@@ -343,7 +344,8 @@ translate german scene_chapter08_lake_3f9e1b74:
 translate german scene_chapter08_lake_563cd581:
 
     # lee_think "{e=fishing_pole}{e=no}{e=arrow_up}{e=shark}"
-    lee_think "Meine Angelrute reicht nicht aus. Das Biest ist wohl zu groß für jede Angelrute."
+    lee_think "Meine Angelrute reicht nicht aus."
+    lee_think "Das Biest ist wohl zu groß für jede Angelrute."
 
 # game/scenes/chapter08/lake_area.rpy:353
 translate german scene_chapter08_lake_cca3c278:
@@ -363,7 +365,7 @@ translate german scene_chapter08_lake_663b4b29:
 translate german scene_chapter08_lake_7cd90136:
 
     # lee_think "{e=fishnet}{e=plus}{e=banana}{e=yes}{e=hourglass}"
-    lee_think "Okay, das Nest ist fertig, der Köder ist platziert."
+    lee_think "Okay, das Netz ist fertig, der Köder ist platziert."
     lee_think "Jetzt muss ich nur noch warten."
 
 # game/scenes/chapter08/lake_area.rpy:370
@@ -388,7 +390,7 @@ translate german scene_chapter08_lake_bc5fcdda:
 translate german scene_chapter08_lake_0b95b7e9:
 
     # lee "{e=yes}{e=shark}{e=consume}{e=catgirl}{e=beaming_face}"
-    lee "Ho-ho! Wenn du es alleine schaffst - gehört es dir!"
+    lee "Ho-ho! Wenn du es alleine schaffst - gehört er dir!"
 
 # game/scenes/chapter08/lake_area.rpy:381
 translate german scene_chapter08_lake_fishnet_ca89e7da:
@@ -402,3 +404,9 @@ translate german scene_chapter08_lake_7557f437:
     # lee_think "{e=thinking_face}{e=worm}{e=arrow_right}{e=fishnet}{e=question_white}"
     lee_think "Ich frage mich, welcher Köder der beste wäre."
 
+# game/scenes/chapter08/lake_area.rpy:33
+translate german scene_chapter08_lake_shore_8b07c55a:
+
+    # lee_think "{e=spring}{e=question_white}{e=thinking_face}"
+    lee_think "Ich brauche eine Feder für die Falle. Wo finde ich eine?"
+    
