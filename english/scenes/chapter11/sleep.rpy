@@ -1,14 +1,14 @@
-﻿# TODO: Translation updated at 2021-12-17 00:40
+﻿# TODO: Translation updated at 2022-01-13 01:28
 
 # game/scenes/chapter11/sleep.rpy:66
 translate english scene_sleep_chapter11_d6aaeb6f:
 
     # lee_think "[dream]"
-    lee_think ""
+    lee_think "[dream]"
 
 # game/scenes/chapter11/sleep.rpy:68
 translate english scene_sleep_chapter11_a844d662:
 
     # cat_think "[dream]"
-    cat_think ""
+    cat_think "[dream]"
 

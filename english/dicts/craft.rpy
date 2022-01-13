@@ -16,6 +16,11 @@
     old "{e=shaving_foam}{e=check_mark}{e=smiley}"
     new "All done! Doesn’t look so bad."
 
+    # game/dicts/craft.rpy:2
+    old "{e=shovel}{e=yes}{e=exclamation_white}{e=smiley}"
+    new "Fantastic! The shovel is ready and now I’ll work faster!"
+
+
 # TODO: Translation updated at 2021-12-17 00:51
 
 translate english strings:
@@ -27,4 +32,3 @@ translate english strings:
     # game/dicts/craft.rpy:2
     old "{e=halberd}{e=yes}{e=crossed_swords}{e=jaguar}{e=muscle}"
     new "{e=halberd}{e=yes}{e=crossed_swords}{e=jaguar}{e=muscle}"
-

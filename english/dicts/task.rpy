@@ -72,37 +72,33 @@
     old "{e=lake_trap}{e=yes}{e=slightly_smiling_face}"
     new "The trap is ready. Whew it wasn’t easy!"
 
-# TODO: Translation updated at 2021-11-13 02:11
-
-translate english strings:
-
     # game/dicts/task.rpy:2
     old "{e=slightly_smiling_face}{e=bungalow5}{e=yes}{e=smiling_face}"
-    new "{e=slightly_smiling_face}{e=bungalow5}{e=yes}{e=smiling_face}"
+    new "The first house expansion stage is over!"
 
     # game/dicts/task.rpy:2
     old "{e=bungalow6}{e=yes}{e=slightly_smiling_face}"
-    new "{e=bungalow6}{e=yes}{e=slightly_smiling_face}"
+    new "Perfect! I’ve made great progress."
 
     # game/dicts/task.rpy:2
     old "{e=smiley}{e=bungalow7}{e=yes}{e=exclamation_white}{e=smiling_face}"
-    new "{e=smiley}{e=bungalow7}{e=yes}{e=exclamation_white}{e=smiling_face}"
+    new "All right, the construction is over and now my house is way bigger. Excellent job!"
 
     # game/dicts/task.rpy:2
     old "{e=slightly_smiling_face}{e=basin1}{e=yes}{e=smiling_face}"
-    new "{e=slightly_smiling_face}{e=basin1}{e=yes}{e=smiling_face}"
+    new "Not too bad! I can consider the first stage complete."
 
     # game/dicts/task.rpy:2
     old "{e=basin2}{e=yes}{e=slightly_smiling_face}"
-    new "{e=basin2}{e=yes}{e=slightly_smiling_face}"
+    new "I made great progress!"
 
     # game/dicts/task.rpy:2
     old "{e=basin3}{e=yes}{e=muscle}{e=beaming_face}"
-    new "{e=basin3}{e=yes}{e=muscle}{e=beaming_face}"
+    new "Whew! Just a little left."
 
     # game/dicts/task.rpy:2
     old "{e=smiley}{e=basin4}{e=yes}{e=exclamation_white}{e=smiling_face}"
-    new "{e=smiley}{e=basin4}{e=yes}{e=exclamation_white}{e=smiling_face}"
+    new "There you go, the pond is ready! It looks all right.\nI hope Octa will like it."
 
     # game/dicts/task.rpy:939
     old "{e=boat}{e=yes}{e=smiley}{e=arrow_right}{e=cave}"

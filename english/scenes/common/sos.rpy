@@ -316,3 +316,201 @@ translate english sos_random_thought_lee_cat_octa_1_f587414c:
     # octa "{e=no}{e=ocean}{e=shark}{e=scream}{e=confounded face}"
     octa "{e=no}{e=ocean}{e=shark}{e=scream}{e=confounded face}"
 
+# game/scenes/common/sos.rpy:293
+translate english sos_random_thought_lee_cat_10_b4f2e973:
+
+    # cat "{e=sos}{e=question_white}"
+    cat "{e=sos}{e=question_white}"
+
+# game/scenes/common/sos.rpy:294
+translate english sos_random_thought_lee_cat_10_38f716ca:
+
+    # lee "{e=ship}{e=eyes}{e=sos}{e=arrow_right}{e=desert island}"
+    lee "This is so that a ship can come here for me."
+
+# game/scenes/common/sos.rpy:295
+translate english sos_random_thought_lee_cat_10_4bf95edc:
+
+    # cat "{e=astonished_face}{e=exclamation_white}"
+    cat "{e=astonished_face}{e=exclamation_white}"
+
+# game/scenes/common/sos.rpy:298
+translate english sos_random_thought_lee_cat_11_5ee33a23:
+
+    # cat "{e=airplane}{e=arrow_lower_right}{e=boom}{e=question_white}"
+    cat "{e=airplane}{e=arrow_lower_right}{e=boom}{e=question_white}"
+
+# game/scenes/common/sos.rpy:299
+translate english sos_random_thought_lee_cat_11_fa92435e:
+
+    # lee "{e=me}{e=tonya}{ellipsis}{e=tear_smile}{e=expressionless}"
+    lee "Um, well, how should I tell this… me and Tonya… we… uh…"
+
+# game/scenes/common/sos.rpy:309
+translate english sos_random_thought_lee_cat_octa_2_2f632059:
+
+    # octa "{e=sun}{e=arrow_down}{e=ocean}{e=sunset_sunrise}{e=question_white}"
+    octa "{e=sun}{e=arrow_down}{e=ocean}{e=sunset_sunrise}{e=question_white}"
+
+# game/scenes/common/sos.rpy:310
+translate english sos_random_thought_lee_cat_octa_2_f59dd850:
+
+    # cat "{e=sun}{e=arrows_counterclockwise}{e=earth}"
+    cat "{e=sun}{e=arrows_counterclockwise}{e=earth}"
+
+# game/scenes/common/sos.rpy:311
+translate english sos_random_thought_lee_cat_octa_2_08fc6c8f:
+
+    # cat "{e=me}{e=teach}{e=exclamation_white}"
+    cat "{e=me}{e=teach}{e=exclamation_white}"
+
+# game/scenes/common/sos.rpy:312
+translate english sos_random_thought_lee_cat_octa_2_6cc3277d:
+
+    # lee "{e=laughing}"
+    lee "Hahaha!"
+
+# game/scenes/common/sos.rpy:316
+translate english sos_random_thought_lee_cat_octa_3_3f5dab9a:
+
+    # cat "{e=cloud}{e=arrow_right}{e=fish}{e=exclamation_white}"
+    cat "{e=cloud}{e=arrow_right}{e=fish}{e=exclamation_white}"
+
+# game/scenes/common/sos.rpy:317
+translate english sos_random_thought_lee_cat_octa_3_5ef1d168:
+
+    # octa "{e=cloud}{e=arrow_right}{e=octopus}{e=exclamation_white}"
+    octa "{e=cloud}{e=arrow_right}{e=octopus}{e=exclamation_white}"
+
+# game/scenes/common/sos.rpy:318
+translate english sos_random_thought_lee_cat_octa_3_93af83df:
+
+    # lee "{e=cloud}{e=arrow_right}{ellipsis}{e=coconut}{e=coconut}{e=thinking_face}"
+    lee "This is… um… coconuts!"
+
+# game/scenes/common/sos.rpy:319
+translate english sos_random_thought_lee_cat_octa_3_1a85bc64:
+
+    # octa "{e=coconut}{e=coconut}{e=plus}{e=tentacle}{e=exclamation_white}"
+    octa "{e=coconut}{e=coconut}{e=plus}{e=tentacle}{e=exclamation_white}"
+
+# game/scenes/common/sos.rpy:323
+translate english sos_random_thought_lee_cat_octa_4_53c1411a:
+
+    # cat "{e=you}{e=hair}{e=sparkles}"
+    cat "{e=you}{e=hair}{e=sparkles}"
+
+# game/scenes/common/sos.rpy:324
+translate english sos_random_thought_lee_cat_octa_4_0e298a28:
+
+    # octa "{e=comb}{e=relieved}"
+    octa "{e=comb}{e=relieved}"
+
+# game/scenes/common/sos.rpy:329
+translate english sos_random_thought_lee_cat_octa_5_85eabd17:
+
+    # lee "{e=shooting_star}{e=exclamation_white}{e=smiley}"
+    lee "A shooting star!"
+
+# game/scenes/common/sos.rpy:330
+translate english sos_random_thought_lee_cat_octa_5_b85fc20c:
+
+    # octa "{e=star_struck}{e=sparkles}{e=exclamation_white}"
+    octa "{e=star_struck}{e=sparkles}{e=exclamation_white}"
+
+# game/scenes/common/sos.rpy:331
+translate english sos_random_thought_lee_cat_octa_5_6086f0b0:
+
+    # cat "{e=yawning_face}"
+    cat "{e=yawning_face}"
+
+# game/scenes/common/sos.rpy:337
+translate english sos_random_thought_lee_cat_octa_6_957aeb9c:
+
+    # octa "{e=water}{e=cloud}{e=exclamation_white}{e=smiley}"
+    octa "{e=water}{e=cloud}{e=exclamation_white}{e=smiley}"
+
+# game/scenes/common/sos.rpy:338
+translate english sos_random_thought_lee_cat_octa_6_f5744303:
+
+    # cat "{e=water}{e=tired_face}{e=exclamation_white}"
+    cat "{e=water}{e=tired_face}{e=exclamation_white}"
+
+# game/scenes/common/sos.rpy:339
+translate english sos_random_thought_lee_cat_octa_6_6cc3277d:
+
+    # lee "{e=laughing}"
+    lee "Hahaha!"
+
+# game/scenes/common/sos.rpy:344
+translate english sos_random_thought_lee_cat_octa_7_8769dacd:
+
+    # cat "{e=consume}{e=you}{e=tentacle}{e=drooling_face}{e=question_white}"
+    cat "{e=consume}{e=you}{e=tentacle}{e=drooling_face}{e=question_white}"
+
+# game/scenes/common/sos.rpy:345
+translate english sos_random_thought_lee_cat_octa_7_37de1bef:
+
+    # octa "{e=no}{e=teeth}{e=exclamation_white}{e=fearful_face}"
+    octa "{e=no}{e=teeth}{e=exclamation_white}{e=fearful_face}"
+
+# game/scenes/common/sos.rpy:346
+translate english sos_random_thought_lee_cat_octa_7_1c7d8acf:
+
+    # lee "{e=me}{e=question_white}{e=smirk}"
+    lee "How about me?"
+
+# game/scenes/common/sos.rpy:350
+translate english sos_random_thought_lee_cat_octa_8_1a2ebc4e:
+
+    # cat "{e=lee}{e=take}{e=you}{e=smiling_face_with_hearts}"
+    cat "{e=lee}{e=take}{e=you}{e=smiling_face_with_hearts}"
+
+# game/scenes/common/sos.rpy:351
+translate english sos_random_thought_lee_cat_octa_8_fa086422:
+
+    # octa "{e=take}{e=me}{e=question_white}{e=smiling_face}"
+    octa "{e=take}{e=me}{e=question_white}{e=smiling_face}"
+
+# game/scenes/common/sos.rpy:352
+translate english sos_random_thought_lee_cat_octa_8_dc601d4b:
+
+    # lee "{e=flushed_face}"
+    lee "Um… well…"
+
+# game/scenes/common/sos.rpy:356
+translate english sos_random_thought_lee_cat_octa_9_c8ee259b:
+
+    # octa "{e=sos}{e=question_white}"
+    octa "{e=sos}{e=question_white}"
+
+# game/scenes/common/sos.rpy:357
+translate english sos_random_thought_lee_cat_octa_9_88089fc5:
+
+    # cat "{e=rock}{e=arrow_right}{e=ship}"
+    cat "{e=rock}{e=arrow_right}{e=ship}"
+
+# game/scenes/common/sos.rpy:358
+translate english sos_random_thought_lee_cat_octa_9_6cc3277d:
+
+    # lee "{e=laughing}"
+    lee "Hahaha!"
+
+# game/scenes/common/sos.rpy:362
+translate english sos_random_thought_lee_cat_octa_10_6f7bb813:
+
+    # octa "{e=airplane}{e=arrow_lower_right}{e=boom}{e=question_white}"
+    octa "{e=airplane}{e=arrow_lower_right}{e=boom}{e=question_white}"
+
+# game/scenes/common/sos.rpy:363
+translate english sos_random_thought_lee_cat_octa_10_86b10ec8:
+
+    # cat "{e=tonya}{e=steam_from_nose}"
+    cat "{e=tonya}{e=steam_from_nose}"
+
+# game/scenes/common/sos.rpy:364
+translate english sos_random_thought_lee_cat_octa_10_6588e555:
+
+    # lee "{e=happy_sweat}"
+    lee "Hahaha!"
+

@@ -16,3 +16,15 @@ translate english strings:
     old "{e=thinking_face}{e=fish_coral}{e=arrow_right}{e=basin2}"
     new "How about releasing these beautiful little fish into the pond I dug for Octa?"
 
+# game/scenes/common/collectibles.rpy:379
+translate english get_map_piece_85d641f3:
+
+    # lee_think "{e=astonished_face}{e=stone_tablet}{e=question_white}{e=thinking_face}"
+    lee_think "What is this thing? I've never found one before."
+
+# game/scenes/common/collectibles.rpy:381
+translate english get_map_piece_e7e94bc0:
+
+    # lee_think "{e=stone_tablet}{e=exclamation_white}{e=arrow_right}{e=inventory}"
+    lee_think "There's that thing again! I wonder what they are for?"
+

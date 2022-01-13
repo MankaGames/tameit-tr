@@ -56,3 +56,7 @@
     old "Disabled"
     new "Disabled"
 
+    # game/screens/preferences.rpy:90
+    old "{e=arrows_counterclockwise}{s=joystick}{e=question_white}"
+    new "Restart the game"
+
