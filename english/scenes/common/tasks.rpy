@@ -36,15 +36,15 @@ translate english strings:
 
     # game/scenes/common/tasks.rpy:42
     old "{e=mirror}{e=exclamation_white}{e=smiley}"
-    new ""
+    new "Oh, a mirror! How come I never noticed it before?"
 
     # game/scenes/common/tasks.rpy:42
     old "{e=mirror_broken}{e=arrow_down}{e=boom}{e=confused_face}"
-    new ""
+    new "Too bad the frame’s broken. At least the mirror itself is intact."
 
     # game/scenes/common/tasks.rpy:42
     old "{e=repair}{e=mirror_broken}{e=gift}{e=arrow_right}{e=octa}"
-    new ""
+    new "I’ll fix the frame and give it to Octa! Sure, she’s never seen anything like this."
 
     # game/scenes/common/tasks.rpy:52
     old "{e=chocolate}{e=smirk}{e=gift}{e=arrow_right}{e=catgirl}"

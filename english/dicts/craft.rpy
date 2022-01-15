@@ -20,15 +20,22 @@
     old "{e=shovel}{e=yes}{e=exclamation_white}{e=smiley}"
     new "Fantastic! The shovel is ready and now I’ll work faster!"
 
+    # game/dicts/craft.rpy:2
+    old "{e=mirror}{e=yes}{e=gift}{e=octa}{e=smiling_face}"
+    new "The new frame’s ready! Now I can give the mirror to Octa."
 
-# TODO: Translation updated at 2021-12-17 00:51
+    # game/dicts/craft.rpy:2
+    old "{e=halberd}{e=yes}{e=crossed_swords}{e=jaguar}{e=muscle}"
+    new "Perfect! The halberd’s ready! Now I’ll get rid of this jaguar!"
+# TODO: Translation updated at 2022-01-15 03:26
 
 translate english strings:
 
     # game/dicts/craft.rpy:2
-    old "{e=mirror}{e=yes}{e=gift}{e=octa}{e=smiling_face}"
-    new "{e=mirror}{e=yes}{e=gift}{e=octa}{e=smiling_face}"
+    old "{e=shield}{e=sparkles}{e=yes}{e=star_struck}"
+    new "{e=shield}{e=sparkles}{e=yes}{e=star_struck}"
 
     # game/dicts/craft.rpy:2
-    old "{e=halberd}{e=yes}{e=crossed_swords}{e=jaguar}{e=muscle}"
-    new "{e=halberd}{e=yes}{e=crossed_swords}{e=jaguar}{e=muscle}"
+    old "{e=crossed_swords}{e=jaguar}{e=muscle}{e=beaming_face}"
+    new "{e=crossed_swords}{e=jaguar}{e=muscle}{e=beaming_face}"
+

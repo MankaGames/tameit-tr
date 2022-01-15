@@ -104,15 +104,11 @@
     old "{e=boat}{e=yes}{e=smiley}{e=arrow_right}{e=cave}"
     new "Perfect! My boat is ready to sail!"
 
-# TODO: Translation updated at 2021-12-17 00:51
-
-translate english strings:
-
     # game/dicts/task.rpy:965
     old "{e=halberd_head}{e=sparkles}{e=thumbs_up}"
-    new "{e=halberd_head}{e=sparkles}{e=thumbs_up}"
+    new "There you go – came out pretty well! Now the edge is clean and sharp!"
 
     # game/dicts/task.rpy:965
     old "{e=halberd_head}{e=plus}{e=halberd_shaft}{e=arrow_right}{e=halberd}"
-    new "{e=halberd_head}{e=plus}{e=halberd_shaft}{e=arrow_right}{e=halberd}"
+    new "I need a long and strong pole to make a real halberd."
 
