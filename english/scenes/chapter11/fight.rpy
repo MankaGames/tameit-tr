@@ -39,7 +39,7 @@ translate english scene_chapter11_fight_done_db42b1ca:
 translate english scene_chapter11_fight_done_7df4a46c:
 
     # cat "{e=pouting_face}{e=torch}{e=jaguar}{e=fire}{e=exclamation}"
-    cat "{e=pouting_face}{e=torch}{e=jaguar}{e=fire}{e=exclamation}{alt}Fuck off, lousy bag of shit, or I’ll burn your ass!{/alt}"
+    cat "{e=pouting_face}{e=torch}{e=jaguar}{e=fire}{e=exclamation}{alt}Fuck off, piece of shit, or I’ll burn you!{/alt}"
 
 # game/scenes/chapter11/fight.rpy:73
 translate english scene_chapter11_fight_done_2613fe88:
