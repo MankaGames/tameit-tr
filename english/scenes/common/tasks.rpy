@@ -31,8 +31,9 @@ translate english strings:
     new "Comb! It's useful, and it can be given as a gift."
 
     # game/scenes/common/tasks.rpy:37
+    # should be left untranslated
     old "{e=magnifying_glass}{e=frowning_face}"
-    new "There's nothing else here."
+    new "{e=magnifying_glass}{e=frowning_face}"
 
     # game/scenes/common/tasks.rpy:42
     old "{e=mirror}{e=exclamation_white}{e=smiley}"
