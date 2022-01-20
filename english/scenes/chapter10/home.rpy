@@ -45,7 +45,7 @@ translate english scene_chapter10_home_60454e65:
 translate english scene_chapter10_home_b6f61d66:
 
     # lee_think "{e=catgirl}{e=teach}{e=sparkles}"
-    lee_think "But I did teach Cat and no we communicate more or less well."
+    lee_think "But I did teach Cat and now we communicate more or less well."
     lee_think "She learned to understand my words and use gestures and facial expressions to reply."
 
 # game/scenes/chapter10/home.rpy:29
