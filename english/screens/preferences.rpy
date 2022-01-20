@@ -60,3 +60,15 @@
     old "{e=arrows_counterclockwise}{s=joystick}{e=question_white}"
     new "Restart the game"
 
+    # game/screens/preferences.rpy:84
+    old "Set language"
+    new "Set language"
+
+    # game/screens/preferences.rpy:71
+    old "Original game experience,\nall dialogues are in the emoji form."
+    new "Original game experience,\nall dialogues are in the emoji form."
+
+    # game/screens/preferences.rpy:74
+    old "Human dialogues are translated,\nmost emoji phrases have hints."
+    new "Human dialogues are translated,\nmost emoji phrases have hints."
+
