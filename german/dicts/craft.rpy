@@ -16,6 +16,11 @@
     old "{e=shaving_foam}{e=check_mark}{e=smiley}"
     new "Fertig! Schaut gar nicht so schlecht aus."
 
+    # game/dicts/craft.rpy:2
+    old "{e=shovel}{e=yes}{e=exclamation_white}{e=smiley}"
+    new "Fantastisch! Die Schaufel ist bereit und nun kann ich schneller arbeiten!"
+
+
 # TODO: Translation updated at 2021-12-17 00:51
 
 translate german strings:

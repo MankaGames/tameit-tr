@@ -55,3 +55,7 @@
     # game/screens/preferences.rpy:91
     old "Disabled"
     new "Deaktiviert"
+    
+    # game/screens/preferences.rpy:90
+    old "{e=arrows_counterclockwise}{s=joystick}{e=question_white}"
+    new "Starte das Spiel neu"

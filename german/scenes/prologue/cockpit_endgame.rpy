@@ -7,3 +7,8 @@ translate german scene_prologue_cockpit_endgame_done_adc94a46:
     tonya "den Treibstoffablassknopf gedrückt!"
     tonya "Scheiße, Scheiße, Scheiße!"
 
+translate german strings:
+
+    # game/scenes/prologue/cockpit_endgame.rpy:217
+    old "Toggle hints"
+    new "Hinweise einblenden"

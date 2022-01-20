@@ -72,51 +72,43 @@
     old "{e=lake_trap}{e=yes}{e=slightly_smiling_face}"
     new "Die Falle ist fertig. Puh, das war nicht einfach!"
 
-# TODO: Translation updated at 2021-11-13 02:11
-
-translate german strings:
-
-    # game/dicts/task.rpy:2
+# game/dicts/task.rpy:2
     old "{e=slightly_smiling_face}{e=bungalow5}{e=yes}{e=smiling_face}"
-    new "{e=slightly_smiling_face}{e=bungalow5}{e=yes}{e=smiling_face}"
+    new "Die erste Ausbaustufe des Hauses ist abgeschlossen!"
 
     # game/dicts/task.rpy:2
     old "{e=bungalow6}{e=yes}{e=slightly_smiling_face}"
-    new "{e=bungalow6}{e=yes}{e=slightly_smiling_face}"
+    new "Perfekt! Ich habe große Fortschritte gemacht."
 
     # game/dicts/task.rpy:2
     old "{e=smiley}{e=bungalow7}{e=yes}{e=exclamation_white}{e=smiling_face}"
-    new "{e=smiley}{e=bungalow7}{e=yes}{e=exclamation_white}{e=smiling_face}"
+    new "Nun gut, die Bauarbeiten sind abgeschlossen, und mein Haus ist jetzt größer. Gute Arbeit!"
 
     # game/dicts/task.rpy:2
     old "{e=slightly_smiling_face}{e=basin1}{e=yes}{e=smiling_face}"
-    new "{e=slightly_smiling_face}{e=basin1}{e=yes}{e=smiling_face}"
+    new "Gar nicht so schlecht! Ich kann die erste Etappe als abgeschlossen betrachten."
 
     # game/dicts/task.rpy:2
     old "{e=basin2}{e=yes}{e=slightly_smiling_face}"
-    new "{e=basin2}{e=yes}{e=slightly_smiling_face}"
+    new "Ich habe große Fortschritte gemacht!"
 
     # game/dicts/task.rpy:2
     old "{e=basin3}{e=yes}{e=muscle}{e=beaming_face}"
-    new "{e=basin3}{e=yes}{e=muscle}{e=beaming_face}"
+    new "Uff! Nur noch ein bisschen."
 
     # game/dicts/task.rpy:2
     old "{e=smiley}{e=basin4}{e=yes}{e=exclamation_white}{e=smiling_face}"
-    new "{e=smiley}{e=basin4}{e=yes}{e=exclamation_white}{e=smiling_face}"
+    new "Na bitte, der Teich ist fertig! Er sieht gut aus.\nIch hoffe, Octa mag ihn."
 
     # game/dicts/task.rpy:939
     old "{e=boat}{e=yes}{e=smiley}{e=arrow_right}{e=cave}"
-    new "Perfekt! Mein Boot ist bereit zum Ablegen!"
-
-# TODO: Translation updated at 2021-12-17 00:51
-
-translate german strings:
+    new "Perfekt! Mein Boot ist bereit zum Segeln!"
 
     # game/dicts/task.rpy:965
     old "{e=halberd_head}{e=sparkles}{e=thumbs_up}"
-    new "{e=halberd_head}{e=sparkles}{e=thumbs_up}"
+    new "Na bitte - hat doch ganz gut geklappt! Jetzt ist die Kante sauber und scharf!"
 
     # game/dicts/task.rpy:965
     old "{e=halberd_head}{e=plus}{e=halberd_shaft}{e=arrow_right}{e=halberd}"
-    new "{e=halberd_head}{e=plus}{e=halberd_shaft}{e=arrow_right}{e=halberd}"
+    new "Ich brauche eine lange und starke Stange, um eine richtige Halbert herzustellen."
 

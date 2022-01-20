@@ -17,3 +17,15 @@ translate german strings:
     # game/scenes/common/collectibles.rpy:40
     old "{e=thinking_face}{e=fish_coral}{e=arrow_right}{e=basin2}"
     new "Wie wäre es, wenn ich die kleinen Fische im Teich freilasse, den ich für Octa gegraben habe?"
+
+# game/scenes/common/collectibles.rpy:379
+translate german get_map_piece_85d641f3:
+
+    # lee_think "{e=astonished_face}{e=stone_tablet}{e=question_white}{e=thinking_face}"
+    lee_think "Was ist das für ein Ding?\nIch habe so etwas noch nie gefunden."
+
+# game/scenes/common/collectibles.rpy:381
+translate german get_map_piece_e7e94bc0:
+
+    # lee_think "{e=stone_tablet}{e=exclamation_white}{e=arrow_right}{e=inventory}"
+    lee_think "Da ist dieses Ding wieder!\nIch frage mich, wofür die sind?"

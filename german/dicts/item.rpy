@@ -264,3 +264,10 @@
     old "Jam"
     new "Marmelade"
 
+    # game/dicts/item.rpy:91
+    old "Shield"
+    new "Schild"
+
+    # game/dicts/item.rpy:91
+    old "Stone Tablet"
+    new "Steintafel"
