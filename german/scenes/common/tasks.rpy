@@ -32,7 +32,7 @@ translate german strings:
 
     # game/scenes/common/tasks.rpy:37
     old "{e=magnifying_glass}{e=frowning_face}"
-    new "Hier gibt es nichts weiteres."
+    new "{e=magnifying_glass}{e=frowning_face}"
 
     # game/scenes/common/tasks.rpy:42
     old "{e=mirror}{e=exclamation_white}{e=smiley}"

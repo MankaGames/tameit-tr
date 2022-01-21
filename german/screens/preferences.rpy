@@ -59,3 +59,15 @@
     # game/screens/preferences.rpy:90
     old "{e=arrows_counterclockwise}{s=joystick}{e=question_white}"
     new "Starte das Spiel neu"
+
+    # game/screens/preferences.rpy:84
+    old "Set language"
+    new "Sprache wählen"
+
+    # game/screens/preferences.rpy:71
+    old "Original game experience,\nall dialogues are in the emoji form."
+    new "Originales Spielerlebnis,\nalle Dialoge sind in der Emoji-Form."
+
+    # game/screens/preferences.rpy:74
+    old "Human dialogues are translated,\nmost emoji phrases have hints."
+    new "Menschliche Dialoge wurden übersetzt,\ndie meisten Emoji-Phrasen haben Hinweise."
