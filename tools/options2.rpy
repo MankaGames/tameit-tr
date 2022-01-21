@@ -12,6 +12,10 @@ label scene_debug:
             jump scene_examples_translation
         "Phrase length test (plain text)":
             jump scene_examples_translation_plain
+        "Unlock all chapters":
+            $ progress.unlock_chapters()
+            "Done"
+            jump scene_debug
             
             
 label scene_examples_translation:
