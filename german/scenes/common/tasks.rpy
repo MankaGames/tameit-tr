@@ -36,15 +36,15 @@ translate german strings:
 
     # game/scenes/common/tasks.rpy:42
     old "{e=mirror}{e=exclamation_white}{e=smiley}"
-    new ""
+    new "Oh, ein Spiegel! Warum ist mir der bisher nicht aufgefallen?"
 
     # game/scenes/common/tasks.rpy:42
     old "{e=mirror_broken}{e=arrow_down}{e=boom}{e=confused_face}"
-    new ""
+    new "Schade, dass der Rahmen kaputt ist. Wenigstens ist der Spiegel selbst intakt."
 
     # game/scenes/common/tasks.rpy:42
     old "{e=repair}{e=mirror_broken}{e=gift}{e=arrow_right}{e=octa}"
-    new ""
+    new "Ich werde ihn reparieren und dann Octa geben! So etwas hat sie noch nie gesehen."
 
     # game/scenes/common/tasks.rpy:52
     old "{e=chocolate}{e=smirk}{e=gift}{e=arrow_right}{e=catgirl}"

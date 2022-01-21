@@ -72,7 +72,7 @@
     old "{e=lake_trap}{e=yes}{e=slightly_smiling_face}"
     new "Die Falle ist fertig. Puh, das war nicht einfach!"
 
-# game/dicts/task.rpy:2
+    # game/dicts/task.rpy:2
     old "{e=slightly_smiling_face}{e=bungalow5}{e=yes}{e=smiling_face}"
     new "Die erste Ausbaustufe des Hauses ist abgeschlossen!"
 
