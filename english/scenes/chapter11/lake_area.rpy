@@ -17,7 +17,7 @@ translate english scene_chapter11_lake_weed_065e6aed:
 translate english scene_chapter11_lake_weed_5ba572ad:
 
     # cat "{e=lee}{e=face_with_head-bandage}{e=pensive_face}"
-    cat "{e=lee}{e=face_with_head-bandage}{e=pensive_face}{alt}Bad. Hurting. May wounds. Blood won’t stop.{/alt}"
+    cat "{e=lee}{e=face_with_head-bandage}{e=pensive_face}{alt}Bad. Hurting. Many wounds. Blood won’t stop.{/alt}"
 
 # game/scenes/chapter11/lake_area.rpy:96
 translate english scene_chapter11_lake_weed_9d9d319e:

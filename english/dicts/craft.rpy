@@ -27,15 +27,12 @@
     # game/dicts/craft.rpy:2
     old "{e=halberd}{e=yes}{e=crossed_swords}{e=jaguar}{e=muscle}"
     new "Perfect! The halberd’s ready! Now I’ll get rid of this jaguar!"
-# TODO: Translation updated at 2022-01-15 03:26
-
-translate english strings:
 
     # game/dicts/craft.rpy:2
     old "{e=shield}{e=sparkles}{e=yes}{e=star_struck}"
-    new "{e=shield}{e=sparkles}{e=yes}{e=star_struck}"
+    new "Perfect! The shield is ready! "
 
     # game/dicts/craft.rpy:2
     old "{e=crossed_swords}{e=jaguar}{e=muscle}{e=beaming_face}"
-    new "{e=crossed_swords}{e=jaguar}{e=muscle}{e=beaming_face}"
+    new "Now I can try to fight the jaguar again!"
 

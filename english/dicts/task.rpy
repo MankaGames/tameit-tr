@@ -112,3 +112,15 @@
     old "{e=halberd_head}{e=plus}{e=halberd_shaft}{e=arrow_right}{e=halberd}"
     new "I need a long and strong pole to make a real halberd."
 
+    # game/dicts/task.rpy:1215
+    old "{e=shark}{e=arrow_right}{e=fishnet}"
+    new "Now I need to wait till the creature gets tangled in the net."
+
+    # game/dicts/task.rpy:1215
+    old "{e=octo_anon}{e=arrow_right}{e=lake_trap}"
+    new "Gotta wait till the tentacle monster comes."
+
+    # game/dicts/task.rpy:1215
+    old "{e=bridge}{e=check_mark}{e=thumbs_up}{e=smiley}"
+    new "Excellent! The bridge’s back on its place!"
+

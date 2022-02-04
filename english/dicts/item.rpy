@@ -272,3 +272,23 @@
     old "Stone Tablet"
     new "Stone Tablet"
 
+    # game/dicts/item.rpy:91
+    old "Jaguar Skin"
+    new "Jaguar Skin"
+
+    # game/dicts/item.rpy:91
+    old "Paper"
+    new "Paper"
+
+    # game/dicts/item.rpy:91
+    old "Parachute"
+    new "Parachute"
+
+    # game/dicts/item.rpy:91
+    old "Sail"
+    new "Sail"
+
+    # game/dicts/item.rpy:91
+    old "Cloth"
+    new "Cloth"
+
