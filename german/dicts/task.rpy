@@ -112,3 +112,14 @@
     old "{e=halberd_head}{e=plus}{e=halberd_shaft}{e=arrow_right}{e=halberd}"
     new "Ich brauche eine lange und starke Stange, um eine richtige Halbert herzustellen."
 
+    # game/dicts/task.rpy:1215
+    old "{e=shark}{e=arrow_right}{e=fishnet}"
+    new "Jetzt muss ich warten, bis sich die Kreatur im Netz verheddert hat."
+
+    # game/dicts/task.rpy:1215
+    old "{e=octo_anon}{e=arrow_right}{e=lake_trap}"
+    new "Wir müssen warten, bis das Tentakelmonster kommt."
+
+    # game/dicts/task.rpy:1215
+    old "{e=bridge}{e=check_mark}{e=thumbs_up}{e=smiley}"
+    new "Ausgezeichnet! Die Brücke ist wieder an ihrem Platz!"

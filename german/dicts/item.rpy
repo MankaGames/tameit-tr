@@ -14,7 +14,7 @@
 
     # game/dicts/item.rpy:2
     old "Seaweed"
-    new "Seegras"
+    new "Seetang"
 
     # game/dicts/item.rpy:2
     old "Bananas"
@@ -271,3 +271,23 @@
     # game/dicts/item.rpy:91
     old "Stone Tablet"
     new "Steintafel"
+
+    # game/dicts/item.rpy:91
+    old "Jaguar Skin"
+    new "Jaguar Fell"
+
+    # game/dicts/item.rpy:91
+    old "Paper"
+    new "Papier"
+
+    # game/dicts/item.rpy:91
+    old "Parachute"
+    new "Fallschirm"
+
+    # game/dicts/item.rpy:91
+    old "Sail"
+    new "Segel"
+
+    # game/dicts/item.rpy:91
+    old "Cloth"
+    new "Stoff"

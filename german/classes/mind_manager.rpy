@@ -32,3 +32,6 @@
     old "{e=nauseated_face}{e=ill}{e=sleep}"
     new "Mir ist übel, ich denke, ich habe etwas Falsches gegessen, ich sollte ins Bett gehen."
     
+    # game/classes/mind_manager.rpy:136
+    old "{e=catgirl}{i=stick}{e=arrow_right}{i=%s}"
+    new "{e=catgirl}{i=stick}{e=arrow_right}{i=%s}"

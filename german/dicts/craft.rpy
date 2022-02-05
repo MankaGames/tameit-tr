@@ -28,16 +28,11 @@
     old "{e=halberd}{e=yes}{e=crossed_swords}{e=jaguar}{e=muscle}"
     new "Perfekt! Die Hellebarde ist bereit! Jetzt werde ich diesen Jaguar los!"
 
-    
-# TODO: Translation updated at 2022-01-15 03:26
-
-translate german strings:
-
     # game/dicts/craft.rpy:2
     old "{e=shield}{e=sparkles}{e=yes}{e=star_struck}"
-    new "{e=shield}{e=sparkles}{e=yes}{e=star_struck}"
+    new "Perfekt! Der Schild ist fertig!"
 
     # game/dicts/craft.rpy:2
     old "{e=crossed_swords}{e=jaguar}{e=muscle}{e=beaming_face}"
-    new "{e=crossed_swords}{e=jaguar}{e=muscle}{e=beaming_face}"
+    new "Jetzt kann ich erneut versuchen, den Jaguar zu töten!"
 
