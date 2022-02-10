@@ -20,5 +20,6 @@ translate english scene_chapter01_forest1_08ca145a:
 translate english scene_chapter01_forest1_d53d3940:
 
     # lee_think "{e=thinking_face}{e=banana}{e=coconut}{e=blueberries}{e=question_white}"
-    lee_think "Maybe I could find some fruits, coconuts or even berries. Anything will do for now. "
+    lee_think "Maybe I could find some fruits, coconuts or even berries."
+    lee_think "Anything will do for now."
 

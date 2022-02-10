@@ -36,3 +36,7 @@
     old "{e=crossed_swords}{e=jaguar}{e=muscle}{e=beaming_face}"
     new "Now I can try to fight the jaguar again!"
 
+    # game/dicts/craft.rpy:2
+    old "{e=sail}{e=yes}{e=thumbs_up}"
+    new "The sail is ready. Didn’t come out that bad. I hope it will endure."
+

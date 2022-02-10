@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-17 03:40
-
-translate english strings:
+﻿translate english strings:
 
     # game/scenes/common/tasks.rpy:8
     old "{e=razor}{e=sparkles}{e=exclamation_white}{e=star_struck}{e=inventory}"
@@ -50,4 +48,12 @@ translate english strings:
     # game/scenes/common/tasks.rpy:52
     old "{e=chocolate}{e=smirk}{e=gift}{e=arrow_right}{e=catgirl}"
     new "A chocolate bar! Cat surely never tried it before and will absolutely love it!"
+
+    # game/scenes/common/tasks.rpy:62
+    old "{e=parachute}{e=exclamation_white}{e=tonya}{e=no}{e=crafting}"
+    new "Oh! Here is the parachute. Looks like Tonya has just begun making a sail."
+
+    # game/scenes/common/tasks.rpy:62
+    old "{e=crafting}{e=arrow_right}{e=sail}{e=finish}"
+    new "I’ll have to finish the job."
 

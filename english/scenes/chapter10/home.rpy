@@ -348,3 +348,9 @@ translate english scene_chapter10_basin_dinner_a3d03506:
     # cat "{e=lee}{e=poop}{e=steam_from_nose}{e=unamused_face}"
     cat "{e=lee}{e=poop}{e=steam_from_nose}{e=unamused_face}"
 
+# game/scenes/chapter10/home.rpy:218
+translate english scene_chapter10_basin_1ceca436:
+
+    # lee_think "{e=hammer}{e=fishing_pole}{e=weary_face}"
+    lee_think "And I still have to make a new fishing pole."
+

@@ -292,3 +292,15 @@
     old "Cloth"
     new "Cloth"
 
+    # game/dicts/item.rpy:91
+    old "Metal Paddle"
+    new "Metal Paddle"
+
+    # game/dicts/item.rpy:91
+    old "Raw Jaguar Skin"
+    new "Raw Jaguar Skin"
+
+    # game/dicts/item.rpy:91
+    old "Paper Mass"
+    new "Paper Mass"
+
