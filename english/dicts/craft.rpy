@@ -40,3 +40,7 @@
     old "{e=sail}{e=yes}{e=thumbs_up}"
     new "The sail is ready. Didn’t come out that bad. I hope it will endure."
 
+    # game/dicts/craft.rpy:2
+    old "{e=pearl_necklace}{e=arrow_right}{e=catgirl}{e=butt}{e=smirk}"
+    new "Hmm, this can be used with Cat as more than just a necklace."
+

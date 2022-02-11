@@ -82,3 +82,39 @@ translate english scene_cowgirl_common_e11ffd4e:
     # char "{e=kiss}{e=smiling_face_with_hearts}"
     char "{e=kiss}{e=smiling_face_with_hearts}"
 
+# game/scenes/common/favours.rpy:376
+translate english scene_cat_necklace_4ac3b1f6:
+
+    # lee "{e=catgirl}{e=gift}{e=you}"
+    lee "Cat, I have a present for you."
+
+# game/scenes/common/favours.rpy:377
+translate english scene_cat_necklace_e5b2037e:
+
+    # cat "{e=gift}{e=question_white}{e=smiling_face_with_hearts}{e=fish}{e=question_white}"
+    cat "{e=gift}{e=question_white}{e=smiling_face_with_hearts}{e=fish}{e=question_white}{alt}Present? I love presents! Is this a fish?{/alt}"
+
+# game/scenes/common/favours.rpy:378
+translate english scene_cat_necklace_d3a9aa3c:
+
+    # lee "{e=no}{e=fish}{e=beaming_face}{e=gift}{e=sparkles}"
+    lee "No, not a fish, something better!"
+
+# game/scenes/common/favours.rpy:379
+translate english scene_cat_necklace_6ecaa931:
+
+    # lee "{e=smiling_face}{e=eyes}{e=pearl_necklace}"
+    lee "Here, look."
+
+# game/scenes/common/favours.rpy:380
+translate english scene_cat_necklace_3cbafb80:
+
+    # cat "{e=pearl_necklace}{e=question_white}{e=flushed_face}"
+    cat "{e=pearl_necklace}{e=question_white}{e=flushed_face}{alt}What is this? Is it something to wear on?{/alt}"
+
+# game/scenes/common/favours.rpy:381
+translate english scene_cat_necklace_e4c46bea:
+
+    # lee "{e=smirk}{e=eyes}{e=you}{e=pearl_necklace}{e=butt}"
+    lee "Yep, but we could use it better way. Let me show you."
+

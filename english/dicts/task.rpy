@@ -170,7 +170,7 @@
 
     # game/dicts/task.rpy:1283
     old "{e=jaguar_skin_raw}{e=crafting}{e=jaguar_skin}{e=sparkles}"
-    new "Now I’ve gotta dress it. I\u00A0hope I’ll manage to do it well."
+    new "Now I’ve gotta tan it. I\u00A0hope I’ll manage to do it well."
 
     # game/dicts/task.rpy:1283
     old "{e=paper}{e=yes}{e=smiley}"

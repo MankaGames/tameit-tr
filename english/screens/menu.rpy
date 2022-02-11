@@ -32,3 +32,11 @@
     old "Exit to Main Menu"
     new "Exit to Main Menu"
 
+    # game/screens/menu.rpy:219
+    old "Gallery"
+    new "Gallery"
+
+    # game/screens/menu.rpy:224
+    old "Tonya`s Story"
+    new "Tonya`s Story"
+

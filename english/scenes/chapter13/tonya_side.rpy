@@ -577,7 +577,7 @@ translate english scene_chapter13_tonya_home_escape_plan_445a27b9:
 translate english scene_chapter13_tonya_home_escape_plan_d11cc87b:
 
     # lee_think "{e=astonished_face}{e=exclamation}{e=native_ship}{e=exclamation_question}"
-    lee_think "What the hell is that? Is that…? A ship?!"
+    lee_think "What the hell is that? Is that…? A boat?!"
 
 # game/scenes/chapter13/tonya_side.rpy:315
 translate english scene_chapter13_tonya_home_escape_plan_7624e901:
@@ -685,7 +685,7 @@ translate english scene_chapter13_tonya_home_escape_plan_a7f18640:
 translate english scene_chapter13_tonya_home_escape_plan_a6727f48:
 
     # lee_think "{e=hourglass}{e=dash}{e=hammer}{e=raft}{e=exclamation_white}"
-    lee_think "It’s time I got down to raft construction."
+    lee_think "It’s time I got down to raft construction!"
 
 # game/scenes/chapter13/tonya_side.rpy:359
 translate english scene_chapter13_tonya_home_escape_plan_a64e126f:
