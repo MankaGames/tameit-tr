@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-17 03:40
-
-translate german strings:
+﻿translate german strings:
 
     # game/scenes/common/tasks.rpy:8
     old "{e=razor}{e=sparkles}{e=exclamation_white}{e=star_struck}{e=inventory}"
@@ -50,3 +48,10 @@ translate german strings:
     old "{e=chocolate}{e=smirk}{e=gift}{e=arrow_right}{e=catgirl}"
     new "Ein Schokoriegel! Cat hat das sicher noch nie probiert und wird es absolut lieben!"
 
+    # game/scenes/common/tasks.rpy:62
+    old "{e=parachute}{e=exclamation_white}{e=tonya}{e=no}{e=crafting}"
+    new "Oh! Hier ist der Fallschirm. Und Tonya hat angefangen, ein Segel zu bauen."
+
+    # game/scenes/common/tasks.rpy:62
+    old "{e=crafting}{e=arrow_right}{e=sail}{e=finish}"
+    new "Ich muss die Arbeit zu Ende bringen."

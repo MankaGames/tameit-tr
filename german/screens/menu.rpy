@@ -32,3 +32,10 @@
     old "Exit to Main Menu"
     new "Zum Hauptmenü zurückkehren"
 
+    # game/screens/menu.rpy:219
+    old "Gallery"
+    new "Galerie"
+
+    # game/screens/menu.rpy:224
+    old "Tonya`s Story"
+    new "Tonya's Story"

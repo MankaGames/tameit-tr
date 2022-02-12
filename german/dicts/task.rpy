@@ -123,3 +123,59 @@
     # game/dicts/task.rpy:1215
     old "{e=bridge}{e=check_mark}{e=thumbs_up}{e=smiley}"
     new "Ausgezeichnet! Die Brücke ist wieder an ihrem Platz!"
+
+    # game/dicts/task.rpy:2
+    old "{e=raft_1}{e=yes}{e=arrow_up}{e=ocean}"
+    new "Der Sockel ist fertig und scheint recht stabil zu sein.\nDas habe ich gut gemacht!"
+
+    # game/dicts/task.rpy:2
+    old "{e=tent}{e=thumbs_up}{e=raft_2}{e=yes}"
+    new "Die Hütte ist gut geworden. Sie wird uns vor Wind und Regen schützen."
+
+    # game/dicts/task.rpy:2
+    old "{e=storage}{e=yes}{e=beaming_face}"
+    new "Gut, wir haben eine Box für Vorräte"
+
+    # game/dicts/task.rpy:2
+    old "{e=pot_of_food}{e=plus}{e=coconut_bowl_water}{e=arrow_right}{e=storage}"
+    new "Wir müssen uns mit Wasser und Lebensmitteln eindecken."
+
+    # game/dicts/task.rpy:2
+    old "{e=raft_4}{e=yes}{e=thumbs_up}{e=slightly_smiling_face}"
+    new "OK, ich habe das Segel angebracht.\nEs sieht gut aus."
+
+    # game/dicts/task.rpy:2
+    old "{e=raft}{e=yes}{e=smiley}{e=sparkles}"
+    new "Ist wirklich schon alles fertig!\nIch kann es nicht glauben!"
+
+    # game/dicts/task.rpy:2
+    old "{e=paddle}{e=plus}{e=metal_sheet}{e=arrow_right}{e=metal_paddle}"
+    new "Ich muss noch ein stabiles Paddel herstellen!"
+
+    # game/dicts/task.rpy:2
+    old "{e=thinking_face}{e=mushroom_glowing}{e=crafting}{e=ointment}"
+    new "Ich muss mir merken, dass ich aus den leuchtenden Pilzen eine Heilsalbe machen muss."
+
+    # game/dicts/task.rpy:2
+    old "{e=boat}{e=ok_hand}{e=hourglass}{e=arrow_right}{e=desert island}"
+    new "Alles ist bereit für die Abreise."
+
+    # game/dicts/task.rpy:1283
+    old "{e=jaguar_skin_raw}{e=thumbs_up}"
+    new "Nicht schlecht! Vor Jahren hat mir mein Opa gezeigt, wie man Kaninchen häutet."
+
+    # game/dicts/task.rpy:1283
+    old "{e=teach}{e=brain}{e=crafting}{e=jaguar_skin}"
+    new "Ich hätte nie gedacht, dass ich dieses Wissen einmal nutzen würde."
+
+    # game/dicts/task.rpy:1283
+    old "{e=jaguar_skin_raw}{e=crafting}{e=jaguar_skin}{e=sparkles}"
+    new "Jetzt muss ich es gerben. Ich hoffe, dass ich das\u00A0hinbekomme."
+
+    # game/dicts/task.rpy:1283
+    old "{e=paper}{e=yes}{e=smiley}"
+    new "Großartig! Jetzt habe ich Papier!"
+
+    # game/dicts/task.rpy:1283
+    old "{e=paper}{e=cave}{e=arrow_right}{e=draw}{e=map}"
+    new "Jetzt, wo ich Papier habe, kann ich zurück in die Höhle und die Karte kopieren."

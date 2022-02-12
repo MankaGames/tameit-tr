@@ -362,3 +362,8 @@ translate german scene_chapter10_basin_dinner_a3d03506:
     # cat "{e=lee}{e=poop}{e=steam_from_nose}{e=unamused_face}"
     cat "{e=lee}{e=poop}{e=steam_from_nose}{e=unamused_face}"
 
+# game/scenes/chapter10/home.rpy:218
+translate german scene_chapter10_basin_1ceca436:
+
+    # lee_think "{e=hammer}{e=fishing_pole}{e=weary_face}"
+    lee_think "Und ich muss noch immer eine neue Angelrute herstellen."

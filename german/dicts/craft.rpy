@@ -36,3 +36,10 @@
     old "{e=crossed_swords}{e=jaguar}{e=muscle}{e=beaming_face}"
     new "Jetzt kann ich erneut versuchen, den Jaguar zu töten!"
 
+    # game/dicts/craft.rpy:2
+    old "{e=sail}{e=yes}{e=thumbs_up}"
+    new "Das Segel ist fertig.\nSchaut gut aus.\nIch hoffe, es wird halten."
+
+    # game/dicts/craft.rpy:2
+    old "{e=pearl_necklace}{e=arrow_right}{e=catgirl}{e=butt}{e=smirk}"
+    new "Hmm, das könnte man bei Cat nicht nur als Halskette verwenden."
