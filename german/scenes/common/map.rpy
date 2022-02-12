@@ -76,7 +76,7 @@ translate german game_map_copy_017fc46f:
 translate german game_map_copy_87a213f5:
 
     # lee_think "{e=poop}{e=map}{e=tired_face}"
-    lee_think "Sieh dir nur diese hässliche Scheiße an! Ich muss es noch mal versuchen."
+    lee_think "Schau dir diese Scheiße an! Ich muss es noch mal versuchen."
 
 # game/scenes/common/map.rpy:248
 translate german game_map_copy_a597009b:
