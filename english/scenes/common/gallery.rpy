@@ -1,10 +1,8 @@
-﻿# TODO: Translation updated at 2021-12-17 00:40
-
-# game/scenes/common/gallery.rpy:5
+﻿# game/scenes/common/gallery.rpy:5
 translate english gallery_menu_e897898c:
 
     # cat_think "{e=storage}{e=lock}{e=confused_face}"
-    cat_think "{e=storage}{e=lock}{e=confused_face}"
+    cat_think "{e=storage}{e=lock}{e=confused_face}{alt}I can't open it.{/alt}"
 
 # game/scenes/common/gallery.rpy:14
 translate english gallery_remember_b1593b0e:

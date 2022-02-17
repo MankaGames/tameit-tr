@@ -36,3 +36,9 @@ translate english scene_coldspot_ch05_f80e5c4e:
     lee "Ouch! Okay, okay, it's my fault, I'm sorry!"
     lee "I'm not touching you anymore, see? Please, no more claws!"
 
+# game/scenes/chapter05/coldspot.rpy:76
+translate english scene_coldspot_ch05_d90305b7:
+
+    # lee_think "{e=hourglass}{e=night}{e=take}{e=catgirl}{e=smirk}"
+    lee_think "We need to play with her again next night."
+

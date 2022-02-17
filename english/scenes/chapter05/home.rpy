@@ -37,7 +37,7 @@ translate english scene_chapter05_inside_41368456:
 
     # lee_think "{e=thinking_face}{e=say}{e=arrow_right}{e=catgirl}{e=question}"
     lee_think "I'm still wondering — can she even speak?"
-    lee_think "I doubt she knows my language, but it's still worth a shot,\nI think."
+    lee_think "I doubt she knows my language, but it's still worth a shot, I think."
 
 # game/scenes/chapter05/home.rpy:107
 translate english scene_chapter05_inside_e703c833:
@@ -186,4 +186,10 @@ translate english scene_chapter05_inside_fbd0c56f:
     lee_think "Don't even know yet, which words to teach her next."
     lee_think "But I know where we can progress too..."
     lee_think "I'll just keep fondling her every night until she starts asking for it herself."
+
+translate english strings:
+
+    # game/scenes/chapter05/home.rpy:93
+    old "The dialog window allows you to communicate with characters, give them tasks, groom them and give them gifts."
+    new "The dialog window allows you to communicate with characters, give them tasks, groom them and give them gifts."
 

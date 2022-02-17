@@ -85,97 +85,97 @@ translate english sos_random_thought_lee_10_170f2ac1:
 translate english sos_random_thought_cat_1_ad65b620:
 
     # cat_think "{e=fish}{e=drooling_face}"
-    cat_think "{e=fish}{e=drooling_face}"
+    cat_think "{e=fish}{e=drooling_face}{alt}I want some fish.{/alt}"
 
 # game/scenes/common/sos.rpy:134
 translate english sos_random_thought_cat_1_f8196506:
 
     # cat_think "{e=consume}{e=fish}{e=fish}{e=fish}{e=drooling_face}"
-    cat_think "{e=consume}{e=fish}{e=fish}{e=fish}{e=drooling_face}"
+    cat_think "{e=consume}{e=fish}{e=fish}{e=fish}{e=drooling_face}{alt}A lot of fish.{/alt}"
 
 # game/scenes/common/sos.rpy:135
 translate english sos_random_thought_cat_1_c21dd67e:
 
     # cat_think "{e=no}{e=fishing}{e=water}{e=confounded face}{e=exclamation_white}"
-    cat_think "{e=no}{e=fishing}{e=water}{e=confounded face}{e=exclamation_white}"
+    cat_think "{e=no}{e=fishing}{e=water}{e=confounded face}{e=exclamation_white}{alt}But fishing is wet, yuck!{/alt}"
 
 # game/scenes/common/sos.rpy:138
 translate english sos_random_thought_cat_2_640b688b:
 
     # cat_think "{e=lee}{e=health}{e=arrow_up}{e=fishing}{e=fish}"
-    cat_think "{e=lee}{e=health}{e=arrow_up}{e=fishing}{e=fish}"
+    cat_think "{e=lee}{e=health}{e=arrow_up}{e=fishing}{e=fish}{alt}I can’t wait till Lee gets better and catches some fish for me!{/alt}"
 
 # game/scenes/common/sos.rpy:143
 translate english sos_random_thought_cat_3_5971a9a9:
 
     # cat_think "{e=tired_face}{e=rain}{e=confounded face}{e=exclamation_white}"
-    cat_think "{e=tired_face}{e=rain}{e=confounded face}{e=exclamation_white}"
+    cat_think "{e=tired_face}{e=rain}{e=confounded face}{e=exclamation_white}{alt}Yuck, rain again! I hate rain!{/alt}"
 
 # game/scenes/common/sos.rpy:148
 translate english sos_random_thought_cat_4_1b58c25f:
 
     # cat_think "{e=star_struck}{e=milky_way}{e=star}"
-    cat_think "{e=star_struck}{e=milky_way}{e=star}"
+    cat_think "{e=star_struck}{e=milky_way}{e=star}{alt}Woo! Stars!{/alt}"
 
 # game/scenes/common/sos.rpy:149
 translate english sos_random_thought_cat_4_dae76894:
 
     # cat_think "{e=thinking_face}{e=star}{e=drooling_face}{e=question_white}"
-    cat_think "{e=thinking_face}{e=star}{e=drooling_face}{e=question_white}"
+    cat_think "{e=thinking_face}{e=star}{e=drooling_face}{e=question_white}{alt}I wonder if stars are tasty?{/alt}"
 
 # game/scenes/common/sos.rpy:152
 translate english sos_random_thought_cat_5_d791c587:
 
     # cat_think "{e=foraging}{e=weed}{e=lee}"
-    cat_think "{e=foraging}{e=weed}{e=lee}"
+    cat_think "{e=foraging}{e=weed}{e=lee}{alt}I need to collect weed for Lee.{/alt}"
 
 # game/scenes/common/sos.rpy:155
 translate english sos_random_thought_cat_6_fb35ef49:
 
     # cat_think "{e=octopus}{ellipsis}{e=octa}{e=handshake}"
-    cat_think "{e=octopus}{ellipsis}{e=octa}{e=handshake}"
+    cat_think "{e=octopus}{ellipsis}{e=octa}{e=handshake}{alt}Octopussy… Octa friend.{/alt}"
 
 # game/scenes/common/sos.rpy:158
 translate english sos_random_thought_cat_7_89778492:
 
     # cat_think "{e=jaguar}{e=poop}{e=persevering}"
-    cat_think "{e=jaguar}{e=poop}{e=persevering}"
+    cat_think "{e=jaguar}{e=poop}{e=persevering}{alt}Jaguar – bitch!{/alt}"
 
 # game/scenes/common/sos.rpy:161
 translate english sos_random_thought_cat_8_6cd87930:
 
     # cat_think "{e=spear}{e=monkey}{e=cooking}{e=consume}{e=beaming_face}"
-    cat_think "{e=spear}{e=monkey}{e=cooking}{e=consume}{e=beaming_face}"
+    cat_think "{e=spear}{e=monkey}{e=cooking}{e=consume}{e=beaming_face}{alt}I catch that monkey for dinner one day{/alt}"
 
 # game/scenes/common/sos.rpy:164
 translate english sos_random_thought_cat_9_a65b9aa1:
 
     # cat_think "{e=sex}{e=sparkles}{e=smiling_face_with_hearts}{e=blush}"
-    cat_think "{e=sex}{e=sparkles}{e=smiling_face_with_hearts}{e=blush}"
+    cat_think "{e=sex}{e=sparkles}{e=smiling_face_with_hearts}{e=blush}{alt}Sex is cool{/alt}"
 
 # game/scenes/common/sos.rpy:167
 translate english sos_random_thought_cat_10_9d4d540e:
 
     # cat_think "{e=coconut}{e=poop}"
-    cat_think "{e=coconut}{e=poop}"
+    cat_think "{e=coconut}{e=poop}{alt}Coconuts are shit.{/alt}"
 
 # game/scenes/common/sos.rpy:168
 translate english sos_random_thought_cat_10_5493e641:
 
     # cat_think "{e=octa}{e=smiling_face_with_hearts}{e=coconut}{e=question_white}{e=nauseated_face}"
-    cat_think "{e=octa}{e=smiling_face_with_hearts}{e=coconut}{e=question_white}{e=nauseated_face}"
+    cat_think "{e=octa}{e=smiling_face_with_hearts}{e=coconut}{e=question_white}{e=nauseated_face}{alt}How does Octa eat them?{/alt}"
 
 # game/scenes/common/sos.rpy:171
 translate english sos_random_thought_cat_11_769ccc35:
 
     # cat_think "{e=lick}{e=wound}{e=lee}{e=health}{e=question_white}"
-    cat_think "{e=lick}{e=wound}{e=lee}{e=health}{e=question_white}"
+    cat_think "{e=lick}{e=wound}{e=lee}{e=health}{e=question_white}{alt}Can I simply lick Lee’s wounds?{/alt}"
 
 # game/scenes/common/sos.rpy:174
 translate english sos_random_thought_cat_12_76890c01:
 
     # cat_think "{e=lee}{e=skull}{e=question_white}{e=crying_cat}"
-    cat_think "{e=lee}{e=skull}{e=question_white}{e=crying_cat}"
+    cat_think "{e=lee}{e=skull}{e=question_white}{e=crying_cat}{alt}And what if Lee dies?{/alt}"
 
 # game/scenes/common/sos.rpy:178
 translate english sos_random_thought_lee_cat_1_a3627d61:
@@ -302,7 +302,7 @@ translate english sos_random_thought_lee_cat_9_96abb86e:
 translate english sos_random_thought_lee_cat_9_bbf1b89b:
 
     # cat "{e=lee}{e=poop}{e=steam_from_nose}"
-    cat "{e=lee}{e=poop}{e=steam_from_nose}{alt}Uuu! Filthy Lee!{/alt}"
+    cat "{e=lee}{e=poop}{e=steam_from_nose}{alt}Uuu! Poopy Lee!{/alt}"
 
 # game/scenes/common/sos.rpy:233
 translate english sos_random_thought_lee_cat_octa_1_b6de71cb:

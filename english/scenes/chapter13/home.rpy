@@ -165,7 +165,7 @@ translate english scene_chapter13_home_9b58c085:
 translate english scene_chapter13_home_f64131a1:
 
     # cat "{e=steam_from_nose}{e=rolling_eyes}{e=yes}"
-    cat "Oh well, all right…"
+    cat "{e=steam_from_nose}{e=rolling_eyes}{e=yes}{alt}Oh well, all right…{/alt}"
 
 # game/scenes/chapter13/home.rpy:85
 translate english scene_chapter13_home_c0b25b00:
