@@ -179,3 +179,7 @@
     # game/dicts/task.rpy:1283
     old "{e=paper}{e=cave}{e=arrow_right}{e=draw}{e=map}"
     new "Jetzt, wo ich Papier habe, kann ich zurück in die Höhle und die Karte kopieren."
+
+    # game/dicts/task.rpy:2
+    old "{e=weary_face}{e=yawning_face}{e=hourglass}{e=arrow_right}"
+    new "Uff, ich bin müde, ich werde später weitermachen."

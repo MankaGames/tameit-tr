@@ -197,3 +197,8 @@ translate german scene_chapter05_inside_fbd0c56f:
     lee_think "Aber ich weiß, wo wir noch Fortschritte machen können..."
     lee_think "Ich werde sie einfach jede Nacht befummeln, bis sie selbst darum bittet."
 
+translate german strings:
+
+    # game/scenes/chapter05/home.rpy:93
+    old "The dialog window allows you to communicate with characters, give them tasks, groom them and give them gifts."
+    new "Das Dialogfenster ermöglicht dir, mit den Charakteren zu kommunizieren, ihnen Aufgaben zu geben, sie zu pflegen und ihnen Geschenke zu geben."

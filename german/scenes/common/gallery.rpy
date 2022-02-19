@@ -4,7 +4,7 @@
 translate german gallery_menu_e897898c:
 
     # cat_think "{e=storage}{e=lock}{e=confused_face}"
-    cat_think "{e=storage}{e=lock}{e=confused_face}"
+    cat_think "{e=storage}{e=lock}{e=confused_face}{alt}Ich kann sie nicht öffnen.{/alt}"
 
 # game/scenes/common/gallery.rpy:14
 translate german gallery_remember_b1593b0e:

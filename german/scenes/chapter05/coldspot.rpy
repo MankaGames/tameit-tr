@@ -39,3 +39,8 @@ translate german scene_coldspot_ch05_f80e5c4e:
     lee "Autsch! Okay, okay, es ist meine Schuld, es tut mir leid!"
     lee "Ich fasse dich nicht mehr an, siehst du? Bitte, keine Krallen mehr!"
 
+# game/scenes/chapter05/coldspot.rpy:76
+translate german scene_coldspot_ch05_d90305b7:
+
+    # lee_think "{e=hourglass}{e=night}{e=take}{e=catgirl}{e=smirk}"
+    lee_think "Ich muss morgen Abend wieder mit ihr spielen."
