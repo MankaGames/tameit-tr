@@ -76,13 +76,13 @@ translate german scene_chapter09_lake_bad_fishing_08639e28:
 translate german scene_chapter09_lake_bad_fishing_9362078d:
 
     # cat "{e=pouting_cat}{e=octopus}{e=poop}{e=exclamation}{e=arrow_right}"
-    cat "{e=pouting_cat}{e=octopus}{e=poop}{e=exclamation}{e=arrow_right}"
+    cat "{e=pouting_cat}{e=octopus}{e=poop}{e=exclamation}{e=arrow_right}{alt}Verschwinde, du stinkender Oktopus!{/alt}"
 
 # game/scenes/chapter09/lake_area.rpy:123
 translate german scene_chapter09_lake_bad_fishing_633a9a52:
 
     # cat "{e=lee}{e=smiling_face_with_hearts}{e=catgirl}{e=no}{e=octopus}"
-    cat "{e=lee}{e=smiling_face_with_hearts}{e=catgirl}{e=no}{e=octopus}"
+    cat "{e=lee}{e=smiling_face_with_hearts}{e=catgirl}{e=no}{e=octopus}{alt}Lee mag mich, nicht dich!{/alt}"
 
 # game/scenes/chapter09/lake_area.rpy:127
 translate german scene_chapter09_lake_bad_fishing_90d35e10:
@@ -107,7 +107,7 @@ translate german scene_chapter09_lake_bad_fishing_7a804e2f:
 translate german scene_chapter09_lake_bad_fishing_8a101472:
 
     # cat "{e=catgirl}{e=water}{e=confounded face}{e=octopus}{e=pouting_face}"
-    cat "{e=catgirl}{e=water}{e=confounded face}{e=octopus}{e=pouting_face}"
+    cat "{e=catgirl}{e=water}{e=confounded face}{e=octopus}{e=pouting_face}{alt}Cat ist nass! Blöder Oktopus!{/alt}"
 
 # game/scenes/chapter09/lake_area.rpy:151
 translate german scene_chapter09_lake_bad_fishing_a3f208ed:
@@ -125,13 +125,13 @@ translate german scene_chapter09_lake_surprise_e447d114:
 translate german scene_chapter09_lake_surprise_3be3b572:
 
     # cat "{e=lee}{e=exclamation_white}{e=arrow_right}{e=cave}{e=question}"
-    cat "{e=lee}{e=exclamation_white}{e=arrow_right}{e=cave}{e=question}"
+    cat "{e=lee}{e=exclamation_white}{e=arrow_right}{e=cave}{e=question}{alt}Lee! Wo bist du gewesen? In der Höhle, stimmt's?{/alt}"
 
 # game/scenes/chapter09/lake_area.rpy:173
 translate german scene_chapter09_lake_surprise_2b0376e8:
 
     # cat "{e=lee}{e=octopus}{e=coconut}{e=coconut}{e=question}"
-    cat "{e=lee}{e=octopus}{e=coconut}{e=coconut}{e=question}"
+    cat "{e=lee}{e=octopus}{e=coconut}{e=coconut}{e=question}{alt}Lee war bei dieser Oktopee und ihren Kokosnüssen?!{/alt}"
 
 # game/scenes/chapter09/lake_area.rpy:174
 translate german scene_chapter09_lake_surprise_80df95c7:
@@ -143,7 +143,7 @@ translate german scene_chapter09_lake_surprise_80df95c7:
 translate german scene_chapter09_lake_surprise_b9b65a2c:
 
     # cat "{e=pouting_cat}{e=pouting_face}{e=exclamation}"
-    cat "{e=pouting_cat}{e=pouting_face}{e=exclamation}"
+    cat "{e=pouting_cat}{e=pouting_face}{e=exclamation}{alt}Lee ist böse! Blöde Kacke!{/alt}"
 
 # game/scenes/chapter09/lake_area.rpy:187
 translate german scene_chapter09_lake_surprise_011baa06:
@@ -181,7 +181,7 @@ translate german scene_chapter09_wrecks_plane_door_right_view_9de9c4ae:
 translate german scene_chapter09_octa_shelter_conflict_5b3875b9:
 
     # cat "{e=octopus}{e=poop}{e=exclamation}{e=skull}{e=pouting_face}"
-    cat "{e=octopus}{e=poop}{e=exclamation}{e=skull}{e=pouting_face}"
+    cat "{e=octopus}{e=poop}{e=exclamation}{e=skull}{e=pouting_face}{alt}Hässlicher Oktopus ruiniert alles! Ich hasse dich und deine Kokosnüsse!{/alt}"
 
 # game/scenes/chapter09/lake_area.rpy:443
 translate german scene_chapter09_octa_shelter_conflict_4bd3b9bb:
@@ -193,19 +193,19 @@ translate german scene_chapter09_octa_shelter_conflict_4bd3b9bb:
 translate german scene_chapter09_octa_shelter_conflict_97320186:
 
     # cat "{e=lee}{e=poop}{e=pouting_cat}"
-    cat "{e=lee}{e=poop}{e=pouting_cat}"
+    cat "{e=lee}{e=poop}{e=pouting_cat}{alt}Lee! Das ist alles deine Schuld!{/alt}"
 
 # game/scenes/chapter09/lake_area.rpy:445
 translate german scene_chapter09_octa_shelter_conflict_4eb18d28:
 
     # cat "{e=lee}{e=take}{e=no}{e=catgirl}"
-    cat "{e=lee}{e=take}{e=no}{e=catgirl}"
+    cat "{e=lee}{e=take}{e=no}{e=catgirl}{alt}Lasst mich los!{/alt}"
 
 # game/scenes/chapter09/lake_area.rpy:456
 translate german scene_chapter09_octa_shelter_conflict_b77a4727:
 
     # cat "{e=boom}{e=pouting_face}{e=crying_cat}"
-    cat "{e=boom}{e=pouting_face}{e=crying_cat}"
+    cat "{e=boom}{e=pouting_face}{e=crying_cat}{alt}Nimm das! Dummer, mieser Lee!{/alt}"
 
 # game/scenes/chapter09/lake_area.rpy:457
 translate german scene_chapter09_octa_shelter_conflict_b4839fc7:

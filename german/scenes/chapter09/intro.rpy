@@ -2,25 +2,25 @@
 translate german scene_chapter09_intro_d0033189:
 
     # cat_think "{e=lee}{e=unamused_face}"
-    cat_think "{e=lee}{e=unamused_face}"
+    cat_think "{e=lee}{e=unamused_face}{alt}Lee ist böse.{/alt}"
 
 # game/scenes/chapter09/intro.rpy:42
 translate german scene_chapter09_intro_5da9e826:
 
     # cat_think "{e=lee}{e=eyes}{e=coconut}{e=coconut}{e=octopus}"
-    cat_think "{e=lee}{e=eyes}{e=coconut}{e=coconut}{e=octopus}"
+    cat_think "{e=lee}{e=eyes}{e=coconut}{e=coconut}{e=octopus}{alt}Lee sah sich Oktopee-Kokosnüsse an.{/alt}"
 
 # game/scenes/chapter09/intro.rpy:46
 translate german scene_chapter09_intro_a1432d4d:
 
     # cat_think "{e=octopus}{e=pouting_cat}{e=exclamation_white}{e=pouting_face}"
-    cat_think "{e=octopus}{e=pouting_cat}{e=exclamation_white}{e=pouting_face}"
+    cat_think "{e=octopus}{e=pouting_cat}{e=exclamation_white}{e=pouting_face}{alt}Blöder Oktopus, warum haben wir ihn überhaupt gefangen!{/alt}"
 
 # game/scenes/chapter09/intro.rpy:47
 translate german scene_chapter09_intro_a96413f6:
 
     # cat "{e=beard}{e=confounded face}{e=persevering}{e=exclamation_white}"
-    cat "{e=beard}{e=confounded face}{e=persevering}{e=exclamation_white}"
+    cat "{e=beard}{e=confounded face}{e=persevering}{e=exclamation_white}{alt}Und dieses furchtbare stachelige Fell!{/alt}"
 
 # game/scenes/chapter09/intro.rpy:51
 translate german scene_chapter09_intro_8cc14e76:

@@ -8,13 +8,13 @@ translate german scene_chapter09_home_0141e6be:
 translate german scene_chapter09_home_b8413400:
 
     # cat "{e=lee}{e=question_white}"
-    cat "{e=lee}{e=question_white}"
+    cat "{e=lee}{e=question_white}{alt}Lee, was machst du?{/alt}"
 
 # game/scenes/chapter09/home.rpy:33
 translate german scene_chapter09_home_49eabbe3:
 
     # cat "{e=no}{e=beard}{e=exclamation_question}{e=astonished_face}"
-    cat "{e=no}{e=beard}{e=exclamation_question}{e=astonished_face}"
+    cat "{e=no}{e=beard}{e=exclamation_question}{e=astonished_face}{alt}Wo ist dein Fell hin?{/alt}"
 
 # game/scenes/chapter09/home.rpy:38
 translate german scene_chapter09_home_114b0d19:
@@ -33,7 +33,7 @@ translate german scene_chapter09_home_11f16c59:
 translate german scene_chapter09_home_61b3bdb9:
 
     # cat "{e=lee}{e=crazy}{e=grinning_cat}"
-    cat "{e=lee}{e=crazy}{e=grinning_cat}"
+    cat "{e=lee}{e=crazy}{e=grinning_cat}{alt}Ich weiß nicht, Lee ist komisch. Aber wenigstens ist er nicht mehr stachelig.{/alt}"
 
 # game/scenes/chapter09/home.rpy:56
 translate german scene_chapter09_home_fde8bdc1:
@@ -145,13 +145,13 @@ translate german scene_chapter09_inside_outro_e7ffb98b:
 translate german scene_chapter09_inside_outro_bbf1b89b:
 
     # cat "{e=lee}{e=poop}{e=steam_from_nose}"
-    cat "{e=lee}{e=poop}{e=steam_from_nose}"
+    cat "{e=lee}{e=poop}{e=steam_from_nose}{alt}Grrrr! Lee ist böse! Cat hasst Lee!{/alt}"
 
 # game/scenes/chapter09/home.rpy:197
 translate german scene_chapter09_inside_outro_3603b886:
 
     # cat "{e=catgirl}{e=ear}{e=no}{e=speak}{e=no}"
-    cat "{e=catgirl}{e=ear}{e=no}{e=speak}{e=no}"
+    cat "{e=catgirl}{e=ear}{e=no}{e=speak}{e=no}{alt}Cat hört nicht und redet nicht mit Lee!{/alt}"
 
 # game/scenes/chapter09/home.rpy:198
 translate german scene_chapter09_inside_outro_da3e460d:
@@ -174,7 +174,7 @@ translate german scene_chapter09_inside_outro_46a0f586:
 translate german scene_chapter09_inside_outro_fe13f5f4:
 
     # cat "{e=boom}{e=surprised}{e=exclamation_white}"
-    cat "{e=boom}{e=surprised}{e=exclamation_white}"
+    cat "{e=boom}{e=surprised}{e=exclamation_white}{alt}Aua! Autsch! Was machst du denn?!{/alt}"
 
 # game/scenes/chapter09/home.rpy:210
 translate german scene_chapter09_inside_outro_ed480000:
@@ -188,7 +188,7 @@ translate german scene_chapter09_inside_outro_ed480000:
 translate german scene_chapter09_inside_outro_5625ae6a:
 
     # cat "{e=astonished_face}{ellipsis}{e=smiling_face}{e=smirk}"
-    cat "{e=astonished_face}{ellipsis}{e=smiling_face}{e=smirk}"
+    cat "{e=astonished_face}{ellipsis}{e=smiling_face}{e=smirk}{alt}Autsch... Ohhhh!.. Wow!{/alt}"
 
 # game/scenes/chapter09/home.rpy:218
 translate german scene_chapter09_inside_outro_5ca700dd:
@@ -225,7 +225,7 @@ translate german scene_chapter09_inside_outro_0a9873ed:
 translate german scene_chapter09_inside_outro_ad69f361:
 
     # cat "{e=grinning_cat}{e=smiling_face_with_hearts}"
-    cat "{e=grinning_cat}{e=smiling_face_with_hearts}"
+    cat "{e=grinning_cat}{e=smiling_face_with_hearts}{alt}Schnurrr! Ich weiß nicht...{/alt}"
 
 # game/scenes/chapter09/home.rpy:246
 translate german scene_chapter09_inside_outro_057c94bc:
@@ -237,7 +237,7 @@ translate german scene_chapter09_inside_outro_057c94bc:
 translate german scene_chapter09_inside_outro_f9d6b83b:
 
     # cat "{e=octopus}{e=confounded face}{e=unamused_face}"
-    cat "{e=octopus}{e=confounded face}{e=unamused_face}"
+    cat "{e=octopus}{e=confounded face}{e=unamused_face}{alt}Cat mag Octopee nicht.{/alt}"
 
 # game/scenes/chapter09/home.rpy:248
 translate german scene_chapter09_inside_outro_e247903e:
@@ -259,10 +259,10 @@ translate german scene_chapter09_inside_outro_1923f0a3:
 translate german scene_chapter09_inside_outro_0085bd78:
 
     # cat "{e=unamused_face}{e=weary_face}{e=angel}"
-    cat "{e=unamused_face}{e=weary_face}{e=angel}"
+    cat "{e=unamused_face}{e=weary_face}{e=angel}{alt}Vielleicht...{/alt}"
 
 # game/scenes/chapter09/home.rpy:251
 translate german scene_chapter09_inside_outro_3a5fdd52:
 
     # cat "{e=smirk}{e=hug}{e=butt}"
-    cat "{e=smirk}{e=hug}{e=butt}"
+    cat "{e=smirk}{e=hug}{e=butt}{alt}Streichel weiter meinen Hintern!{/alt}"

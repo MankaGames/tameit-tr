@@ -28,7 +28,7 @@ translate german scene_chapter06_contact1_254d1ac4:
 translate german scene_chapter06_contact1_d5fc5509:
 
     # cat "{e=pouting_face}{e=pouting_cat}"
-    cat "{e=pouting_face}{e=pouting_cat}"
+    cat "{e=pouting_face}{e=pouting_cat}{alt}Fass mich nicht an!{/alt}"
 
 # game/scenes/chapter06/coldspot.rpy:162
 translate german scene_chapter06_contact2_efc59b5b:
@@ -62,7 +62,7 @@ translate german scene_chapter06_contact2_d4995b90:
 translate german scene_chapter06_contact2_a0c2fc5c:
 
     # cat "{e=smiley}{e=drooling_face}"
-    cat "{e=smiley}{e=drooling_face}"
+    cat "{e=smiley}{e=drooling_face}{alt}Ich will es!{/alt}"
 
 # game/scenes/chapter06/coldspot.rpy:185
 translate german scene_chapter06_contact2_163dbfd2:
@@ -76,7 +76,7 @@ translate german scene_chapter06_contact2_163dbfd2:
 translate german scene_chapter06_contact2_ad69f361:
 
     # cat "{e=grinning_cat}{e=smiling_face_with_hearts}"
-    cat "{e=grinning_cat}{e=smiling_face_with_hearts}"
+    cat "{e=grinning_cat}{e=smiling_face_with_hearts}{alt}Ja! *Schnurr!*{/alt}"
 
 # game/scenes/chapter06/coldspot.rpy:230
 translate german scene_chapter06_contact2_254d1ac4:
@@ -88,13 +88,13 @@ translate german scene_chapter06_contact2_254d1ac4:
 translate german scene_chapter06_contact2_d5fc5509:
 
     # cat "{e=pouting_face}{e=pouting_cat}"
-    cat "{e=pouting_face}{e=pouting_cat}"
+    cat "{e=pouting_face}{e=pouting_cat}{alt}Fass mich nicht an!{/alt}"
 
 # game/scenes/chapter06/coldspot.rpy:293
 translate german scene_chapter06_contact3_8d68a5dc:
 
     # cat "{e=fish_big}{e=you}{e=catgirl}{e=question_white}{e=drooling_face}"
-    cat "{e=fish_big}{e=you}{e=catgirl}{e=question_white}{e=drooling_face}"
+    cat "{e=fish_big}{e=you}{e=catgirl}{e=question_white}{e=drooling_face}{alt}Ist das für mich?{/alt}"
 
 # game/scenes/chapter06/coldspot.rpy:295
 translate german scene_chapter06_contact3_97fce14d:
@@ -124,7 +124,7 @@ translate german scene_chapter06_contact3_26a4129a:
 translate german scene_chapter06_contact3_d5fc5509:
 
     # cat "{e=pouting_face}{e=pouting_cat}"
-    cat "{e=pouting_face}{e=pouting_cat}"
+    cat "{e=pouting_face}{e=pouting_cat}{alt}Fass mich nicht an!{/alt}"
 
 # game/scenes/chapter06/coldspot.rpy:118
 translate german scene_chapter06_contact1_f80e5c4e:

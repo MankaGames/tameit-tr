@@ -392,7 +392,7 @@ translate german scene_chapter13_home_d889ba03:
 translate german scene_chapter13_home_76ca8166:
 
     # lee_think "{e=jaguar_skin}{e=yes}{e=smiley}"
-    lee_think "Also gut, das Fell ist fertig!\nJetzt kann ich es benutzen."
+    lee_think "Also gut, der Pelz ist fertig!\nJetzt kann ich ihn benutzen."
 
 translate german strings:
 

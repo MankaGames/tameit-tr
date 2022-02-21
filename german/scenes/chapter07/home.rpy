@@ -9,7 +9,7 @@ translate german scene_chapter07_inside_f342fd18:
 translate german scene_chapter07_inside_7925694d:
 
     # cat "{e=thermometer}{e=relieved}{e=lee}{e=thermometer}"
-    cat "{e=thermometer}{e=relieved}{e=lee}{e=thermometer}"
+    cat "{e=thermometer}{e=relieved}{e=lee}{e=thermometer}{alt}Warm. Lee ist warm.{/alt}"
 
 # game/scenes/chapter07/home.rpy:82
 translate german scene_chapter07_inside_6eec660a:
@@ -84,7 +84,7 @@ translate german scene_chapter07_outro_c398a0e5:
 translate german scene_chapter07_outro_9cc27412:
 
     # cat "{e=heart_eyes_cat}{e=grinning_cat}"
-    cat "{e=heart_eyes_cat}{e=grinning_cat}"
+    cat "{e=heart_eyes_cat}{e=grinning_cat}{alt}Schnurr! Lee war gut! Katzenmädchen mag!{/alt}"
 
 # game/scenes/chapter07/home.rpy:100
 translate german scene_chapter07_inside_1b7249e7:

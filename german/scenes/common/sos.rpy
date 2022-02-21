@@ -337,7 +337,7 @@ translate german sos_random_thought_lee_cat_10_38f716ca:
 translate german sos_random_thought_lee_cat_10_4bf95edc:
 
     # cat "{e=astonished_face}{e=exclamation_white}"
-    cat "{e=astonished_face}{e=exclamation_white}"
+    cat "{e=astonished_face}{e=exclamation_white}{alt}*Überrascht*{/alt}"
 
 # game/scenes/common/sos.rpy:298
 translate german sos_random_thought_lee_cat_11_5ee33a23:

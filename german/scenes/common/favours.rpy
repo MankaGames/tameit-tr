@@ -2,7 +2,7 @@
 translate german favour_gift_0ed51c47:
 
     # char "{e=gift}{e=you} {i=[item]}{rt}[count]{/rt}"
-    char "{e=gift}{e=you} {i=[item]}{rt}[count]{/rt}"
+    char "{e=gift}{e=you} {i=[item]}{rt}[count]{/rt}{alt}Für Dich{/alt}"
 
 # game/scenes/common/favours.rpy:4
 translate german favour_gift_e197e613:

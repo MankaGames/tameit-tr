@@ -73,7 +73,7 @@ translate german scene_chapter06_outro_998445b3:
 translate german scene_chapter06_outro_e001ce8a:
 
     # cat "{e=question_white}{e=weary_cat}{e=exclamation_white}{e=pouting_cat}"
-    cat "{e=question_white}{e=weary_cat}{e=exclamation_white}{e=pouting_cat}"
+    cat "{e=question_white}{e=weary_cat}{e=exclamation_white}{e=pouting_cat}{alt}Was ist das?! Ein großer Wurm! Nimm ihn weg!{/alt}"
 
 # game/scenes/chapter06/home.rpy:189
 translate german scene_chapter06_outro_174178c2:

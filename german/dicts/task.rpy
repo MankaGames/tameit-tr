@@ -182,4 +182,4 @@
 
     # game/dicts/task.rpy:2
     old "{e=weary_face}{e=yawning_face}{e=hourglass}{e=arrow_right}"
-    new "Uff, ich bin müde, ich werde später weitermachen."
+    new "Puh, ich bin müde, ich mache später weiter."

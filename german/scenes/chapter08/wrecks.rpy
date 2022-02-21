@@ -43,7 +43,7 @@ translate german scene_chapter08_wrecks_plane1_f994eb42:
 translate german scene_chapter08_wrecks_plane1_1217aa68:
 
     # cat "{e=hushed_face}{e=lee}{e=question_white}"
-    cat "{e=hushed_face}{e=lee}{e=question_white}"
+    cat "{e=hushed_face}{e=lee}{e=question_white}{alt}Was macht Lee?{/alt}"
 
 # game/scenes/chapter08/wrecks.rpy:39
 translate german scene_chapter08_wrecks_plane1_fec43945:
@@ -56,7 +56,7 @@ translate german scene_chapter08_wrecks_plane1_fec43945:
 translate german scene_chapter08_wrecks_plane1_b1167078:
 
     # cat "{e=me}{e=arrow_up}{e=cockpit}{e=grinning_cat}"
-    cat "{e=me}{e=arrow_up}{e=cockpit}{e=grinning_cat}"
+    cat "{e=me}{e=arrow_up}{e=cockpit}{e=grinning_cat}{alt}Ich kann hochklettern. Schau mal.{/alt}"
 
 # game/scenes/chapter08/wrecks.rpy:42
 translate german scene_chapter08_wrecks_plane1_f1b2607e:
@@ -93,13 +93,13 @@ translate german scene_chapter08_wrecks_plane1_75c2cc8a:
 translate german scene_chapter08_wrecks_plane1_7d5a3c9c:
 
     # cat "{e=catgirl}{e=footprints}{e=exclamation_white}{e=grinning_cat}"
-    cat "{e=catgirl}{e=footprints}{e=exclamation_white}{e=grinning_cat}"
+    cat "{e=catgirl}{e=footprints}{e=exclamation_white}{e=grinning_cat}{alt}Ich werde gehen!{/alt}"
 
 # game/scenes/chapter08/wrecks.rpy:86
 translate german scene_chapter08_wrecks_plane3_4ff9f247:
 
     # cat "{e=arrow_right}{e=panties}{e=question}"
-    cat "{e=arrow_right}{e=panties}{e=question}"
+    cat "{e=arrow_right}{e=panties}{e=question}{alt}Was ist das für ein lustiges Teil?{/alt}"
 
 # game/scenes/chapter08/wrecks.rpy:88
 translate german scene_chapter08_wrecks_plane3_ca9bd7ee:
