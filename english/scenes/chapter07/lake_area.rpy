@@ -15,7 +15,7 @@ translate english scene_chapter07_lake_shore_9aae27b9:
 translate english scene_chapter07_lake_shore_d06ea92b:
 
     # cat "{e=lee}{e=exclamation_white}{e=you}{e=fish}{e=astonished_face}"
-    cat "{e=lee}{e=exclamation_white}{e=you}{e=fish}{e=astonished_face}"
+    cat "{e=lee}{e=exclamation_white}{e=you}{e=fish}{e=astonished_face}{alt}Lee! There! Fish! So weird!{/alt}"
 
 # game/scenes/chapter07/lake_area.rpy:35
 translate english scene_chapter07_lake_shore_da206b54:
@@ -95,7 +95,7 @@ translate english scene_chapter07_wrecks_f936e936:
 translate english scene_chapter07_wrecks_climb_to_plane_d06ea92b:
 
     # cat "{e=lee}{e=exclamation_white}{e=you}{e=fish}{e=astonished_face}"
-    cat "{e=lee}{e=exclamation_white}{e=you}{e=fish}{e=astonished_face}"
+    cat "{e=lee}{e=exclamation_white}{e=you}{e=fish}{e=astonished_face}{alt}Lee! There! Fish! So weird!{/alt}"
 
 # game/scenes/chapter07/lake_area.rpy:110
 translate english scene_chapter07_wrecks_climb_to_plane_59d0272e:
@@ -170,7 +170,7 @@ translate english scene_chapter07_wrecks_crash_0de39e36:
 translate english scene_chapter07_wrecks_crash_70e254ee:
 
     # cat "{e=weary_cat}{e=exclamation}"
-    cat "{e=weary_cat}{e=exclamation}"
+    cat "{e=weary_cat}{e=exclamation}{alt}Meowwwwwww!{/alt}"
 
 # game/scenes/chapter07/lake_area.rpy:185
 translate english scene_chapter07_wrecks_crash_c021d6b6:
@@ -188,7 +188,7 @@ translate english scene_chapter07_wrecks_free_4a256660:
 translate english scene_chapter07_wrecks_free_c1d3a499:
 
     # cat "{e=crying_cat}{e=exclamation}"
-    cat "{e=crying_cat}{e=exclamation}"
+    cat "{e=crying_cat}{e=exclamation}{alt}Meow! Lee! Here!{/alt}"
 
 # game/scenes/chapter07/lake_area.rpy:202
 translate english scene_chapter07_wrecks_free_cc240844:
@@ -248,7 +248,7 @@ translate english scene_chapter07_wrecks_free_9811a2a6:
 translate english scene_chapter07_wrecks_free_d3cc6c79:
 
     # cat "{e=grinning_cat}{e=sparkles}{e=exclamation_white}"
-    cat "{e=grinning_cat}{e=sparkles}{e=exclamation_white}"
+    cat "{e=grinning_cat}{e=sparkles}{e=exclamation_white}{alt}Lee! Purrr!{/alt}"
 
 # game/scenes/chapter07/lake_area.rpy:241
 translate english scene_chapter07_wrecks_free_c196c47a:
@@ -278,7 +278,7 @@ translate english scene_chapter07_wrecks_free_e5db8e40:
 translate english scene_chapter07_wrecks_free_9fb747b6:
 
     # cat "{e=cold_sweat}{e=boom}"
-    cat "{e=cold_sweat}{e=boom}"
+    cat "{e=cold_sweat}{e=boom}{alt}Scared. Big boom!{/alt}"
 
 # game/scenes/chapter07/lake_area.rpy:246
 translate english scene_chapter07_wrecks_free_3d9e33b1:
@@ -372,13 +372,13 @@ translate english scene_chapter07_lake_swim_1be9b087:
 translate english scene_chapter07_lake_swim_e3070de2:
 
     # cat "{e=fearful_face}{e=cold_sweat}"
-    cat "{e=fearful_face}{e=cold_sweat}"
+    cat "{e=fearful_face}{e=cold_sweat}{alt}Scared.{/alt}"
 
 # game/scenes/chapter07/lake_area.rpy:338
 translate english scene_chapter07_lake_swim_58a46953:
 
     # cat "{e=water}{e=confounded face}"
-    cat "{e=water}{e=confounded face}"
+    cat "{e=water}{e=confounded face}{alt}All wet.{/alt}"
 
 # game/scenes/chapter07/lake_area.rpy:339
 translate english scene_chapter07_lake_swim_5f9682a1:

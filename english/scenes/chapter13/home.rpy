@@ -388,7 +388,7 @@ translate english scene_chapter13_home_d889ba03:
 translate english scene_chapter13_home_76ca8166:
 
     # lee_think "{e=jaguar_skin}{e=yes}{e=smiley}"
-    lee_think "All right, the hide is ready! Now I can use it."
+    lee_think "All right, the pelt is ready! Now I can use it."
 
 translate english strings:
 

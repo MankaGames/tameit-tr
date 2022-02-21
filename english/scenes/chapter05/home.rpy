@@ -55,7 +55,7 @@ translate english scene_chapter05_inside_c652f5b4:
 translate english scene_chapter05_inside_f63d01d9:
 
     # cat "{e=confusion}"
-    cat "{e=confusion}"
+    cat "{e=confusion}{alt}*Confused*{/alt}"
 
 # game/scenes/chapter05/home.rpy:111
 translate english scene_chapter05_inside_5f81e3d5:
@@ -73,7 +73,7 @@ translate english scene_chapter05_inside_7bcf3479:
 translate english scene_chapter05_inside_f63d01d9_1:
 
     # cat "{e=confusion}"
-    cat "{e=confusion}"
+    cat "{e=confusion}{alt}*Confused*{/alt}"
 
 # game/scenes/chapter05/home.rpy:114
 translate english scene_chapter05_inside_13d60782:
@@ -107,7 +107,7 @@ translate english scene_chapter05_outro_baf7d2a0:
 translate english scene_chapter05_outro_494232dd:
 
     # cat "{e=weary_cat}{e=weary_cat}{e=weary_cat}"
-    cat "{e=weary_cat}{e=weary_cat}{e=weary_cat}"
+    cat "{e=weary_cat}{e=weary_cat}{e=weary_cat}{alt}Aaaaa!!{/alt}"
 
 # game/scenes/chapter05/home.rpy:174
 translate english scene_chapter05_outro_47bb7635:

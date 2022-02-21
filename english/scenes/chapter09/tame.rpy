@@ -15,7 +15,7 @@ translate english scene_chapter09_tame_47690411:
 
     # lee_think "{e=gift}{e=smiling_face_with_hearts}{e=octa}{e=question_white}{e=thinking_face}"
     lee_think "I wonder what she would like."
-    lee_think "I know she likes fruit, but could there be something that she might like even more?"
+    lee_think "I know she likes fruits, but could there be something that she might like even more?"
 
 # game/scenes/chapter09/tame.rpy:65
 translate english scene_chapter09_tame_d9093360:

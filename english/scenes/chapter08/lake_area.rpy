@@ -34,13 +34,13 @@ translate english scene_chapter08_lake_shore_trap1_e1f8674c:
 translate english scene_chapter08_lake_shore_trap1_1973e1f5:
 
     # cat "{e=shushing_face}"
-    cat "{e=shushing_face}"
+    cat "{e=shushing_face}{alt}Shhhh!{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:131
 translate english scene_chapter08_lake_shore_trap1_d33f79bb:
 
     # cat "{e=astonished_face}{e=octo_anon}{e=exclamation_white}"
-    cat "{e=astonished_face}{e=octo_anon}{e=exclamation_white}"
+    cat "{e=astonished_face}{e=octo_anon}{e=exclamation_white}{alt}Something's coming!{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:135
 translate english scene_chapter08_lake_shore_trap1_de852524:
@@ -119,7 +119,7 @@ translate english scene_chapter08_lake_shore_trap1_67cab507:
 translate english scene_chapter08_lake_shore_trap1_3daaf39c:
 
     # cat "{e=lee}{e=confounded face}{e=question_white}{e=crying_face}{e=question_white}"
-    cat "{e=lee}{e=confounded face}{e=question_white}{e=crying_face}{e=question_white}"
+    cat "{e=lee}{e=confounded face}{e=question_white}{e=crying_face}{e=question_white}{alt}Lee is sad? Crying?{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:163
 translate english scene_chapter08_lake_shore_trap1_e817e5a8:
@@ -131,13 +131,13 @@ translate english scene_chapter08_lake_shore_trap1_e817e5a8:
 translate english scene_chapter08_lake_shore_trap1_adf2f8d0:
 
     # cat "{e=relieved}{e=hug}"
-    cat "{e=relieved}{e=hug}"
+    cat "{e=relieved}{e=hug}{alt}Lee couldn't catch Cat at first either, Cat caught Lee.{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:165
 translate english scene_chapter08_lake_shore_trap1_b9ad4cd9:
 
     # cat "{e=octo_anon}{e=arrow_right}{e=lee}{e=smiling_face}"
-    cat "{e=octo_anon}{e=arrow_right}{e=lee}{e=smiling_face}"
+    cat "{e=octo_anon}{e=arrow_right}{e=lee}{e=smiling_face}{alt}Then Сat came herself. Because fish was yummy.{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:166
 translate english scene_chapter08_lake_shore_trap1_1efb03f7:
@@ -161,7 +161,7 @@ translate english scene_chapter08_lake_shore_trap1_4c511ccf:
 translate english scene_chapter08_lake_shore_trap1_051afd3d:
 
     # cat "{e=lee}{e=crazy}{e=catgirl}{e=smiling_face_with_hearts}{e=lee}"
-    cat "{e=lee}{e=crazy}{e=catgirl}{e=smiling_face_with_hearts}{e=lee}"
+    cat "{e=lee}{e=crazy}{e=catgirl}{e=smiling_face_with_hearts}{e=lee}{alt}Lee is weird, but Cat likes Lee.{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:214
 translate english scene_chapter08_lake_shore_trap2_0cba3f21:
@@ -173,7 +173,7 @@ translate english scene_chapter08_lake_shore_trap2_0cba3f21:
 translate english scene_chapter08_lake_shore_trap2_e974dbc2:
 
     # cat "{e=shushing_face}{e=question_white}"
-    cat "{e=shushing_face}{e=question_white}"
+    cat "{e=shushing_face}{e=question_white}{alt}Shhh?{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:216
 translate english scene_chapter08_lake_shore_trap2_be3e2abb:
@@ -191,7 +191,7 @@ translate english scene_chapter08_lake_shore_trap2_6477f333:
 translate english scene_chapter08_lake_shore_trap2_dc2e7db2:
 
     # cat "{e=lake_trap}{e=arrow_down}{e=exclamation_white}"
-    cat "{e=lake_trap}{e=arrow_down}{e=exclamation_white}"
+    cat "{e=lake_trap}{e=arrow_down}{e=exclamation_white}{alt}The grid! Down!{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:231
 translate english scene_chapter08_lake_shore_trap2_32dbe370:
@@ -209,7 +209,7 @@ translate english scene_chapter08_lake_shore_trap2_4a908d9b:
 translate english scene_chapter08_lake_shore_trap2_8780f419:
 
     # cat_think "{e=eyes}{e=lee}{e=grinning_cat}"
-    cat_think "{e=eyes}{e=lee}{e=grinning_cat}"
+    cat_think "{e=eyes}{e=lee}{e=grinning_cat}{alt}Lee cheered. That's a good.{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:250
 translate english scene_chapter08_lake_shore_trap2_aae24fa9:
@@ -227,7 +227,7 @@ translate english scene_chapter08_lake_shore_trap2_bc6b6280:
 translate english scene_chapter08_lake_shore_trap2_70e254ee:
 
     # cat "{e=weary_cat}{e=exclamation}"
-    cat "{e=weary_cat}{e=exclamation}"
+    cat "{e=weary_cat}{e=exclamation}{alt}What's this thing?! Cat is scared!{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:260
 translate english scene_chapter08_lake_shore_trap2_8ede3450:
@@ -277,19 +277,19 @@ translate english scene_chapter08_lake_shore_trap2_c803badf:
 translate english scene_chapter08_lake_shore_trap2_38f3e465:
 
     # cat_think "{e=face_without_mouth}{e=coconut}{e=coconut}{e=question_white}"
-    cat_think "{e=face_without_mouth}{e=coconut}{e=coconut}{e=question_white}"
+    cat_think "{e=face_without_mouth}{e=coconut}{e=coconut}{e=question_white}{alt}Coconuts? No... what's she got? So big...{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:293
 translate english scene_chapter08_lake_shore_trap2_052bcd5a:
 
     # cat_think "{e=me}{e=berries}{e=berries}{e=question_white}{e=frowning_face}"
-    cat_think "{e=me}{e=berries}{e=berries}{e=question_white}{e=frowning_face}"
+    cat_think "{e=me}{e=berries}{e=berries}{e=question_white}{e=frowning_face}{alt}Mine are... like berries?{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:294
 translate english scene_chapter08_lake_shore_trap2_3e051070:
 
     # cat "{e=lee}{ellipsis}{e=lee}{e=question_white}"
-    cat "{e=lee}{ellipsis}{e=lee}{e=question_white}"
+    cat "{e=lee}{ellipsis}{e=lee}{e=question_white}{alt}Lee... Lee?{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:318
 translate english scene_chapter08_lake_shore_trap2_04c281b5:
@@ -358,7 +358,7 @@ translate english scene_chapter08_lake_7cd90136:
 translate english scene_chapter08_lake_e1dd4800:
 
     # cat "{e=lee}{e=fishing}{e=question_white}"
-    cat "{e=lee}{e=fishing}{e=question_white}"
+    cat "{e=lee}{e=fishing}{e=question_white}{alt}Is Lee catching fish?{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:371
 translate english scene_chapter08_lake_25af110d:
@@ -370,7 +370,7 @@ translate english scene_chapter08_lake_25af110d:
 translate english scene_chapter08_lake_bc5fcdda:
 
     # cat "{e=me}{e=drooling_face}{e=question}"
-    cat "{e=me}{e=drooling_face}{e=question}"
+    cat "{e=me}{e=drooling_face}{e=question}{alt}For me?{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:373
 translate english scene_chapter08_lake_0b95b7e9:

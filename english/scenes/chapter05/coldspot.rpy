@@ -2,7 +2,7 @@
 translate english scene_coldspot_ch05_d5fc5509:
 
     # cat "{e=pouting_face}{e=pouting_cat}"
-    cat "{e=pouting_face}{e=pouting_cat}"
+    cat "{e=pouting_face}{e=pouting_cat}{alt}Don't touch me!{/alt}"
 
 # game/scenes/chapter05/coldspot.rpy:70
 translate english scene_coldspot_ch05_46a7ccf3:
@@ -40,5 +40,5 @@ translate english scene_coldspot_ch05_f80e5c4e:
 translate english scene_coldspot_ch05_d90305b7:
 
     # lee_think "{e=hourglass}{e=night}{e=take}{e=catgirl}{e=smirk}"
-    lee_think "We need to play with her again next night."
+    lee_think "I gotta play with her a bit more tomorrow night."
 
