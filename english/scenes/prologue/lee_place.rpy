@@ -29,7 +29,7 @@ translate english scene_prologue_lee_place_4ac84862:
 translate english scene_prologue_lee_place_drink_a064951c:
 
     # lee_think "{e=water bottle}{e=tonya}{e=question}"
-    lee_think "Perhaps I should bring her bottle back?"
+    lee_think "Should I perhaps bring the bottle back to her?"
 
 translate english strings:
 

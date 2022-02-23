@@ -20,7 +20,7 @@ translate english scene_chapter02_intro_b14857f6:
 translate english scene_chapter02_intro_71ddc414:
 
     # lee_think "{e=face_without_mouth}{e=exclamation}{e=fearful_face}"
-    lee_think "The hell was that sound?!"
+    lee_think "Shit! What the hell was that sound?!"
 
 # game/scenes/chapter02/intro.rpy:33
 translate english scene_chapter02_intro_9778eefc:
@@ -38,7 +38,7 @@ translate english scene_chapter02_intro_cf9f9be5:
 translate english scene_chapter02_intro_ed65960f:
 
     # lee_think "{e=ear}{e=exclamation}{e=scream}"
-    lee_think "Shit! It's getting close!"
+    lee_think "Fuck! It's getting close!"
 
 # game/scenes/chapter02/intro.rpy:52
 translate english scene_chapter02_intro_d5f78453:
@@ -51,7 +51,7 @@ translate english scene_chapter02_intro_d5f78453:
 translate english scene_chapter02_intro_1ed7cdcf:
 
     # lee_think "{e=thinking_face}{e=arrow_right}{e=bonfire}{e=question_white}"
-    lee_think "So, what would I need then?"
+    lee_think "So, what do I need then?"
 
 # game/scenes/chapter02/intro.rpy:54
 translate english scene_chapter02_intro_7c225b9e:

@@ -8,7 +8,7 @@ translate english scene_prologue_scene70_3c846659:
 translate english scene_prologue_scene70_702889e1:
 
     # tonya_think "{e=lee}{e=heart}{e=smirk}"
-    tonya_think "This lad looks kinda nice. \nMaybe I should play with him a little."
+    tonya_think "This lad looks kinda nice. \nMaybe I should play with him a\u00A0little."
 
 # game/scenes/prologue/scene7.rpy:43
 translate english scene_prologue_scene70_9b853cb4:

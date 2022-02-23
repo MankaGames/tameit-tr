@@ -21,5 +21,5 @@ translate english scene_chapter01_forest_bamboo1_d1b526f0:
 
     # lee_think "{e=skull_and_crossbones}{e=exclamation}{e=confounded face}"
     lee_think "I hope I won't have to eat it. It also look kinda poisonous."
-    lee_think "I should be careful if I mean to keep alive."
+    lee_think "I should be careful if I wanna stay alive."
 

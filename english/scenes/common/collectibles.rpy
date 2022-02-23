@@ -4,7 +4,7 @@ translate english get_tonyas_photo_bc043184:
     # lee_think "{e=tonya}{e=heart}{e=exclamation}"
     lee_think "A picture of Tonya! How did it get there? Did it just fall off the plane?"
     lee_think "I'll take it with me, who knows how many lonely nights I'll spend here,"
-    lee_think "but first I need to cut this creepy man off."
+    lee_think "but first I need to tear the part with this creepy man off."
 
 translate english strings:
 

@@ -181,7 +181,7 @@ translate english sos_random_thought_cat_12_76890c01:
 translate english sos_random_thought_lee_cat_1_a3627d61:
 
     # cat "{e=arrow_right}{e=ocean}{e=you}{e=hut}{e=question_white}"
-    cat "{e=arrow_right}{e=ocean}{e=you}{e=hut}{e=question_white}{alt}Is it your house?{/alt}"
+    cat "{e=arrow_right}{e=ocean}{e=you}{e=hut}{e=question_white}{alt}Is that your house?{/alt}"
 
 # game/scenes/common/sos.rpy:179
 translate english sos_random_thought_lee_cat_1_b5b2c2b3:
@@ -302,7 +302,7 @@ translate english sos_random_thought_lee_cat_9_96abb86e:
 translate english sos_random_thought_lee_cat_9_bbf1b89b:
 
     # cat "{e=lee}{e=poop}{e=steam_from_nose}"
-    cat "{e=lee}{e=poop}{e=steam_from_nose}{alt}Uuu! Poopy Lee!{/alt}"
+    cat "{e=lee}{e=poop}{e=steam_from_nose}{alt}Uuu! Nasty Lee!{/alt}"
 
 # game/scenes/common/sos.rpy:233
 translate english sos_random_thought_lee_cat_octa_1_b6de71cb:

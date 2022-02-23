@@ -14,7 +14,7 @@ translate english scene_chapter01_beach3_tutorial_6ebf95d5:
 translate english scene_chapter01_beach3_tutorial_857bd662:
 
     # lee_think "{e=eyes}{e=magnifying_glass}{e=desert island}"
-    lee_think "Now I should take a look around and try to figure out where the hell did I end up."
+    lee_think "Now I should take a look around and try to figure out where the hell I ended up."
 
 # game/scenes/chapter01/beach3.rpy:54
 translate english scene_chapter01_beach3_tutorial_347d298a:
@@ -32,8 +32,8 @@ translate english scene_chapter01_beach3_347a3ff3:
 translate english scene_chapter01_beach3_tutorial_9843428e:
 
     # lee_think "{e=coconut}{e=arrow_right}{e=coconut_bowl}{e=arrow_right}{e=coconut_bowl_water}"
-    lee_think "I can find a use for these coconut parts, can pass for decent canteen,"
-    lee_think "so I'll always have some drinkable water with me."
+    lee_think "I can find a use for these coconut shells, can pass for decent canteen,"
+    lee_think "so I'll always have some potable water with me."
 
 # game/scenes/chapter01/beach3.rpy:41
 translate english scene_chapter01_beach3_tutorial_b7c5c171:

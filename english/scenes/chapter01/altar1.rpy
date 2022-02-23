@@ -14,12 +14,12 @@ translate english scene_chapter01_altar1_af583976:
 translate english scene_chapter01_altar1_673ccf89:
 
     # lee_think "{e=thinking_face}{e=consume}{e=question_white}"
-    lee_think "It's quite bigger than a frog and probably not poisonous."
+    lee_think "It's much bigger than a frog and probably not poisonous."
 
 # game/scenes/chapter01/altar1.rpy:27
 translate english scene_chapter01_altar1_4c99901d:
 
     # lee_think "{e=nauseated_face}{e=confounded face}"
-    lee_think "If I don't find anything, catching one of them is my only chance to stay alive."
-    lee_think "Gross, but this is how it is."
+    lee_think "If I don't find anything, catching one of them is my only chance to stay alive"
+    lee_think "and don't starve to death.\nGross, but this is how it is."
 

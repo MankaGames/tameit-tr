@@ -39,7 +39,7 @@ translate english scene_chapter10_octa_shelter_gifting_bd841f62:
 translate english scene_chapter10_octa_shelter_gifting_8f21d64e:
 
     # octa "{e=confusion}"
-    octa "{e=confusion}"
+    octa "{e=confusion}{alt}*Confused*{/alt}"
 
 # game/scenes/chapter10/lake_area.rpy:201
 translate english scene_chapter10_octa_shelter_gifting_f6035535:
@@ -75,19 +75,19 @@ translate english scene_chapter10_octa_shelter_gifting_41d20a3e:
 translate english scene_chapter10_octa_shelter_gifting_8dfe8f1e:
 
     # cat "{e=pouting_cat}{e=persevering}"
-    cat "{e=pouting_cat}{e=persevering}"
+    cat "{e=pouting_cat}{e=persevering}{alt}Lee, what is this? Ugh! Cat doesn't like it!{/alt}"
 
 # game/scenes/chapter10/lake_area.rpy:215
 translate english scene_chapter10_octa_shelter_gifting_8f74c72c:
 
     # octa "{e=hushed_face}{e=confounded face}"
-    octa "{e=hushed_face}{e=confounded face}"
+    octa "{e=hushed_face}{e=confounded face}{alt}*Confused*{/alt}"
 
 # game/scenes/chapter10/lake_area.rpy:216
 translate english scene_chapter10_octa_shelter_gifting_6165796e:
 
     # cat "{e=steam_from_nose}{e=unamused_face}"
-    cat "{e=steam_from_nose}{e=unamused_face}"
+    cat "{e=steam_from_nose}{e=unamused_face}{alt}Stupid Lee! Take this poopy back.{/alt}"
 
 # game/scenes/chapter10/lake_area.rpy:220
 translate english scene_chapter10_octa_shelter_gifting_d2a4c504:

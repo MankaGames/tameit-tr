@@ -20,13 +20,13 @@ translate english scene_chapter02_home_ba3e841c:
 translate english scene_chapter02_home_17260d7f:
 
     # lee_think "{e=stick}{e=rock}{e=knife}{e=rope}{e=arrow_right}{e=spear}"
-    lee_think "I need a stick, a rock, a couple of ropes, and a knife to create a\u00A0spear."
+    lee_think "I need a stick, a rock, a couple of ropes, and a knife to make a\u00A0spear."
 
 # game/scenes/chapter02/home.rpy:17
 translate english scene_chapter02_home_06e81aeb:
 
     # lee_think "{e=thinking_face}{e=hammer}{e=fence}"
-    lee_think "I should make a fence from sharp spikes. This will keep predators away."
+    lee_think "I should make a fence of sharp spikes. This will keep predators away."
 
 # game/scenes/chapter02/home.rpy:20
 translate english scene_chapter02_home_51b6575f:
@@ -38,5 +38,5 @@ translate english scene_chapter02_home_51b6575f:
 translate english scene_chapter02_home_bonfire_table_built_37d99624:
 
     # lee_think "{e=poultry_leg}{e=arrow_right}{e=table}{e=arrow_right}{e=pot_of_food}"
-    lee_think "Good. Now I have a solid workbench and a cooking area at once."
+    lee_think "Good. Now I have a solid workbench and a cooking area all in one."
 

@@ -21,7 +21,7 @@ translate english scene_prologue_scene100_e4422dda:
 translate english scene_prologue_scene100_f94dae95:
 
     # tonya "{e=seat}{e=question}"
-    tonya "Why don't you sit down next to me? As you can see second chair is empty."
+    tonya "Why don't you sit down next to me? As you can see\nthe second chair is empty."
 
 # game/scenes/prologue/scene10.rpy:33
 translate english scene_prologue_scene100_161bb2dc:

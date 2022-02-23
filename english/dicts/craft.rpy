@@ -2,7 +2,7 @@
 
     # game/dicts/craft.rpy:2
     old "{e=thinking_face}{e=spear}{e=wild_hen}{e=crab}"
-    new "I can hunt with a spear from now. Something nutrious to eat, at last."
+    new "I can hunt with the spear now. I'll finally have something nutrious to eat."
 
     # game/dicts/craft.rpy:2
     old "{e=lever}{e=yes}{e=slightly_smiling_face}"

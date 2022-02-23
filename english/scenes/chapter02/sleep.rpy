@@ -38,7 +38,7 @@ translate english scene_sleep_chapter02_7ae8c25b:
 translate english scene_sleep_chapter02_2e22e58a:
 
     # lee_think "{e=face_without_mouth}{e=exclamation}{e=fearful_face}{e=cold_sweat}{e=confounded face}"
-    lee_think "What the actual f...That creature again?"
+    lee_think "What the f...That creature again?"
     lee_think "These wacky dreams, and now this!"
 
 # game/scenes/chapter02/sleep.rpy:38
@@ -51,7 +51,7 @@ translate english scene_sleep_chapter02_ed65960f:
 translate english scene_sleep_chapter02_aca26a68:
 
     # lee_think "{e=persevering}{e=weary_face}{e=yawning_face}{e=expressionless}"
-    lee_think "God, I'm so scared I can't even think of sleeping, but I have to take a nap anyway."
+    lee_think "God, I'm so scared! I need to take a nap, but I'm wide awake after what's just happened."
 
 # game/scenes/chapter02/sleep.rpy:49
 translate english scene_sleep_chapter02_3c90cbbc_2:
@@ -63,14 +63,14 @@ translate english scene_sleep_chapter02_3c90cbbc_2:
 translate english scene_sleep_chapter02_7e615075:
 
     # lee_think "{e=ear}{e=tiger}{e=confounded face}{e=persevering}"
-    lee_think "Oh, no! It's here again! And these sounds... a tiger?"
-    lee_think "I hope there are no tigers here."
+    lee_think "Oh, no! It's here again! And it sounds... like a tiger."
+    lee_think "Are there really tigers here?!"
 
 # game/scenes/chapter02/sleep.rpy:55
 translate english scene_sleep_chapter02_16d98d68:
 
     # lee_think "{e=face_without_mouth}{e=crescent_moon}{e=weary_face}"
-    lee_think "I ain't been able to sleep well because of that for days."
+    lee_think "Haven't been able to sleep well because of that for days."
 
 # game/scenes/chapter02/sleep.rpy:64
 translate english scene_sleep_chapter02_0ee2b10f:
@@ -107,7 +107,7 @@ translate english scene_sleep_chapter02_a1983c1b:
 translate english scene_sleep_chapter02_b7948955:
 
     # lee_think "{e=tiger}{e=panther}{e=exclamation_question}{e=fearful_face}"
-    lee_think "So there are some big cats after all? Tigers or panthers? Who that might be?"
+    lee_think "So there are some big cats after all! Tigers or panthers? Who that might be?"
 
 # game/scenes/chapter02/sleep.rpy:96
 translate english scene_sleep_chapter02_d165def9:
@@ -131,7 +131,7 @@ translate english scene_sleep_chapter02_c4933adb:
 translate english scene_sleep_chapter02_3727b841:
 
     # lee_think "{e=astonished_face}{e=exclamation}{e=question}"
-    lee_think "What in the hell is this?!"
+    lee_think "What freaking hell is this?!"
 
 # game/scenes/chapter02/sleep.rpy:112
 translate english scene_sleep_chapter02_776409f2:

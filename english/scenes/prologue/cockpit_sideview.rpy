@@ -2,7 +2,8 @@
 translate english scene_prologue_cockpit_sideview_57f9f054:
 
     # lee_think "{e=sparkles}{e=cloud}{e=bird}{e=smiley}"
-    lee_think "What a nice view from up here! Much better than looking through a small porthole."
+    lee_think "What a nice view from up here!"
+    lee_think "Much better than looking through a small porthole."
 
 # game/scenes/prologue/cockpit_sideview.rpy:49
 translate english scene_prologue_cockpit_sideview_8e678bbe:
@@ -140,7 +141,7 @@ translate english scene_prologue_cockpit_sideview_tonya_return_16ba244f:
     "Pretending to look at the readings,Tonya slowly starts to stroke Lee's dick."
     "She just teases him, preventing from cumming. Then she leans toward him,"
     "circles his ear with her tongue, attentively watching his reaction."
-    "Lee froze up, thrilled and confused, but isn't trying to push her away."
+    "Lee freezes up, thrilled and confused, but isn't trying to push her away."
     "Tonya deftly pulls up her tight skirt, leans over Lee's seat, pushes him back a little,"
     "then sits down on his lap and unzips his pants, pulling out fully erect, drooling dick. "
 
