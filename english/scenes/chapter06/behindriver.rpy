@@ -2,7 +2,7 @@
 translate english scene_chapter06_behindriver1_9bea2028:
 
     # lee_think "{e=surprised}{e=exclamation_white}{e=thinking_face}{e=question}"
-    lee_think "Woah! The tree that was blocking the road has burned the hell down!"
+    lee_think "Woah! The tree blocking the road burned the hell down!"
 
 # game/scenes/chapter06/behindriver.rpy:32
 translate english scene_chapter06_behindriver2_ef4ce083:

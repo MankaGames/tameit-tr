@@ -3,10 +3,10 @@ translate english scene_chapter06_home_30e4c1b5:
 
     # lee "{e=smiley}{e=smiling_face_with_hearts}"
     lee "What a smart girl! Good job, counting on you!"
-    lee_think "She barely understands me, huh, yet I'm still saying everything out loud, habitually."
-    lee_think "This way, I won't forget how to speak at least."
+    lee_think "She barely understands me, huh, yet I'm still saying everything out loud habitually."
+    lee_think "This way, at least I won't forget how to speak."
     lee_think "Plus, Cat already learned what most of the words sound like,"
-    lee_think "so she partially understands me now."
+    lee_think "so now she partially understands what I say."
 
 # game/scenes/chapter06/home.rpy:37
 translate english scene_chapter06_home_a41ff28c:
@@ -99,7 +99,7 @@ translate english scene_chapter06_outro_eb16a2df:
 translate english scene_chapter06_home_ac4e2959:
 
     # lee "{e=astonished_face}{e=question_white}"
-    lee "Oh! There you are! Look at that — you've brought me something?"
+    lee "Oh! You are here! Is it for me? Really?!"
 
 # game/scenes/chapter06/home.rpy:105
 translate english scene_chapter06_inside_d8e3ac32:

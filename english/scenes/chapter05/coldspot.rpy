@@ -27,7 +27,7 @@ translate english scene_coldspot_ch05_0218fdc9:
 translate english scene_coldspot_ch05_79127666:
 
     # lee_think "{e=smiling_face_with_hearts}{e=smiling_face}"
-    lee_think "Wow, I managed to fondle her again. No doubt, she likes it pretty much!"
+    lee_think "Wow, I managed to fondle her again. No doubt, she pretty much likes it!"
 
 # game/scenes/chapter05/coldspot.rpy:90
 translate english scene_coldspot_ch05_f80e5c4e:

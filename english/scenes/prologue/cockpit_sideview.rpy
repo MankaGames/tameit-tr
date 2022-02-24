@@ -15,7 +15,7 @@ translate english scene_prologue_cockpit_sideview_8e678bbe:
 translate english scene_prologue_cockpit_sideview_7c9efd05:
 
     # lee "{e=exclamation_question}{e=hushed_face}{e=question}"
-    lee "What's happening? Did I just press something?"
+    lee "What's happening? Have I just pressed anything?"
 
 # game/scenes/prologue/cockpit_sideview.rpy:59
 translate english scene_prologue_cockpit_sideview_9f558ff8:
@@ -28,7 +28,7 @@ translate english scene_prologue_cockpit_sideview_drink_79914201:
 
     # lee_think "{e=exclamation_question}{e=tonya}{e=boobs}{e=heart}{e=flushed_face}{e=boobs}"
     lee_think "It shook again and now all the water is on her shirt. \nHow awkward..."
-    lee_think "On the other side, now her shirt is completely transparent."
+    lee_think "On the other side, though her shirt is completely transparent."
     lee_think "I can even see her boobs!"
 
 # game/scenes/prologue/cockpit_sideview.rpy:94
@@ -138,7 +138,8 @@ translate english scene_prologue_cockpit_sideview_tonya_return_16ba244f:
     # tonya_think "{e=astonished_face}{e=eggplant}{e=heart}"
     tonya_think "Look what we have here! That's totally not a baby size down there! Mhm, I like it."
 
-    "Pretending to look at the readings,Tonya slowly starts to stroke Lee's dick."
+    "Pretending to look at the readings, Tonya gently"
+    "and slowly starts to stroke Lee's dick through his pants."
     "She just teases him, preventing from cumming. Then she leans toward him,"
     "circles his ear with her tongue, attentively watching his reaction."
     "Lee freezes up, thrilled and confused, but isn't trying to push her away."

@@ -30,7 +30,7 @@
 
     # game/dicts/task.rpy:2
     old "{e=magnifying_glass}{e=arrow_right}{e=desert island}"
-    new "Maybe I'll find something suitable if I look around a bit."
+    new "Maybe I'll find something suitable if I look around."
 
     # game/dicts/task.rpy:2
     old "{e=smiley}{e=bungalow4}{e=check_mark}{e=exclamation_white}{e=smiling_face}"
@@ -38,7 +38,7 @@
 
     # game/dicts/task.rpy:2
     old "{e=catgirl}{e=smiling_face_with_hearts}{e=cat_bed}{e=smiley}"
-    new "Well, seems Cat's happy with my creation. Hope she'll sleep here with me from now."
+    new "Well, seems Cat's happy with my creation. Hope she'll sleep here with me from now on."
 
     # game/dicts/task.rpy:633
     old "{e=smiley}{e=gallows}{e=exclamation_white}{e=smiling_face}"
@@ -50,7 +50,7 @@
 
     # game/dicts/task.rpy:633
     old "{e=bridge}{e=check_mark}{e=smiling_face}"
-    new "The bridge is ready! It's not much, but it'll hold me, I guess."
+    new "The bridge is ready! It's nothing special, but it'll hold me, I guess."
 
     # game/dicts/task.rpy:2
     old "{e=leavesbed}{e=ok_hand}{e=yawning_face}"
@@ -66,7 +66,7 @@
 
     # game/dicts/task.rpy:703
     old "{e=gallows_2}{e=check_mark}{e=slightly_smiling_face}{e=arrow_right}{e=fish}{#ch04}"
-    new "All right, the noose is ready, now the bait. The fish will fit, I think."
+    new "All right, the noose is ready, now the bait. She likes fish, so let's give her a big one."
 
     # game/dicts/task.rpy:703
     old "{e=lake_trap}{e=yes}{e=slightly_smiling_face}"

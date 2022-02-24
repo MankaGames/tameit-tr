@@ -11,6 +11,6 @@ translate english scene_chapter04_intro_ef79760b:
 
     # lee_think "{e=thinking_face}{e=catgirl}{e=cross_mark}{e=panther}{e=question}"
     lee_think "It turns out she's more human than I thought?"
-    lee_think "Perhaps she's not as wild and dangerous as it seemed to me?"
-    lee_think "I sure need to get this straight before we go on."
+    lee_think "Perhaps she's not as wild and dangerous as it seemed, is she?"
+    lee_think "I sure need to figure out how to treat her in future."
 

@@ -17,7 +17,7 @@ translate english scene_chapter04_home_7e0a9ca0:
 
     # lee_think "{e=hushed_face}{e=frowning_face}"
     lee_think "Oh, crap! Seems the flies have been more interested in fish than Cat was."
-    lee_think "I really doubt she even was here tonight."
+    lee_think "I really doubt she even came here tonight."
 
 # game/scenes/chapter04/home.rpy:43
 translate english scene_chapter04_home_54d18f9f:
@@ -25,14 +25,14 @@ translate english scene_chapter04_home_54d18f9f:
     # lee_think "{e=thinking_face}{e=catgirl}{e=question}{e=pensive_face}"
     lee_think "Where did she go? Don't tell me she's not coming back at all?"
     lee_think "Maybe she lost interest in me, or did I just scare her off with all those traps?"
-    lee_think "I messed it all up, probably."
+    lee_think "I probably messed it all up."
 
 # game/scenes/chapter04/home.rpy:54
 translate english scene_chapter04_home_3046b6bc:
 
     # lee_think "{e=weary_face}{e=gallows_2}{e=arrow_right}{e=cross_mark}"
     lee_think "Let's get rid of the trap, no use for it anymore."
-    lee_think "Perhaps if Cat won't see it next time, she'll show up."
+    lee_think "Perhaps if Cat doesn't see it next time, she'll show up."
 
 # game/scenes/chapter04/home.rpy:58
 translate english scene_chapter04_home_80305940:
@@ -67,7 +67,7 @@ translate english scene_chapter04_home_2db90631:
     # lee_think "{e=bungalow4}{e=arrow_right}{e=stick}{e=arrow_up}"
     lee_think "I'm gonna need a lot of bamboo for this one."
     lee_think "Better start the construction as soon as possible."
-    lee_think "Who knows how many more \"gifts\" to expect from nature."
+    lee_think "Who knows what's more to expect from the weather."
 
 # game/scenes/chapter04/home.rpy:65
 translate english scene_chapter04_home_62c906d3:
@@ -79,14 +79,14 @@ translate english scene_chapter04_home_62c906d3:
 translate english scene_chapter04_home_e9730b0c:
 
     # lee_think "{e=torch}{e=arrow_right}{e=stick}{e=plus}{e=question_white}"
-    lee_think "How do I make it tho?"
-    lee_think "I need to wind the stick with something that'll burn long enough, I guess."
+    lee_think "How do I make it though?"
+    lee_think "I guess, I need to wrap something that'll burn long enough around a stick."
 
 # game/scenes/chapter04/home.rpy:67
 translate english scene_chapter04_home_d84ea502:
 
     # lee_think "{e=light_bulb}{e=exclamation_white}{e=tar}{e=arrow_right}{e=torch}"
-    lee_think "The hell can I find on the island?"
+    lee_think "What can I find on the island that would be suitable?"
     lee_think "I hardly believe there's a can of kerosene waiting for me under a palm."
     lee_think "Guess I could use some kind of resin if I find one?"
 
@@ -94,14 +94,14 @@ translate english scene_chapter04_home_d84ea502:
 translate english scene_chapter04_home_29b12dd2:
 
     # lee_think "{e=thinking_face}{e=tar}{e=question_white}"
-    lee_think "Any great ideas? The flammable resin doesn't grow on trees.\nOr does it?"
+    lee_think "Any great ideas? The flammable resin doesn't grow on trees, I guess."
 
 # game/scenes/chapter04/home.rpy:71
 translate english scene_chapter04_home_0b050a51:
 
     # lee_think "{e=confounded face}{e=rain}{e=rain}{e=arrow_right}{e=hammer}"
     lee_think "Fuck! The rains are getting heavy!"
-    lee_think "It's no time beating around — I must continue building."
+    lee_think "No time to waste! I must continue building."
 
 # game/scenes/chapter04/home.rpy:74
 translate english scene_chapter04_home_26492bb9:
@@ -125,14 +125,14 @@ translate english scene_chapter04_home_da63d705:
 translate english scene_chapter04_home_5e4fccb4:
 
     # lee_think "{e=stick}{e=plus}{e=rope}{e=arrow_up}"
-    lee_think "I'm gonna use bamboo sticks and some ropes for that."
-    lee_think "The river's not so rough and wide — I guess it works out."
+    lee_think "I'm gonna use bamboo sticks and ropes."
+    lee_think "The river's not so rough and wide — I guess it's gonna work out."
 
 # game/scenes/chapter04/home.rpy:84
 translate english scene_chapter04_home_434c585e:
 
     # lee_think "{e=tar}{e=arrow_right}{e=torch}{e=slightly_smiling_face}"
-    lee_think "It burns pretty well, and that means now I have everything for a good torch."
+    lee_think "It burns pretty well, and that means that now I have everything to make a torch."
 
 # game/scenes/chapter04/home.rpy:85
 translate english scene_chapter04_home_ab3f7b50:
@@ -146,13 +146,13 @@ translate english scene_chapter04_outro_6edb4ea5:
 
     # lee_think "{e=catgirl}{e=exclamation_white}{e=flushed_face}{e=smiling_face_with_hearts}"
     lee_think "Cat! What the hell is she doing here?"
-    lee_think "I've got scared for a moment, but it seems she was just nosy."
+    lee_think "I got scared for a moment, but it seems she came here out of curiosity."
 
 # game/scenes/chapter04/home.rpy:169
 translate english scene_chapter04_outro_c26bb298:
 
     # lee_think "{e=smirk}{e=poultry_leg}{e=arrow_right}{e=catgirl}"
-    lee_think "Guess since she's here,\nI should treat her something. Hope she likes the meat."
+    lee_think "Guess since she's here, I should treat her to something. Hope she likes the meat."
 
 # game/scenes/chapter04/home.rpy:175
 translate english scene_chapter04_outro_d60fa04a:
@@ -170,7 +170,7 @@ translate english scene_chapter04_outro_710ae8ef:
 translate english scene_chapter04_outro_9c760e80:
 
     # lee_think "{e=smirk}{e=take}{e=catgirl}{e=smiling_face_with_hearts}"
-    lee_think "She's so malleable — I think that's because of all the treats I gave her."
+    lee_think "She got so used to me — I think that's because of all the treats I gave her."
     lee_think "I'd say I successfully tamed this wild kitten, hehe."
 
 # game/scenes/chapter04/home.rpy:197
@@ -178,7 +178,7 @@ translate english scene_chapter04_outro_f30e036c:
 
     # lee_think "{e=smiling_face}{e=hot_pepper}{e=fire}{e=eggplant}{e=heart}"
     lee_think "She's not in a hurry, it seems."
-    lee_think "Oof, look at this — she's so sexy licking this leg, I wish it was something..."
+    lee_think "Oof, look at this — she's so sexy licking this leg, as if it was..."
     lee_think "Oh no, boner alert! Just can't stop watching."
 
 # game/scenes/chapter04/home.rpy:210
@@ -187,7 +187,7 @@ translate english scene_chapter04_outro_4a5c1d6a:
     # lee_think "{e=hushed_face}{e=exclamation_white}{e=catgirl}{e=arrow_right}"
     lee_think "She won't mind if I pet her a little, will she?"
     lee_think "Oh crap! She ran away! That was too early to say I tamed her. Not for a second."
-    lee_think "Sad, but I won't give up that easy."
+    lee_think "Sad, but I won't give up that easily."
 
 # game/scenes/chapter04/home.rpy:224
 translate english scene_chapter04_setup_trap2_78a24db4:

@@ -8,14 +8,15 @@ translate english scene_chapter06_rockway_1b8efc13:
 translate english scene_chapter06_rockway_6ca4acd1:
 
     # lee_think "{e=smiley}{e=hive}{e=exclamation_white}"
-    lee_think "Oh, a hive! It must be my lucky day! The last I've been using gone down in flames."
-    lee_think "For a second there, I thought no more honey for me."
+    lee_think "Oh, a hive! It must be my lucky day! The one I've been using got destroyed by the flames."
+    lee_think "For a second there, I thought there would be no more honey for me."
 
 # game/scenes/chapter06/lake_area.rpy:14
 translate english scene_chapter06_rockway_733f38e0:
 
     # lee_think "{e=smoke}{e=no}{e=eyes}"
-    lee_think "I can't see the smoke anymore. Maybe the storm destroyed that bonfire like mine did?"
+    lee_think "I can't see the smoke anymore."
+    lee_think "Could the storm destroy that bonfire just like mine?"
     lee_think "I'm sure the smoke was that way. I need to move on."
 
 # game/scenes/chapter06/lake_area.rpy:33
@@ -28,8 +29,8 @@ translate english scene_chapter06_lake_shore_99c89fe2:
 translate english scene_chapter06_lake_shore_c2475901:
 
     # lee_think "{e=lake}{e=water}{e=exclamation_white}"
-    lee_think "My goodness, the whole lake of fresh water, who'd have thought!"
-    lee_think "If I only hadn't come up with the bridge idea and the storm kicked in —"
+    lee_think "My goodness, a whole lake of fresh water, who would've thought!"
+    lee_think "If it were not for my building the bridge and the storm kicking in"
     lee_think "I wouldn't have even discovered this place."
 
 # game/scenes/chapter06/lake_area.rpy:35
@@ -71,13 +72,13 @@ translate english scene_chapter06_wrecks_6baef6e3:
 translate english scene_chapter06_wrecks_5f71f848:
 
     # lee "{e=tonya}{e=exclamation_white}{e=tonya}{e=exclamation_white}"
-    lee "Tonya! Tonya, are you here? Please, answer! It's me, Lee!"
+    lee "Tonya! Tonya, are you here? Can you hear me? It's me, Lee!"
 
 # game/scenes/chapter06/lake_area.rpy:57
 translate english scene_chapter06_wrecks_6c1081f5:
 
     # lee_think "{e=ear}{e=no}{e=weary_face}{e=frowning_face}"
-    lee_think "Well, course she's not here. So dumb of me! But I tried at least."
+    lee_think "Well, course she's not here. So dumb of me! But at least I tried."
 
 # game/scenes/chapter06/lake_area.rpy:79
 translate english scene_chapter06_lake_9c275715:
@@ -103,7 +104,7 @@ translate english scene_chapter06_lake_1e44eb16:
 translate english scene_chapter06_wrecks_02861276:
 
     # lee_think "{e=eyes}{e=magnifying_glass}{e=airplane}"
-    lee_think "I should inspect the plane. Maybe I could get in somehow."
+    lee_think "I should take a look at the plane. Maybe I can find a way in."
 
 # game/scenes/chapter06/lake_area.rpy:63
 translate english scene_chapter06_wrecks_f87c0b76:
@@ -115,7 +116,7 @@ translate english scene_chapter06_wrecks_f87c0b76:
 translate english scene_chapter06_wrecks_climb_to_plane_59d0272e:
 
     # lee_think "{e=airplane}{e=arrow_up}{e=confused_face}"
-    lee_think "It's too high — I can't get up there that easy."
+    lee_think "Too high. It would be difficult to get up there."
 
 # game/scenes/chapter06/lake_area.rpy:71
 translate english scene_chapter06_wrecks_climb_to_plane_60629747:
@@ -148,6 +149,6 @@ translate english scene_chapter06_wrecks_climb_to_plane_81d4859a:
 translate english scene_chapter06_wrecks_climb_to_plane_0ae9780b:
 
     # lee_think "{e=weary_face}{e=dont_know}{e=thinking_face}{e=hourglass}{e=arrow_left}"
-    lee_think "While nothing comes to mind,"
+    lee_think "I've got no idea how to do it so far."
     lee_think "I need to think it out properly and come back here later."
 

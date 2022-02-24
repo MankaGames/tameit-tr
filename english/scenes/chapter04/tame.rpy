@@ -10,7 +10,7 @@ translate english scene_chapter04_search_0f3b32ac:
 
     # lee_think "{e=smiley}{e=fish}{e=poultry_leg}{e=arrow_right}{e=catgirl}"
     lee_think "She's not running away — that's a good sign!"
-    lee_think "I can give her some treats. Let's see what I got."
+    lee_think "I can give her some treats. Let's see what I've got."
 
 # game/scenes/chapter04/tame.rpy:89
 translate english scene_chapter04_tame_a0d6d788:

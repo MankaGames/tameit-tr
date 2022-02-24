@@ -9,7 +9,7 @@ translate english scene_prologue_cockpit_backview_crash_1abbbd9e:
 
     # lee_think "{e=exclamation}{e=parachute}{e=fearful_face}{e=dizzy_face}"
     lee_think "I got them, but what's the plan?"
-    lee_think "Do we really have to jump off the plane?"
+    lee_think "Do we really have to jump out of the plane?"
 
 # game/scenes/prologue/cockpit_backview.rpy:80
 translate english scene_prologue_cockpit_backview_crash_835a4c4a:
@@ -28,7 +28,7 @@ translate english scene_prologue_cockpit_backview_crash_a4a794b4:
 translate english scene_prologue_cockpit_backview_crash_f5ac12f8:
 
     # lee_think "{e=tonya}{e=question}{e=plane_door}"
-    lee_think "Should I stay with her or jump off a plane? \nWhat should I do?"
+    lee_think "Should I stay with her or jump out a plane? \nWhat should I do?"
 
 # game/scenes/prologue/cockpit_backview.rpy:93
 translate english scene_prologue_cockpit_backview_crash_196ae7cb:

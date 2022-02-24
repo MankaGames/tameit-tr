@@ -2,7 +2,7 @@
 translate english scene_chapter03_home_4b927eff:
 
     # lee_think "{e=thinking_face}{e=light_bulb}{e=arrow_right}{e=gallows}"
-    lee_think "I've almost shit my pants last night."
+    lee_think "I almost shit my pants last night."
     lee_think "I have to do something about this."
     lee_think "Perhaps I could make a trap. Something simple and effective."
 
@@ -35,7 +35,7 @@ translate english scene_chapter03_setup_trap_bff06c23:
 translate english scene_chapter03_setup_trap_5df9d169:
 
     # lee_think "{e=gallows}{e=plus}{e=poultry_leg}{e=check_mark}{e=slightly_smiling_face}"
-    lee_think "Trap's set, the bait is on, good. Bravo to me!"
+    lee_think "Trap's set, the bait is on, good. Great job, pal!"
 
 # game/scenes/chapter03/home.rpy:90
 translate english scene_chapter03_setup_trap_78a24db4_1:
@@ -63,7 +63,7 @@ translate english scene_chapter03_broken_trap_5920b737:
 translate english scene_chapter03_broken_trap_20f5eb6c:
 
     # lee_think "{e=thinking_face}{e=light_bulb}{e=gallows_2}{e=sparkles}"
-    lee_think "I know what to do. I'm gonna make something more solid than my previous creation."
+    lee_think "I know what to do. I'm gonna make something way more solid than my previous trap."
 
 # game/scenes/chapter03/home.rpy:133
 translate english scene_chapter03_setup_trap2_4770eb65:
@@ -93,7 +93,7 @@ translate english scene_chapter03_bagheera_533d99a0:
 translate english scene_chapter03_bagheera_9483716c:
 
     # lee_think "{e=flushed_face}{e=smiling_face_with_hearts}{e=catgirl}{e=heart_eyes}"
-    lee_think "Woah, what a hottie she is! Nothing to do with her first appearance."
+    lee_think "Woah, what a hottie she is! She looked quite different when it's light."
     lee_think "What the hell is she, anyway? A cryptic species or just another branch of evolution?"
 
 # game/scenes/chapter03/home.rpy:200
@@ -124,7 +124,7 @@ translate english scene_chapter03_outro_77e85551:
 translate english scene_chapter03_outro_bf82ee53:
 
     # lee_think "{e=cold_sweat}{e=confounded face}{e=dizzy_face}"
-    lee_think "Fuck, I'm in my own trap now. Great job, Lee!"
+    lee_think "Fuck, I got into my own trap! Great job, Lee!"
 
 # game/scenes/chapter03/home.rpy:312
 translate english scene_chapter03_outro_f0da6497:
@@ -143,17 +143,23 @@ translate english scene_chapter03_outro_3bbac6c3:
 translate english scene_chapter03_outro_e377ea58:
 
     # lee "{e=flushed_face}{e=t-shirt}{e=exclamation_question}{e=downcast_face}"
-    lee "Hey, it's mine! Give it back! Where are you going? You won't even help?"
+    lee "Hey, it's mine! Give it back! Where are you going? How do I set myself free now?!"
 
 # game/scenes/chapter03/home.rpy:43
 translate english scene_chapter03_home_40cf4ca6:
 
     # lee_think "{e=catgirl}{e=heart}{e=fish}{e=thinking_face}"
-    lee_think "She ate the fish. Cat's still a cat, I guess."
+    lee_think "She ate the fish. I guess cats will be cats, right?"
 
 # game/scenes/chapter03/home.rpy:45
 translate english scene_chapter03_home_02792aa1:
 
     # lee_think "{e=thinking_face}{e=fish}{e=arrow_right}{e=fishing_pole}"
     lee_think "But I need a fishing pole to catch it. I guess I can make it."
+
+# game/scenes/chapter03/home.rpy:45
+translate english scene_chapter03_home_35cc6a40:
+
+    # lee_think "{e=light_bulb}{e=fish}{e=plus}{e=gallows_2}{e=exclamation_white}"
+    lee_think "If she likes fish so much perhaps I should use it as bait for my new trap."
 

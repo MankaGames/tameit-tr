@@ -10,7 +10,7 @@ translate english scene_chapter03_voyeur_973a7b7d:
 translate english scene_chapter03_voyeur_40cf4ca6:
 
     # lee_think "{e=catgirl}{e=heart}{e=fish}{e=thinking_face}"
-    lee_think "She ate the fish. Cat's still a cat, I guess."
+    lee_think "She ate the fish. I guess cats will be cats, right?"
 
 # game/scenes/chapter03/voyeur.rpy:87
 translate english scene_chapter03_voyeur_02792aa1:
@@ -22,7 +22,7 @@ translate english scene_chapter03_voyeur_02792aa1:
 translate english scene_chapter03_voyeur_23bcebf3:
 
     # lee_think "{e=heart_eyes}{e=strawberry}{e=peach}{e=boobs}{e=fire}"
-    lee_think "Yet she's too hot, so flexible, and that body, damn..."
+    lee_think "Yet she's extremely hot, so flexible, and that body, damn..."
     lee_think "I know she is not human, but I just can't help myself."
     lee_think "I can't take my eyes off her. Is it okay that I find this creature appealing?"
 

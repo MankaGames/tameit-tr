@@ -16,14 +16,14 @@ translate english scene_chapter05_inside_08fd7836:
     # lee_think "{e=smirk}{e=shushing_face}{e=smiling_face_with_hearts}{e=smiling_face}"
     lee_think "I must be more careful this time to not scare her off."
     lee_think "I want her to get used to being around me."
-    lee_think "Maybe she can even like me after all."
+    lee_think "Maybe she will even like me after all."
 
 # game/scenes/chapter05/home.rpy:95
 translate english scene_chapter05_inside_5bf8a028:
 
     # lee_think "{e=thinking_face}{e=fish}{e=arrow_right}{e=catgirl}"
     lee_think "Guess I'll just offer her some treats."
-    lee_think "I did stock up some food, so it'll be enough for both of us."
+    lee_think "I did stock up on food, so it'll be enough for both of us."
 
 # game/scenes/chapter05/home.rpy:100
 translate english scene_chapter05_inside_6b6009b0:
@@ -36,8 +36,8 @@ translate english scene_chapter05_inside_6b6009b0:
 translate english scene_chapter05_inside_41368456:
 
     # lee_think "{e=thinking_face}{e=say}{e=arrow_right}{e=catgirl}{e=question}"
-    lee_think "I'm still wondering — can she even speak?"
-    lee_think "I doubt she knows my language, but it's still worth a shot, I think."
+    lee_think "I'm still wondering if she can speak at all."
+    lee_think "I doubt she knows my language, but I think it's still worth a shot."
 
 # game/scenes/chapter05/home.rpy:107
 translate english scene_chapter05_inside_e703c833:
@@ -80,10 +80,9 @@ translate english scene_chapter05_inside_13d60782:
 
     # lee_think "{e=thinking_face}{e=catgirl}{e=confusion}{e=frowning_face}"
     lee_think "She doesn't seem to understand anything I say. Let me think."
-    lee_think "Maybe she can't speak at all? She was only doing these cat sounds all the way."
-    lee_think "I don't know any sign language,"
-    lee_think "but there must be a way to set up a communication process."
-    lee_think "Maybe we can create our sign system?"
+    lee_think "Could it be that she can't speak at all?"
+    lee_think "She was only making these cat sounds all the time. I don't know any sign language,"
+    lee_think "but there must be a way to set up a communication. Maybe we can make our sign system?"
 
 # game/scenes/chapter05/home.rpy:120
 translate english scene_chapter05_inside_a227c91e:
@@ -120,7 +119,7 @@ translate english scene_chapter05_outro_a27cc721:
 
     # lee_think "{e=thermometer}{e=catgirl}{e=relieved}"
     lee_think "She's so warm, so lovely. Damn, her heart is racing!"
-    lee_think "That's a real fear right there."
+    lee_think "She's so scared, my god."
 
 # game/scenes/chapter05/home.rpy:176
 translate english scene_chapter05_outro_7b7bc0d0:
@@ -159,7 +158,7 @@ translate english scene_chapter05_outro_08fd8cb9:
 translate english scene_chapter05_outro_bce18a01:
 
     # lee_think "{e=thinking_face}{e=catgirl}{e=question_white}"
-    lee_think "The more interesting question — where is Cat?"
+    lee_think "A more interesting question is — where's Cat?"
     lee_think "As far as I remember, she was snuggling up on me all night."
     lee_think "And now she's gone again."
 
@@ -173,19 +172,19 @@ translate english scene_chapter05_outro_23a0500c:
 translate english scene_chapter05_outro_c1a50e63:
 
     # lee_think "{e=bungalow_wrecked}{e=arrow_right}{e=repair}"
-    lee_think "Well, that's a pity, but I have more important things to do for now:"
-    lee_think "the thing that only yesterday was my house needs some serious repairs."
-    lee_think "I need to fix this quick because if the storm returns,"
-    lee_think "I don't wanna meet Cat at the \"remnants\" of my bungalow."
+    lee_think "Well, that's a pity, but now I have more important things to do:"
+    lee_think "my house is a complete mess needs some serious repairs."
+    lee_think "I need to quickly fix it in case the storm returns."
+    lee_think "Wouldn't like to welcome Cat into this wreck of a bungalow."
 
 # game/scenes/chapter05/home.rpy:125
 translate english scene_chapter05_inside_fbd0c56f:
 
     # lee_think "{e=take}{e=smirk}{e=night}{e=catgirl}"
-    lee_think "We've made some good progress in our lessons."
+    lee_think "We've made good progress in our lessons."
     lee_think "Don't even know yet, which words to teach her next."
     lee_think "But I know where we can progress too..."
-    lee_think "I'll just keep fondling her every night until she starts asking for it herself."
+    lee_think "I'll just keep fondling her every night until she starts asking for it herself"
 
 translate english strings:
 
