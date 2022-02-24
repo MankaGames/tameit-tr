@@ -212,7 +212,7 @@ translate german scene_chapter08_lake_shore_trap2_4a908d9b:
 translate german scene_chapter08_lake_shore_trap2_8780f419:
 
     # cat_think "{e=eyes}{e=lee}{e=grinning_cat}"
-    cat_think "{e=eyes}{e=lee}{e=grinning_cat}{alt}Lee jubelt. Das ist gut.{/alt}"
+    cat_think "{e=eyes}{e=lee}{e=grinning_cat}{alt}Lee hat gejubelt. Das ist gut.{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:250
 translate german scene_chapter08_lake_shore_trap2_aae24fa9:

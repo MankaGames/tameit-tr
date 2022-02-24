@@ -88,13 +88,13 @@ translate german scene_chapter10_inside_outro_6a800547:
 translate german scene_chapter10_inside_outro_ad69f361:
 
     # cat "{e=grinning_cat}{e=smiling_face_with_hearts}"
-    cat "{e=grinning_cat}{e=smiling_face_with_hearts}"
+    cat "{e=grinning_cat}{e=smiling_face_with_hearts}{alt}Schnurrr! Gut. Das hat sich gut angefühlt.{/alt}"
 
 # game/scenes/chapter10/home.rpy:171
 translate german scene_chapter10_bungalow_ext_a7b4ac2e:
 
     # cat "{e=surprised}{e=lee}{e=question_white}"
-    cat "{e=surprised}{e=lee}{e=question_white}"
+    cat "{e=surprised}{e=lee}{e=question_white}{alt}Was macht Lee?{/alt}"
 
 # game/scenes/chapter10/home.rpy:172
 translate german scene_chapter10_bungalow_ext_5bb67511:
@@ -106,7 +106,7 @@ translate german scene_chapter10_bungalow_ext_5bb67511:
 translate german scene_chapter10_bungalow_ext_aff9cb81:
 
     # cat "{e=smiley}{e=exclamation_white}"
-    cat "{e=smiley}{e=exclamation_white}"
+    cat "{e=smiley}{e=exclamation_white}{alt}Wow! Cat wird helfen!{/alt}"
 
 # game/scenes/chapter10/home.rpy:178
 translate german scene_chapter10_bungalow_ext_5ab41950:
@@ -231,19 +231,19 @@ translate german scene_chapter10_basin_dinner_b292a9c0:
 translate german scene_chapter10_basin_dinner_d30fe62b:
 
     # cat "{e=grinning_cat}{e=drooling_face}{e=smiling_face_with_hearts}"
-    cat "{e=grinning_cat}{e=drooling_face}{e=smiling_face_with_hearts}"
+    cat "{e=grinning_cat}{e=drooling_face}{e=smiling_face_with_hearts}{alt}Schnurr, lecker!{/alt}"
 
 # game/scenes/chapter10/home.rpy:271
 translate german scene_chapter10_basin_dinner_2e3635ae:
 
     # octa "{e=smiling_face}{e=smiling_face_with_hearts}"
-    octa "{e=smiling_face}{e=smiling_face_with_hearts}"
+    octa "{e=smiling_face}{e=smiling_face_with_hearts}{alt}Lecker. Mag es.{/alt}"
 
 # game/scenes/chapter10/home.rpy:279
 translate german scene_chapter10_basin_dinner_fc9c7531:
 
     # cat "{e=hug}{e=smiling_face}{e=lick}{e=smiling_face_with_hearts}"
-    cat "{e=hug}{e=smiling_face}{e=lick}{e=smiling_face_with_hearts}"
+    cat "{e=hug}{e=smiling_face}{e=lick}{e=smiling_face_with_hearts}{alt}Schnurr! Lee ist auch sehr lecker!{/alt}"
 
 # game/scenes/chapter10/home.rpy:280
 translate german scene_chapter10_basin_dinner_ab7d1720:
@@ -255,7 +255,7 @@ translate german scene_chapter10_basin_dinner_ab7d1720:
 translate german scene_chapter10_basin_dinner_8ab14adf:
 
     # cat "{e=catgirl}{e=kissing_cat}{e=exclamation_white}"
-    cat "{e=catgirl}{e=kissing_cat}{e=exclamation_white}"
+    cat "{e=catgirl}{e=kissing_cat}{e=exclamation_white}{alt}Cat will küssen!{/alt}"
 
 # game/scenes/chapter10/home.rpy:288
 translate german scene_chapter10_basin_dinner_2f2087c2:
@@ -267,13 +267,13 @@ translate german scene_chapter10_basin_dinner_2f2087c2:
 translate german scene_chapter10_basin_dinner_3f12c348:
 
     # octa_think "{e=flushed_face}{e=exclamation_white}"
-    octa_think "{e=flushed_face}{e=exclamation_white}"
+    octa_think "{e=flushed_face}{e=exclamation_white}{alt}*Verwirrt*{/alt}"
 
 # game/scenes/chapter10/home.rpy:308
 translate german scene_chapter10_basin_dinner_2dfd8dd5:
 
     # octa "{e=lee}{e=catgirl}{e=question_white}{e=face_without_mouth}"
-    octa "{e=lee}{e=catgirl}{e=question_white}{e=face_without_mouth}"
+    octa "{e=lee}{e=catgirl}{e=question_white}{e=face_without_mouth}{alt}Was machst du da?{/alt}"
 
 # game/scenes/chapter10/home.rpy:312
 translate german scene_chapter10_basin_dinner_6edd6b47:
@@ -285,7 +285,7 @@ translate german scene_chapter10_basin_dinner_6edd6b47:
 translate german scene_chapter10_basin_dinner_fe39c6e5:
 
     # octa_think "{e=confusion}"
-    octa_think "{e=confusion}"
+    octa_think "{e=confusion}{alt}*Verwirrt*{/alt}"
 
 # game/scenes/chapter10/home.rpy:314
 translate german scene_chapter10_basin_dinner_b0b8c99a:
@@ -297,7 +297,7 @@ translate german scene_chapter10_basin_dinner_b0b8c99a:
 translate german scene_chapter10_basin_dinner_fe39c6e5_1:
 
     # octa_think "{e=confusion}"
-    octa_think "{e=confusion}"
+    octa_think "{e=confusion}{alt}*Verwirrt*{/alt}"
 
 # game/scenes/chapter10/home.rpy:316
 translate german scene_chapter10_basin_dinner_4c9dcd33:
@@ -336,31 +336,31 @@ translate german scene_chapter10_basin_dinner_b4696df2:
 translate german scene_chapter10_basin_dinner_aa66685b:
 
     # octa "{e=exploding_head}{e=flushed_face}{e=dizzy_face}"
-    octa "{e=exploding_head}{e=flushed_face}{e=dizzy_face}"
+    octa "{e=exploding_head}{e=flushed_face}{e=dizzy_face}{alt}Oh-oh? Was? Wie...{/alt}"
 
 # game/scenes/chapter10/home.rpy:334
 translate german scene_chapter10_basin_dinner_69291630:
 
     # cat "{e=exclamation_question}{e=astonished_face}{e=anguished_face}{e=persevering}"
-    cat "{e=exclamation_question}{e=astonished_face}{e=anguished_face}{e=persevering}"
+    cat "{e=exclamation_question}{e=astonished_face}{e=anguished_face}{e=persevering}{alt}Lee! Was machst du denn da?!{/alt}"
 
 # game/scenes/chapter10/home.rpy:351
 translate german scene_chapter10_basin_dinner_f3c6e1ad:
 
     # cat "{e=you}{e=kiss_face}{e=octopus}{e=question}{e=pouting_cat}"
-    cat "{e=you}{e=kiss_face}{e=octopus}{e=question}{e=pouting_cat}"
+    cat "{e=you}{e=kiss_face}{e=octopus}{e=question}{e=pouting_cat}{alt}Warum hast du den Oktopus geküsst?!{/alt}"
 
 # game/scenes/chapter10/home.rpy:352
 translate german scene_chapter10_basin_dinner_7ab8b0f1:
 
     # cat "{e=lee}{e=kiss_face}{e=catgirl}{e=exclamation}"
-    cat "{e=lee}{e=kiss_face}{e=catgirl}{e=exclamation}"
+    cat "{e=lee}{e=kiss_face}{e=catgirl}{e=exclamation}{alt}Nur Cat darf geküsst werden!{/alt}"
 
 # game/scenes/chapter10/home.rpy:375
 translate german scene_chapter10_basin_dinner_a3d03506:
 
     # cat "{e=lee}{e=poop}{e=steam_from_nose}{e=unamused_face}"
-    cat "{e=lee}{e=poop}{e=steam_from_nose}{e=unamused_face}"
+    cat "{e=lee}{e=poop}{e=steam_from_nose}{e=unamused_face}{alt}Dummer scheiß Lee!{/alt}"
 
 # game/scenes/chapter10/home.rpy:218
 translate german scene_chapter10_basin_1ceca436:

@@ -49,13 +49,13 @@ translate german scene_sleep_chapter10_1ac51c04:
 translate german scene_sleep_chapter10_d08292e3:
 
     # cat "{e=lee}{e=no}{e=kiss_face}{e=octopus}{e=exclamation_white}"
-    cat "{e=lee}{e=no}{e=kiss_face}{e=octopus}{e=exclamation_white}"
+    cat "{e=lee}{e=no}{e=kiss_face}{e=octopus}{e=exclamation_white}{alt}Lee, küsse nie wieder Octopee!{/alt}"
 
 # game/scenes/chapter10/sleep.rpy:62
 translate german scene_sleep_chapter10_418591d5:
 
     # cat "{e=catgirl}{e=kiss_face}{e=lee}"
-    cat "{e=catgirl}{e=kiss_face}{e=lee}"
+    cat "{e=catgirl}{e=kiss_face}{e=lee}{alt}Cat wird Lee küssen!{/alt}"
 
 # game/scenes/chapter10/sleep.rpy:66
 translate german scene_sleep_chapter10_3f82c2c7:
@@ -68,7 +68,7 @@ translate german scene_sleep_chapter10_3f82c2c7:
 translate german scene_sleep_chapter10_776f9a51:
 
     # cat "{e=catgirl}{e=you}{e=dick}{e=smiling_face_with_hearts}"
-    cat "{e=catgirl}{e=you}{e=dick}{e=smiling_face_with_hearts}"
+    cat "{e=catgirl}{e=you}{e=dick}{e=smiling_face_with_hearts}{alt}Сat wird Lee ein gutes Gefühl geben.{/alt}"
 
 # game/scenes/chapter10/sleep.rpy:72
 translate german scene_sleep_chapter10_f866b5b1:
@@ -80,7 +80,7 @@ translate german scene_sleep_chapter10_f866b5b1:
 translate german scene_sleep_chapter10_38b3df04:
 
     # cat "{e=shushing_face}{e=smirk}{e=lick}{e=dick}{e=exclamation_white}"
-    cat "{e=shushing_face}{e=smirk}{e=lick}{e=dick}{e=exclamation_white}"
+    cat "{e=shushing_face}{e=smirk}{e=lick}{e=dick}{e=exclamation_white}{alt}Lee hinlegen! Cat lecken!{/alt}"
 
 # game/scenes/chapter10/sleep.rpy:80
 translate german scene_sleep_chapter10_e5a5d219:
@@ -99,25 +99,25 @@ translate german scene_sleep_chapter10_0286fb5f:
 translate german scene_sleep_chapter10_ac79bef5:
 
     # octa_think "{e=flushed_face}{e=exclamation_white}{e=dizzy_face}"
-    octa_think "{e=flushed_face}{e=exclamation_white}{e=dizzy_face}"
+    octa_think "{e=flushed_face}{e=exclamation_white}{e=dizzy_face}{alt}Was machen die da?{/alt}"
 
 # game/scenes/chapter10/sleep.rpy:91
 translate german scene_sleep_chapter10_fc44942f:
 
     # octa_think "{e=you}{e=kiss_face}{e=astonished_face}{e=question_white}{e=exclamation_white}"
-    octa_think "{e=you}{e=kiss_face}{e=astonished_face}{e=question_white}{e=exclamation_white}"
+    octa_think "{e=you}{e=kiss_face}{e=astonished_face}{e=question_white}{e=exclamation_white}{alt}Ist das auch ein Kuss?{/alt}"
 
 # game/scenes/chapter10/sleep.rpy:92
 translate german scene_sleep_chapter10_da1511e7:
 
     # octa_think "{e=catgirl}{e=lee}{e=exploding_head}"
-    octa_think "{e=catgirl}{e=lee}{e=exploding_head}"
+    octa_think "{e=catgirl}{e=lee}{e=exploding_head}{alt}Sie tun seltsame Dinge.{/alt}"
 
 # game/scenes/chapter10/sleep.rpy:93
 translate german scene_sleep_chapter10_639eb060:
 
     # octa_think "{e=smirk}{e=star_struck}{e=sparkles}"
-    octa_think "{e=smirk}{e=star_struck}{e=sparkles}"
+    octa_think "{e=smirk}{e=star_struck}{e=sparkles}{alt}Aber es ist interessant.{/alt}"
 
 translate german strings:
 

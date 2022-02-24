@@ -38,7 +38,7 @@ translate german scene_chapter01_beach3_tutorial_9843428e:
     # lee_think "{e=coconut}{e=arrow_right}{e=coconut_bowl}{e=arrow_right}{e=coconut_bowl_water}"
     lee_think "Ich kann diese Kokosnuss-Teile gut gebrauchen,"
     lee_think "sie können als anständige Feldflasche durchgehen,"
-    lee_think "so dass ich immer etwas trinkbares Wasser bei mir haben werde."
+    lee_think "so dass ich immer etwas trinkbares Wasser bei mir habe."
 
 # game/scenes/chapter01/beach3.rpy:41
 translate german scene_chapter01_beach3_tutorial_b7c5c171:

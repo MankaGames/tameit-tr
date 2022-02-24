@@ -6,7 +6,7 @@ translate german get_tonyas_photo_bc043184:
     lee_think "Ist es einfach aus dem Flugzeug gefallen?"
     lee_think "Ich werde es mitnehmen,"
     lee_think "wer weiß, wie viele einsame Nächte ich hier verbringen werde,"
-    lee_think "aber zuerst muss ich diesen unheimlichen Mann loswerden."
+    lee_think "aber zuerst muss ich den Teil mit diesem unheimlichen Mann abreißen."
 
 translate german strings:
 

@@ -8,7 +8,7 @@ translate german scene_prologue_intro_65717c75:
 translate german scene_prologue_intro_b748a800:
 
     # centered "And first of all - to get away from home. \nHe dropped out of university and got a job in a hotel in the Bahamas."
-    centered "In erster Linie beschloss er, von zu Hause wegzukommen. \nEr bekam einen Job in einem Hotel auf den Bahamas \nund brach sofort sein Studium ab."
+    centered "Zunächst beschloss er, von zu Hause wegzugehen. \nEr bekam einen Job in einem Hotel auf den Bahamas \nund brach sofort sein Studium ab."
 
 # game/scenes/prologue/intro.rpy:34
 translate german scene_prologue_intro_51db4df4:

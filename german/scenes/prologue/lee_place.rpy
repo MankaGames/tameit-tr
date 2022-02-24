@@ -32,7 +32,7 @@ translate german scene_prologue_lee_place_4ac84862:
 translate german scene_prologue_lee_place_drink_a064951c:
 
     # lee_think "{e=water bottle}{e=tonya}{e=question}"
-    lee_think "Vielleicht sollte ich ihr die Flasche zurückbringen?"
+    lee_think "Soll ich ihr die Flasche vielleicht zurückbringen?"
 
 translate german strings:
 

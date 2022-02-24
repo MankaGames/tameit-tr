@@ -155,7 +155,7 @@ translate german scene_prologue_cockpit_sideview_tonya_return_16ba244f:
     "und beginnt langsam, Lees Schwanz zu stimulieren."
     "Sie stichelt nur und verhindert, dass er kommt. Dann beugt sie sich zu ihm,"
     "umkreist sein Ohr mit ihrer Zunge und beobachtet aufmerksam seine Reaktion."
-    "Lee erstarrt vor Aufregung und Verwirrung, versucht aber nicht, sie wegzustoßen."
+    "Lee erstarrt vor Erregung und Verwirrung, versucht aber nicht, sie wegzustoßen."
     "Tonya zieht geschickt ihren engen Rock hoch,"
     "beugt sich über Lees Sitz, schiebt ihn ein wenig zurück, "
     "setzt sich dann auf seinen Schoß,"

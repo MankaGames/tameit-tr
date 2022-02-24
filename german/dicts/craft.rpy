@@ -2,7 +2,7 @@
 
     # game/dicts/craft.rpy:2
     old "{e=thinking_face}{e=spear}{e=wild_hen}{e=crab}"
-    new "Von nun an kann ich mit einem Speer jagen. Endlich etwas Nahrhaftes zu essen."
+    new "Ich kann jetzt mit dem Speer jagen. Ich werde endlich etwas Nahrhaftes zu essen haben."
 
     # game/dicts/craft.rpy:2
     old "{e=lever}{e=yes}{e=slightly_smiling_face}"

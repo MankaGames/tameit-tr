@@ -14,31 +14,31 @@ translate german favour_gift_e197e613:
 translate german scene_kiss_common_f853b4b3:
 
     # char "{e=kiss_face}{e=kiss}"
-    char "{e=kiss_face}{e=kiss}"
+    char "{e=kiss_face}{e=kiss}{alt}*Mwah!*{/alt}"
 
 # game/scenes/common/favours.rpy:71
 translate german scene_frottage_common_e11ffd4e:
 
     # char "{e=kiss}{e=smiling_face_with_hearts}"
-    char "{e=kiss}{e=smiling_face_with_hearts}"
+    char "{e=kiss}{e=smiling_face_with_hearts}{alt}Es war schön. Hat mir gefallen!{/alt}"
 
 # game/scenes/common/favours.rpy:140
 translate german scene_sex_common_e11ffd4e:
 
     # char "{e=kiss}{e=smiling_face_with_hearts}"
-    char "{e=kiss}{e=smiling_face_with_hearts}"
+    char "{e=kiss}{e=smiling_face_with_hearts}{alt}Es war schön. Hat mir gefallen!{/alt}"
 
 # game/scenes/common/favours.rpy:158
 translate german scene_spanking_common_e11ffd4e:
 
     # char "{e=kiss}{e=smiling_face_with_hearts}"
-    char "{e=kiss}{e=smiling_face_with_hearts}"
+    char "{e=kiss}{e=smiling_face_with_hearts}{alt}Es war schön. Hat mir gefallen!{/alt}"
 
 # game/scenes/common/favours.rpy:209
 translate german scene_bj_common_e11ffd4e:
 
     # char "{e=kiss}{e=smiling_face_with_hearts}"
-    char "{e=kiss}{e=smiling_face_with_hearts}"
+    char "{e=kiss}{e=smiling_face_with_hearts}{alt}Es war schön. Hat mir gefallen!{/alt}"
 
 # game/scenes/common/favours.rpy:34
 translate german scene_kiss_common_8d26f6ce:
@@ -74,13 +74,13 @@ translate german scene_kiss_common_ee1c5b0f:
 translate german scene_kiss_common_f853b4b3_1:
 
     # char "{e=kiss_face}{e=kiss}"
-    char "{e=kiss_face}{e=kiss}"
+    char "{e=kiss_face}{e=kiss}{alt}*Mwah!*{/alt}"
 
 # game/scenes/common/favours.rpy:279
 translate german scene_cowgirl_common_e11ffd4e:
 
     # char "{e=kiss}{e=smiling_face_with_hearts}"
-    char "{e=kiss}{e=smiling_face_with_hearts}"
+    char "{e=kiss}{e=smiling_face_with_hearts}{alt}Es war schön. Hat mir gefallen!{/alt}"
 
 # game/scenes/common/favours.rpy:376
 translate german scene_cat_necklace_4ac3b1f6:

@@ -22,7 +22,7 @@ translate german scene_chapter02_intro_b14857f6:
 translate german scene_chapter02_intro_71ddc414:
 
     # lee_think "{e=face_without_mouth}{e=exclamation}{e=fearful_face}"
-    lee_think "Was war das für ein Geräusch?!"
+    lee_think "Scheiße! Was zum Teufel war das für ein Geräusch?!"
 
 # game/scenes/chapter02/intro.rpy:33
 translate german scene_chapter02_intro_9778eefc:

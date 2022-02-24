@@ -40,7 +40,7 @@ translate german scene_sleep_chapter02_7ae8c25b:
 translate german scene_sleep_chapter02_2e22e58a:
 
     # lee_think "{e=face_without_mouth}{e=exclamation}{e=fearful_face}{e=cold_sweat}{e=confounded face}"
-    lee_think "Was zum T... diese Kreatur schon wieder?"
+    lee_think "Was zum T... Schon wieder diese Kreatur?"
     lee_think "Diese verrückten Träume, und jetzt das!"
 
 # game/scenes/chapter02/sleep.rpy:38
@@ -53,8 +53,8 @@ translate german scene_sleep_chapter02_ed65960f:
 translate german scene_sleep_chapter02_aca26a68:
 
     # lee_think "{e=persevering}{e=weary_face}{e=yawning_face}{e=expressionless}"
-    lee_think "Gott, ich habe solche Angst, dass ich nicht einmal an Schlaf denken kann,"
-    lee_think "aber ich muss trotzdem ein Nickerchen machen."
+    lee_think "Gott, ich habe solche Angst! Ich muss ein Nickerchen machen,"
+    lee_think "aber nach dem, was gerade passiert ist, bin ich hellwach."
 
 # game/scenes/chapter02/sleep.rpy:49
 translate german scene_sleep_chapter02_3c90cbbc_2:
@@ -66,14 +66,14 @@ translate german scene_sleep_chapter02_3c90cbbc_2:
 translate german scene_sleep_chapter02_7e615075:
 
     # lee_think "{e=ear}{e=tiger}{e=confounded face}{e=persevering}"
-    lee_think "Oh, nein! Es ist wieder da! Und diese Geräusche... ein Tiger?"
-    lee_think "Ich hoffe, dass es hier keine Tiger gibt."
+    lee_think "Oh, nein! Es ist wieder da! Und es klingt... wie ein Tiger."
+    lee_think "Gibt es hier wirklich Tiger?!"
 
 # game/scenes/chapter02/sleep.rpy:55
 translate german scene_sleep_chapter02_16d98d68:
 
     # lee_think "{e=face_without_mouth}{e=crescent_moon}{e=weary_face}"
-    lee_think "Seit Tagen kann ich deswegen nicht mehr gut schlafen."
+    lee_think "Seit Tagen kann ich deswegen nicht gut schlafen."
 
 # game/scenes/chapter02/sleep.rpy:64
 translate german scene_sleep_chapter02_0ee2b10f:
@@ -110,7 +110,7 @@ translate german scene_sleep_chapter02_a1983c1b:
 translate german scene_sleep_chapter02_b7948955:
 
     # lee_think "{e=tiger}{e=panther}{e=exclamation_question}{e=fearful_face}"
-    lee_think "Es gibt also doch einige Großkatzen?"
+    lee_think "Es gibt also doch einige Großkatzen!"
     lee_think "Tiger oder Panther?\nWer könnte es sein?"
 
 # game/scenes/chapter02/sleep.rpy:96
