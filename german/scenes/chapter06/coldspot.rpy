@@ -2,7 +2,7 @@
 translate german scene_chapter06_contact1_6a59d1e9:
 
     # lee_think "{e=catgirl}{e=smiling_face_with_hearts}{e=smirk}"
-    lee_think "Oh, sie scheint diesen Fisch sehr zu mögen!"
+    lee_think "Oh, sie scheint den Fisch sehr zu mögen!"
 
 # game/scenes/chapter06/coldspot.rpy:46
 translate german scene_chapter06_contact1_62f48a40:
@@ -112,13 +112,13 @@ translate german scene_chapter06_contact3_3a16e192:
 translate german scene_chapter06_contact3_1355cad5:
 
     # lee "{e=exclamation_white}{e=smiley}{e=heart_eyes}"
-    lee "Oh... Mann! Okay, mach weiter mit dem, was du tust."
+    lee "Oh... Mann!\nOkay, ich habe kein Problem damit, mach weiter."
 
 # game/scenes/chapter06/coldspot.rpy:304
 translate german scene_chapter06_contact3_26a4129a:
 
     # lee "{e=lee}{e=you}{e=catgirl}{e=strawberry}{e=heart}"
-    lee "Lass mich dir auch helfen. Es wird dir sicher gefallen."
+    lee "Lass mich auch eine Sache tun. Es wird dir sicher gefallen."
 
 # game/scenes/chapter06/coldspot.rpy:348
 translate german scene_chapter06_contact3_d5fc5509:

@@ -89,8 +89,9 @@ translate german scene_chapter06_wrecks_6c1081f5:
 translate german scene_chapter06_lake_9c275715:
 
     # lee_think "{e=fish}{e=arrow_up}"
-    lee_think "Ich wette, hier gibt es viele verschiedene Fische"
-    lee_think "die ich im Vergleich zu dem Wildfluss in meiner Gegend leicht fangen kann."
+    lee_think "Ich wette, es gibt hier viele verschiedene Fische, die ich leicht fangen kann."
+    lee_think "Das wird ein Kinderspiel im Vergleich zum Angeln"
+    lee_think "in dem schnell fließenden Fluss in der Nähe meines Hauses."
 
 # game/scenes/chapter06/lake_area.rpy:80
 translate german scene_chapter06_lake_15c6553d:
@@ -102,8 +103,8 @@ translate german scene_chapter06_lake_15c6553d:
 translate german scene_chapter06_lake_1e44eb16:
 
     # lee_think "{e=light_bulb}{e=fish_big}{e=gift}{e=arrow_right}{e=catgirl}"
-    lee_think "Ich habe kürzlich einen großen Fisch gefangen - Cat wird ihn sicher lieben."
-    lee_think "Ich werde ihn ihr geben - sie liebt besondere Leckereien."
+    lee_think "Ich habe vor kurzem einen großen Fisch gefangen. Cat wird ihn sicher lieben."
+    lee_think "Ich werde ihn ihr geben.\nSie liebt besondere Leckereien."
 
 # game/scenes/chapter06/lake_area.rpy:62
 translate german scene_chapter06_wrecks_02861276:

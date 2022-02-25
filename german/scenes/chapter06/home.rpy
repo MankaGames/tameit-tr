@@ -43,31 +43,29 @@ translate german scene_chapter06_inside_ff1d4465:
 translate german scene_chapter06_inside_a69f1bb2:
 
     # lee_think "{e=light_bulb}{e=fish_big}{e=plus}{e=honey}{e=drooling_face}"
-    lee_think "Ich habe kürzlich einen großen Fisch gefangen - Cat wird er sicher gefallen."
-    lee_think "Ich werde ihn ihr geben - sie liebt besondere Leckereien."
+    lee_think "Der Fisch, den ich für sie gekocht habe, hat ihr geschmeckt."
+    lee_think "Ich denke, ich werde ihn diesmal mit Honig kochen, das wäre sicher lecker."
 
 # game/scenes/chapter06/home.rpy:109
 translate german scene_chapter06_inside_35c20985:
 
     # lee_think "{e=thinking_face}{e=fish_big}{e=arrow_up}{e=catgirl}{e=heart}"
-    lee_think "Ich sollte weiter nach Fischen fischen, die Cat mag"
-    lee_think "vielleicht kommen wir auf diese Weise noch näher."
+    lee_think "Ich sollte weiter die Fische fangen, die Cat mag."
+    lee_think "Vielleicht kommen wir auf diese Weise noch näher."
 
 # game/scenes/chapter06/home.rpy:142
 translate german scene_chapter06_outro_8ab16916:
 
     # lee_think "{e=catgirl}{e=arrow_right}{e=eggplant}{e=strawberry}{e=smirk}"
-    lee_think "{e=catgirl}{e=arrow_right}{e=eggplant}{e=strawberry}{e=smirk}"
-    lee_think "Sie ist gerade so feucht und geil und krümmt sich wie eine echte Katze -"
-    lee_think "vielleicht ist sie bereit für etwas mehr?"
+    lee_think "Sie ist so nass, geil und wölbt ihren Rücken vor Erregung."
+    lee_think "Ist sie für den nächsten Schritt bereit?"
 
 # game/scenes/chapter06/home.rpy:153
 translate german scene_chapter06_outro_998445b3:
 
     # lee "{e=catgirl}{e=smiling_face_with_hearts}{e=eggplant}{e=question_white}"
-    lee "Sieh mal, was ich für dich habe, Babe."
-    lee "Was denkst du?"
-    lee "Würdest du mich reinlassen?"
+    lee "Schau mal, was ich für dich habe, Babe."
+    lee "Wie gefällt dir das?\nWürdest du mich reinlassen?"
 
 # game/scenes/chapter06/home.rpy:161
 translate german scene_chapter06_outro_e001ce8a:
@@ -79,15 +77,16 @@ translate german scene_chapter06_outro_e001ce8a:
 translate german scene_chapter06_outro_174178c2:
 
     # lee_think "{e=hushed_face}{e=worried_face}{e=pensive_face}{e=catgirl}{e=arrow_right}"
-    lee_think "So ein Mist! Nicht so! Sie lässt mich einfach wieder traurig und geil zurück..."
-    lee_think "Was für ein Tag, um am Leben zu sein!.."
+    lee_think "Oh, verdammt!\nEs ist wieder passiert!"
+    lee_think "Sie ist einfach abgehauen und hat mich in diesem Zustand zurückgelassen..."
+    lee_think "Hervorragend!"
 
 # game/scenes/chapter06/home.rpy:190
 translate german scene_chapter06_outro_5c9ec907:
 
     # lee_think "{e=weary_face}{e=frowning_face}"
     lee_think "Es scheint, als wäre ich mit all dem etwas voreilig gewesen."
-    lee_think "Ich schätze, sie hat das noch nie gemacht und hatte zu viel Angst vor meinem pp."
+    lee_think "Ich schätze, sie hat das noch nie gemacht und hatte Angst vor dem Ding."
     lee_think "Es wäre so lustig gewesen, wenn es nicht so traurig gewesen wäre."
 
 # game/scenes/chapter06/home.rpy:201
@@ -101,7 +100,8 @@ translate german scene_chapter06_outro_f18a5812:
 translate german scene_chapter06_outro_eb16a2df:
 
     # lee_think "{e=photo}{e=tonya}{e=question_white}"
-    lee_think "Trauriges Wichsen war nie eine Option - wo ist das Bild von Tonya?"
+    lee_think "Aber ich werde nicht zulassen, dass es in eine traurige Wichserei ausartet."
+    lee_think "Wo ist mein Bild von Tonya? "
 
 # game/scenes/chapter06/home.rpy:34
 translate german scene_chapter06_home_ac4e2959:

@@ -9,7 +9,7 @@ translate german scene_chapter07_lake_shore_a3917cfe:
 translate german scene_chapter07_lake_shore_9aae27b9:
 
     # lee_think "{e=catgirl}{e=arrow_right}{e=confounded face}{e=thinking_face}"
-    lee_think "Cat treibt sich auch am Wasser herum - wonach hält sie Ausschau?"
+    lee_think "Cat treibt sich auch am Wasser herum - was hat sie dort gesehen?"
 
 # game/scenes/chapter07/lake_area.rpy:34
 translate german scene_chapter07_lake_shore_d06ea92b:
@@ -27,7 +27,7 @@ translate german scene_chapter07_lake_shore_da206b54:
 translate german scene_chapter07_lake_shore_get_blade_c8c4bbbd:
 
     # lee_think "{e=fishing_pole}{e=no}{e=pensive_face}"
-    lee_think "Nun, die Angelrute ist sicherlich nicht dabei, aber wie hoch waren die Chancen?"
+    lee_think "Nein, ich kann meine Angelrute nirgends sehen."
 
 # game/scenes/chapter07/lake_area.rpy:46
 translate german scene_chapter07_lake_shore_get_blade_7324e328:
@@ -39,10 +39,9 @@ translate german scene_chapter07_lake_shore_get_blade_7324e328:
 translate german scene_chapter07_lake_shore_get_blade_44b91a8c:
 
     # lee_think "{e=blade}{e=exclamation_white}"
-    lee_think "Etwas aus Metall. Sieht aus wie ein Teil des Flugzeugpropellers."
-    lee_think "Vielleicht ist er bei dem Unfall einfach abgefallen."
-    lee_think "Ich hätte es nicht einmal endeckt,"
-    lee_think "wenn ich nicht nach meiner Angelrute suchen würde."
+    lee_think "Etwas aus Metall. Sieht aus wie ein Propellerblatt."
+    lee_think "Vielleicht ist er beim Absturz einfach heruntergefallen und lag lange Zeit hier."
+    lee_think "Ich hätte es nicht bemerkt, wenn ich nicht nach der Angelrute gesucht hätte."
 
 # game/scenes/chapter07/lake_area.rpy:52
 translate german scene_chapter07_lake_shore_get_blade_79b2d969:
@@ -82,9 +81,8 @@ translate german scene_chapter07_wrecks_fdafb547:
 translate german scene_chapter07_wrecks_1d8a6f97:
 
     # lee_think "{e=cold_sweat}{e=catgirl}{e=injured_leg}{e=face_with_head-bandage}{e=exclamation_question}"
-    lee_think "Und was, wenn sie verletzt wurde?"
-    lee_think "Wie konnte sie überhaupt... Verdammt!"
-    lee_think "Warum ist sie nicht weggelaufen?"
+    lee_think "Und was, wenn sie verletzt wurde?\nWie konnte sie überhaupt..."
+    lee_think "Verdammt!\nWarum ist sie nicht weggelaufen?"
 
 # game/scenes/chapter07/lake_area.rpy:95
 translate german scene_chapter07_wrecks_02861276:
@@ -146,8 +144,8 @@ translate german scene_chapter07_wrecks_crash_ed6896cc:
 translate german scene_chapter07_wrecks_crash_e39f2c1e:
 
     # lee_think "{e=arrow_right}{e=grappling}{e=arrow_up}{e=airplane}"
-    lee_think "Fühlt sich ziemlich eng an."
-    lee_think "Jetzt muss ich das Seil hochklettern und hoffen, dass es hält."
+    lee_think "Fühlt sich ziemlich fest an."
+    lee_think "etzt muss ich das Seil hochklettern und hoffen, dass es hält."
 
 # game/scenes/chapter07/lake_area.rpy:147
 translate german scene_chapter07_wrecks_crash_393a33b7:
@@ -193,9 +191,8 @@ translate german scene_chapter07_wrecks_crash_c021d6b6:
 translate german scene_chapter07_wrecks_free_4a256660:
 
     # lee "{e=catgirl}{e=exclamation_white}{e=catgirl}{e=question_white}"
-    lee "Cat, bitte, antworte mir!"
-    lee "Wo bist Du?"
-    lee "Geht es dir gut?"
+    lee "Cat, bitte antworte!"
+    lee "Wo bist Du?\nGeht es dir gut?"
 
 # game/scenes/chapter07/lake_area.rpy:201
 translate german scene_chapter07_wrecks_free_c1d3a499:
@@ -221,7 +218,7 @@ translate german scene_chapter07_wrecks_free_0f9ef7e5:
 
     # lee_think "{e=downcast_face}{e=worried_face}"
     lee_think "Das übersteigt ein bisschen meine Fähigkeiten."
-    lee_think "Ich werde das Ding auf keinen Fall allein transportieren."
+    lee_think "Ich kann das Ding auf keinen Fall allein bewegen."
 
 # game/scenes/chapter07/lake_area.rpy:208
 translate german scene_chapter07_wrecks_free_9f66bbf7:
@@ -253,7 +250,8 @@ translate german scene_chapter07_wrecks_free_547e1dc7:
 translate german scene_chapter07_wrecks_free_e0bf523b:
 
     # lee_think "{e=smiley}{e=yes}{e=exclamation_white}"
-    lee_think "Geschafft, endlich! Diese alten Griechen wussten also doch etwas!"
+    lee_think "Ich habe es endlich geschafft!"
+    lee_think "Diese alten Griechen wussten also doch etwas!"
 
 # game/scenes/chapter07/lake_area.rpy:235
 translate german scene_chapter07_wrecks_free_9811a2a6:
@@ -278,7 +276,7 @@ translate german scene_chapter07_wrecks_free_c196c47a:
 translate german scene_chapter07_wrecks_free_b3ced886:
 
     # lee "{e=eyes}{e=catgirl}"
-    lee "Lass mich dich mal ansehen."
+    lee "Lassen mich einen Blick darauf werfen."
 
 # game/scenes/chapter07/lake_area.rpy:243
 translate german scene_chapter07_wrecks_free_a2209f31:
@@ -326,15 +324,15 @@ translate german scene_chapter07_lake_1d0f3935:
 
     # lee_think "{e=fish}{e=exclamation_white}{e=question_white}"
     lee_think "Warum verhalten sich die Fische so?"
-    lee_think "Sie müssen vor etwas Angst haben, oder?"
+    lee_think "Haben sie vor etwas Angst oder was?"
     lee_think "Das ergibt für mich überhaupt keinen Sinn."
 
 # game/scenes/chapter07/lake_area.rpy:283
 translate german scene_chapter07_lake_564999f5:
 
     # lee_think "{e=hushed_face}{e=dizzy_face}{e=confused_face}"
-    lee_think "Ich verstehe es nicht, aber das ist verdammt beängstigend!"
-    lee_think "Es überrascht mich nicht, dass Cat so nervös reagiert."
+    lee_think "Ich versteh's nicht, aber das ist verdammt beängstigend!"
+    lee_think "Kein Wunder, dass Cat so nervös ist."
 
 # game/scenes/chapter07/lake_area.rpy:284
 translate german scene_chapter07_lake_1214ef83:
@@ -365,12 +363,12 @@ translate german scene_chapter07_lake_swim_dc5db4f7:
 translate german scene_chapter07_lake_swim_5f1618b5:
 
     # lee_think "{e=catgirl}{e=eyes}{e=drooling_face}{e=fish_big}{e=weary_face}"
-    lee_think "Cat schaut natürlich auch zu und wartet auf Leckerlis."
+    lee_think "Cat schaut auch zu und wartet auf Leckerlis."
     lee_think "Ich werde nicht lügen - ich bin froh,"
-    lee_think "dass sie mir nach letzter Nacht nicht mehr aus dem Weg geht."
+    lee_think "dass sie mir nicht aus dem Weg geht, nachdem was gestern Abend passiert ist."
     lee_think "Sie ist nicht einmal wütend."
-    lee_think "Wenn ich sie nur mit einem Großen Fisch belohnen könnte."
-    lee_think "Lass uns noch ein bisschen warten, vielleicht erwische ich ja noch einen."
+    lee_think "Wenn ich sie nur mit etwas Leckerem verwöhnen könnte."
+    lee_think "Warten wir noch ein wenig ab, vielleicht beißt ja doch noch einer an."
 
 # game/scenes/chapter07/lake_area.rpy:325
 translate german scene_chapter07_lake_swim_c7c22889:
@@ -383,7 +381,7 @@ translate german scene_chapter07_lake_swim_fd5ed93c:
 
     # lee_think "{e=catgirl}{e=take}{e=lake}{e=arrow_right}"
     lee_think "Verdammt, ich muss sie schnell aus dem Wasser holen!"
-    lee_think "Wie ist das überhaupt..."
+    lee_think "Wie hat sie es geschafft zu fallen?"
 
 # game/scenes/chapter07/lake_area.rpy:331
 translate german scene_chapter07_lake_swim_e29bcce8:
@@ -414,15 +412,14 @@ translate german scene_chapter07_lake_swim_58a46953:
 translate german scene_chapter07_lake_swim_5f9682a1:
 
     # lee "{e=arrow_right}{e=bungalow4}{e=fireplace}{e=thermometer}{e=relieved}"
-    lee "Keine Sorge, ich hab dich."
-    lee "Wir sind im Handumdrehen zu Hause,"
+    lee "Ist schon gut, ich bin ja da. Wir sind im Nu zu Hause,"
     lee "die warme Feuerstelle sollte dir beim trocknen helfen."
 
 # game/scenes/chapter07/lake_area.rpy:113
 translate german scene_chapter07_wrecks_open_door_9f699a05:
 
     # lee_think "{e=grappling}{e=check_mark}{e=slightly_smiling_face}"
-    lee_think "So, der Enterhaken ist fertig, Zeit für ein paar Tests."
+    lee_think "So, der Enterhaken ist fertig, Zeit, ihn zu testen."
 
 # game/scenes/chapter07/lake_area.rpy:114
 translate german scene_chapter07_wrecks_open_door_2736ec9c:
@@ -442,6 +439,6 @@ translate german scene_chapter07_wrecks_open_door_50d49049:
 translate german scene_chapter07_wrecks_open_door_8841fbbc:
 
     # lee_think "{e=thinking_face}{e=rock}{e=arrow_right}{e=plane_door}"
-    lee_think "Ich sollte versuchen, ein paar Steine darauf zu werfen."
-    lee_think "Wenn es hilft - ist heute mein Glückstag, ohne Scheiß."
+    lee_think "Ich kann versuchen, sie mit Steinen zu bewerfen und"
+    lee_think "zu sehen, ob die Schläge sie öffnen können."
 

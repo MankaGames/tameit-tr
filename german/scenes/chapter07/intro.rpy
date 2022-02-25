@@ -10,7 +10,8 @@ translate german scene_chapter07_intro_4673df16:
 translate german scene_chapter07_intro_750667a0:
 
     # lee_think "{e=thinking_face}{e=fishing_pole}{e=fish_big}{e=arrow_up}{e=catgirl}"
-    lee_think "Ich muss Cat irgendwie besänftigen, wenn ich sie zurückgewinnen will."
+    lee_think "Ich muss Cat irgendwie zufrieden stellen, damit sie vergisst,"
+    lee_think "was passiert ist, und sich entspannt."
     lee_think "Vielleicht hilft es, den großen Fisch zu fangen, den sie mag?"
     lee_think "Lass es uns versuchen."
 

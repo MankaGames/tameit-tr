@@ -6,7 +6,7 @@
 
     # game/dicts/craft.rpy:2
     old "{e=lever}{e=yes}{e=slightly_smiling_face}"
-    new "Der Hebel ist bereit! Jetzt kann ich sie rausholen!"
+    new "Der Hebel ist bereit! Jetzt kann ich sie befreien!"
 
     # game/dicts/craft.rpy:2
     old "{e=smiley}{e=fishnet}{e=yes}{e=exclamation_white}"

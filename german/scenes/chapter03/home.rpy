@@ -59,9 +59,9 @@ translate german scene_chapter03_broken_trap_22eb6016:
 translate german scene_chapter03_broken_trap_5920b737:
 
     # lee_think "{e=weary_face}{e=frowning_face}{e=thinking_face}{e=question_white}"
-    lee_think "Vielleicht habe ich etwas falsch gemacht?"
+    lee_think "Habe ich etwas falsch gemacht?"
     lee_think "Ich weiß, dass ich kein Experte bin,"
-    lee_think "ich habe damals nur etwas Erfahrung mit Pfadfindern gesammelt."
+    lee_think "ich habe in der Vergangenheit ein wenig Pfadfinderausbildung absolviert."
     lee_think "Wie auch immer, was soll ich jetzt tun?"
 
 # game/scenes/chapter03/home.rpy:111

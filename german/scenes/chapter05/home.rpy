@@ -160,8 +160,7 @@ translate german scene_chapter05_outro_f426c768:
 translate german scene_chapter05_outro_08fd8cb9:
 
     # lee_think "{e=astonished_face}{e=exclamation_white}{e=bungalow_wrecked}"
-    lee_think "Wow, das nenne ich ein Loch!"
-    lee_think "Sag mir - hatte ich überhaupt ein Dach?"
+    lee_think "Wow, das ist aber ein großes Loch! Das Dach ist fast komplett weg."
 
 # game/scenes/chapter05/home.rpy:207
 translate german scene_chapter05_outro_bce18a01:
