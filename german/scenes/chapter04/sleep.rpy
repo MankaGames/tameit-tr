@@ -8,7 +8,7 @@ translate german scene_sleep_chapter04_3c90cbbc:
 translate german scene_sleep_chapter04_de9d01ee:
 
     # lee_think "{e=cold_face}{e=confounded face}"
-    lee_think "Es ist saukalt!"
+    lee_think "Es ist verdammt k-k-kalt!"
     lee_think "Noch schlimmer als in den ersten Nächten hier!"
 
 # game/scenes/chapter04/sleep.rpy:38
@@ -34,11 +34,11 @@ translate german strings:
 
     # game/scenes/chapter04/sleep.rpy:47
     old "{e=catgirl}{e=strawberry}{e=smiling_face_with_hearts}{e=eggplant}"
-    new "Mhm, Baby, was machst du... Oh, bitte, hör nicht auf!"
+    new "Mhm, Baby, was machst du mit mir... Oh, bitte, hör nicht auf!"
 
     # game/scenes/chapter04/sleep.rpy:50
     old "{e=lightning}{e=cold_sweat}{e=persevering}"
-    new "Ein Donnerschlag! Scheiße, das ist schnell eskaliert! Es regnet bereits in Strömen."
+    new "Gewitter! Scheiße, es ist ein richtiges Gewitter geworden! Es regnet bereits in Strömen."
 
     # game/scenes/chapter04/sleep.rpy:51
     old "{e=lee}{e=hammer}{e=bungalow4}"
@@ -50,5 +50,5 @@ translate german strings:
 
     # game/scenes/chapter04/sleep.rpy:57
     old "{e=storm}{e=exclamation}{e=bungalow4}{e=no}{e=desert island}"
-    new "Es wird nicht viele Möglichkeiten geben, das Haus zu verlassen, wenn das Wetter schlechter wird."
+    new "Wenn sich das Wetter verschlechtert, werde ich das Haus nicht mehr verlassen können."
 

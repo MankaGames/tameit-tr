@@ -37,7 +37,7 @@ translate german scene_chapter03_setup_trap_bff06c23:
 translate german scene_chapter03_setup_trap_5df9d169:
 
     # lee_think "{e=gallows}{e=plus}{e=poultry_leg}{e=check_mark}{e=slightly_smiling_face}"
-    lee_think "Die Falle ist aufgestellt, der Köder ist ausgelegt, gut. Bravo an mich!"
+    lee_think "Die Falle ist aufgestellt, der Köder ist ausgelegt, gut. Super Arbeit!"
 
 # game/scenes/chapter03/home.rpy:90
 translate german scene_chapter03_setup_trap_78a24db4_1:
@@ -68,8 +68,8 @@ translate german scene_chapter03_broken_trap_5920b737:
 translate german scene_chapter03_broken_trap_20f5eb6c:
 
     # lee_think "{e=thinking_face}{e=light_bulb}{e=gallows_2}{e=sparkles}"
-    lee_think "Ich weiß, was zu tun ist."
-    lee_think "Ich werde etwas machen, das solider ist als meine vorherige Kreation."
+    lee_think "Ich weiß, was zu tun ist. "
+    lee_think "Ich werde etwas machen, das viel solider ist als meine vorherige Falle."
 
 # game/scenes/chapter03/home.rpy:133
 translate german scene_chapter03_setup_trap2_4770eb65:
@@ -101,7 +101,7 @@ translate german scene_chapter03_bagheera_9483716c:
 
     # lee_think "{e=flushed_face}{e=smiling_face_with_hearts}{e=catgirl}{e=heart_eyes}"
     lee_think "Wow, was für ein heißer Feger sie ist!"
-    lee_think "Das hat nichts mit ihrem ersten Auftritt zu tun."
+    lee_think "Sie sieht ganz anders aus, wenn es hell ist."
     lee_think "Was zum Teufel ist sie überhaupt?"
     lee_think "Eine kryptische Spezies oder nur ein weiterer Zweig der Evolution?"
 
@@ -135,7 +135,7 @@ translate german scene_chapter03_outro_77e85551:
 translate german scene_chapter03_outro_bf82ee53:
 
     # lee_think "{e=cold_sweat}{e=confounded face}{e=dizzy_face}"
-    lee_think "Scheiße, jetzt sitze ich in meiner eigenen Falle."
+    lee_think "Scheiße, ich bin in meine eigene Falle getappt!"
     lee_think "Gut gemacht, Lee!"
 
 # game/scenes/chapter03/home.rpy:312
@@ -158,14 +158,14 @@ translate german scene_chapter03_outro_e377ea58:
     # lee "{e=flushed_face}{e=t-shirt}{e=exclamation_question}{e=downcast_face}"
     lee "Hey, das ist meins!"
     lee "Gib es zurück!\nWo willst du hin?"
-    lee "Willst du mir nicht mal helfen?"
+    lee "Wie kann ich mich jetzt befreien?!"
 
 # game/scenes/chapter03/home.rpy:43
 translate german scene_chapter03_home_40cf4ca6:
 
     # lee_think "{e=catgirl}{e=heart}{e=fish}{e=thinking_face}"
     lee_think "Sie hat den Fisch gegessen."
-    lee_think "Eine Katze ist immer noch eine Katze"
+    lee_think "Ich schätze, Katzen sind nun mal Katzen, richtig?"
 
 # game/scenes/chapter03/home.rpy:45
 translate german scene_chapter03_home_02792aa1:
@@ -174,3 +174,9 @@ translate german scene_chapter03_home_02792aa1:
     lee_think "Aber ich brauche eine Angelrute, um sie zu fangen."
     lee_think "Ich denke, ich kann es schaffen."
 
+# game/scenes/chapter03/home.rpy:45
+translate german scene_chapter03_home_35cc6a40:
+
+    # lee_think "{e=light_bulb}{e=fish}{e=plus}{e=gallows_2}{e=exclamation_white}"
+    lee_think "Wenn sie Fisch so sehr mag,"
+    lee_think "sollte ich ihn vielleicht als Köder für meine neue Falle verwenden."

@@ -30,7 +30,7 @@ translate german scene_coldspot_ch05_79127666:
 
     # lee_think "{e=smiling_face_with_hearts}{e=smiling_face}"
     lee_think "Wow, ich habe es wieder geschafft, sie zu befummeln."
-    lee_think "Kein Zweifel, sie mag es!"
+    lee_think "Kein Zweifel, es gefällt ihr!"
 
 # game/scenes/chapter05/coldspot.rpy:90
 translate german scene_coldspot_ch05_f80e5c4e:

@@ -16,15 +16,14 @@ translate german scene_chapter05_inside_08fd7836:
     # lee_think "{e=smirk}{e=shushing_face}{e=smiling_face_with_hearts}{e=smiling_face}"
     lee_think "Diesmal muss ich vorsichtiger sein, um sie nicht zu verschrecken."
     lee_think "Ich möchte, dass sie sich daran gewöhnt, in meiner Nähe zu sein."
-    lee_think "Vielleicht wird sie mich doch noch mögen."
+    lee_think "Vielleicht mag sie mich ja am Ende doch noch."
 
 # game/scenes/chapter05/home.rpy:95
 translate german scene_chapter05_inside_5bf8a028:
 
     # lee_think "{e=thinking_face}{e=fish}{e=arrow_right}{e=catgirl}"
     lee_think "Ich denke, ich werde ihr einfach ein paar Leckereien anbieten."
-    lee_think "Ich habe einen Vorrat an Lebensmitteln angelegt,"
-    lee_think "so dass es für uns beide reichen wird."
+    lee_think "Ich habe mich mit Lebensmitteln eingedeckt, also wird es für uns beide reichen."
 
 # game/scenes/chapter05/home.rpy:100
 translate german scene_chapter05_inside_6b6009b0:
@@ -38,8 +37,9 @@ translate german scene_chapter05_inside_6b6009b0:
 translate german scene_chapter05_inside_41368456:
 
     # lee_think "{e=thinking_face}{e=say}{e=arrow_right}{e=catgirl}{e=question}"
-    lee_think "Ich frage mich immer noch - kann sie überhaupt sprechen?"
-    lee_think "Ich bezweifle, dass sie meine Sprache kennt, aber einen Versuch ist es wert."
+    lee_think "Ich frage mich immer noch, ob sie überhaupt sprechen kann."
+    lee_think "Ich bezweifle, dass sie meine Sprache beherrscht,"
+    lee_think "aber ich denke, es ist einen Versuch wert."
 
 # game/scenes/chapter05/home.rpy:107
 translate german scene_chapter05_inside_e703c833:
@@ -82,12 +82,11 @@ translate german scene_chapter05_inside_13d60782:
 
     # lee_think "{e=thinking_face}{e=catgirl}{e=confusion}{e=frowning_face}"
     lee_think "Sie scheint nicht zu verstehen, was ich sage. Lass mich nachdenken."
-    lee_think "Vielleicht kann sie gar nicht sprechen?"
+    lee_think "Könnte es sein, dass sie überhaupt nicht sprechen kann?"
     lee_think "Sie hat die ganze Zeit nur diese Katzengeräusche gemacht."
     lee_think "Ich kann keine Zeichensprache,"
-    lee_think "aber es muss eine Möglichkeit geben,"
-    lee_think "einen Kommunikationsprozess zu entwickeln."
-    lee_think "Vielleicht können wir unser eigenes Zeichensystem erschaffen?"
+    lee_think "aber es muss einen Weg geben, um kommunizieren zu können"
+    lee_think "Vielleicht können wir unser eigenes Zeichensystem erstellen?"
 
 # game/scenes/chapter05/home.rpy:120
 translate german scene_chapter05_inside_a227c91e:
@@ -126,7 +125,7 @@ translate german scene_chapter05_outro_a27cc721:
 
     # lee_think "{e=thermometer}{e=catgirl}{e=relieved}"
     lee_think "Sie ist so warm, so schön. Verdammt, ihr Herz rast!"
-    lee_think "Das ist echte Angst."
+    lee_think "Sie ist so verängstigt, mein Gott."
 
 # game/scenes/chapter05/home.rpy:176
 translate german scene_chapter05_outro_7b7bc0d0:
@@ -184,15 +183,15 @@ translate german scene_chapter05_outro_c1a50e63:
 
     # lee_think "{e=bungalow_wrecked}{e=arrow_right}{e=repair}"
     lee_think "Das ist schade, aber ich habe im Moment wichtigere Dinge zu tun:"
-    lee_think "die Sache, die gestern noch mein Haus war, braucht einige ernsthafte Reparaturen."
-    lee_think "Ich muss das schnell in Ordnung bringen, denn wenn der Sturm zurückkommt,"
-    lee_think "Ich will Cat nicht in den \"Resten\" meines Bungalows begegnen."
+    lee_think "Mein Haus ist ein einziges Chaos und braucht einige ernsthafte Reparaturen."
+    lee_think "Ich muss es schnell reparieren, falls der Sturm zurückkommt."
+    lee_think "Ich würde Cat ungern in diesem Bungalow-Wrack willkommen heißen."
 
 # game/scenes/chapter05/home.rpy:125
 translate german scene_chapter05_inside_fbd0c56f:
 
     # lee_think "{e=take}{e=smirk}{e=night}{e=catgirl}"
-    lee_think "Wir haben im Unterricht einige gute Fortschritte gemacht."
+    lee_think "Wir haben in unserem Unterricht gute Fortschritte gemacht."
     lee_think "Ich weiß noch nicht einmal, welche Wörter ich ihr als nächstes beibringen soll."
     lee_think "Aber ich weiß, wo wir noch Fortschritte machen können..."
     lee_think "Ich werde sie einfach jede Nacht befummeln, bis sie selbst darum bittet."

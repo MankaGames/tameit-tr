@@ -31,7 +31,7 @@ translate german scene_prologue_cockpit_backview_crash_a4a794b4:
 translate german scene_prologue_cockpit_backview_crash_f5ac12f8:
 
     # lee_think "{e=tonya}{e=question}{e=plane_door}"
-    lee_think "Soll ich bei ihr bleiben oder aus dem Flugzeug springen?\nWas soll ich tun?"
+    lee_think "Soll ich bei ihr bleiben oder aus einem Flugzeug springen? Was soll ich tun?"
 
 # game/scenes/prologue/cockpit_backview.rpy:93
 translate german scene_prologue_cockpit_backview_crash_196ae7cb:

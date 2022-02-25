@@ -11,7 +11,7 @@ translate german scene_chapter04_behindriver1_600dda1a:
 
     # lee_think "{e=magnifying_glass}{e=arrow_right}{e=smoke}"
     lee_think "Ich muss die Quelle für diesen Rauch finden."
-    lee_think "Wenn es ein Lagerfeuer ist, steckt zweifellos eine Person dahinter."
+    lee_think "Das war sicherlich ein Lagerfeuer, das jemand gemacht hat."
 
 # game/scenes/chapter04/behindriver.rpy:14
 translate german scene_chapter04_behindriver1_87fb70f8:
@@ -25,8 +25,8 @@ translate german scene_chapter04_behindriver2_e60c4f4d:
     # lee_think "{e=dead_end}{e=hushed_face}{e=frowning_face}"
     lee_think "Oh, Mist! Dieser riesige Baum blockiert den ganzen Weg."
     lee_think "Ich kann nicht weitergehen."
-    lee_think "Ich werde mir später etwas überlegen."
-    lee_think "Vielleicht könnte ich drüberklettern oder einen anderen Weg finden?"
+    lee_think "Ich werde später darüber nachdenken."
+    lee_think "Vielleicht könnte ich drüber klettern oder einen anderen Weg finden?"
 
 # game/scenes/chapter04/behindriver.rpy:28
 translate german scene_chapter04_behindriver2_7ef48b3c:
@@ -57,6 +57,6 @@ translate german scene_chapter04_behindriver2_ff299a3d:
 
     # lee_think "{e=thinking_face}{e=tar}{e=arrow_right}{e=torch}"
     lee_think "Wenn es brennbar ist, könnte ich daraus eine Fackel machen!"
-    lee_think "Das wäre doch schön!"
-    lee_think "Sammeln wir es und machen wir ein paar Experimente."
+    lee_think "Das wäre doch schön! Sammeln\u00A0wir sie und experimentieren."
+    lee_think "Sammeln wir sie und experimentieren."
 

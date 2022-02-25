@@ -10,7 +10,6 @@ translate german scene_chapter04_intro_ef0d917b:
 translate german scene_chapter04_intro_ef79760b:
 
     # lee_think "{e=thinking_face}{e=catgirl}{e=cross_mark}{e=panther}{e=question}"
-    lee_think "Es stellt sich heraus, dass sie menschlicher ist, als ich dachte?"
-    lee_think "Vielleicht ist sie gar nicht so wild und gefährlich, wie es mir schien?"
-    lee_think "Ich muss das unbedingt klären, bevor wir weitermachen."
+    lee_think "Vielleicht ist sie gar nicht so wild und gefährlich, wie es den Anschein hatte?"
+    lee_think "Ich muss mir unbedingt überlegen, wie ich sie in Zukunft behandeln soll."
 

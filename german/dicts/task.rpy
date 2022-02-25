@@ -30,7 +30,7 @@
 
     # game/dicts/task.rpy:2
     old "{e=magnifying_glass}{e=arrow_right}{e=desert island}"
-    new "Vielleicht finde ich ja etwas Passendes, wenn ich mich ein bisschen umsehe."
+    new "Vielleicht finde ich ja etwas Passendes, wenn ich mich ein umsehe."
 
     # game/dicts/task.rpy:2
     old "{e=smiley}{e=bungalow4}{e=check_mark}{e=exclamation_white}{e=smiling_face}"
@@ -38,7 +38,7 @@
 
     # game/dicts/task.rpy:2
     old "{e=catgirl}{e=smiling_face_with_hearts}{e=cat_bed}{e=smiley}"
-    new "Nun, Cat ist mit meiner Kreation zufrieden. Hoffentlich schläft sie ab jetzt hier"
+    new "Cat ist mit meiner Kreation zufrieden. Hoffentlich schläft sie ab jetzt hier mit mir."
 
     # game/dicts/task.rpy:633
     old "{e=smiley}{e=gallows}{e=exclamation_white}{e=smiling_face}"
@@ -50,7 +50,7 @@
 
     # game/dicts/task.rpy:633
     old "{e=bridge}{e=check_mark}{e=smiling_face}"
-    new "Die Brücke ist fertig! Es ist nicht viel, aber es wird mich wohl halten."
+    new "Die Brücke ist fertig! Sie ist nichts Besonderes, aber sie wird mich über Wasser halten."
 
     # game/dicts/task.rpy:2
     old "{e=leavesbed}{e=ok_hand}{e=yawning_face}"
@@ -66,7 +66,7 @@
 
     # game/dicts/task.rpy:703
     old "{e=gallows_2}{e=check_mark}{e=slightly_smiling_face}{e=arrow_right}{e=fish}{#ch04}"
-    new "Gut, das Seil ist fertig, jetzt der Köder. Der Fisch wird schon passen."
+    new "Gut, die Schlinge ist fertig, nun der Köder. Sie mag Fisch, also nehmen wir einen großen."
 
     # game/dicts/task.rpy:703
     old "{e=lake_trap}{e=yes}{e=slightly_smiling_face}"

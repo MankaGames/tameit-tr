@@ -13,8 +13,7 @@ translate german scene_chapter04_search_0f3b32ac:
 
     # lee_think "{e=smiley}{e=fish}{e=poultry_leg}{e=arrow_right}{e=catgirl}"
     lee_think "Sie läuft nicht weg - das ist ein gutes Zeichen!"
-    lee_think "Ich kann ihr ein paar Leckereien geben."
-    lee_think "Mal sehen, was ich habe."
+    lee_think "Ich kann ihr ein paar Leckereien geben. Mal sehen, was ich da habe."
 
 # game/scenes/chapter04/tame.rpy:89
 translate german scene_chapter04_tame_a0d6d788:

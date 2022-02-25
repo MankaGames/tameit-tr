@@ -3,10 +3,10 @@ translate german scene_chapter06_home_30e4c1b5:
 
     # lee "{e=smiley}{e=smiling_face_with_hearts}"
     lee "Was für ein kluges Mädchen! Gute Arbeit, ich zähl auf dich!"
-    lee_think "Sie versteht mich kaum, und doch sage ich immer noch alles laut, aus Gewohnheit."
-    lee_think "Auf diese Weise vergesse ich wenigstens nicht, wie man spricht."
+    lee_think "Sie versteht mich kaum und doch sage ich aus Gewohnheit immer noch alles laut."
+    lee_think "Auf diese Weise werde ich wenigstens nicht vergessen, wie man spricht."
     lee_think "Außerdem hat Cat bereits gelernt, wie sich die meisten Wörter anhören,"
-    lee_think "also versteht sie mich jetzt teilweise."
+    lee_think "also versteht sie jetzt teilweise, was ich sage."
 
 # game/scenes/chapter06/home.rpy:37
 translate german scene_chapter06_home_a41ff28c:
@@ -107,7 +107,8 @@ translate german scene_chapter06_outro_eb16a2df:
 translate german scene_chapter06_home_ac4e2959:
 
     # lee "{e=astonished_face}{e=question_white}"
-    lee "Oh! Da bist du ja! Sieh dir das an - du hast mir etwas mitgebracht?"
+    lee "Oh!\nDu bist hier!"
+    lee "Ist das für mich?\nwirklich?"
 
 # game/scenes/chapter06/home.rpy:105
 translate german scene_chapter06_inside_d8e3ac32:

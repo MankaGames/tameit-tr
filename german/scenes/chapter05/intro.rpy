@@ -2,13 +2,13 @@
 translate german scene_chapter05_intro_43576a43:
 
     # lee_think "{e=dash}{e=lightning}{e=confounded face}{e=weary_face}"
-    lee_think "Das Wetter ist so beschissen. Der Wind fühlt sich an wie eine Tonne Ziegelsteine!"
+    lee_think "Das Wetter ist so beschissen. Der Wind wirft mich fast um!"
 
 # game/scenes/chapter05/intro.rpy:26
 translate german scene_chapter05_intro_905a5088:
 
     # lee_think "{e=lee}{e=arrow_right}{e=bungalow4}{e=frowning_face}"
-    lee_think "Ich habe leider keine andere Wahl als zu Hause zu bleiben."
+    lee_think "Ich habe keine andere Wahl als zu Hause zu bleiben."
     lee_think "Gut, dass ich es geschafft habe, den Bungalow fertig zu stellen,"
     lee_think "bevor draußen alles aus dem Ruder gelaufen ist."
 
@@ -24,7 +24,7 @@ translate german scene_chapter05_intro_4da11327:
 
     # lee_think "{e=thinking_face}{e=light_bulb}{e=fireplace}{e=arrow_right}{e=bungalow4}"
     lee_think "Und was soll ich jetzt tun? \nIch kann weder kochen noch mich aufwärmen."
-    lee_think "Ich muss einen Kamin bauen."
+    lee_think "Ich muss einen Weg finden, um drinnen einen Kamin zu bauen."
 
 # game/scenes/chapter05/intro.rpy:38
 translate german scene_chapter05_intro_3aa89023:
@@ -37,16 +37,17 @@ translate german scene_chapter05_intro_3aa89023:
 translate german scene_chapter05_intro_529c7150:
 
     # lee_think "{e=arrow_right}{e=plane_door}{e=lock}"
-    lee_think "Ich sollte die Tür fester machen, wenn ich nicht will, dass sie wegfliegt."
-    lee_think "Gut, dass ich sie vorher gestärkt habe."
+    lee_think "Ich sollte die Tür sichern, wenn ich nicht will,"
+    lee_think "dass sie von einer Windböe weggeweht wird."
+    lee_think "Gut, dass ich für diesen Zweck eine Halterung gebaut habe."
 
 # game/scenes/chapter05/intro.rpy:60
 translate german scene_chapter05_intro_5942017f:
 
     # lee_think "{e=storm}{e=dash}{e=bungalow4}{e=fearful_face}"
     lee_think "Ich hoffe, dass die Hütte nicht in die Luft fliegt."
-    lee_think "Der Wind heult so heftig,"
-    lee_think "dass ich mir in die Hose scheißen werde, wenn etwas passiert."
+    lee_think "Das Heulen des Windes ist so laut,"
+    lee_think "dass ich keine Ahnung habe, was als Nächstes passiert."
 
 # game/scenes/chapter05/intro.rpy:83
 translate german scene_chapter05_intro_fb2312af:

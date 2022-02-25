@@ -10,15 +10,15 @@ translate german scene_chapter06_rockway_6ca4acd1:
 
     # lee_think "{e=smiley}{e=hive}{e=exclamation_white}"
     lee_think "Oh, ein Bienenstock! Das muss mein Glückstag sein!"
-    lee_think "Der letzte, den ich benutzt habe, ist in Flammen aufgegangen."
-    lee_think "Eine Sekunde lang dachte ich, dass ich keinen Honig mehr brauche."
+    lee_think "Der, den ich bisher benutzte, wurde von den Flammen zerstört."
+    lee_think "Einen Moment lang dachte ich, es gäbe keinen Honig mehr für mich."
 
 # game/scenes/chapter06/lake_area.rpy:14
 translate german scene_chapter06_rockway_733f38e0:
 
     # lee_think "{e=smoke}{e=no}{e=eyes}"
     lee_think "Ich kann den Rauch nicht mehr sehen."
-    lee_think "Vielleicht hat der Sturm das Lagerfeuer zerstört, so wie meins auch?"
+    lee_think "Vielleicht hat der Sturm das Lagerfeuer zerstört, so wie meins."
     lee_think "Ich bin sicher, dass der Rauch in dieser Richtung lag. Ich muss weitermachen."
 
 # game/scenes/chapter06/lake_area.rpy:33
@@ -31,9 +31,9 @@ translate german scene_chapter06_lake_shore_99c89fe2:
 translate german scene_chapter06_lake_shore_c2475901:
 
     # lee_think "{e=lake}{e=water}{e=exclamation_white}"
-    lee_think "Meine Güte, der ganze See voller Süßwasser, wer hätte das gedacht!"
-    lee_think "Wäre ich nur nicht auf die Idee mit der Brücke gekommen und"
-    lee_think "der Sturm wäre losgegangen dann hätte ich diesen Ort nicht einmal entdeckt."
+    lee_think "Meine Güte, ein ganzer See voller Süßwasser, wer hätte das gedacht!"
+    lee_think "Wenn ich die Brücke nicht gebaut hätte und der Sturm nicht gekommen wäre"
+    lee_think "Dann hätte ich diesen Ort nicht einmal entdeckt."
 
 # game/scenes/chapter06/lake_area.rpy:35
 translate german scene_chapter06_lake_shore_72011906:
@@ -76,7 +76,7 @@ translate german scene_chapter06_wrecks_6baef6e3:
 translate german scene_chapter06_wrecks_5f71f848:
 
     # lee "{e=tonya}{e=exclamation_white}{e=tonya}{e=exclamation_white}"
-    lee "Tonja! Tonya, bist du hier?\nBitte, antworte!\nIch bin's, Lee!"
+    lee "Tonja! Tonya, bist du hier?\nKannst du mich hören?\nIch bin's, Lee!"
 
 # game/scenes/chapter06/lake_area.rpy:57
 translate german scene_chapter06_wrecks_6c1081f5:
@@ -109,7 +109,7 @@ translate german scene_chapter06_lake_1e44eb16:
 translate german scene_chapter06_wrecks_02861276:
 
     # lee_think "{e=eyes}{e=magnifying_glass}{e=airplane}"
-    lee_think "Ich sollte das Flugzeug inspizieren. Vielleicht komme ich ja irgendwie rein."
+    lee_think "Ich sollte einen Blick auf das Flugzeug werfen. Vielleicht finde ich einen Weg hinein."
 
 # game/scenes/chapter06/lake_area.rpy:63
 translate german scene_chapter06_wrecks_f87c0b76:
@@ -121,7 +121,7 @@ translate german scene_chapter06_wrecks_f87c0b76:
 translate german scene_chapter06_wrecks_climb_to_plane_59d0272e:
 
     # lee_think "{e=airplane}{e=arrow_up}{e=confused_face}"
-    lee_think "Es ist zu hoch - so einfach komme ich da nicht hoch."
+    lee_think "Zu hoch. Es wäre schwierig, dort hinaufzukommen."
 
 # game/scenes/chapter06/lake_area.rpy:71
 translate german scene_chapter06_wrecks_climb_to_plane_60629747:
@@ -155,6 +155,6 @@ translate german scene_chapter06_wrecks_climb_to_plane_81d4859a:
 translate german scene_chapter06_wrecks_climb_to_plane_0ae9780b:
 
     # lee_think "{e=weary_face}{e=dont_know}{e=thinking_face}{e=hourglass}{e=arrow_left}"
-    lee_think "Aber mir fällt nichts ein,"
+    lee_think "Ich habe bis jetzt keine Ahnung, wie ich das machen soll."
     lee_think "ich muss mir etwas überlegen und später wiederkommen."
 

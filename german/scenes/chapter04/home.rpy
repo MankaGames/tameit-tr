@@ -19,7 +19,7 @@ translate german scene_chapter04_home_7e0a9ca0:
 
     # lee_think "{e=hushed_face}{e=frowning_face}"
     lee_think "Oh, Mist! Anscheinend waren die Fliegen mehr an dem Fisch interessiert als Cat."
-    lee_think "Ich bezweifle wirklich, dass sie heute Abend überhaupt hier war."
+    lee_think "Ich bezweifle wirklich, dass sie heute Abend überhaupt hierher gekommen ist."
 
 # game/scenes/chapter04/home.rpy:43
 translate german scene_chapter04_home_54d18f9f:
@@ -71,7 +71,7 @@ translate german scene_chapter04_home_2db90631:
     # lee_think "{e=bungalow4}{e=arrow_right}{e=stick}{e=arrow_up}"
     lee_think "Dafür werde ich eine Menge Bambus brauchen."
     lee_think "Wir sollten so schnell wie möglich mit den Bauarbeiten beginnen."
-    lee_think "Wer weiß, wie viele \"Geschenke\" noch von der Natur zu erwarten sind."
+    lee_think "Wer weiß, was das Wetter noch zu bieten hat."
 
 # game/scenes/chapter04/home.rpy:65
 translate german scene_chapter04_home_62c906d3:
@@ -83,14 +83,14 @@ translate german scene_chapter04_home_62c906d3:
 translate german scene_chapter04_home_e9730b0c:
 
     # lee_think "{e=torch}{e=arrow_right}{e=stick}{e=plus}{e=question_white}"
-    lee_think "Aber wie mache ich das?"
-    lee_think "Ich muss den Stock mit etwas aufwickeln, das lange genug brennt, denke ich."
+    lee_think "Aber wie kann ich es schaffen?"
+    lee_think "Ich muss wohl etwas, das lange genug brennt, um einen Stock wickeln."
 
 # game/scenes/chapter04/home.rpy:67
 translate german scene_chapter04_home_d84ea502:
 
     # lee_think "{e=light_bulb}{e=exclamation_white}{e=tar}{e=arrow_right}{e=torch}"
-    lee_think "Was zum Teufel kann ich auf der Insel finden?"
+    lee_think "Was kann ich auf der Insel finden, das geeignet wäre?"
     lee_think "Ich glaube kaum, dass unter einer Palme ein Kanister Kerosin auf mich wartet."
     lee_think "Ich denke, ich könnte eine Art Harz verwenden, wenn ich welches finde?"
 
@@ -99,15 +99,14 @@ translate german scene_chapter04_home_29b12dd2:
 
     # lee_think "{e=thinking_face}{e=tar}{e=question_white}"
     lee_think "Irgendeine gute Idee?"
-    lee_think "Das brennbare Harz wächst nicht auf Bäumen."
-    lee_think "Oder doch?"
+    lee_think "Das brennbare Harz wächst nicht auf Bäumen, oder?"
 
 # game/scenes/chapter04/home.rpy:71
 translate german scene_chapter04_home_0b050a51:
 
     # lee_think "{e=confounded face}{e=rain}{e=rain}{e=arrow_right}{e=hammer}"
     lee_think "Mist! Der Regen wird immer heftiger!"
-    lee_think "Ich darf keine Zeit verlieren - ich muss weiterbauen."
+    lee_think "Ich darf keine Zeit verlieren! ich muss weiterbauen."
 
 # game/scenes/chapter04/home.rpy:74
 translate german scene_chapter04_home_26492bb9:
@@ -132,7 +131,7 @@ translate german scene_chapter04_home_da63d705:
 translate german scene_chapter04_home_5e4fccb4:
 
     # lee_think "{e=stick}{e=plus}{e=rope}{e=arrow_up}"
-    lee_think "Ich werde dafür Bambusstäbe und Seile verwenden."
+    lee_think "Ich werde Bambusstäbe und Seile verwenden."
     lee_think "Der Fluss ist nicht so rau und breit - ich denke, das geht schon."
 
 # game/scenes/chapter04/home.rpy:84
@@ -140,7 +139,7 @@ translate german scene_chapter04_home_434c585e:
 
     # lee_think "{e=tar}{e=arrow_right}{e=torch}{e=slightly_smiling_face}"
     lee_think "Es brennt ziemlich gut, und das bedeutet,"
-    lee_think "dass ich jetzt alles für eine gute Fackel habe."
+    lee_think "dass ich jetzt alles habe, um eine Fackel herzustellen."
 
 # game/scenes/chapter04/home.rpy:85
 translate german scene_chapter04_home_ab3f7b50:
@@ -155,14 +154,14 @@ translate german scene_chapter04_outro_6edb4ea5:
 
     # lee_think "{e=catgirl}{e=exclamation_white}{e=flushed_face}{e=smiling_face_with_hearts}"
     lee_think "Cat! Was zum Teufel macht sie hier?"
-    lee_think "Ich habe mich kurz erschrocken,"
-    lee_think "aber es scheint, als wäre sie nur neugierig gewesen."
+    lee_think "Einen Moment lang habe ich mich erschrocken,"
+    lee_think "aber es scheint, als wäre sie nur aus Neugierde gekommen."
 
 # game/scenes/chapter04/home.rpy:169
 translate german scene_chapter04_outro_c26bb298:
 
     # lee_think "{e=smirk}{e=poultry_leg}{e=arrow_right}{e=catgirl}"
-    lee_think "Ich schätze, da sie hier ist, sollte ich ihr etwas anbieten."
+    lee_think "Wenn sie schon mal hier ist, sollte ich ihr auch etwas bieten."
     lee_think "Ich hoffe, sie mag das Fleisch."
 
 # game/scenes/chapter04/home.rpy:175
@@ -181,7 +180,7 @@ translate german scene_chapter04_outro_710ae8ef:
 translate german scene_chapter04_outro_9c760e80:
 
     # lee_think "{e=smirk}{e=take}{e=catgirl}{e=smiling_face_with_hearts}"
-    lee_think "Sie ist so anpassungsfähig"
+    lee_think "Sie hat sich so sehr an mich gewöhnt"
     lee_think "ich glaube, das liegt an den vielen Leckereien, die ich ihr gegeben habe."
     lee_think "Ich würde sagen, ich habe dieses wilde Kätzchen erfolgreich gezähmt, hehe."
 
@@ -190,8 +189,7 @@ translate german scene_chapter04_outro_f30e036c:
 
     # lee_think "{e=smiling_face}{e=hot_pepper}{e=fire}{e=eggplant}{e=heart}"
     lee_think "Sie hat es nicht eilig, wie es scheint."
-    lee_think "Oof, sieh dir das an - sie ist so sexy,"
-    lee_think "wenn sie diese keule leckt, ich wünschte, es wäre etwas..."
+    lee_think "Sieh dir das an - sie ist so sexy, wenn sie an diesem Bein leckt, als ob es ein..."
     lee_think "Oh nein, Ständeralarm! Ich kann einfach nicht aufhören zu schauen."
 
 # game/scenes/chapter04/home.rpy:210

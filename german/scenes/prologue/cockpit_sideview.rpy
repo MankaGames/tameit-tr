@@ -15,8 +15,8 @@ translate german scene_prologue_cockpit_sideview_8e678bbe:
 translate german scene_prologue_cockpit_sideview_7c9efd05:
 
     # lee "{e=exclamation_question}{e=hushed_face}{e=question}"
-    lee "Was ist los?"
-    lee "Habe ich gerade etwas gedrückt?"
+    lee "Was geschieht hier?"
+    lee "Habe ich etwas gedrückt?"
 
 # game/scenes/prologue/cockpit_sideview.rpy:59
 translate german scene_prologue_cockpit_sideview_9f558ff8:
@@ -30,7 +30,7 @@ translate german scene_prologue_cockpit_sideview_drink_79914201:
     # lee_think "{e=exclamation_question}{e=tonya}{e=boobs}{e=heart}{e=flushed_face}{e=boobs}"
     lee_think "Es schüttelte sich wieder und jetzt ist das ganze Wasser auf ihrem Hemd."
     lee_think "Wie peinlich..."
-    lee_think "Auf der anderen Seite ist ihr Hemd nun völlig durchsichtig."
+    lee_think "Auf der anderen Seite ist ihr Hemd jedoch völlig durchsichtig."
     lee_think "Ich kann sogar ihre Titten sehen!"
 
 # game/scenes/prologue/cockpit_sideview.rpy:94
@@ -151,8 +151,8 @@ translate german scene_prologue_cockpit_sideview_tonya_return_16ba244f:
     tonya_think "Das da unten ist auf keinen Fall eine Babygröße!" 
     tonya_think "Mhm, das gefällt mir."
 
-    "Tonya tut so, als würde sie sich die Messwerte ansehen,"
-    "und beginnt langsam, Lees Schwanz zu stimulieren."
+    "Tonya tat so, als ob sie sich die Messwerte anschaute"
+    "und beginnt langsam, Lees Schwanz durch seine Hose zu rubbeln."
     "Sie stichelt nur und verhindert, dass er kommt. Dann beugt sie sich zu ihm,"
     "umkreist sein Ohr mit ihrer Zunge und beobachtet aufmerksam seine Reaktion."
     "Lee erstarrt vor Erregung und Verwirrung, versucht aber nicht, sie wegzustoßen."
