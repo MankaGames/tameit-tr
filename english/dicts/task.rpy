@@ -62,7 +62,7 @@
 
     # game/dicts/task.rpy:634
     old "{e=thumbs_up}{e=smiley}{e=grappling}{e=arrow_up}"
-    new "It worked! Now I can throw my hook there and try cling to something."
+    new "It worked! Now I can throw my hook there and try to catch on something."
 
     # game/dicts/task.rpy:703
     old "{e=gallows_2}{e=check_mark}{e=slightly_smiling_face}{e=arrow_right}{e=fish}{#ch04}"

@@ -152,7 +152,7 @@ translate english scene_chapter05_outro_f426c768:
 translate english scene_chapter05_outro_08fd8cb9:
 
     # lee_think "{e=astonished_face}{e=exclamation_white}{e=bungalow_wrecked}"
-    lee_think "Woah, that's what I call a hole! You tell me what — did I have a roof at all?"
+    lee_think "Woah, that's quite a hole! The roof's gone almost completely."
 
 # game/scenes/chapter05/home.rpy:207
 translate english scene_chapter05_outro_bce18a01:

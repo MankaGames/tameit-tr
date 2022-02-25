@@ -2,7 +2,7 @@
 translate english scene_chapter06_contact1_6a59d1e9:
 
     # lee_think "{e=catgirl}{e=smiling_face_with_hearts}{e=smirk}"
-    lee_think "Oh, she seems to like this fish a lot!"
+    lee_think "Oh, she seems to like the fish a lot!"
 
 # game/scenes/chapter06/coldspot.rpy:46
 translate english scene_chapter06_contact1_62f48a40:
@@ -108,13 +108,13 @@ translate english scene_chapter06_contact3_3a16e192:
 translate english scene_chapter06_contact3_1355cad5:
 
     # lee "{e=exclamation_white}{e=smiley}{e=heart_eyes}"
-    lee "Oh... my! Okay, keep doing what you're doing."
+    lee "Oh... my! Okay, I'm cool with it, keep going."
 
 # game/scenes/chapter06/coldspot.rpy:304
 translate english scene_chapter06_contact3_26a4129a:
 
     # lee "{e=lee}{e=you}{e=catgirl}{e=strawberry}{e=heart}"
-    lee "Let me help you too. You're gonna like it for sure."
+    lee "Let me do one thing too. You're gonna like it for sure."
 
 # game/scenes/chapter06/coldspot.rpy:348
 translate english scene_chapter06_contact3_d5fc5509:

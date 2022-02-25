@@ -9,7 +9,7 @@ translate english scene_chapter07_lake_shore_a3917cfe:
 translate english scene_chapter07_lake_shore_9aae27b9:
 
     # lee_think "{e=catgirl}{e=arrow_right}{e=confounded face}{e=thinking_face}"
-    lee_think "Cat's also hanging around the water — what's she watching for?"
+    lee_think "Cat's also hanging around the water — what has she seen there?"
 
 # game/scenes/chapter07/lake_area.rpy:34
 translate english scene_chapter07_lake_shore_d06ea92b:
@@ -27,7 +27,7 @@ translate english scene_chapter07_lake_shore_da206b54:
 translate english scene_chapter07_lake_shore_get_blade_c8c4bbbd:
 
     # lee_think "{e=fishing_pole}{e=no}{e=pensive_face}"
-    lee_think "Well, fishing pole isn't there certainly, but what were the chances?"
+    lee_think "No, I can't see my fishing pole anywhere."
 
 # game/scenes/chapter07/lake_area.rpy:46
 translate english scene_chapter07_lake_shore_get_blade_7324e328:
@@ -39,9 +39,9 @@ translate english scene_chapter07_lake_shore_get_blade_7324e328:
 translate english scene_chapter07_lake_shore_get_blade_44b91a8c:
 
     # lee_think "{e=blade}{e=exclamation_white}"
-    lee_think "Something metal. Looks like a part of the plane propeller."
-    lee_think "Perhaps it just fell off in the crash."
-    lee_think "I couldn't even see it if I wasn't looking for my fishing pole."
+    lee_think "Something metal. Looks like a propeller blade."
+    lee_think "Perhaps it just fell off in the crash and lay here for a long time."
+    lee_think "I wouldn't have noticed it if it were not for my looking for the fishing pole."
 
 # game/scenes/chapter07/lake_area.rpy:52
 translate english scene_chapter07_lake_shore_get_blade_79b2d969:
@@ -77,7 +77,7 @@ translate english scene_chapter07_wrecks_fdafb547:
 translate english scene_chapter07_wrecks_1d8a6f97:
 
     # lee_think "{e=cold_sweat}{e=catgirl}{e=injured_leg}{e=face_with_head-bandage}{e=exclamation_question}"
-    lee_think "And what if she got hurt? How did she even... Fuck! Why didn't she run off?"
+    lee_think "And what if she got hurt? How did she even... Fuck! Why didn't she run away?"
 
 # game/scenes/chapter07/lake_area.rpy:95
 translate english scene_chapter07_wrecks_02861276:
@@ -139,7 +139,7 @@ translate english scene_chapter07_wrecks_crash_ed6896cc:
 translate english scene_chapter07_wrecks_crash_e39f2c1e:
 
     # lee_think "{e=arrow_right}{e=grappling}{e=arrow_up}{e=airplane}"
-    lee_think "Feels kinda tight. Now, I need to climb up the rope, hope it holds."
+    lee_think "Feels kinda firm. Now, I need to climb up the rope, hope it holds."
 
 # game/scenes/chapter07/lake_area.rpy:147
 translate english scene_chapter07_wrecks_crash_393a33b7:
@@ -182,7 +182,7 @@ translate english scene_chapter07_wrecks_crash_c021d6b6:
 translate english scene_chapter07_wrecks_free_4a256660:
 
     # lee "{e=catgirl}{e=exclamation_white}{e=catgirl}{e=question_white}"
-    lee "Cat, please, answer me! Where are you? Are you okay?"
+    lee "Cat, please respond! Where are you? Are you okay?"
 
 # game/scenes/chapter07/lake_area.rpy:201
 translate english scene_chapter07_wrecks_free_c1d3a499:
@@ -206,7 +206,7 @@ translate english scene_chapter07_wrecks_free_921b081e:
 translate english scene_chapter07_wrecks_free_0f9ef7e5:
 
     # lee_think "{e=downcast_face}{e=worried_face}"
-    lee_think "Hell, that's a bit beyond my capabilities. No way I'm moving this thing alone."
+    lee_think "Hell, that was an overestimate. There's no way I can move this thing alone."
 
 # game/scenes/chapter07/lake_area.rpy:208
 translate english scene_chapter07_wrecks_free_9f66bbf7:
@@ -236,7 +236,7 @@ translate english scene_chapter07_wrecks_free_547e1dc7:
 translate english scene_chapter07_wrecks_free_e0bf523b:
 
     # lee_think "{e=smiley}{e=yes}{e=exclamation_white}"
-    lee_think "Made it, finally! Those elderly Greeks knew some shit after all!"
+    lee_think "I finally made it! Those ancient Greeks knew some shit after all!"
 
 # game/scenes/chapter07/lake_area.rpy:235
 translate english scene_chapter07_wrecks_free_9811a2a6:
@@ -260,7 +260,7 @@ translate english scene_chapter07_wrecks_free_c196c47a:
 translate english scene_chapter07_wrecks_free_b3ced886:
 
     # lee "{e=eyes}{e=catgirl}"
-    lee "Let me take a look at you."
+    lee "Let me take a look."
 
 # game/scenes/chapter07/lake_area.rpy:243
 translate english scene_chapter07_wrecks_free_a2209f31:
@@ -304,15 +304,14 @@ translate english scene_chapter07_lake_7c366956:
 translate english scene_chapter07_lake_1d0f3935:
 
     # lee_think "{e=fish}{e=exclamation_white}{e=question_white}"
-    lee_think "Why is fish acting like that? They must've been scared of something, or?"
+    lee_think "Why is fish acting like that? Are they scared of something or what?"
     lee_think "It makes no sense to me at all."
 
 # game/scenes/chapter07/lake_area.rpy:283
 translate english scene_chapter07_lake_564999f5:
 
     # lee_think "{e=hushed_face}{e=dizzy_face}{e=confused_face}"
-    lee_think "I don't get it, but that's scary as fuck!"
-    lee_think "No surprise to me why Cat acts so nervous."
+    lee_think "I don't get it, but that's scary as fuck! No wonder Cat's so nervous."
 
 # game/scenes/chapter07/lake_area.rpy:284
 translate english scene_chapter07_lake_1214ef83:
@@ -339,10 +338,10 @@ translate english scene_chapter07_lake_swim_dc5db4f7:
 translate english scene_chapter07_lake_swim_5f1618b5:
 
     # lee_think "{e=catgirl}{e=eyes}{e=drooling_face}{e=fish_big}{e=weary_face}"
-    lee_think "Cat's also watching, waiting for treats, of course."
-    lee_think "Not gonna lie — I'm glad she's not avoiding me after last night."
-    lee_think "Like, she's not even angry. If only I could treat her with fish."
-    lee_think "Let's wait a little more in case I'll catch some."
+    lee_think "Cat's also watching and waiting for treats."
+    lee_think "Not gonna lie — I'm glad she's not avoiding me after what happened last night."
+    lee_think "Like, she's not even angry. If only I could treat her to something yummy."
+    lee_think "Let's wait a little more in case it finally starts biting."
 
 # game/scenes/chapter07/lake_area.rpy:325
 translate english scene_chapter07_lake_swim_c7c22889:
@@ -354,13 +353,13 @@ translate english scene_chapter07_lake_swim_c7c22889:
 translate english scene_chapter07_lake_swim_fd5ed93c:
 
     # lee_think "{e=catgirl}{e=take}{e=lake}{e=arrow_right}"
-    lee_think "Hell, I must get her out of the water quick! How did she even?.."
+    lee_think "Hell, I must get her out of the water quick! How did she manage to fall?"
 
 # game/scenes/chapter07/lake_area.rpy:331
 translate english scene_chapter07_lake_swim_e29bcce8:
 
     # lee "{e=catgirl}{e=take}{e=lee}{e=exclamation}"
-    lee "Hang on, I'm coming! That's it, grab my hand!"
+    lee "Hang on, I'm coming! Go ahead, grab my hand!"
 
 # game/scenes/chapter07/lake_area.rpy:336
 translate english scene_chapter07_lake_swim_1be9b087:
@@ -384,14 +383,14 @@ translate english scene_chapter07_lake_swim_58a46953:
 translate english scene_chapter07_lake_swim_5f9682a1:
 
     # lee "{e=arrow_right}{e=bungalow4}{e=fireplace}{e=thermometer}{e=relieved}"
-    lee "Don't worry, I got you. We'll be home in no time,"
+    lee "It's okay, I'm here. We'll be home in no time,"
     lee "warm hearth should help you dry off."
 
 # game/scenes/chapter07/lake_area.rpy:113
 translate english scene_chapter07_wrecks_open_door_9f699a05:
 
     # lee_think "{e=grappling}{e=check_mark}{e=slightly_smiling_face}"
-    lee_think "So, the grappling hook is ready, time for some tests."
+    lee_think "So, the grappling hook is ready, time to test it."
 
 # game/scenes/chapter07/lake_area.rpy:114
 translate english scene_chapter07_wrecks_open_door_2736ec9c:
@@ -410,6 +409,5 @@ translate english scene_chapter07_wrecks_open_door_50d49049:
 translate english scene_chapter07_wrecks_open_door_8841fbbc:
 
     # lee_think "{e=thinking_face}{e=rock}{e=arrow_right}{e=plane_door}"
-    lee_think "I should try throwing some rocks at it."
-    lee_think "If it helps — it's my lucky day, no shit."
+    lee_think "I can try throwing rocks at it and see if the blows can get it open."
 

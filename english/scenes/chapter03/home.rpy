@@ -48,15 +48,16 @@ translate english scene_chapter03_setup_trap_78a24db4_1:
 translate english scene_chapter03_broken_trap_22eb6016:
 
     # lee_think "{e=exclamation}{e=hushed_face}{e=question_white}"
-    lee_think "It didn't work? How the hell did she manage to avoid the trap and still get the food?"
+    lee_think "What? Why didn't it work?"
+    lee_think "How the hell did she manage to avoid the trap and still get the food?"
     lee_think "Did she just fucking chewed through the rope?"
 
 # game/scenes/chapter03/home.rpy:110
 translate english scene_chapter03_broken_trap_5920b737:
 
     # lee_think "{e=weary_face}{e=frowning_face}{e=thinking_face}{e=question_white}"
-    lee_think "Maybe I did something wrong?"
-    lee_think "I know I'm not an expert, only some Scout practice in the\u00A0past."
+    lee_think "Have I done anything wrong?"
+    lee_think "I know I'm not an expert, just had a bit of scout training in\u00A0the\u00A0past."
     lee_think "Anyway, what do I do now?"
 
 # game/scenes/chapter03/home.rpy:111

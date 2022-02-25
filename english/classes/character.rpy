@@ -13,8 +13,8 @@
     new "{e=lee}{e=no}{e=coconut}{e=octa}{e=crying_face}"
 
     # game/classes/character.rpy:339
-    old "Hmm, some %s is disappeared!"
-    new "Hmm, some %s is disappeared!"
+    old "Hmm, some %s has disappeared!"
+    new "Hmm, some %s has disappeared!"
 
     # game/classes/character.rpy:341
     old "And the %s is gone again. Is it %s who's stealing it?"

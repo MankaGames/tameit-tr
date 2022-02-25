@@ -6,7 +6,7 @@
 
     # game/dicts/craft.rpy:2
     old "{e=lever}{e=yes}{e=slightly_smiling_face}"
-    new "The lever is ready! Now I can get her out!"
+    new "The lever is ready! Now I can set her free!"
 
     # game/dicts/craft.rpy:2
     old "{e=smiley}{e=fishnet}{e=yes}{e=exclamation_white}"

@@ -84,8 +84,8 @@ translate english scene_chapter06_wrecks_6c1081f5:
 translate english scene_chapter06_lake_9c275715:
 
     # lee_think "{e=fish}{e=arrow_up}"
-    lee_think "I bet there's plenty of various fish here"
-    lee_think "that I can easily catch compared to that wild river in my area."
+    lee_think "I bet there's plenty of various fish here that I can easily catch."
+    lee_think "Gonna be a cakewalk compared to fishing in the fast-flowing river near my place."
 
 # game/scenes/chapter06/lake_area.rpy:80
 translate english scene_chapter06_lake_15c6553d:
@@ -97,8 +97,8 @@ translate english scene_chapter06_lake_15c6553d:
 translate english scene_chapter06_lake_1e44eb16:
 
     # lee_think "{e=light_bulb}{e=fish_big}{e=gift}{e=arrow_right}{e=catgirl}"
-    lee_think "I've caught a big fish lately — Cat's gonna love it for sure."
-    lee_think "I'll give it to her — she loves special treats."
+    lee_think "I've caught a big fish lately. Cat's gonna love it for sure."
+    lee_think "I'll give it to her. She loves special treats."
 
 # game/scenes/chapter06/lake_area.rpy:62
 translate english scene_chapter06_wrecks_02861276:

@@ -38,28 +38,28 @@ translate english scene_chapter06_inside_ff1d4465:
 translate english scene_chapter06_inside_a69f1bb2:
 
     # lee_think "{e=light_bulb}{e=fish_big}{e=plus}{e=honey}{e=drooling_face}"
-    lee_think "I've caught a big fish lately — Cat's gonna love it for sure."
-    lee_think "I'll give it to her — she loves special treats."
+    lee_think "She enjoyed the fish I'd cooked for her."
+    lee_think "Guess I'll cook it with honey this time, would be tasty for sure."
 
 # game/scenes/chapter06/home.rpy:109
 translate english scene_chapter06_inside_35c20985:
 
     # lee_think "{e=thinking_face}{e=fish_big}{e=arrow_up}{e=catgirl}{e=heart}"
-    lee_think "I should keep catching for the fish Cat likes — maybe we can get even closer that way."
+    lee_think "I should keep catching the fish that Cat likes. Maybe we can get even closer that way."
 
 # game/scenes/chapter06/home.rpy:142
 translate english scene_chapter06_outro_8ab16916:
 
     # lee_think "{e=catgirl}{e=arrow_right}{e=eggplant}{e=strawberry}{e=smirk}"
     lee_think "{e=catgirl}{e=arrow_right}{e=eggplant}{e=strawberry}{e=smirk}"
-    lee_think "She's so wet and horny right now, arching like a real cat —"
-    lee_think "maybe she's ready for something more?"
+    lee_think "She's so wet, horny and arching her back in excitement."
+    lee_think "Is she ready for the next step?"
 
 # game/scenes/chapter06/home.rpy:153
 translate english scene_chapter06_outro_998445b3:
 
     # lee "{e=catgirl}{e=smiling_face_with_hearts}{e=eggplant}{e=question_white}"
-    lee "Look what I got for you, babe. What do you think? Would you let me inside?"
+    lee "Look what I've got for you, babe. How do you like it? Would you let me inside?"
 
 # game/scenes/chapter06/home.rpy:161
 translate english scene_chapter06_outro_e001ce8a:
@@ -71,15 +71,15 @@ translate english scene_chapter06_outro_e001ce8a:
 translate english scene_chapter06_outro_174178c2:
 
     # lee_think "{e=hushed_face}{e=worried_face}{e=pensive_face}{e=catgirl}{e=arrow_right}"
-    lee_think "Oh crap! Not like that! She just lefts me sad and horny again..."
-    lee_think "what a day to be alive!.."
+    lee_think "Oh crap! It got fucked up again! Just ran away, leaving me in this condition..."
+    lee_think "Brilliant!"
 
 # game/scenes/chapter06/home.rpy:190
 translate english scene_chapter06_outro_5c9ec907:
 
     # lee_think "{e=weary_face}{e=frowning_face}"
     lee_think "Seems I just jumped the gun with all that."
-    lee_think "Guess she hasn't ever done this before and got too scared of my pp."
+    lee_think "Guess she hasn't ever done this before and got scared of the thing."
     lee_think "Would've been so funny if it wasn't sad."
 
 # game/scenes/chapter06/home.rpy:201
@@ -93,7 +93,7 @@ translate english scene_chapter06_outro_f18a5812:
 translate english scene_chapter06_outro_eb16a2df:
 
     # lee_think "{e=photo}{e=tonya}{e=question_white}"
-    lee_think "Sad wank was never an option — where's that picture of Tonya?"
+    lee_think "But I won't let it slide into a sad wank. Where's my picture of Tonya? "
 
 # game/scenes/chapter06/home.rpy:34
 translate english scene_chapter06_home_ac4e2959:
@@ -105,5 +105,5 @@ translate english scene_chapter06_home_ac4e2959:
 translate english scene_chapter06_inside_d8e3ac32:
 
     # lee_think "{e=gift}{e=arrow_right}{e=catgirl}{e=question_white}{e=thinking_face}"
-    lee_think "I wanna treat Cat somewhat. I'm gonna make a special meal for her!"
+    lee_think "I wanna treat Cat in some way. I'm gonna make a special meal for her!"
 
