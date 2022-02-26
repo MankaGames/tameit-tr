@@ -18,3 +18,6 @@ translate german strings:
     old "{e=foraging}{e=raft}{e=arrow_right}"
     new "Ich muss vor der Abreise noch Vorräte sammeln."
 
+# game/scenes/chapter13/sleep.rpy:41
+    old "{e=cloth}{e=arrow_right}{e=magnifying_glass}{e=airplane}"
+    new "Ich kann im Flugzeug nach Stoffen suchen."
