@@ -33,7 +33,7 @@ translate german scene_chapter13_cave_secretroom_6a35bbdc:
 translate german scene_chapter13_cave_secretroom_e1e6a9f7:
 
     # tonya "{e=foraging}{e=arrow_up}{e=raft}{e=boat}{e=arrow_right}"
-    tonya "Dann lasst uns die Reise vorbereiten.\nEs gibt viel zu tun."
+    tonya "Dann lass uns die Reise vorbereiten.\nEs gibt viel zu tun."
     tonya "Wir brauchen viele Materialien, um ein Floß zu bauen."
     tonya "Und wir müssen uns auch mit Essen, Wasser und anderen Vorräten eindecken."
 
