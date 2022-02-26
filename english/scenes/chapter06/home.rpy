@@ -51,7 +51,6 @@ translate english scene_chapter06_inside_35c20985:
 translate english scene_chapter06_outro_8ab16916:
 
     # lee_think "{e=catgirl}{e=arrow_right}{e=eggplant}{e=strawberry}{e=smirk}"
-    lee_think "{e=catgirl}{e=arrow_right}{e=eggplant}{e=strawberry}{e=smirk}"
     lee_think "She's so wet, horny and arching her back in excitement."
     lee_think "Is she ready for the next step?"
 

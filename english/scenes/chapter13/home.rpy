@@ -120,10 +120,10 @@ translate english scene_chapter13_home_e8b2082c:
     lee "You're friends with Octa now, right?"
 
 # game/scenes/chapter13/home.rpy:72
-translate english scene_chapter13_home_3a816cc9:
+translate english scene_chapter13_home_ec48c35a:
 
-    # octa "{e=octa}{e=help}{e=catgirl}{e=exclamation_white}{e=steam_from_nose}"
-    octa "{e=octa}{e=help}{e=catgirl}{e=exclamation_white}{e=steam_from_nose}{alt}Octa helps Cat save Lee!{/alt}"
+    # cat "{e=octa}{e=help}{e=catgirl}{e=exclamation_white}{e=steam_from_nose}"
+    cat "{e=octa}{e=help}{e=catgirl}{e=exclamation_white}{e=steam_from_nose}{alt}Octa helps Cat save Lee!{/alt}"
 
 # game/scenes/chapter13/home.rpy:73
 translate english scene_chapter13_home_7530ae6b:

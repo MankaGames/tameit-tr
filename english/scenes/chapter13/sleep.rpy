@@ -18,3 +18,7 @@ translate english strings:
     old "{e=foraging}{e=raft}{e=arrow_right}"
     new "I need to gather supplies before the departure."
 
+    # game/scenes/chapter13/sleep.rpy:41
+    old "{e=cloth}{e=arrow_right}{e=magnifying_glass}{e=airplane}"
+    new "I can look for fabric in the plane."
+
