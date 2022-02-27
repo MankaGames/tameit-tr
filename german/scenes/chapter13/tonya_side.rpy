@@ -794,5 +794,5 @@ translate german strings:
     # no text limit for this phrase
     # use \n for line break
     old "{e=no}{e=back}{e=finish}{e=question_white}"
-    new "Du bist dabei, die letzte Phase des Spiels zu betreten.\nDu wirst nicht mehr auf die Insel zurückkehren können.\nMöchtest du fortfahren?"
+    new "Du bist dabei, die letzte Phase des Spiels zu betreten.\nDu wirst nicht mehr auf die Insel zurueckkehren koennen.\nMoechtest du fortfahren?"
 
