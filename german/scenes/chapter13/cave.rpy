@@ -165,7 +165,7 @@ translate german scene_chapter13_cave3_1e302510:
 translate german scene_chapter13_cave_exit_1f2cd9d4:
 
     # lee_think "{e=jaguar}{ellipsis}{e=thinking_face}"
-    lee_think "Jaguar Kadaver, hmm…"
+    lee_think "Der Jaguar Kadaver, hmm…"
 
 # game/scenes/chapter13/cave.rpy:186
 translate german scene_chapter13_cave_exit_c47eff5d:
