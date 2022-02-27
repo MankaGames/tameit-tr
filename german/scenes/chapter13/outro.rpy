@@ -134,7 +134,7 @@ translate german scene_chapter13_outro_bedf13ab:
 translate german scene_chapter13_outro_8134ea03:
 
     # lee "{e=hushed_face}{e=octa}{e=take}{e=smiling_face_with_hearts}{e=question_white}"
-    lee "Was? Ist das besser, als wenn ich dich streichle?"
+    lee "Was? Ist das besser, als wenn ich das mache?"
 
 # game/scenes/chapter13/outro.rpy:123
 translate german scene_chapter13_outro_3ad18f6d:

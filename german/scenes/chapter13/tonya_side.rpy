@@ -143,8 +143,8 @@ translate german scene_chapter13_tonya_home_58933736:
 
     # tonya "{e=airplane}{e=arrow_down}{e=desert island}{e=pensive_face}"
     tonya "Ich dachte, ich könnte das Flugzeug landen, aber es stürzte ab."
-    tonya "Die Bäume haben ihn wohl abgefedert und vor der totalen Zerstörung bewahrt."
-    tonya "Ich habe ihn auf der anderen Seite gesehen, aber der Jaguar war die ganze Zeit da."
+    tonya "Die Bäume haben es wohl abgefedert und vor der totalen Zerstörung bewahrt."
+    tonya "Ich habe es auf der anderen Seite gesehen, aber der Jaguar war die ganze Zeit da."
     tonya "Ich konnte nicht einmal einen Blick auf das Wrack werfen."
 
 # game/scenes/chapter13/tonya_side.rpy:156
@@ -480,7 +480,7 @@ translate german scene_chapter13_tonya_home_old_friend_f7706428:
 
     # tonya "{e=kiss}{e=me}{e=smiling_face}{e=exclamation_white}"
     tonya "Küss mich schon, Dummerchen!"
-    tonya "Wie kommt es, dass du noch nicht auf mich aufgesprungen bist?"
+    tonya "Wie kommt es, dass du noch nicht auf mich gesprungen bist?"
 
 # game/scenes/chapter13/tonya_side.rpy:242
 translate german scene_chapter13_tonya_home_old_friend_1f5d95ad:
@@ -794,5 +794,5 @@ translate german strings:
     # no text limit for this phrase
     # use \n for line break
     old "{e=no}{e=back}{e=finish}{e=question_white}"
-    new "Du bist dabei, die letzte Phase des Spiels zu betreten.\nDu wirst nicht mehr auf die Insel zurückkehren können.\nMöchtest du fortfahren?"
+    new "Du bist dabei, die letzte Phase des Spiels zu betreten.\nDu wirst nicht mehr auf die Insel zurueckkehren koennen.\nMoechtest du fortfahren?"
 
