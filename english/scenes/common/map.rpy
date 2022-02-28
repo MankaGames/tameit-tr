@@ -50,20 +50,20 @@ translate english game_map_e43c263c:
     # tonya "{e=thumbs_up}{e=smiley}"
     tonya "Perfect! If you fail, we’ll think of an alternative."
 
-# game/scenes/common/map.rpy:239
-translate english game_map_copy_604ba25a:
+# game/scenes/common/map.rpy:263
+translate english game_map_copy_done_604ba25a:
 
     # lee_think "{e=map}{e=yes}{e=thumbs_up}{e=beaming_face}"
     lee_think "OK, not too bad!"
 
-# game/scenes/common/map.rpy:242
-translate english game_map_copy_cec30482:
+# game/scenes/common/map.rpy:266
+translate english game_map_copy_done_cec30482:
 
     # lee_think "{e=eyes}{e=map}{e=arrow_right}{e=tonya}"
     lee_think "I need to show it to Tonya and check out her progress with the sail."
 
-# game/scenes/common/map.rpy:243
-translate english game_map_copy_017fc46f:
+# game/scenes/common/map.rpy:267
+translate english game_map_copy_done_017fc46f:
 
     # lee_think "{e=tonya}{e=pleading_face}{e=relieved}{e=slightly_smiling_face}"
     lee_think "I already miss her."
