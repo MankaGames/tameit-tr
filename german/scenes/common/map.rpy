@@ -54,20 +54,20 @@ translate german game_map_e43c263c:
     # tonya "{e=thumbs_up}{e=smiley}"
     tonya "Perfekt! Wenn du versagst, überlegen wir uns eine Alternative."
 
-# game/scenes/common/map.rpy:239
-translate german game_map_copy_604ba25a:
+# game/scenes/common/map.rpy:263
+translate german game_map_copy_done_604ba25a:
 
     # lee_think "{e=map}{e=yes}{e=thumbs_up}{e=beaming_face}"
     lee_think "OK, gar nicht so schlecht!"
 
-# game/scenes/common/map.rpy:242
-translate german game_map_copy_cec30482:
+# game/scenes/common/map.rpy:266
+translate german game_map_copy_done_cec30482:
 
     # lee_think "{e=eyes}{e=map}{e=arrow_right}{e=tonya}"
     lee_think "Ich muss es Tonya zeigen und ihre Fortschritte mit dem Segel begutachten."
 
-# game/scenes/common/map.rpy:243
-translate german game_map_copy_017fc46f:
+# game/scenes/common/map.rpy:267
+translate german game_map_copy_done_017fc46f:
 
     # lee_think "{e=tonya}{e=pleading_face}{e=relieved}{e=slightly_smiling_face}"
     lee_think "Ich vermisse sie jetzt schon."
