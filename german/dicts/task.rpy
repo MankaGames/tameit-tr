@@ -34,7 +34,7 @@
 
     # game/dicts/task.rpy:2
     old "{e=smiley}{e=bungalow4}{e=check_mark}{e=exclamation_white}{e=smiling_face}"
-    new "Nur ein paar Schläge mit einem Stein - sitzt wie angegossen! Jetzt ist der Bungalow fertig!"
+    new "Ein paar Schläge mit nem Stein und sitzt wie angegossen! Jetzt ist der Bungalow fertig!"
 
     # game/dicts/task.rpy:2
     old "{e=catgirl}{e=smiling_face_with_hearts}{e=cat_bed}{e=smiley}"

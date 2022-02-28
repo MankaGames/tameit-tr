@@ -24,10 +24,6 @@
     old "Collect pearls"
     new "Sammle Perlen"
 
-# TODO: Translation updated at 2022-02-09 18:44
-
-translate german strings:
-
     # game/dicts/gallery.rpy:2
     old "Find an approach to her"
     new "Finde einen Weg zu ihr"
