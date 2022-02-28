@@ -65,8 +65,8 @@
     new "Fruit Salad"
 
     # game/dicts/item.rpy:2
-    old "Mushroom Pottage"
-    new "Mushroom Pottage"
+    old "Mushroom Soup"
+    new "Mushroom Soup"
 
     # game/dicts/item.rpy:2
     old "Honey"
@@ -97,8 +97,8 @@
     new "Fishing Pole"
 
     # game/dicts/item.rpy:2
-    old "Grappling"
-    new "Grappling"
+    old "Grappling Hook"
+    new "Grappling Hook"
 
     # game/dicts/item.rpy:2
     old "Paddle"
@@ -149,8 +149,8 @@
     new "Hook"
 
     # game/dicts/item.rpy:2
-    old "Plane Blade"
-    new "Plane Blade"
+    old "Propeller Blade"
+    new "Propeller Blade"
 
     # game/dicts/item.rpy:2
     old "Fishnet"
@@ -237,8 +237,8 @@
     new "Crystal"
 
     # game/dicts/item.rpy:89
-    old "Halberd Head"
-    new "Halberd Head"
+    old "Halberd Axe"
+    new "Halberd Axe"
 
     # game/dicts/item.rpy:89
     old "Halberd Shaft"

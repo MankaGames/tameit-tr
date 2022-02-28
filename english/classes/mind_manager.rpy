@@ -30,7 +30,7 @@
 
     # game/classes/mind_manager.rpy:144
     old "{e=nauseated_face}{e=ill}{e=sleep}"
-    new "I feel nauseous, think I ate something wrong, I should go to bed."
+    new "I feel nauseous, guess I ate something wrong, I should go to bed."
 
     # game/classes/mind_manager.rpy:136
     old "{e=catgirl}{i=stick}{e=arrow_right}{i=%s}"

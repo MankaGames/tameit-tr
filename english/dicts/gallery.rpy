@@ -24,10 +24,6 @@
     old "Collect pearls"
     new "Collect pearls"
 
-# TODO: Translation updated at 2022-02-09 18:44
-
-translate english strings:
-
     # game/dicts/gallery.rpy:2
     old "Find an approach to her"
     new "Find an approach to her"

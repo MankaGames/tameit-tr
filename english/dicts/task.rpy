@@ -34,7 +34,7 @@
 
     # game/dicts/task.rpy:2
     old "{e=smiley}{e=bungalow4}{e=check_mark}{e=exclamation_white}{e=smiling_face}"
-    new "Just a few blows with a stone — sits like a glove!\nNow the bungalow is ready!"
+    new "Just a few blows with a stone and sits like a glove!\nNow the bungalow is ready!"
 
     # game/dicts/task.rpy:2
     old "{e=catgirl}{e=smiling_face_with_hearts}{e=cat_bed}{e=smiley}"

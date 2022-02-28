@@ -1,6 +1,6 @@
 ﻿translate english strings:
 
     # game/screens/tonya.rpy:55
-    old "Select the the picture to see the story. Second click to enlarge."
-    new "Select the the picture to see the story. Second click to enlarge."
+    old "Click on the pictures to see the stories. Second click to enlarge. "
+    new "Click on the pictures to see the stories. Second click to enlarge."
 
