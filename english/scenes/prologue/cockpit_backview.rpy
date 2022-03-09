@@ -36,7 +36,7 @@ translate english scene_prologue_cockpit_backview_crash_196ae7cb:
     # tonya "{e=ok_hand}{e=relieved}"
     tonya "It's alright, Lee, don't panic. Everything will be fine."
     tonya "Listen to me: you have to jump."
-    tonya "The island is not so far away, you can swim there. The\u00A0altitide is not that great."
+    tonya "The island is not so far away, you can swim there. The\u00A0altitude is not that great."
     tonya "Put on your parachute and jump."
     tonya "Once you're in the water, just unstrap it and swim."
     tonya "You can do this!"

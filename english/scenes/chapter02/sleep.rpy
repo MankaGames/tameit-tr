@@ -113,7 +113,8 @@ translate english scene_sleep_chapter02_b7948955:
 translate english scene_sleep_chapter02_d165def9:
 
     # lee_think "{e=confounded face}{e=persevering}"
-    lee_think "Scary as fuck! I can only dream of rest. Freaking animals, you won't get my ass! Hopefully..."
+    lee_think "Scary as fuck! I can only dream of rest."
+    lee_think "Freaking animals, you won't get my ass! Hopefully..."
 
 # game/scenes/chapter02/sleep.rpy:98
 translate english scene_sleep_chapter02_a9196f80:

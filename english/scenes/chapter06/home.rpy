@@ -13,14 +13,14 @@ translate english scene_chapter06_home_a41ff28c:
 
     # lee_think "{e=thinking_face}{e=catgirl}{e=foraging}"
     lee_think "I should try giving her some tasks — she might become pretty helpful."
-    lee_think "If it works out, I'll finish all the repairs much faster and have fewer problems in getting food."
+    lee_think "If it works out, I'll finish all the repairs much faster"
+    lee_think "and have fewer problems in getting food."
 
 # game/scenes/chapter06/home.rpy:97
 translate english scene_chapter06_inside_2ff9347b:
 
     # lee_think "{e=catgirl}{e=cross_mark}{e=sleep}{e=bungalow4}"
-    lee_think "Cat's not here again. I thought she would stay after the bungalow repairs,"
-    lee_think "but she continues to run away somewhere at night."
+    lee_think "Cat continues to run away somewhere at night."
 
 # game/scenes/chapter06/home.rpy:98
 translate english scene_chapter06_inside_d2061100:

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2021-03-07 17:52
-
-# game/scenes/chapter04/beach1.rpy:48
+﻿# game/scenes/chapter04/beach1.rpy:48
 translate english scene_chapter04_beach4_25420594:
 
     # lee_think "{e=plane_door}{e=exclamation_white}"

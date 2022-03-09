@@ -270,7 +270,7 @@ translate english scene_chapter08_lake_shore_trap2_c165e187:
 translate english scene_chapter08_lake_shore_trap2_c803badf:
 
     # lee_think "{e=weary_face}"
-    lee_think "Dam it! Everything was in vain!"
+    lee_think "Damn it! Everything was in vain!"
     lee_think "But at least I found out what creature it was and even took a closer look at her."
 
 # game/scenes/chapter08/lake_area.rpy:292
@@ -352,7 +352,7 @@ translate english scene_chapter08_lake_663b4b29:
 translate english scene_chapter08_lake_7cd90136:
 
     # lee_think "{e=fishnet}{e=plus}{e=banana}{e=yes}{e=hourglass}"
-    lee_think "OK, the nest is set, the bait is in place. Now I only need to wait."
+    lee_think "OK, the net is set, all that's left is to make a good bait."
 
 # game/scenes/chapter08/lake_area.rpy:370
 translate english scene_chapter08_lake_e1dd4800:

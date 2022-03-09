@@ -113,12 +113,14 @@
     new "I need a long and strong pole to make a real halberd."
 
     # game/dicts/task.rpy:1215
+    # do not translate
     old "{e=shark}{e=arrow_right}{e=fishnet}"
-    new "Now I need to wait till the creature gets tangled in the net."
+    new "{e=shark}{e=arrow_right}{e=fishnet}"
 
     # game/dicts/task.rpy:1215
+    # do not translate
     old "{e=octo_anon}{e=arrow_right}{e=lake_trap}"
-    new "Gotta wait till the tentacle monster comes."
+    new "{e=octo_anon}{e=arrow_right}{e=lake_trap}"
 
     # game/dicts/task.rpy:1215
     old "{e=bridge}{e=check_mark}{e=thumbs_up}{e=smiley}"
