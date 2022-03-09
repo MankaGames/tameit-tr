@@ -114,11 +114,11 @@
 
     # game/dicts/task.rpy:1215
     old "{e=shark}{e=arrow_right}{e=fishnet}"
-    new "Jetzt muss ich warten, bis sich die Kreatur im Netz verheddert hat."
+    new "{e=shark}{e=arrow_right}{e=fishnet}"
 
     # game/dicts/task.rpy:1215
     old "{e=octo_anon}{e=arrow_right}{e=lake_trap}"
-    new "Wir müssen warten, bis das Tentakelmonster kommt."
+    new "{e=octo_anon}{e=arrow_right}{e=lake_trap}"
 
     # game/dicts/task.rpy:1215
     old "{e=bridge}{e=check_mark}{e=thumbs_up}{e=smiley}"

@@ -1,13 +1,4 @@
-﻿# game/scenes/chapter06/intro.rpy:33
-translate german scene_chapter06_intro_c1a50e63:
-
-    # lee_think "{e=bungalow_wrecked}{e=arrow_right}{e=repair}"
-    lee_think "Das ist schade, aber ich habe jetzt Wichtigeres zu tun:"
-    lee_think "Mein Haus ist ein einziges Chaos und braucht einige große Reparaturen."
-    lee_think "Ich muss es schnell reparieren, falls der Sturm zurückkommt."
-    lee_think "Ich würde Cat ungern in diesem Bungalow-Wrack willkommen heißen."
-
-# game/scenes/chapter06/intro.rpy:34
+﻿# game/scenes/chapter06/intro.rpy:34
 translate german scene_chapter06_intro_666d4f5d:
 
     # lee_think "{e=thinking_face}{e=bungalow_wall}{e=arrow_right}{e=bungalow_wrecked}"

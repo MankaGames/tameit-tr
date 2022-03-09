@@ -21,9 +21,7 @@ translate german scene_chapter06_home_a41ff28c:
 translate german scene_chapter06_inside_2ff9347b:
 
     # lee_think "{e=catgirl}{e=cross_mark}{e=sleep}{e=bungalow4}"
-    lee_think "Cat ist wieder nicht da."
-    lee_think "Ich dachte, sie würde nach den Reparaturen am Bungalow bleiben,"
-    lee_think "aber sie läuft nachts immer wieder weg."
+    lee_think "Cat läuft nachts immer noch irgendwohin weg."
 
 # game/scenes/chapter06/home.rpy:98
 translate german scene_chapter06_inside_d2061100:

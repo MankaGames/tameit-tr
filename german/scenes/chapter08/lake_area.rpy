@@ -365,8 +365,7 @@ translate german scene_chapter08_lake_663b4b29:
 translate german scene_chapter08_lake_7cd90136:
 
     # lee_think "{e=fishnet}{e=plus}{e=banana}{e=yes}{e=hourglass}"
-    lee_think "Okay, das Netz ist fertig, der Köder ist platziert."
-    lee_think "Jetzt muss ich nur noch warten."
+    lee_think "OK, das Netz ist ausgelegt, jetzt muss nur noch ein guter Köder her."
 
 # game/scenes/chapter08/lake_area.rpy:370
 translate german scene_chapter08_lake_e1dd4800:
