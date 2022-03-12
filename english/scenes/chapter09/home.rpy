@@ -203,7 +203,7 @@ translate english scene_chapter09_inside_outro_fddbda36:
 translate english scene_chapter09_inside_outro_943cba28:
 
     # lee "{e=hug}{e=you}{e=butt}"
-    lee "Let me stoke it. This way, gently."
+    lee "Let me stroke it. This way, gently."
 
 # game/scenes/chapter09/home.rpy:244
 translate english scene_chapter09_inside_outro_0a9873ed:

@@ -2,7 +2,7 @@
 translate english scene_chapter12_home_fd409290:
 
     # lee_think "{e=confused_face}{e=repair}{e=bridge}{e=exclamation_white}"
-    lee_think "Dam it! The bridge! Gatta repair it asap."
+    lee_think "Damn it! The bridge! Gotta repair it asap."
 
 # game/scenes/chapter12/home.rpy:25
 translate english scene_chapter12_home_cbec5088:
