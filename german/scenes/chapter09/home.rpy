@@ -213,7 +213,7 @@ translate german scene_chapter09_inside_outro_fddbda36:
 translate german scene_chapter09_inside_outro_943cba28:
 
     # lee "{e=hug}{e=you}{e=butt}"
-    lee "Lass mich es schüren. Hier entlang, vorsichtig."
+    lee "Lass mich ihn streicheln. So, ganz sanft."
 
 # game/scenes/chapter09/home.rpy:244
 translate german scene_chapter09_inside_outro_0a9873ed:
