@@ -23,3 +23,10 @@ translate english scene_chapter01_forest1_d53d3940:
     lee_think "Maybe I could find some fruits, coconuts or even berries."
     lee_think "Anything will do for now."
 
+# game/scenes/chapter01/forest1.rpy:30
+translate english scene_chapter01_forest1_c270cc30:
+
+    # lee_think "{e=night}{e=home}{e=no}{e=footprints}{e=arrow_right}"
+    lee_think "It is better not go far from the hut after the sunset."
+    lee_think "The darkness is falling so fast I could easily get lost in the woods."
+

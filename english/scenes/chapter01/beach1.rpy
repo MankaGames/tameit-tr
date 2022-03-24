@@ -54,3 +54,10 @@ translate english scene_chapter01_beach1_health_tutor2_1556dd60:
     # "{e=weed}{e=arrow_right}{e=injured_leg}"
     "Put seaweed on the wound."
 
+# game/scenes/chapter01/beach1.rpy:34
+translate english scene_chapter01_beach1_c270cc30:
+
+    # lee_think "{e=night}{e=home}{e=no}{e=footprints}{e=arrow_right}"
+    lee_think "It is better not go far from the hut after the sunset."
+    lee_think "The darkness is falling so fast I could easily get lost in the woods."
+

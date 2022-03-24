@@ -44,7 +44,7 @@ translate english scene_chapter05_intro_5942017f:
 
     # lee_think "{e=storm}{e=dash}{e=bungalow4}{e=fearful_face}"
     lee_think "I hope that the whole hut is not gonna blow the fuck up."
-    lee_think "The wind's howling is so loud that I have no fucking Idea what might happen next."
+    lee_think "The wind's howling is so loud that I have no fucking idea what might happen next."
 
 # game/scenes/chapter05/intro.rpy:83
 translate english scene_chapter05_intro_fb2312af:
