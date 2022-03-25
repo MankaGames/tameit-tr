@@ -1164,3 +1164,18 @@
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Kopiert die Datei errors.txt in die Zwischenablage als Markdown für Discord."
 
+ # renpy/common/00accessibility.rpy:180
+    old "High Contrast Text"
+    new "Text mit hohem Kontrast"
+
+    # renpy/common/00preferences.rpy:487
+    old "renderer menu"
+    new "Rendering-Menü"
+
+    # renpy/common/00preferences.rpy:490
+    old "accessibility menu"
+    new "Zugänglichkeitsmenü"
+
+    # renpy/common/00preferences.rpy:493
+    old "high contrast text"
+    new "Text mit hohem Kontrast"

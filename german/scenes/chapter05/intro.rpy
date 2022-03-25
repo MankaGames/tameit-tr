@@ -45,9 +45,8 @@ translate german scene_chapter05_intro_529c7150:
 translate german scene_chapter05_intro_5942017f:
 
     # lee_think "{e=storm}{e=dash}{e=bungalow4}{e=fearful_face}"
-    lee_think "Ich hoffe, dass die Hütte nicht in die Luft fliegt."
-    lee_think "Das Heulen des Windes ist so laut,"
-    lee_think "dass ich keine Ahnung habe, was als Nächstes passiert."
+    lee_think "Ich hoffe, dass nicht die ganze Hütte in die Luft fliegt."
+    lee_think "Der Wind heult so laut, dass ich keine Ahnung habe, was als Nächstes passieren könnte"
 
 # game/scenes/chapter05/intro.rpy:83
 translate german scene_chapter05_intro_fb2312af:

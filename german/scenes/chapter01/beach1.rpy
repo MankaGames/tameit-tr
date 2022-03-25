@@ -55,3 +55,9 @@ translate german scene_chapter01_beach1_health_tutor2_1556dd60:
     # "{e=weed}{e=arrow_right}{e=injured_leg}"
     "Lege den Seetang auf die Wunde."
 
+# game/scenes/chapter01/beach1.rpy:34
+translate german scene_chapter01_beach1_c270cc30:
+
+    # lee_think "{e=night}{e=home}{e=no}{e=footprints}{e=arrow_right}"
+    lee_think "Es ist besser, sich nach Sonnenuntergang nicht weit von der Hütte zu entfernen."
+    lee_think "Die Dunkelheit bricht so schnell herein, dass ich mich leicht im Wald verirren könnte."

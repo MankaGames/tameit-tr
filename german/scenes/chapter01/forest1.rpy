@@ -23,3 +23,9 @@ translate german scene_chapter01_forest1_d53d3940:
     lee_think "Vielleicht könnte ich ein paar Früchte, Kokosnüsse oder sogar Beeren finden."
     lee_think "Im Moment ist alles möglich. "
 
+# game/scenes/chapter01/forest1.rpy:30
+translate german scene_chapter01_forest1_c270cc30:
+
+    # lee_think "{e=night}{e=home}{e=no}{e=footprints}{e=arrow_right}"
+    lee_think "Es ist besser, sich nach Sonnenuntergang nicht weit von der Hütte zu entfernen."
+    lee_think "Die Dunkelheit bricht so schnell herein, dass ich mich leicht im Wald verirren könnte."
