@@ -2,7 +2,7 @@
 
     # game/classes/mind_manager.rpy:99
     old "{e=confounded face}{e=hunger}{e=exclamation}"
-    new "Ich muss etwas zu essen besorgen."
+    new "Ich muss essen."
 
     # game/classes/mind_manager.rpy:105
     old "{e=face_with_head-bandage}{e=dizzy_face}"
@@ -25,6 +25,7 @@
     new "Mir gehen die Fackeln aus."
 
     # game/classes/mind_manager.rpy:115
+    # do not translate
     old "{e=confounded face}{e=hunger}{e=exclamation}{#girl}"
     new "{e=confounded face}{e=hunger}{e=exclamation}"
 
@@ -33,5 +34,6 @@
     new "Mir ist übel, ich habe wohl etwas Falsches gegessen, ich sollte ins Bett gehen."
     
     # game/classes/mind_manager.rpy:136
+    # do not translate
     old "{e=catgirl}{i=stick}{e=arrow_right}{i=%s}"
     new "{e=catgirl}{i=stick}{e=arrow_right}{i=%s}"

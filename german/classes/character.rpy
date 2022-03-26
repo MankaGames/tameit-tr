@@ -2,7 +2,7 @@
 
     # game/classes/character.rpy:216
     old "{e=rain}{e=consume}{e=thumbs_up}"
-    new "Heute regnet es, ich bin weniger durstig"
+    new "Es hat in letzter Zeit geregnet, ich bin jetzt weniger durstig."
 
     # game/classes/character.rpy:318
     old "{e=lee}{e=no}{e=fish}{e=catgirl}{e=crying_cat}"
