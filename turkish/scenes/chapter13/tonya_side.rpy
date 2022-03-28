@@ -120,7 +120,7 @@ translate turkish scene_chapter13_tonya_home_0fd3e394:
 translate turkish scene_chapter13_tonya_home_9b449926:
 
     # lee "{e=me}{e=arrow_right}{e=airplane}{e=no}{e=tonya}"
-    lee "Evet. uçagı buldum. Adanın benim tarafıma düsmüs."
+    lee "Evet. Uçagı buldum. Adanın benim tarafıma düsmüs."
     lee "Tepeden görmüs olmalısın."
     lee "Ama tabii ki uçagın içinde degildin ve nerede olabilecegine dair hiçbir ipucu bulamadım."
     lee "Ama umudumu hiç kaybetmedim ve aramaya devam ettim. Dumanını gördüm ama buraya gelemedim."

@@ -172,7 +172,7 @@
 
     # game/dicts/task.rpy:1283
     old "{e=jaguar_skin_raw}{e=crafting}{e=jaguar_skin}{e=sparkles}"
-    new "Simdi onu GÜNEsE KOYMALIYIM. Ben\u00A0umarım bunu becerebilirim."
+    new "Simdi onu kurutmak icin günese koymalıyım. Umarım bunu becerebilirim."
 
     # game/dicts/task.rpy:1283
     old "{e=paper}{e=yes}{e=smiley}"
