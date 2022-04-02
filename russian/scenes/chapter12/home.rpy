@@ -2,7 +2,7 @@
 translate russian scene_chapter12_home_fd409290:
 
     # lee_think "{e=confused_face}{e=repair}{e=bridge}{e=exclamation_white}"
-    lee_think "Damn it! The bridge! Gotta repair it asap."
+    lee_think "Вот чёрт, мост! Нужно срочно его восстановить."
 
 # game/scenes/chapter12/home.rpy:25
 translate russian scene_chapter12_home_cbec5088:
@@ -26,7 +26,7 @@ translate russian scene_chapter12_home_8000abb1:
 translate russian scene_chapter12_home_bebba19b:
 
     # lee "{e=surprised}{e=water_lily}{e=question_white}{e=thinking_face}"
-    lee "На кувшинке? Оу, а ведь и правда... Как я сам об этом не подумал. "
+    lee "На кувшинке? Оу, а ведь и правда... Как я сам об этом не подумал."
     lee "Я ведь использовал эти кувшинки на озере. Они достаточно прочные."
 
 # game/scenes/chapter12/home.rpy:105
@@ -77,21 +77,22 @@ translate russian scene_chapter12_inside_6c7a044b:
 translate russian scene_chapter12_inside_522d5db3:
 
     # lee_think "{e=wall}{e=framed_picture}{e=eyes}{e=shield}"
-    lee_think "Hmm… Let’s focus."
-    lee_think "One of the puzzle fragments showed warriors with spears and shields… shields!"
+    lee_think "Хм, если подумать..."
+    lee_think "на одном из кусков каменной мозаики были изображены воины"
+    lee_think "с копьями и щитами... щитами!"
 
 # game/scenes/chapter12/home.rpy:127
 translate russian scene_chapter12_inside_496cd87f:
 
     # lee_think "{e=light_bulb}{e=exclamation_white}{e=shield}{e=smiley}"
-    lee_think "Как я же раньше не подумал, что мне нужен щит! "
-    lee_think "The jaguar wouldn’t have clawed me so badly if I had a\u00A0shield."
+    lee_think "Как я же раньше не подумал, что мне нужен щит!"
+    lee_think "Ягуар бы не подрал меня так, догадайся я ещё тогда сделать себе щит."
 
 # game/scenes/chapter12/home.rpy:128
 translate russian scene_chapter12_inside_bfac8a7e:
 
     # lee_think "{e=crafting}{e=shield}{e=arrow_right}{e=stick}{e=metal_sheet}"
-    lee_think "Сделаю щит из бамбука и листов металла. "
+    lee_think "Сделаю щит из бамбука и листов металла."
     lee_think "Думаю, получится крепкий и не слишком тяжёлый."
 
 # game/scenes/chapter12/home.rpy:133
@@ -122,9 +123,8 @@ translate russian scene_chapter12_basin_9faff18f:
 translate russian scene_chapter12_basin_e3a54b5c:
 
     # lee "{e=yes}{e=slightly_smiling_face}"
-    lee "Хорошо, спасибо. Вы такие заботливые, мои девочки. 
-
-Как хорошо, что вы здесь со мной."
+    lee "Хорошо, спасибо. Вы такие заботливые, мои девочки."
+    lee "Как хорошо, что вы здесь со мной."
 
 # game/scenes/chapter12/home.rpy:204
 translate russian scene_chapter12_basin_986ea670:
@@ -208,7 +208,7 @@ translate russian scene_chapter12_basin_b027a839:
 translate russian scene_chapter12_basin_66ffd154:
 
     # lee_think "{e=me}{e=octa}{e=salad}{e=consume}{e=thinking_face}"
-    lee_think "Теперь мне нужно будет заботиться об Окте, как и о Кошке. "
+    lee_think "Теперь мне нужно будет заботиться об Окте,\nкак и о Кошке."
 
 # game/scenes/chapter12/home.rpy:258
 translate russian scene_chapter12_basin_outro_93a59e4a:
@@ -244,7 +244,7 @@ translate russian scene_chapter12_basin_outro_a987f5c7:
 translate russian scene_chapter12_basin_outro_d3e25c6d:
 
     # octa "{e=flushed_face}{e=yes}"
-    octa "{e=flushed_face}{e=yes}{alt}Хорошо, давай{/alt}"
+    octa "{e=flushed_face}{e=yes}{alt}Хорошо, давай.{/alt}"
 
 # game/scenes/chapter12/home.rpy:269
 translate russian scene_chapter12_basin_outro_1213bb66:
@@ -256,7 +256,7 @@ translate russian scene_chapter12_basin_outro_1213bb66:
 translate russian scene_chapter12_basin_outro_53752cf7:
 
     # octa "{e=smiling_face_with_hearts}{e=blush}"
-    octa "{e=smiling_face_with_hearts}{e=blush}{alt}Нравится. {/alt}"
+    octa "{e=smiling_face_with_hearts}{e=blush}{alt}Нравится.{/alt}"
 
 # game/scenes/chapter12/home.rpy:272
 translate russian scene_chapter12_basin_outro_634ccb43:
@@ -268,5 +268,5 @@ translate russian scene_chapter12_basin_outro_634ccb43:
 translate russian scene_chapter12_basin_outro_a0f4eacc:
 
     # lee "{e=star_struck}{e=yes}{e=exclamation_white}{e=smiling_face}"
-    lee "Конечно! "
+    lee "Конечно!"
 

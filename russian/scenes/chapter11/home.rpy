@@ -20,7 +20,7 @@ translate russian scene_chapter11_home_81e2067b:
 translate russian scene_chapter11_fishing_cat_89be29e8:
 
     # cat_think "{e=fishing}{e=no}{e=water}{e=persevering}"
-    cat_think "{e=fishing}{e=no}{e=water}{e=persevering}{alt}No, I don't want to fish! The water's yuck. What if I fall in the water?! Brrr!{/alt}"
+    cat_think "{e=fishing}{e=no}{e=water}{e=persevering}{alt}Не, не хочу рыбачить! Вода фу. Вдруг я свалюсь в воду?! Бррр!{/alt}"
 
 # game/scenes/chapter11/home.rpy:201
 translate russian scene_chapter11_inside_5af7d767:
@@ -38,7 +38,7 @@ translate russian scene_chapter11_inside_5beb2451:
 translate russian scene_chapter11_inside_710f8bfb:
 
     # cat_think "{e=weed}{e=no}{e=blood}"
-    cat_think "{e=weed}{e=no}{e=blood}{alt}Водоросли должны остановить кровь. {/alt}"
+    cat_think "{e=weed}{e=no}{e=blood}{alt}Водоросли должны остановить кровь.{/alt}"
 
 # game/scenes/chapter11/home.rpy:205
 translate russian scene_chapter11_inside_31ab5036:
@@ -50,13 +50,13 @@ translate russian scene_chapter11_inside_31ab5036:
 translate russian scene_chapter11_inside_c3caf25a:
 
     # lee "{e=disappointed}{e=confounded face}{e=face_with_head-bandage}"
-    lee "Not really. I’m aching all over. Can’t even get up."
+    lee "Как-то не очень хорошо. Всё болит. И нет сил даже подняться."
 
 # game/scenes/chapter11/home.rpy:218
 translate russian scene_chapter11_inside_710f8bfb_1:
 
     # cat_think "{e=weed}{e=no}{e=blood}"
-    cat_think "{e=weed}{e=no}{e=blood}{alt}Водоросли должны остановить кровь. {/alt}"
+    cat_think "{e=weed}{e=no}{e=blood}{alt}Водоросли должны остановить кровь.{/alt}"
 
 # game/scenes/chapter11/home.rpy:220
 translate russian scene_chapter11_inside_ca647174:
@@ -86,14 +86,14 @@ translate russian scene_chapter11_inside_ee2b51a1:
 translate russian scene_chapter11_inside_feed_special_c373df69:
 
     # lee "{e=health}{e=arrow_up}{e=slightly_smiling_face}"
-    lee "Кошка. Привет, девочка. Кажется, мне лучше. Ты чем-то лечишь меня, да? "
+    lee "Кошка. Привет, девочка. Кажется, мне лучше. Ты чем-то лечишь меня, да?"
     lee "Я почти всё время сплю и плохо соображаю, но сейчас мне точно лучше, чем вчера."
 
 # game/scenes/chapter11/home.rpy:274
 translate russian scene_chapter11_inside_feed_special_8b569331:
 
     # cat "{e=hourglass}{e=arrows_counterclockwise}{e=night}"
-    cat "{e=hourglass}{e=arrows_counterclockwise}{e=night}{alt}Wait till morning, Lee. We see if the medicine helps.{/alt}"
+    cat "{e=hourglass}{e=arrows_counterclockwise}{e=night}{alt}Нужно дождаться утра, Ли. Тогда увидим, помогло ли лекарство.{/alt}"
 
 # game/scenes/chapter11/home.rpy:275
 translate russian scene_chapter11_inside_feed_special_5bcbdbe8:
@@ -111,19 +111,19 @@ translate russian scene_chapter11_bungalow_ext_5ab41950:
 translate russian scene_chapter11_bungalow_ext_86bc7336:
 
     # lee_think "{e=hammer}{e=chair}{e=chair}{e=question}{e=thinking_face}"
-    lee_think "I’d like to have some additional furniture."
+    lee_think "Хорошо бы сделать ещё какую-нибудь мебель."
 
 # game/scenes/chapter11/home.rpy:304
 translate russian scene_chapter11_bungalow_ext_e826ed33:
 
     # lee_think "{e=light_bulb}{e=smiley}{e=airplane}{e=seat}{e=seat}"
-    lee_think "Oh, I know! I could fetch a couple of sits from the plane."
+    lee_think "О! Думаю, я мог бы притащить пару кресел из самолёта!"
 
 # game/scenes/chapter11/home.rpy:334
 translate russian scene_chapter11_basin_15798589:
 
     # octa "{e=home}{e=yes}{e=exclamation_white}"
-    octa "{e=home}{e=yes}{e=exclamation_white}{alt}Мы приплыли! {/alt}"
+    octa "{e=home}{e=yes}{e=exclamation_white}{alt}Мы приплыли!{/alt}"
 
 # game/scenes/chapter11/home.rpy:335
 translate russian scene_chapter11_basin_1a63cb83:
@@ -171,7 +171,7 @@ translate russian scene_chapter11_basin_df80425a:
 translate russian scene_chapter11_basin_a6b06e23:
 
     # octa "{e=mushroom_glowing}{e=magnifying_glass}{e=cave}"
-    octa "{e=mushroom_glowing}{e=magnifying_glass}{e=cave}{alt}Big mushrooms. Grow in my cave. Glow. We mush them and make medicine.{/alt}"
+    octa "{e=mushroom_glowing}{e=magnifying_glass}{e=cave}{alt}Они большие. Растут в моей пещере. Светятся. Их можно растолочь и будет лекарство.{/alt}"
 
 # game/scenes/chapter11/home.rpy:351
 translate russian scene_chapter11_basin_c2f2f39c:
@@ -213,25 +213,25 @@ translate russian scene_chapter11_basin_outro_4883fa8f:
 translate russian scene_chapter11_basin_outro_5c10aa31:
 
     # octa "{e=salad}{e=drooling_face}{e=thumbs_up}"
-    octa "{e=salad}{e=drooling_face}{e=thumbs_up}{alt}Получилось вкусно.{/alt}"
+    octa "{e=salad}{e=drooling_face}{e=thumbs_up}{alt}Получилось вкусно!{/alt}"
 
 # game/scenes/chapter11/home.rpy:434
 translate russian scene_chapter11_basin_outro_f0d51c13:
 
     # lee "{e=waving_hand}{e=octa}{e=catgirl}{e=slightly_smiling_face}"
-    lee "Hey. Oh, you’re both here! I’m so glad to see you. Thought I was a goner…"
+    lee "Привет. Надо же, вы обе здесь! Я так рад вас видеть. Думал, что уже всё…"
 
 # game/scenes/chapter11/home.rpy:438
 translate russian scene_chapter11_basin_outro_95f9d668:
 
     # cat "{e=lee}{e=exclamation_white}{e=grinning_cat}"
-    cat "{e=lee}{e=exclamation_white}{e=grinning_cat}{alt}Ли! {/alt}"
+    cat "{e=lee}{e=exclamation_white}{e=grinning_cat}{alt}Ли!{/alt}"
 
 # game/scenes/chapter11/home.rpy:440
 translate russian scene_chapter11_basin_outro_711cf3c5:
 
     # octa "{e=lee}{e=exclamation_white}{e=smiley}"
-    octa "{e=lee}{e=exclamation_white}{e=smiley}{alt}Ли! {/alt}"
+    octa "{e=lee}{e=exclamation_white}{e=smiley}{alt}Ли!{/alt}"
 
 # game/scenes/chapter11/home.rpy:455
 translate russian scene_chapter11_basin_outro_f493ab05:
@@ -243,8 +243,7 @@ translate russian scene_chapter11_basin_outro_f493ab05:
 translate russian scene_chapter11_basin_outro_c81b5a8b:
 
     # lee "{e=blush}{e=hug}{e=octa}{e=catgirl}"
-    lee "Yes, and I owe it all to you and Octa! Thank you so much!"
-    lee "I would have surely died without you."
+    lee "Да, всё благодаря тебе и Окте. Спасибо! Без вас я бы точно загнулся."
     lee "Этот ягуар ранил меня сильнее, чем мне поначалу казалось."
 
 # game/scenes/chapter11/home.rpy:457
@@ -257,6 +256,6 @@ translate russian scene_chapter11_basin_outro_b2055714:
 translate russian scene_chapter11_basin_outro_d9c5a85c:
 
     # lee "{e=laughing}{e=exclamation_white}{e=catgirl}{e=question_white}{e=kiss_face}"
-    lee "Oh-wow! What are you doing, Kitty! Mmm… when did you learn to do that stuff?"
-    lee "That feels so good!"
+    lee "Ой-ёй! Чего это ты, Киса! Мм, когда ты научилась такое вытворять?"
+    lee "Так приятно!"
 

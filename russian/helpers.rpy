@@ -2,22 +2,22 @@
 
     # game/helpers.rpy:298
     old "Easiest"
-    new "Easiest"
+    new "Простейший"
 
     # game/helpers.rpy:298
     old "Easy"
-    new "Easy"
+    new "Лёгкий"
 
     # game/helpers.rpy:298
     old "Normal"
-    new "Normal"
+    new "Нормальный"
 
     # game/helpers.rpy:298
     old "Hard"
-    new "Hard"
+    new "Сложный"
 
     # game/helpers.rpy:85
     # Length limited by ~25 characters
     old "{e=tonya}{e=framed_picture}{e=yes}"
-    new "Tonya's story unlocked"
+    new "История Тони разблокирована"
 

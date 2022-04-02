@@ -8,7 +8,7 @@ translate russian scene_chapter12_fight_eacfa942:
 translate russian scene_chapter12_fight_2027fe22:
 
     # lee_think "{e=angry}{e=crossed_swords}{e=jaguar}{e=arrow_right}{e=cave}"
-    lee_think "Но я должен попытаться, иначе мне не пройти через пещеру, "
+    lee_think "Но я должен попытаться, иначе мне не пройти через пещеру,"
     lee_think "а попасть на ту сторону острова необходимо."
 
 # game/scenes/chapter12/fight.rpy:22
@@ -33,13 +33,13 @@ translate russian scene_chapter12_fight_done_8c67efd8:
 translate russian scene_chapter12_fight_done_b615a652:
 
     # lee "{e=smiley}{e=star_struck}{e=muscle}{e=jaguar}{e=exclamation_white}"
-    lee "Я победил! О боже! Даже не верится! "
+    lee "Я победил! О боже! Даже не верится!"
 
 # game/scenes/chapter12/fight.rpy:55
 translate russian scene_chapter12_fight_done_8db687f3:
 
     # lee_think "{e=dizzy_face}{e=weary_face}"
-    lee_think "Уф, как же я устал! Всё тело болит. Нет сил шевелиться. "
+    lee_think "Уф, как же я устал! Всё тело болит. Нет сил шевелиться."
     lee_think "Но вроде, в этот раз он не подрал меня так сильно, как тогда."
 
 # game/scenes/chapter12/fight.rpy:60

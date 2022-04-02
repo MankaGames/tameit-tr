@@ -2,7 +2,7 @@
 translate russian scene_chapter13_cave1_1e302510:
 
     # lee "{e=eyes}{e=no}{e=crafting}{e=torch}"
-    lee "Too dark. I can’t go further without a torch."
+    lee "Тут слишком темно. Я не могу пройти дальше без факела."
 
 # game/scenes/chapter13/cave.rpy:79
 translate russian scene_chapter13_cave_secretroom_26fd52ad:
@@ -20,7 +20,7 @@ translate russian scene_chapter13_cave_secretroom_542bb9d5:
 translate russian scene_chapter13_cave_secretroom_12525364:
 
     # tonya "{e=torch}{e=torch}{e=thinking_face}{e=silhouette}{e=desert island}"
-    tonya "И эти факела... похоже, раньше кто-то жил на этом острове. "
+    tonya "И эти факела... похоже, раньше кто-то жил на этом острове."
     tonya "А я думала, он совсем дикий."
 
 # game/scenes/chapter13/cave.rpy:82
@@ -33,15 +33,15 @@ translate russian scene_chapter13_cave_secretroom_6a35bbdc:
 translate russian scene_chapter13_cave_secretroom_e1e6a9f7:
 
     # tonya "{e=foraging}{e=arrow_up}{e=raft}{e=boat}{e=arrow_right}"
-    tonya "Тогда начнём готовиться к путешествию. Предстоит много работы. "
-    tonya "Для плота понадобится немало материалов. "
+    tonya "Тогда начнём готовиться к путешествию. Предстоит много работы."
+    tonya "Для плота понадобится немало материалов."
     tonya "А ведь ещё нужно запастись водой, едой и всем, что может пригодиться."
 
 # game/scenes/chapter13/cave.rpy:92
 translate russian scene_chapter13_cave_secretroom_1898ed25:
 
     # tonya "{e=hammer}{e=raft}{e=beach}{e=tonya}{e=hut}"
-    tonya "И строить плот стоит на моём берегу. "
+    tonya "И строить плот стоит на моём берегу."
 
 # game/scenes/chapter13/cave.rpy:93
 translate russian scene_chapter13_cave_secretroom_681969aa:
@@ -53,7 +53,7 @@ translate russian scene_chapter13_cave_secretroom_681969aa:
 translate russian scene_chapter13_cave_secretroom_c250ee67:
 
     # lee "{e=sail}{e=raft}"
-    lee "А ещё нам понадобится парус. "
+    lee "А ещё нам понадобится парус."
 
 # game/scenes/chapter13/cave.rpy:95
 translate russian scene_chapter13_cave_secretroom_d6484b49:
@@ -89,7 +89,7 @@ translate russian scene_chapter13_cave_secretroom_ecddf7b0:
 translate russian scene_chapter13_cave_secretroom_0d407424:
 
     # lee "{e=me}{e=draw}{e=map}"
-    lee "Зарисую карту и начну перетаскивать бабмук к месту стройки."
+    lee "Зарисую карту и начну перетаскивать бабмук к\u00A0месту стройки."
 
 # game/scenes/chapter13/cave.rpy:101
 translate russian scene_chapter13_cave_secretroom_25bd64c0:
@@ -107,7 +107,8 @@ translate russian scene_chapter13_cave_secretroom_0dd7f653:
 translate russian scene_chapter13_cave_secretroom_7d074c07:
 
     # tonya "{e=catgirl}{e=octa}{e=question_white}"
-    tonya "Но как быть с... твоими необычными подругами? Ты обещал, что покажешь мне их."
+    tonya "Но как быть с… твоими необычными подругами?"
+    tonya "Ты обещал, что покажешь мне их."
 
 # game/scenes/chapter13/cave.rpy:106
 translate russian scene_chapter13_cave_secretroom_c3171747:
@@ -125,9 +126,8 @@ translate russian scene_chapter13_cave_secretroom_253291b4:
 translate russian scene_chapter13_cave_secretroom_0e16e5f3:
 
     # lee "{e=catgirl}{e=teeth}{e=skull}{e=confounded face}"
-    lee "Одна из них может быть опасной, если всё неправильно поймёт. 
-
-Не хочу, чтобы она навредила тебе."
+    lee "Одна из них может быть опасной, если всё неправильно поймёт."
+    lee "Не хочу, чтобы она навредила тебе."
 
 # game/scenes/chapter13/cave.rpy:109
 translate russian scene_chapter13_cave_secretroom_29ab5d05:
@@ -157,17 +157,17 @@ translate russian scene_chapter13_cave_secretroom_e2bcba95:
 translate russian scene_chapter13_cave3_1e302510:
 
     # lee "{e=eyes}{e=no}{e=crafting}{e=torch}"
-    lee "Too dark. I can’t go further without a torch."
+    lee "Тут слишком темно. Я не могу пройти дальше без факела."
 
 # game/scenes/chapter13/cave.rpy:185
 translate russian scene_chapter13_cave_exit_1f2cd9d4:
 
     # lee_think "{e=jaguar}{ellipsis}{e=thinking_face}"
-    lee_think "The jaguar carcass, hmm…"
+    lee_think "Туша ягуара, хм…"
 
 # game/scenes/chapter13/cave.rpy:186
 translate russian scene_chapter13_cave_exit_c47eff5d:
 
     # lee_think "{e=jaguar}{e=cut}{e=arrow_right}{e=jaguar_skin}{e=star_struck}"
-    lee_think "I can skin it – would be a shame if it spoils."
+    lee_think "Я могу снять с него шкуру, чего добру пропадать."
 

@@ -8,7 +8,7 @@ translate russian scene_chapter12_octa_shelter_88340f2d:
 translate russian scene_chapter12_cave1_1e302510:
 
     # lee "{e=eyes}{e=no}{e=crafting}{e=torch}"
-    lee "Too dark. I can’t go further without a torch."
+    lee "Тут слишком темно. Я не могу пройти дальше без факела."
 
 # game/scenes/chapter12/cave.rpy:72
 translate russian scene_chapter12_cave2_4f981a47:
@@ -21,33 +21,30 @@ translate russian scene_chapter12_cave2_4f981a47:
 translate russian scene_chapter12_cave2_09133898:
 
     # lee_think "{e=catgirl}{e=octa}{e=lever}{e=rock}{e=smiley}"
-    lee_think "О, так это то самое место! 
-
-Похоже, Кошка и Окта сдвинули камень, который преграждал проход!"
+    lee_think "О, так это то самое место!"
+    lee_think "Похоже, Кошка и Окта сдвинули камень, который преграждал проход!"
 
 # game/scenes/chapter12/cave.rpy:104
 translate russian scene_chapter12_cave_secretroom_d85d0ba0:
 
     # lee_think "{e=wall}{e=torch}{e=torch}{e=question_white}{e=astonished_face}"
-    lee_think "Это же факела? Откуда они здесь? "
-    lee_think "Если присмотреться, то и эта стена явно рукотворная, она такая гладкая. "
-    lee_think "А если ещё вспомнить тот каменный ящик с секретом, в котором я нашёл алебарду... "
+    lee_think "Это же факела? Откуда они здесь?"
+    lee_think "Если присмотреться, то и эта стена явно рукотворная, она такая гладкая."
+    lee_think "А если ещё вспомнить тот каменный ящик с секретом, в котором я нашёл алебарду..."
     lee_think "Всё это похоже следы какой-то цивилизации. Видимо, здесь когда-то жили люди."
 
 # game/scenes/chapter12/cave.rpy:106
 translate russian scene_chapter12_cave_secretroom_1a3049e4:
 
     # lee_think "{e=fire}{e=torch}{e=question_white}{e=thinking_face}"
-    lee_think "Что если поджечь факела? 
-
-Так по крайней мере, станет светлее и я смогу здесь всё как следует осмотреть."
+    lee_think "Что если поджечь факела?"
+    lee_think "Так по крайней мере, станет светлее и я смогу здесь всё как следует осмотреть."
 
 # game/scenes/chapter12/cave.rpy:114
 translate russian scene_chapter12_cave_secretroom_8b5d7e19:
 
     # lee_think "{e=eyes}{e=wall}{e=framed_picture}{e=astonished_face}{e=exclamation_white}"
-    lee_think "There’s something painted here! There in the corner."
-    lee_think "Looks like a piece of a giant painting."
+    lee_think "Здесь что-то нарисовано! Вон там, в углу. Будто кусок большой картины."
 
 # game/scenes/chapter12/cave.rpy:115
 translate russian scene_chapter12_cave_secretroom_75a7cd6a:
@@ -77,7 +74,7 @@ translate russian scene_chapter12_cave_secretroom_be83be70:
 translate russian scene_chapter12_cave_secretroom_eedb88be:
 
     # lee_think "{e=stone_tablet}{e=yes}{e=inventory}{e=smiley}"
-    lee_think "А ведь у меня уже есть подходящие куски в инвентаре! "
+    lee_think "А ведь у меня уже есть подходящие куски в инвентаре!"
 
 # game/scenes/chapter12/cave.rpy:122
 translate russian scene_chapter12_cave_secretroom_ec6c931f:
@@ -89,36 +86,35 @@ translate russian scene_chapter12_cave_secretroom_ec6c931f:
 translate russian scene_chapter12_cave_secretroom_bb1516a8:
 
     # lee_think "{e=stone_tablet}{e=framed_picture}{e=magnifying_glass}{e=question_white}"
-    lee_think "Интересно где другие куски? Наверное раскиданы по всему острову. "
-    lee_think "Perhaps if I collect them all I’ll find a treasure. "
-    lee_think "В любом случае, станет ясно только когда я соберу полное изображение. "
+    lee_think "Интересно где другие куски? Наверное раскиданы по всему острову."
+    lee_think "Возможно, если я соберу их все, то смогу найти какой-то клад, хех."
+    lee_think "В любом случае, станет ясно только когда я соберу полное изображение."
 
 # game/scenes/chapter12/cave.rpy:169
 translate russian scene_chapter12_cave_secretroom_open_map_eacb8c1d:
 
     # lee "{e=fearful_face}{e=exclamation}"
-    lee "What the hell is going on?! It’s shaking like crazy!"
-    lee "Did I do anything that wasn’t meant to be done?"
-    lee "Don’t tell me it’s going to bury me alive!"
+    lee "Что происходит?! Всё трясётся!"
+    lee "Я сделал то, чего не должен был? Меня же здесь не завалит, правда?"
 
 # game/scenes/chapter12/cave.rpy:185
 translate russian scene_chapter12_cave_secretroom_open_map_d7383af4:
 
     # lee_think "{e=wall}{e=arrow_down}{e=exclamation}{e=exploding_head}"
-    lee_think "The wall! It’s sliding down!\nAt first I thought I was seeing things!"
+    lee_think "Стена! Она сдвигается вниз! Сначала думал, мне показалось, но нет!"
 
 # game/scenes/chapter12/cave.rpy:240
 translate russian scene_chapter12_cave_exit_ec4056e1:
 
     # lee_think "{e=jaguar}{e=exclamation}{e=cold_sweat}"
-    lee_think "Ягуар! Он всё ещё здесь. Ну конечно, куда он денется! "
+    lee_think "Ягуар! Он всё ещё здесь. Ну конечно, куда он денется!"
     lee_think "Глупо было думать, что он просто возьмёт и свалит куда-нибудь."
 
 # game/scenes/chapter12/cave.rpy:241
 translate russian scene_chapter12_cave_exit_cb31715b:
 
     # lee_think "{e=angry}{e=jaguar}{e=crossed_swords}{e=muscle}{e=exclamation_white}"
-    lee_think "Ну ничего, я ещё доберусь до тебя, скотина усатая! "
+    lee_think "Ну ничего, я ещё доберусь до тебя, скотина усатая!"
 
 # game/scenes/chapter12/cave.rpy:242
 translate russian scene_chapter12_cave_exit_10267cb4:
@@ -130,5 +126,5 @@ translate russian scene_chapter12_cave_exit_10267cb4:
 translate russian scene_chapter12_cave_exit_10267cb4_1:
 
     # lee_think "{e=thinking_face}{e=hourglass}{e=arrows_counterclockwise}{e=footprints}"
-    lee_think "I’m not ready for the fight. I need to get away before he spots me."
+    lee_think "Я ещё не готов к битве. Надо уходить пока он не заметил."
 

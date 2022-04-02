@@ -2,8 +2,8 @@
 translate russian get_tonyas_photo_bc043184:
 
     # lee_think "{e=tonya}{e=heart}{e=exclamation}"
-    lee_think "Фотография Тони! Как она здесь оказалась? Неужели выпала из самолёта? "
-    lee_think "Оторву этого стрёмного мужика и возьму фото Тони с собой, "
+    lee_think "Фотография Тони! Как она здесь оказалась? Неужели выпала из самолёта?"
+    lee_think "Оторву этого стрёмного мужика и возьму фото Тони с собой,"
     lee_think "хоть что-то скрасит мои одинокие вечера здесь. Кто знает, сколько их ещё будет."
 
 translate russian strings:
@@ -14,7 +14,7 @@ translate russian strings:
 
     # game/scenes/common/collectibles.rpy:40
     old "{e=thinking_face}{e=fish_coral}{e=arrow_right}{e=basin2}"
-    new "Может выпустить этих красивых маленьких рыбок в пруд, который я вырыл для Окты?"
+    new "Может выпустить этих красивых рыбок в пруд, который я вырыл для Окты?"
 
 # game/scenes/common/collectibles.rpy:379
 translate russian get_map_piece_85d641f3:

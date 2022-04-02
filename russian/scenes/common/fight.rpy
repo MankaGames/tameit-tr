@@ -2,13 +2,13 @@
 
     # game/scenes/common/fight.rpy:76
     old "Fast Attack"
-    new "Fast Attack"
+    new "Быстрая атака"
 
     # game/scenes/common/fight.rpy:81
     old "Strong Attack"
-    new "Strong Attack"
+    new "Сильная атака"
 
     # game/scenes/common/fight.rpy:86
     old "Defence"
-    new "Defence"
+    new "Защита"
 

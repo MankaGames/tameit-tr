@@ -9,7 +9,7 @@ translate russian scene_chapter13_tonya_side_7285d524:
 translate russian scene_chapter13_tonya_side_80a03145:
 
     # lee_think "{e=hut}{e=exclamation_white}"
-    lee_think "That’s the hut that I saw from the other side of the opening."
+    lee_think "Вон та хижина, что я видел с той стороны оврага."
 
 # game/scenes/chapter13/tonya_side.rpy:25
 translate russian scene_chapter13_tonya_side_6721135a:
@@ -21,7 +21,7 @@ translate russian scene_chapter13_tonya_side_6721135a:
 translate russian scene_chapter13_tonya_side_a420b536:
 
     # lee_think "{e=tonya}{e=hut}{e=question_white}"
-    lee_think "Неужели Тоня где-то там? "
+    lee_think "Неужели Тоня где-то там?"
 
 # game/scenes/chapter13/tonya_side.rpy:27
 translate russian scene_chapter13_tonya_side_29c4b9b8:
@@ -39,7 +39,8 @@ translate russian scene_chapter13_tonya_plane_3b7ce584:
 translate russian scene_chapter13_tonya_plane_1525a53f:
 
     # lee_think "{e=hammer}{e=plane_ladder}{e=arrow_right}{e=airplane}{e=thinking_face}"
-    lee_think "Hmm, we could make a ladder here that will serve as a bridge and a shortcut."
+    lee_think "Хм, а ведь можно перекинуть отсюда туда лестницу."
+    lee_think "Получится что-то вроде моста и я смогу сокращать путь."
 
 # game/scenes/chapter13/tonya_side.rpy:45
 translate russian scene_chapter13_tonya_plane_9d9a5e5e:
@@ -63,7 +64,7 @@ translate russian scene_chapter13_tonya_forest_78674d18:
 translate russian scene_chapter13_tonya_home_c1c3e5de:
 
     # lee_think "{e=flushed_face}"
-    lee_think "Невероятно... "
+    lee_think "Невероятно..."
 
 # game/scenes/chapter13/tonya_side.rpy:130
 translate russian scene_chapter13_tonya_home_21eb1482:
@@ -93,21 +94,21 @@ translate russian scene_chapter13_tonya_home_3c28b4e8:
 translate russian scene_chapter13_tonya_home_8aa7352e:
 
     # tonya "{e=you}{e=lee}{e=question_white}{e=dizzy_face}"
-    tonya "Is it really you? I can’t believe my eyes! You’ve changed so\u00A0much!"
+    tonya "Это правда ты? Быть того не может! Как же ты изменился!"
     tonya "Я тебя едва узнала! Но я наверное и сама выгляжу сейчас совсем иначе."
 
 # game/scenes/chapter13/tonya_side.rpy:142
 translate russian scene_chapter13_tonya_home_95cef622:
 
     # tonya "{e=take}{e=lee}{e=no}{e=sleeping_face}{e=thought_balloon}"
-    tonya "Let me touch you coz I just can’t believe it’s real\nand I’m not dreaming."
+    tonya "Дай хоть дотронусь до тебя, всё не верю, что мне не снится."
 
 # game/scenes/chapter13/tonya_side.rpy:151
 translate russian scene_chapter13_tonya_home_a220db4f:
 
     # lee "{e=me}{e=hourglass}{e=magnifying_glass}{e=you}{e=tear_smile}"
-    lee "Тоня... и я не верю. "
-    lee "Я надеялся, но это всё равно кажется нереальным. "
+    lee "Тоня... и я не верю."
+    lee "Я надеялся, но это всё равно кажется нереальным."
     lee "Я так долго искал тебя."
 
 # game/scenes/chapter13/tonya_side.rpy:152
@@ -120,9 +121,9 @@ translate russian scene_chapter13_tonya_home_0fd3e394:
 translate russian scene_chapter13_tonya_home_9b449926:
 
     # lee "{e=me}{e=arrow_right}{e=airplane}{e=no}{e=tonya}"
-    lee "Да. Я нашёл самолёт, он упал на моей стороне острова. "
-    lee "Ты его наверняка видела с холма. "
-    lee "Тебя там конечно не было и никаких намёков на то, где бы ты могла быть. "
+    lee "Да. Я нашёл самолёт, он упал на моей стороне острова."
+    lee "Ты его наверняка видела с холма."
+    lee "Тебя там конечно не было и никаких намёков на то, где бы ты могла быть."
     lee "Но я продолжал надеяться и искать. Я видел дым, но никак не мог добраться сюда."
 
 # game/scenes/chapter13/tonya_side.rpy:154
@@ -135,9 +136,9 @@ translate russian scene_chapter13_tonya_home_0d9951f6:
 translate russian scene_chapter13_tonya_home_58933736:
 
     # tonya "{e=airplane}{e=arrow_down}{e=desert island}{e=pensive_face}"
-    tonya "Думала, мне удастся всё-таки посадить самолёт, но он упал. "
-    tonya "Видимо, деревья спасли его от полного разрушения. "
-    tonya "Я видела его на другой стороне оврага, но ягуар постоянно ошивался рядом, "
+    tonya "Думала, мне удастся всё-таки посадить самолёт,\nно он упал."
+    tonya "Видимо, деревья спасли его от полного разрушения."
+    tonya "Я видела его на другой стороне оврага, но ягуар постоянно ошивался рядом,"
     tonya "я даже толком не могла рассмотреть обломки."
 
 # game/scenes/chapter13/tonya_side.rpy:156
@@ -156,57 +157,55 @@ translate russian scene_chapter13_tonya_home_08b233b6:
 translate russian scene_chapter13_tonya_home_0eb007ef:
 
     # lee "{e=boom}{e=ocean}{e=face_with_head-bandage}{e=injured_leg}{e=confounded face}"
-    lee "I had a hard time swimming after hitting the water quite hard and hurting my leg."
+    lee "Едва выплыл. Сильно ударился о воду при падении и повредил ногу."
 
 # game/scenes/chapter13/tonya_side.rpy:163
 translate russian scene_chapter13_tonya_home_b49a5b61:
 
     # lee "{e=swim}{e=arrow_right}{e=desert island}{e=night}{e=dizzy_face}"
-    lee "Каким-то чудом добрался до берега уже в темноте и потерял сознание. "
+    lee "Каким-то чудом добрался до берега уже в темноте и\u00A0потерял сознание."
     lee "Очнулся только утром."
 
 # game/scenes/chapter13/tonya_side.rpy:164
 translate russian scene_chapter13_tonya_home_1e79e8f9:
 
     # lee "{e=magnifying_glass}{e=weed}{e=health}{e=relieved}"
-    lee "Повезло сразу найти целебные водоросли, а потом воду и еду. "
-    lee "К счастью прямо на берегу росли банановые деревья и кокосовые пальмы."
+    lee "Повезло сразу найти целебные водоросли, а потом воду и еду."
+    lee "К счастью прямо на берегу росли банановые деревья и\u00A0кокосовые пальмы."
 
 # game/scenes/chapter13/tonya_side.rpy:165
 translate russian scene_chapter13_tonya_home_0ac9d722:
 
     # lee "{e=hourglass}{e=arrows_counterclockwise}{e=ok_hand}{e=slightly_smiling_face}"
-    lee "Постепенно как-то освоился на острове, а потом и вовсе привык ко всему. "
+    lee "Постепенно как-то освоился на острове, а потом и вовсе привык ко всему."
     lee "Даже небольшой домик построил."
 
 # game/scenes/chapter13/tonya_side.rpy:166
 translate russian scene_chapter13_tonya_home_62971f8d:
 
     # tonya "{e=thumbs_up}{e=smiling_face}"
-    tonya "You’ve done really well! I\u00A0hoped you’d manage to\u00A0make it."
+    tonya "Ты молодец, я надеялась, что у тебя всё получится."
 
 # game/scenes/chapter13/tonya_side.rpy:169
 translate russian scene_chapter13_tonya_home_5c096595:
 
     # lee "{e=eyes}{e=desert island}{e=swim}{e=beaming_face}{e=sparkles}"
-    lee "Добрался до острова вплавь, его же было видно издалека. 
-
-Оказалось не так уж сложно. "
+    lee "Добрался до острова вплавь, его же было видно издалека."
+    lee "Оказалось не так уж сложно."
 
 # game/scenes/chapter13/tonya_side.rpy:170
 translate russian scene_chapter13_tonya_home_31e729c5:
 
     # lee "{e=hammer}{e=camp}{e=sparkles}{e=muscle}"
-    lee "Потом быстро разобрался, что тут к чему, построил хижину, как и ты, "
+    lee "Потом быстро разобрался, что тут к чему, построил хижину, как и ты,"
     lee "ну и старался выжить. Да тут же райский островок, в общем-то!"
 
 # game/scenes/chapter13/tonya_side.rpy:171
 translate russian scene_chapter13_tonya_home_e9e68ef1:
 
     # tonya "{e=hushed_face}{e=superhero}{e=thumbs_up}{e=unamused_face}"
-    tonya "Ого! Ты не выглядел как Рембо. Я поражена, что тебе удалось всё это так легко. 
-
-Но ты молодец!"
+    tonya "Ого! Ты не выглядел как Рембо. Я поражена, что тебе удалось всё это так легко."
+    tonya "Но ты молодец!"
 
 # game/scenes/chapter13/tonya_side.rpy:172
 translate russian scene_chapter13_tonya_home_7cc0320b:
@@ -218,8 +217,7 @@ translate russian scene_chapter13_tonya_home_7cc0320b:
 translate russian scene_chapter13_tonya_home_da469511:
 
     # lee "{e=jaguar}{e=exclamation_white}{e=weary_face}{e=no}{e=footprints}"
-    lee "It’s because of the opening and the damn jaguar!"
-    lee "That’s the reason why it took me so long to get here!"
+    lee "Это всё овраг и проклятый ягуар! Поэтому я так долго не мог попасть сюда!"
 
 # game/scenes/chapter13/tonya_side.rpy:175
 translate russian scene_chapter13_tonya_home_f0d63cea:
@@ -231,14 +229,15 @@ translate russian scene_chapter13_tonya_home_f0d63cea:
 translate russian scene_chapter13_tonya_home_d8f5c108:
 
     # lee "{e=cave}{e=mountain}{e=arrow_right}{e=tonya}{e=desert island}"
-    lee "Там есть пещера, ты наверное и сама видела вход в неё. "
+    lee "Там есть пещера, ты наверное и сама видела вход в неё."
     lee "Она проходит сквозь гору, через неё я вышел сюда."
 
 # game/scenes/chapter13/tonya_side.rpy:180
 translate russian scene_chapter13_tonya_home_8fee0474:
 
     # lee "{e=jaguar}{e=wound}{e=me}{e=persevering}{e=skull_and_crossbones}"
-    lee "The jaguar nearly killed me, but I managed to kill it with a\u00A0weapon and shield."
+    lee "Ягуар чуть не убил меня, но благодаря оружию"
+    lee "и щиту мне удалось с ним справиться."
 
 # game/scenes/chapter13/tonya_side.rpy:181
 translate russian scene_chapter13_tonya_home_9bd40234:
@@ -262,7 +261,7 @@ translate russian scene_chapter13_tonya_home_bd0fd65a:
 translate russian scene_chapter13_tonya_home_7ad2a3c6:
 
     # lee "{e=halberd}{e=crossed_swords}{e=jaguar}{e=muscle}{e=sparkles}"
-    lee "У меня было при себе отличное оружие, так что я быстро расправился с ним. "
+    lee "У меня было при себе отличное оружие, так что я быстро расправился с ним."
     lee "Пара точных попаданий и он сдох."
 
 # game/scenes/chapter13/tonya_side.rpy:188
@@ -275,38 +274,38 @@ translate russian scene_chapter13_tonya_home_d148a1d1:
 translate russian scene_chapter13_tonya_home_b9527a7f:
 
     # tonya "{ellipsis}{e=cold_sweat}{e=pointing_up}{e=desert island}{e=question_white}" nointeract
-    tonya "...Наверное тебе было страшно и одиноко одному на острове? Как ты это выдержал?" nointeract
+    tonya "Наверное тебе было страшно и одиноко одному на острове? Как ты выдержал?" nointeract
 
 # game/scenes/chapter13/tonya_side.rpy:195
 translate russian scene_chapter13_tonya_home_519c7649:
 
     # lee "{e=no}{e=pointing_up}{e=desert island}{e=relieved}"
-    lee "Я не был один. "
+    lee "Я не был один."
 
 # game/scenes/chapter13/tonya_side.rpy:196
 translate russian scene_chapter13_tonya_home_1628026e:
 
     # lee "{e=eye}{e=girl}{e=cat}{e=arrow_right}{e=catgirl}"
-    lee "Знаю, что моя история может показаться полным бредом, "
-    lee "но сначала я встретил девушку-кошку. Представляешь, человек и кошка в одном! "
-    lee "Я такое только в комиксах, да в кино видел. "
-    lee "Поначалу и сам думал, что голову напекло, но нет. "
-    lee "Со временем мы подружились, ну или я приручил её, это с какой стороны посмотреть."
+    lee "Знаю, что моя история может показаться полным бредом,"
+    lee "но сначала я встретил девушку-кошку."
+    lee "Представляешь, человек и кошка в одном! Я это только в комиксах и в кино видел."
+    lee "Поначалу и сам думал, что голову напекло, но нет."
+    lee "Теперь она мой друг, ну или я приручил её, это с какой стороны посмотреть."
 
 # game/scenes/chapter13/tonya_side.rpy:197
 translate russian scene_chapter13_tonya_home_f357b188:
 
     # lee "{e=lake}{e=girl}{e=octopus}{e=arrow_right}{e=octa}"
-    lee "А потом в озере обнаружил девушку-осьминога. "
-    lee "Думал, что там обитает какое-то чудовище, а это оказалось вот такое создание. "
+    lee "А потом в озере обнаружил девушку-осьминога."
+    lee "Думал, там обитает какое-то чудовище, а это оказалось вот такое создание. "
     lee "Она молчаливая, но любознательная и добрая."
 
 # game/scenes/chapter13/tonya_side.rpy:198
 translate russian scene_chapter13_tonya_home_4f77c0de:
 
     # tonya "{e=astonished_face}{e=question_white}{e=exploding_head}{e=exclamation_white}"
-    tonya "Что?? Ушам своим не верю! Как это возможно?! "
-    tonya "У меня здесь никого подобного! Ягуар, да чайки. Ну, и крабы. "
+    tonya "Что?? Ушам своим не верю! Как это возможно?!"
+    tonya "У меня здесь никого подобного! Ягуар, да чайки. Ну, и крабы."
 
 # game/scenes/chapter13/tonya_side.rpy:199
 translate russian scene_chapter13_tonya_home_bf8b40d4:
@@ -330,7 +329,7 @@ translate russian scene_chapter13_tonya_home_d3ba1dfc:
 translate russian scene_chapter13_tonya_home_9b07d8c9:
 
     # tonya "{e=surprised}{e=exclamation_white}"
-    tonya "That is absolutely incredible."
+    tonya "Это что-то невероятное!"
 
 # game/scenes/chapter13/tonya_side.rpy:203
 translate russian scene_chapter13_tonya_home_dacd6fbe:
@@ -342,29 +341,28 @@ translate russian scene_chapter13_tonya_home_dacd6fbe:
 translate russian scene_chapter13_tonya_home_fc14aa5b:
 
     # lee "{e=smiling_face}{e=yes}{e=exclamation_white}"
-    lee "But of course!"
+    lee "Да, конечно!"
 
 # game/scenes/chapter13/tonya_side.rpy:209
 translate russian scene_chapter13_tonya_home_c84f2d1d:
 
     # lee "{e=muscle}{e=steam_from_nose}{e=ok_hand}{e=beaming_face}"
-    lee "Пф, да что там! Я ж бывший скаут! Быстро вспомнил, что к чему и нормально! "
+    lee "Пф, да что там! Я ж бывший скаут! Быстро вспомнил, что к чему и нормально!"
     lee "Некогда было скучать и бояться, надо было выживать!"
 
 # game/scenes/chapter13/tonya_side.rpy:210
 translate russian scene_chapter13_tonya_home_56e2a316:
 
     # tonya "{e=rolling_eyes}{e=unamused_face}"
-    tonya "Oh really… and I did have a hard time here."
-    tonya "It’s a pity we didn’t meet earlier ‘cuz I could really use your help."
+    tonya "Вот как... а мне тут нелегко пришлось."
+    tonya "Жаль, что не встретились раньше, твоя помощь мне бы пригодилась."
 
 # game/scenes/chapter13/tonya_side.rpy:212
 translate russian scene_chapter13_tonya_home_aecbb07a:
 
     # tonya "{e=pensive_face}{e=pointing_up}{e=desert island}{e=crying_face}"
-    tonya "Я здесь совсем одна всё это время. 
-
-Вон, даже человечка из палок собрала, чтобы не так скучно было."
+    tonya "Я здесь совсем одна всё это время."
+    tonya "Вон, даже человечка из палок собрала, чтобы не так скучно было."
 
 # game/scenes/chapter13/tonya_side.rpy:213
 translate russian scene_chapter13_tonya_home_6e705a56:
@@ -382,14 +380,13 @@ translate russian scene_chapter13_tonya_home_51993bde:
 translate russian scene_chapter13_tonya_home_6072e746:
 
     # lee "{e=exclamation_white}{e=storm}{e=persevering}"
-    lee "Absolutely! That freaking storm blew a half of my house away!"
-    lee "I thought it would be the death of me."
+    lee "Точно! Треклятый шторм! Полдома мне снесло, думал, что всё, конец мне."
 
 # game/scenes/chapter13/tonya_side.rpy:220
 translate russian scene_chapter13_tonya_home_f7d6a78a:
 
     # tonya "{e=scream}{e=storm}{e=dash}{e=tent}"
-    tonya "И я так думала! Очень испугалась тогда. Мой шалаш просто унесло. "
+    tonya "И я так думала! Очень испугалась тогда. Мой шалаш просто унесло."
 
 # game/scenes/chapter13/tonya_side.rpy:221
 translate russian scene_chapter13_tonya_home_3a06d57b:
@@ -401,15 +398,15 @@ translate russian scene_chapter13_tonya_home_3a06d57b:
 translate russian scene_chapter13_tonya_home_7b44ca00:
 
     # lee "{e=pleading_face}{e=pensive_face}{e=me}{e=no}{e=hug}"
-    lee "Мне так жаль, что меня не было рядом в тот момент! Вместе нам было бы проще. "
+    lee "Мне так жаль, что меня не было рядом в тот момент! Вместе нам было бы проще."
     lee "Я бы защищал тебя и помогал."
 
 # game/scenes/chapter13/tonya_side.rpy:226
 translate russian scene_chapter13_tonya_home_2207b123:
 
     # lee "{e=rain}{e=ok_hand}{e=beaming_face}{e=bungalow4}{e=muscle}"
-    lee "Да всего лишь дождь посильнее. Не страшно. "
-    lee "К тому же моя хижина оказалась достаточно прочной, почти не пострадала."
+    lee "Да всего лишь дождь посильнее. Не страшно."
+    lee "Моя хижина оказалась достаточно прочной и почти не пострадала."
 
 # game/scenes/chapter13/tonya_side.rpy:227
 translate russian scene_chapter13_tonya_home_d586ac17:
@@ -445,7 +442,7 @@ translate russian scene_chapter13_tonya_home_old_friend_d56e0ce3:
 translate russian scene_chapter13_tonya_home_old_friend_3eda9ade:
 
     # lee "{e=sleeping_face}{e=thought_balloon}{e=tonya}{e=smiling_face_with_hearts}"
-    lee "…I missed you. Even saw you in my dreams."
+    lee "…я скучал по тебе. Ты мне даже снилась."
 
 # game/scenes/chapter13/tonya_side.rpy:239
 translate russian scene_chapter13_tonya_home_old_friend_f1c7896a:
@@ -499,14 +496,14 @@ translate russian scene_chapter13_tonya_home_escape_plan_ff8820b8:
 translate russian scene_chapter13_tonya_home_escape_plan_c8888385:
 
     # lee "{e=no}{e=stone_tablet}{e=arrow_right}{e=map}"
-    lee "Я и сам был в шоке, когда нашёл её. Большущая каменная карта! "
+    lee "Я и сам был в шоке, когда нашёл её. Большущая каменная карта!"
     lee "Я собрал ещё не всю, но многое уже понятно."
 
 # game/scenes/chapter13/tonya_side.rpy:271
 translate russian scene_chapter13_tonya_home_escape_plan_d051cebb:
 
     # lee "{e=map}{e=arrow_right}{e=desert island}{e=desert island}{e=desert island}"
-    lee "На ней изображён этот остров и острова по соседству. "
+    lee "На ней изображён этот остров и острова по соседству."
     lee "И, судя по всему, эти острова находятся не так далеко."
 
 # game/scenes/chapter13/tonya_side.rpy:272
@@ -545,7 +542,7 @@ translate russian scene_chapter13_tonya_home_escape_plan_b4d286af:
 translate russian scene_chapter13_tonya_home_escape_plan_ea0c98c2:
 
     # lee "{e=yes}{e=map}{e=puzzle}{e=stone_tablet}"
-    lee "Yes, it’s like a puzzle made of\u00A0stone pieces."
+    lee "Да, она как мозаика из каменных кусочков."
 
 # game/scenes/chapter13/tonya_side.rpy:278
 translate russian scene_chapter13_tonya_home_escape_plan_9bc61810:
@@ -563,17 +560,16 @@ translate russian scene_chapter13_tonya_home_escape_plan_02687229:
 translate russian scene_chapter13_tonya_home_escape_plan_288bfb7e:
 
     # tonya "{e=magnifying_glass}{e=stone_tablet}{e=arrow_down}{e=beach}"
-    tonya "I found it here on the beach."
-    tonya "But I haven’t seen any other pieces and didn’t know what it was. "
+    tonya "Нашла прямо здесь, на пляже. Но больше не видела и не знала, что это такое."
 
 # game/scenes/chapter13/tonya_side.rpy:284
 translate russian scene_chapter13_tonya_home_escape_plan_aab4c3e7:
 
     # lee "{e=stone_tablet}{e=exclamation_white}{e=map}{e=yes}{e=smiley}"
     if len(cave_map_pieces_collected) == 12:
-        lee "We don’t need any more! This\u00A0is the last missing piece!"
+        lee "А больше и не нужно!\nЭто последний, которого не\u00A0хватало!"
     else:
-        lee "Excellent! That’s exactly what we need!"
+        lee "Отлично! Это то, что нужно!"
 
 # game/scenes/chapter13/tonya_side.rpy:285
 translate russian scene_chapter13_tonya_home_escape_plan_445a27b9:
@@ -585,7 +581,7 @@ translate russian scene_chapter13_tonya_home_escape_plan_445a27b9:
 translate russian scene_chapter13_tonya_home_escape_plan_d11cc87b:
 
     # lee_think "{e=astonished_face}{e=exclamation}{e=native_ship}{e=exclamation_question}"
-    lee_think "Что это за штуковина? Это что?.. Какая-то странный корабль?! Катамаран?"
+    lee_think "Что это за штуковина? Это что?.. Какой-то странный корабль?! Катамаран?"
 
 # game/scenes/chapter13/tonya_side.rpy:315
 translate russian scene_chapter13_tonya_home_escape_plan_7624e901:
@@ -621,7 +617,7 @@ translate russian scene_chapter13_tonya_home_escape_plan_33d49755:
 translate russian scene_chapter13_tonya_home_escape_plan_add4cf9d:
 
     # lee_think "{e=dash}{e=native_ship}{e=arrow_right}{e=ocean}{e=cold_sweat}"
-    lee_think "What do I do? The ship is sailing away so quickly!"
+    lee_think "Что делать? Корабль удаляется так быстро!"
 
 # game/scenes/chapter13/tonya_side.rpy:331
 translate russian scene_chapter13_tonya_home_escape_plan_673949ec:
@@ -711,13 +707,13 @@ translate russian scene_chapter13_tonya_beach_right_08f1ad0c:
 translate russian scene_chapter13_tonya_beach_right_set_sail_cd96d73c:
 
     # lee_think "{e=girls}{e=boat}{e=raft}{e=question_white}{e=thinking_face}" nointeract
-    lee_think "Стоит ли всё-таки брать Кошку и Окту с собой в путешествие?" nointeract
+    lee_think "Стоит ли всё-таки брать Кошку и Окту с собой в\u00A0путешествие?" nointeract
 
 # game/scenes/chapter13/tonya_side.rpy:431
 translate russian scene_chapter13_tonya_beach_right_set_sail_af10efec:
 
     # lee "{e=catgirl}{e=octa}{e=arrow_right}{e=raft}"
-    lee "Кошка, Окта, мы отправляемся в плавание! "
+    lee "Кошка, Окта, мы отправляемся в плавание!"
 
 # game/scenes/chapter13/tonya_side.rpy:432
 translate russian scene_chapter13_tonya_beach_right_set_sail_05ceb2da:
@@ -741,39 +737,39 @@ translate russian strings:
 
     # game/scenes/chapter13/tonya_side.rpy:158
     old "{e=relieved}"
-    new "Truth"
+    new "Правда"
 
     # game/scenes/chapter13/tonya_side.rpy:158
     old "{e=sunglasses}"
-    new "Bragging"
+    new "Хвастовство"
 
     # game/scenes/chapter13/tonya_side.rpy:190
     old "{e=speak}{e=girls}"
-    new "Tell about the girls"
+    new "Рассказать о девчонках"
 
     # game/scenes/chapter13/tonya_side.rpy:190
     old "{e=no}{e=speak}{e=girls}"
-    new "Don't tell about the girls"
+    new "Не рассказывать о девчонках"
 
     # game/scenes/chapter13/tonya_side.rpy:215
     old "{e=relieved}{e=pleading_face}"
-    new "Sympathy"
+    new "Сочувствие"
 
     # game/scenes/chapter13/tonya_side.rpy:215
     old "{e=sunglasses}{e=muscle}"
-    new "Bravado"
+    new "Бравада"
 
     # game/scenes/chapter13/tonya_side.rpy:427
     old "{e=girls}{e=yes}{e=raft}"
-    new "Take the girls with you"
+    new "Взять девчонок с собой"
 
     # game/scenes/chapter13/tonya_side.rpy:427
     old "{e=girls}{e=no}{e=raft}"
-    new "Don't take the girls with you"
+    new "Не брать девчонок с собой"
 
     # game/scenes/chapter13/tonya_side.rpy:406
     # no text limit for this phrase
     # use \n for line break
     old "{e=no}{e=back}{e=finish}{e=question_white}"
-    new "You’re about to enter the final stage of the game.\nYou will not be able to get back to the island. Are you ready to continue?"
+    new "Вы переходите к завершающей стадии игры.\nВернуться на остров будет невозможно. Продолжить?"
 

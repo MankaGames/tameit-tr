@@ -3,19 +3,19 @@ translate russian scene_fishing_home_done_b67b8cdb:
 
     # lee_think "{e=fish}{rt}[_return]{/rt}{e=arrow_right}{e=inventory}"
     if _return > 1:
-        lee_think "Managed to catch [_return] fishes"
+        lee_think "Удалось выловить [_return] рыбы"
     else:
-        lee_think "Managed to catch [_return] fish"
+        lee_think "Удалось выловить [_return] рыбу"
 
 translate russian strings:
 
     # game/scenes/common/fishing.rpy:112
     old "{e=skip}"
-    new "Skip"
+    new "Пропустить"
 
 translate russian strings:
 
     # game/scenes/common/fishing.rpy:303
     old "{e=skip} ({e=no}{s=gift})"
-    new "Skip (No rare stuff)"
+    new "Пропустить (не будет редких штук)"
 

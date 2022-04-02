@@ -16,9 +16,9 @@ translate russian strings:
 
     # game/scenes/chapter09/sleep.rpy:40
     old "{e=magnifying_glass}{e=comb}{e=arrow_right}{e=airplane}{e=question_white}"
-    new "Мне нужно найти расчёску для Окты."
+    new "Надо найти расческу для Окты."
 
     # game/scenes/chapter09/sleep.rpy:42
     old "{e=gift}{e=smiling_face_with_hearts}{e=octa}{e=question_white}{e=thinking_face}"
-    new "Я должен продолжать радовать Окту вкусняшками."
+    new "Надо продолжить радовать Окту вкусняшками."
 

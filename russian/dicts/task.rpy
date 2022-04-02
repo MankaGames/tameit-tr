@@ -102,11 +102,11 @@
 
     # game/dicts/task.rpy:965
     old "{e=halberd_head}{e=sparkles}{e=thumbs_up}"
-    new "There you go – came out pretty well! Now the edge is clean and sharp!"
+    new "Ну вот, отлично вышло! Наконечник теперь чистый и острый!"
 
     # game/dicts/task.rpy:965
     old "{e=halberd_head}{e=plus}{e=halberd_shaft}{e=arrow_right}{e=halberd}"
-    new "I need a long and strong pole to make a real halberd."
+    new "Мне нужно крепкое длинное древко, чтобы это стало настоящей алебардой."
 
     # game/dicts/task.rpy:1215
     # do not translate
@@ -120,65 +120,65 @@
 
     # game/dicts/task.rpy:1215
     old "{e=bridge}{e=check_mark}{e=thumbs_up}{e=smiley}"
-    new "Excellent! The bridge’s back on its place!"
+    new "Отлично! Мост снова на месте!"
 
     # game/dicts/task.rpy:2
     old "{e=raft_1}{e=yes}{e=arrow_up}{e=ocean}"
-    new "The base is ready and seems to be quite stable on water.\nI did it well!"
+    new "Основа готова и похоже неплохо держится на воде. У меня всё получится!"
 
     # game/dicts/task.rpy:2
     old "{e=tent}{e=thumbs_up}{e=raft_2}{e=yes}"
-    new "The hut came out OK. It will protect us from wind and rain."
+    new "Неплохой шалаш вышел, защитит нас от дождя и ветра."
 
     # game/dicts/task.rpy:2
     old "{e=storage}{e=yes}{e=beaming_face}"
-    new "All right, we have a box for supplies"
+    new "Так, ящик для припасов есть."
 
     # game/dicts/task.rpy:2
     old "{e=pot_of_food}{e=plus}{e=coconut_bowl_water}{e=arrow_right}{e=storage}"
-    new "and need to stock up on water and food."
+    new "Теперь нужно запастись водой и едой."
 
     # game/dicts/task.rpy:2
     old "{e=raft_4}{e=yes}{e=thumbs_up}{e=slightly_smiling_face}"
-    new "OK, I put the sail in place. It looks fine."
+    new "Ну вот, парус на месте. Выглядит вроде неплохо."
 
     # game/dicts/task.rpy:2
     old "{e=raft}{e=yes}{e=smiley}{e=sparkles}"
-    new "Is it all really done already! I can’t believe it!"
+    new "Неужели закончили! Даже не верится!"
 
     # game/dicts/task.rpy:2
     old "{e=paddle}{e=plus}{e=metal_sheet}{e=arrow_right}{e=metal_paddle}"
-    new "I still need to make a strong paddle!"
+    new "Осталось только сделать крепкое весло!"
 
     # game/dicts/task.rpy:2
     old "{e=thinking_face}{e=mushroom_glowing}{e=crafting}{e=ointment}"
-    new "I need to remember to make a healing ointment from those glowing mushrooms."
+    new "Нужно не забыть сделать лекарственную мазь из тех светящихся грибов."
 
     # game/dicts/task.rpy:2
     old "{e=boat}{e=ok_hand}{e=hourglass}{e=arrow_right}{e=desert island}"
-    new "Everything’s ready for departure."
+    new "Всё готово к отплытию."
 
     # game/dicts/task.rpy:1283
     old "{e=jaguar_skin_raw}{e=thumbs_up}"
-    new "Not bad! Years ago my grandpa showed me how to flay rabbits. "
+    new "Неплохо! Когда-то давно дед показывал мне, как свежевать кроликов."
 
     # game/dicts/task.rpy:1283
     old "{e=teach}{e=brain}{e=crafting}{e=jaguar_skin}"
-    new "I never thought I would put this knowledge to use."
+    new "Не думал, что мне это пригодится."
 
     # game/dicts/task.rpy:1283
     old "{e=jaguar_skin_raw}{e=crafting}{e=jaguar_skin}{e=sparkles}"
-    new "Now I’ve gotta tan it. I\u00A0hope I’ll manage to do it well."
+    new "Так, а теперь предстоит ещё выделать её. Надеюсь получится."
 
     # game/dicts/task.rpy:1283
     old "{e=paper}{e=yes}{e=smiley}"
-    new "Fantastic! Now I have paper!"
+    new "Супер! Теперь у меня есть бумага!"
 
     # game/dicts/task.rpy:1283
     old "{e=paper}{e=cave}{e=arrow_right}{e=draw}{e=map}"
-    new "Now that I have paper I can go back to the cave and copy the map."
+    new "Теперь, когда у меня есть бумага, я могу вернуться в пещеру и срисовать карту."
 
     # game/dicts/task.rpy:2
     old "{e=weary_face}{e=yawning_face}{e=hourglass}{e=arrow_right}"
-    new "Whew, I'm tired, I'll get back to it later."
+    new "Фух, устал, продолжу позже."
 

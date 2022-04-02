@@ -26,25 +26,25 @@
 
     # game/dicts/craft.rpy:2
     old "{e=mirror}{e=yes}{e=gift}{e=octa}{e=smiling_face}"
-    new "The new frame’s ready! Now I can give the mirror to Octa."
+    new "Новая оправа готова! Теперь я могу подарить это зеркальце Окте."
 
     # game/dicts/craft.rpy:2
     old "{e=halberd}{e=yes}{e=crossed_swords}{e=jaguar}{e=muscle}"
-    new "Perfect! The halberd’s ready! Now I’ll get rid of this jaguar!"
+    new "Отлично! Алебарда готова! Уж теперь-то я избавлюсь от этого ягура!"
 
     # game/dicts/craft.rpy:2
     old "{e=shield}{e=sparkles}{e=yes}{e=star_struck}"
-    new "Perfect! The shield is ready! "
+    new "Отлично! Щит готов!"
 
     # game/dicts/craft.rpy:2
     old "{e=crossed_swords}{e=jaguar}{e=muscle}{e=beaming_face}"
-    new "Now I can try to fight the jaguar again!"
+    new "Теперь я могу вновь попробовать сразиться с\u00A0ягуаром!"
 
     # game/dicts/craft.rpy:2
     old "{e=sail}{e=yes}{e=thumbs_up}"
-    new "The sail is ready. Didn’t come out that bad. I hope it will endure."
+    new "Парус готов. Кажется, получилось неплохо. Надеюсь выдержит."
 
     # game/dicts/craft.rpy:2
     old "{e=pearl_necklace}{e=arrow_right}{e=catgirl}{e=butt}{e=smirk}"
-    new "Hmm, this can be used with Cat as more than just a necklace."
+    new "Хм, а ведь это можно использовать с Кошкой не только как украшение."
 

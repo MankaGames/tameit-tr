@@ -20,7 +20,7 @@ translate russian scene_chapter11_octa_shelter_mirror_5f7f8004:
 translate russian scene_chapter11_octa_shelter_mirror_9687a0d6:
 
     # lee "{e=waving_hand}"
-    lee "Привет! "
+    lee "Привет!"
 
 # game/scenes/chapter11/cave.rpy:84
 translate russian scene_chapter11_octa_shelter_mirror_54afb415:
@@ -50,13 +50,13 @@ translate russian scene_chapter11_octa_shelter_mirror_680878fa:
 translate russian scene_chapter11_octa_shelter_mirror_38eeb469:
 
     # lee "{e=mirror}{e=beaming_face}"
-    lee "Yes. It’s called a mirror."
+    lee "Да, это называется зеркало."
 
 # game/scenes/chapter11/cave.rpy:93
 translate russian scene_chapter11_octa_shelter_mirror_700bfac7:
 
     # lee "{e=mirror}{e=eyes}{e=you}"
-    lee "Оно отражает того, кто в него смотрит. Прямо как вода, "
+    lee "Оно отражает того, кто в него смотрит. Прямо как вода,"
     lee "только видно лучше и никакой ветер не испортит отражение."
 
 # game/scenes/chapter11/cave.rpy:94
@@ -69,7 +69,7 @@ translate russian scene_chapter11_octa_shelter_mirror_c38ee3c9:
 translate russian scene_chapter11_octa_shelter_mirror_661c6644:
 
     # octa "{e=smiling_face_with_hearts}{e=exclamation_white}{e=star_struck}"
-    octa "{e=smiling_face_with_hearts}{e=exclamation_white}{e=star_struck}{alt}Нравится! Твёрдая вода, показывает меня! {/alt}"
+    octa "{e=smiling_face_with_hearts}{e=exclamation_white}{e=star_struck}{alt}Нравится! Твёрдая вода, показывает меня!{/alt}"
 
 # game/scenes/chapter11/cave.rpy:103
 translate russian scene_chapter11_octa_shelter_mirror_97cf5116:
@@ -87,7 +87,7 @@ translate russian scene_chapter11_octa_shelter_mirror_452d6d75:
 translate russian scene_chapter11_octa_shelter_mirror_a93dc30c:
 
     # lee "{e=astonished_face}{e=smiley}{e=smiling_face}{e=exclamation_white}"
-    lee "Ого! Спасибо! "
+    lee "Ого! Спасибо!"
 
 # game/scenes/chapter11/cave.rpy:110
 translate russian scene_chapter11_octa_shelter_mirror_8816dad0:
@@ -135,7 +135,7 @@ translate russian scene_chapter11_cave1_b2312a42:
 translate russian scene_chapter11_cave1_0eba42d0:
 
     # lee_think "{e=surprised}{e=question_white}"
-    lee_think "What the hell is that? This thing resembles some ancient safe!"
+    lee_think "Что это? Чёрт возьми! Эта штука похожа на какой-то древний сейф!"
 
 # game/scenes/chapter11/cave.rpy:147
 translate russian scene_chapter11_cave1_65320d6d:
@@ -153,7 +153,7 @@ translate russian scene_chapter11_cave1_24ce5d77:
 translate russian scene_chapter11_cave1_1e302510:
 
     # lee "{e=eyes}{e=no}{e=crafting}{e=torch}"
-    lee "Too dark. I can’t go further without a torch."
+    lee "Тут слишком темно. Я не могу пройти дальше без факела."
 
 # game/scenes/chapter11/cave.rpy:227
 translate russian scene_chapter11_cave1_slab_1d83960c:
@@ -165,15 +165,16 @@ translate russian scene_chapter11_cave1_slab_1d83960c:
 translate russian scene_chapter11_cave1_slab_117ca331:
 
     # lee_think "{e=halberd_head_rusty}{e=exclamation_white}{e=star_struck}{e=arrow_right}{e=inventory}"
-    lee_think "Это же алебарда! Кажется так называлось подобное оружие? Только без древка. "
+    lee_think "Это же алебарда! Кажется так называлось подобное оружие? Только без древка."
     lee_think "Возьму с собой, точно пригодится!"
 
 # game/scenes/chapter11/cave.rpy:264
 translate russian scene_chapter11_cave2_020cb973:
 
     # lee_think "{e=rock}{e=dead_end}{e=cave}{e=hushed_face}"
-    lee_think "Looks like there’s another cave behind this stone, but I can’t get there –"
-    lee_think "the boulder won’t move. Too bad ‘cos I caught glimpse of something interesting there."
+    lee_think "Похоже, за этим камнем скрыта другая пещера!"
+    lee_think "Но туда не попасть — валун полностью перегородил путь."
+    lee_think "А жаль, там кажется виднеется что-то интересное."
 
 # game/scenes/chapter11/cave.rpy:266
 translate russian scene_chapter11_cave2_e048d048:
@@ -209,7 +210,7 @@ translate russian scene_chapter11_cave2_8f048dad:
 translate russian scene_chapter11_cave2_ffd3b792:
 
     # cat "{e=light_bulb}{e=lee}{e=hammer}{e=lever}"
-    cat "{e=light_bulb}{e=lee}{e=hammer}{e=lever}{alt}I know what to do! I saw Lee use the thing called 'lever'.{/alt}"
+    cat "{e=light_bulb}{e=lee}{e=hammer}{e=lever}{alt}Я знаю, что можно сделать! Я видела, как Ли использовал одну штуку — рычаг.{/alt}"
 
 # game/scenes/chapter11/cave.rpy:282
 translate russian scene_chapter11_cave2_ba0cf561:
@@ -227,7 +228,7 @@ translate russian scene_chapter11_cave2_d11ceff8:
 translate russian scene_chapter11_cave2_d461d35e:
 
     # octa "{e=thumbs_up}{e=smiley}"
-    octa "{e=thumbs_up}{e=smiley}{alt}Отлично! {/alt}"
+    octa "{e=thumbs_up}{e=smiley}{alt}Отлично!{/alt}"
 
 # game/scenes/chapter11/cave.rpy:306
 translate russian scene_chapter11_cave2_90ff7d8f:
@@ -299,7 +300,7 @@ translate russian scene_chapter11_cave3_393a33b7:
 translate russian scene_chapter11_cave_exit_ba90ef4f:
 
     # lee_think "{e=jaguar}{e=exclamation}{e=scream}"
-    lee_think "It’s a jaguar!"
+    lee_think "Это же ягуар!"
 
 # game/scenes/chapter11/cave.rpy:436
 translate russian scene_chapter11_cave_exit_5194b899:
@@ -311,16 +312,16 @@ translate russian scene_chapter11_cave_exit_5194b899:
 translate russian scene_chapter11_cave_exit_478307c7:
 
     # lee_think "{e=back}{e=no}{e=jaguar}{e=confused_face}"
-    lee_think "Похоже, мне никак не обойти его, он здесь обосновался. "
-    lee_think "Видимо, это как раз та пещера, выход из которой я видел на той стороне оврага. "
+    lee_think "Похоже, мне никак не обойти его, он здесь обосновался."
+    lee_think "Видимо, это как раз та пещера, выход из которой я видел на той стороне оврага."
     lee_think "И тот самый ягуар. Мда..."
 
 # game/scenes/chapter11/cave.rpy:444
 translate russian scene_chapter11_cave_exit_bbaf2e61:
 
     # lee_think "{e=thinking_face}{e=hourglass}{e=arrows_counterclockwise}"
-    lee_think "Мне не обойти ягуара ни там, ни здесь. "
-    lee_think "Я должен победить его, только так я наконец попаду на ту сторону острова. "
+    lee_think "Мне не обойти ягуара ни там, ни здесь."
+    lee_think "Я должен победить его, только так я наконец попаду на ту сторону острова."
     lee_think "Надо всё обдумать и вернуться сюда позже."
 
 # game/scenes/chapter11/cave.rpy:450
@@ -333,5 +334,5 @@ translate russian scene_chapter11_cave_exit_5dbd5ff8:
 translate russian scene_chapter11_cave_exit_d06fa9ce:
 
     # cat_think "{e=fearful_face}{e=no}{e=exclamation}"
-    cat_think "{e=fearful_face}{e=no}{e=exclamation}{alt}It's terrifying. He could devour me. I won't go there.{/alt}"
+    cat_think "{e=fearful_face}{e=no}{e=exclamation}{alt}Страшно. Он может меня сожрать. Не пойду к нему.{/alt}"
 

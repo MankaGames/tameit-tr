@@ -2,7 +2,7 @@
 translate russian scene_chapter11_lake_shore_abf54969:
 
     # lee_think "{e=halberd_head_rusty}{e=plus}{e=rock}{e=arrow_right}{e=halberd_head}"
-    lee_think "Я могу зачистить и наточить наконечник алебарды используя песок и камни. "
+    lee_think "Я могу зачистить и наточить наконечник алебарды используя песок и камни."
     lee_think "Попробую сделать это здесь, место подходящее."
 
 # game/scenes/chapter11/lake_area.rpy:94
@@ -69,7 +69,7 @@ translate russian scene_chapter11_lake_weed_91fb533f:
 translate russian scene_chapter11_lake_weed_e3570aec:
 
     # cat_think "{e=weary_cat}{e=footprints}{e=arrow_right}{e=home}{e=question}"
-    cat_think "{e=weary_cat}{e=footprints}{e=arrow_right}{e=home}{e=question}{alt}Грррр! Как мне попасть домой?! Ли там один, а я здесь! Что же делать?! {/alt}"
+    cat_think "{e=weary_cat}{e=footprints}{e=arrow_right}{e=home}{e=question}{alt}Грррр! Как мне попасть домой?! Ли там один, а я здесь! Что же делать?!{/alt}"
 
 # game/scenes/chapter11/lake_area.rpy:170
 translate russian scene_chapter11_lake_weed_305e8014:
@@ -93,7 +93,7 @@ translate russian scene_chapter11_lake_ride_f9edb19e:
 translate russian scene_chapter11_lake_ride_e2bef3dd:
 
     # cat "{e=rain}{e=river}{e=dash}{e=bridge}"
-    cat "{e=rain}{e=river}{e=dash}{e=bridge}{alt}Дождь. Всё смыло! Река стала шире! Всё бурлит! {/alt}"
+    cat "{e=rain}{e=river}{e=dash}{e=bridge}{alt}Дождь. Всё смыло! Река стала шире! Всё бурлит!{/alt}"
 
 # game/scenes/chapter11/lake_area.rpy:197
 translate russian scene_chapter11_lake_ride_c3d30b3e:

@@ -2,7 +2,7 @@
 translate russian scene_chapter12_intro_b14857f6:
 
     # lee_think "{e=ear}{e=exclamation}"
-    lee_think "Что это за звук? "
+    lee_think "Что это за звук?"
 
 # game/scenes/chapter12/intro.rpy:71
 translate russian scene_chapter12_intro_0996dbbe:
@@ -20,19 +20,20 @@ translate russian scene_chapter12_intro_2fadd2e2:
 translate russian scene_chapter12_intro_02ae425f:
 
     # lee_think "{e=ear}{e=exclamation}{e=fearful_face}{e=jaguar}{e=question}"
-    lee_think "Опять этот звук! Это что, рык ягуара? "
+    lee_think "Опять этот звук! Это что, рык ягуара?"
 
 # game/scenes/chapter12/intro.rpy:95
 translate russian scene_chapter12_intro_9778eefc:
 
     # lee_think "{e=cold_sweat}{e=persevering}{e=confounded face}"
-    lee_think "So loud and scary!"
+    lee_think "Такой громкий и жуткий!"
 
 # game/scenes/chapter12/intro.rpy:96
 translate russian scene_chapter12_intro_60bbc03c:
 
     # lee_think "{e=jaguar}{e=cave}{e=arrow_right}{e=question_white}"
-    lee_think "Has it got out of the cave to stick around my house? Cat may be in trouble!"
+    lee_think "Он что вышел из пещеры и бродит где-то недалеко от моего дома?"
+    lee_think "Кошка может быть в опасности!"
 
 # game/scenes/chapter12/intro.rpy:170
 translate russian scene_chapter12_intro_be4fcf54:
@@ -56,7 +57,7 @@ translate russian scene_chapter12_intro_5d72b61e:
 translate russian scene_chapter12_intro_67908927:
 
     # lee_think "{e=take}{e=spear}{e=question_white}{e=halberd}{e=question_white}"
-    lee_think "I need a weapon! Where’s my halberd? Why haven’t I taken it with me when I went here?"
+    lee_think "Мне нужно оружие? Где моя алебарда? Почему я не взял её, когда пошёл сюда?"
 
 # game/scenes/chapter12/intro.rpy:217
 translate russian scene_chapter12_intro_tonya_2c353013:

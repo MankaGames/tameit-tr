@@ -2,13 +2,13 @@
 
     # game/screens/vocabulary.rpy:50
     old "Talk"
-    new "Talk"
+    new "Говорить"
 
     # game/screens/vocabulary.rpy:59
     old "Feed"
-    new "Feed"
+    new "Кормить"
 
     # game/screens/vocabulary.rpy:68
     old "Gifts"
-    new "Gifts"
+    new "Подарки"
 

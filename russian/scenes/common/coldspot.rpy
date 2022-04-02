@@ -14,7 +14,7 @@ translate russian scene_pet_common_9ec57123:
 translate russian scene_pet_common_0a4b46fc:
 
     # lee_think "{e=smiley}{e=smiling_face_with_hearts}{e=smiling_face}"
-    lee_think "She liked it! I'm so glad. I am also very pleased to give her pleasure."
+    lee_think "Ей понравилось! Я так рад. Мне тоже очень приятно доставлять ей удовольствие."
 
 # game/scenes/common/coldspot.rpy:332
 translate russian scene_pet_common_d5fc5509:
@@ -33,12 +33,12 @@ translate russian scene_coldspot_common_f80e5c4e:
 
     # lee "{e=exclamation}{e=hushed_face}{e=weary_face}{e=frowning_face}{e=pleading_face}"
     lee "Ауч! Ладно, ладно, это моя вина, извини!"
-    lee "I'm not touching you anymore, see? Please, no more claws!"
+    lee "Всё-всё, не трогаю тебя, видишь, уже отошёл, не царапайся больше!"
 
 # game/scenes/common/coldspot.rpy:342
 translate russian scene_pet_common_f80e5c4e:
 
     # lee "{e=exclamation}{e=hushed_face}{e=weary_face}{e=frowning_face}{e=pleading_face}"
     lee "Ауч! Ладно, ладно, это моя вина, извини!"
-    lee "I'm not touching you anymore, see? Please, no more claws!"
+    lee "Всё-всё, не трогаю тебя, видишь, уже отошёл, не царапайся больше!"
 

@@ -14,17 +14,18 @@ translate russian game_map_c542301c:
 translate russian game_map_1df51720:
 
     # lee "{e=boat}{e=arrow_up}{e=desert island}{e=silhouette}{e=silhouette}"
-    lee "Нам нужно плыть вон на тот большой остров, там наверняка есть люди. "
-    lee "Видишь, те фигурки воинов. Это может означать, что там живёт какое-то племя. "
-    lee "Возможно их потомки всё также живут там? "
-    lee "И если нам совсем повезёт, то у них есть связь с остальным миром. "
+    lee "Нам нужно плыть вон на тот большой остров, там наверняка есть люди."
+    lee "Видишь, те фигурки воинов. Это может означать, что там живёт какое-то племя."
+    lee "Возможно их потомки всё также живут там?"
+    lee "И если нам совсем повезёт, то у них есть связь с остальным миром."
 
 # game/scenes/common/map.rpy:217
 translate russian game_map_9c4ef427:
 
     # tonya "{e=draw}{e=map}{e=arrow_right}{e=question_white}{e=thinking_face}"
-    tonya "That would be great! Well, we will never find out unless we try!"
-    tonya "We need to copy the map to take it with us. We should draw it on something."
+    tonya "Да, было бы неплохо. Ну, не попытаемся — не узнаем!"
+    tonya "Карту стоит скопировать, чтобы мы могли взять её с собой."
+    tonya "Надо на чём-то нарисовать её."
 
 # game/scenes/common/map.rpy:218
 translate russian game_map_526ef9f4:
@@ -60,7 +61,8 @@ translate russian game_map_copy_done_604ba25a:
 translate russian game_map_copy_done_cec30482:
 
     # lee_think "{e=eyes}{e=map}{e=arrow_right}{e=tonya}"
-    lee_think "Надо показать её Тоне и посмотреть, как у неё продвигаются дела с парусом."
+    lee_think "Надо показать её Тоне и посмотреть,"
+    lee_think "как у неё продвигаются дела с парусом."
 
 # game/scenes/common/map.rpy:267
 translate russian game_map_copy_done_017fc46f:
@@ -72,7 +74,7 @@ translate russian game_map_copy_done_017fc46f:
 translate russian game_map_copy_87a213f5:
 
     # lee_think "{e=poop}{e=map}{e=tired_face}"
-    lee_think "Just look at this ugly shit!\nI need to try again."
+    lee_think "Что-то совсем непонятное получилось. Надо попробовать снова."
 
 # game/scenes/common/map.rpy:248
 translate russian game_map_copy_a597009b:
@@ -84,13 +86,13 @@ translate russian strings:
 
     # game/scenes/common/map.rpy:85
     old "Save and exit"
-    new "Save and exit"
+    new "Сохранить и выйти"
 
     # game/scenes/common/map.rpy:86
     old "Clean the paper"
-    new "Clean the paper"
+    new "Очистить бумагу"
 
     # game/scenes/common/map.rpy:88
     old "Check the map"
-    new "Check the map"
+    new "Сверить с картой"
 

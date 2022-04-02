@@ -2,13 +2,13 @@
 translate russian scene_chapter13_home_feed3021:
 
     # lee "{e=girls}{e=exclamation_white}{e=smiley}{e=hug}"
-    lee "Я вернулся! "
+    lee "Я вернулся!"
 
 # game/scenes/chapter13/home.rpy:47
 translate russian scene_chapter13_home_228660cf:
 
     # lee_think "{e=pouting_face}{e=arrow_right}{e=lee}{e=question_white}{e=pleading_face}"
-    lee_think "Ой-ёй, кажется, они не в лучшем расположении духа. "
+    lee_think "Ой-ёй, кажется, они не в лучшем расположении духа."
     lee_think "Наверняка сердятся, что меня не было так долго."
 
 # game/scenes/chapter13/home.rpy:48
@@ -51,7 +51,7 @@ translate russian scene_chapter13_home_41ca7172:
 translate russian scene_chapter13_home_cc889db8:
 
     # lee "{e=me}{e=enter}{e=cave}{e=arrow_right}"
-    lee "I went to the other side of the island."
+    lee "Я был на другой стороне острова."
 
 # game/scenes/chapter13/home.rpy:61
 translate russian scene_chapter13_home_d4c198e6:
@@ -63,7 +63,7 @@ translate russian scene_chapter13_home_d4c198e6:
 translate russian scene_chapter13_home_3c0aa847:
 
     # cat "{e=tonya}{e=question_white}{e=airplane}{e=girl}{e=question_white}"
-    cat "{e=tonya}{e=question_white}{e=airplane}{e=girl}{e=question_white}{alt}Тоню? Ту, что из самолёта? {/alt}"
+    cat "{e=tonya}{e=question_white}{e=airplane}{e=girl}{e=question_white}{alt}Тоню? Ту, что из самолёта?{/alt}"
 
 # game/scenes/chapter13/home.rpy:63
 translate russian scene_chapter13_home_af01d9f2:
@@ -81,13 +81,13 @@ translate russian scene_chapter13_home_6b1bef90:
 translate russian scene_chapter13_home_f1ec5096:
 
     # cat "{e=tired_face}{e=lee}{e=arrow_right}{e=catgirl}{e=exclamation_white}"
-    cat "{e=tired_face}{e=lee}{e=arrow_right}{e=catgirl}{e=exclamation_white}{alt}Я не пущу Ли! Ли мой!.. То есть наш!{/alt}"
+    cat "{e=tired_face}{e=lee}{e=arrow_right}{e=catgirl}{e=exclamation_white}{alt}Я не пущу Ли! Ли мой!{/alt}"
 
 # game/scenes/chapter13/home.rpy:66
 translate russian scene_chapter13_home_4fd4ed6f:
 
     # cat "{ellipsis}{e=lee}{e=arrow_right}{e=octa}{e=exclamation_white}"
-    cat "{ellipsis}{e=lee}{e=arrow_right}{e=octa}{e=exclamation_white}{alt}-{/alt}"
+    cat "{ellipsis}{e=lee}{e=arrow_right}{e=octa}{e=exclamation_white}{alt}... То есть наш!{/alt}"
 
 # game/scenes/chapter13/home.rpy:67
 translate russian scene_chapter13_home_3704b371:
@@ -99,7 +99,7 @@ translate russian scene_chapter13_home_3704b371:
 translate russian scene_chapter13_home_99e85d33:
 
     # lee "{e=open_hands}{e=exclamation_white}{e=no}{e=teeth}{e=tonya}"
-    lee "Wow-wow, easy! No one kills anyone!"
+    lee "Эй-эй, спокойно! Никто никого грызть не будет!"
 
 # game/scenes/chapter13/home.rpy:69
 translate russian scene_chapter13_home_9ff969ca:
@@ -147,7 +147,7 @@ translate russian scene_chapter13_home_cc889db8_1:
 translate russian scene_chapter13_home_a1d3d845:
 
     # lee "{e=magnifying_glass}{e=beach}{e=night}{e=sleeping_face}"
-    lee "I finished looking around by nightfall and spent the night on the beach."
+    lee "Пока осматривался там, наступила ночь и я заночевал на берегу."
 
 # game/scenes/chapter13/home.rpy:80
 translate russian scene_chapter13_home_ba56d62b:
@@ -159,7 +159,7 @@ translate russian scene_chapter13_home_ba56d62b:
 translate russian scene_chapter13_home_9b58c085:
 
     # lee "{e=pleading_face}{e=footprints}{e=hourglass}{e=night}"
-    lee "Sorry for coming back so late and making you worry."
+    lee "Простите, что так задержался и заставил вас беспокоиться."
 
 # game/scenes/chapter13/home.rpy:83
 translate russian scene_chapter13_home_f64131a1:
@@ -207,7 +207,7 @@ translate russian scene_chapter13_home_2d3c7134:
 translate russian scene_chapter13_home_b2f35ddc:
 
     # cat "{e=swim}{e=exclamation_question}{e=catgirl}{e=persevering}{e=water}"
-    cat "{e=swim}{e=exclamation_question}{e=catgirl}{e=persevering}{e=water}{alt}Поплыть? Кошка не плавать. Вода фу. {/alt}"
+    cat "{e=swim}{e=exclamation_question}{e=catgirl}{e=persevering}{e=water}{alt}Поплыть? Кошка не плавать. Вода фу.{/alt}"
 
 # game/scenes/chapter13/home.rpy:98
 translate russian scene_chapter13_home_36e5fd3d:
@@ -225,7 +225,7 @@ translate russian scene_chapter13_home_6ff50ea6:
 translate russian scene_chapter13_home_614a1eb6:
 
     # lee "{e=catgirl}{e=octa}{e=no}{e=swim}{e=ocean}"
-    lee "You won’t have to swim!\nThe raft sails on water and we stay on it."
+    lee "Вам не придётся плыть в воде! Плот плывёт по воде, а\u00A0мы будем сверху."
 
 # game/scenes/chapter13/home.rpy:101
 translate russian scene_chapter13_home_259b2565:
@@ -249,7 +249,7 @@ translate russian scene_chapter13_home_71f25178:
 translate russian scene_chapter13_home_04049e03:
 
     # octa "{e=octa}{e=dizzy_face}{e=boat}{e=arrow_right}{e=desert island}"
-    octa "{e=octa}{e=dizzy_face}{e=boat}{e=arrow_right}{e=desert island}{alt}Окта не понимать, зачем другой остров. {/alt}"
+    octa "{e=octa}{e=dizzy_face}{e=boat}{e=arrow_right}{e=desert island}{alt}Окта не понимать, зачем другой остров.{/alt}"
 
 # game/scenes/chapter13/home.rpy:105
 translate russian scene_chapter13_home_82489c6b:
@@ -285,13 +285,13 @@ translate russian scene_chapter13_home_c1b61664:
 translate russian scene_chapter13_home_d3c04fbd:
 
     # octa "{e=paper}{e=question_white}{e=thinking_face}{e=brain}{ellipsis}"
-    octa "{e=paper}{e=question_white}{e=thinking_face}{e=brain}{ellipsis}{alt}Не знаю, что такое бумага. Но тоже будут помогать.{/alt}"
+    octa "{e=paper}{e=question_white}{e=thinking_face}{e=brain}{ellipsis}{alt}Не знаю, что такое бумага.{/alt}"
 
 # game/scenes/chapter13/home.rpy:111
 translate russian scene_chapter13_home_4e112113:
 
     # octa "{e=octa}{e=help}{e=slightly_smiling_face}"
-    octa "{e=octa}{e=help}{e=slightly_smiling_face}{alt}-{/alt}"
+    octa "{e=octa}{e=help}{e=slightly_smiling_face}{alt}Но тоже буду помогать.{/alt}"
 
 # game/scenes/chapter13/home.rpy:112
 translate russian scene_chapter13_home_4674080e:
@@ -339,7 +339,7 @@ translate russian scene_chapter13_home_1577107e:
 translate russian scene_chapter13_home_9d50af07:
 
     # octa "{e=lee}{e=worried_face}{e=question_white}{e=crying_face}{e=question_white}"
-    octa "{e=lee}{e=worried_face}{e=question_white}{e=crying_face}{e=question_white}{alt}Lee is sad? Lee cries?{/alt}"
+    octa "{e=lee}{e=worried_face}{e=question_white}{e=crying_face}{e=question_white}{alt}Ли расстроен? Ли плакал?{/alt}"
 
 # game/scenes/chapter13/home.rpy:145
 translate russian scene_chapter13_home_8e5d0654:
@@ -369,7 +369,7 @@ translate russian scene_chapter13_home_e1a99fb2:
 translate russian scene_chapter13_home_7d8d3be1:
 
     # cat "{e=catgirl}{e=skull_and_crossbones}{e=lee}{e=leather_frame}{e=question_white}"
-    cat "{e=catgirl}{e=skull_and_crossbones}{e=lee}{e=leather_frame}{e=question_white}{alt}А что, когда Кошка умрёт, Ли тоже вот так повесит меня сушиться? {/alt}"
+    cat "{e=catgirl}{e=skull_and_crossbones}{e=lee}{e=leather_frame}{e=question_white}{alt}А что, когда Кошка умрёт, Ли тоже вот так повесит меня сушиться?{/alt}"
 
 # game/scenes/chapter13/home.rpy:170
 translate russian scene_chapter13_home_4724dfdd:
@@ -381,22 +381,22 @@ translate russian scene_chapter13_home_4724dfdd:
 translate russian scene_chapter13_home_d889ba03:
 
     # lee "{e=open_hands}{e=happy_sweat}{e=no}{e=hug}"
-    lee "Успокойся, малышка! Нет конечно! Что ты себе такое навыдумывала, дурёха! "
+    lee "Успокойся, малышка! Нет конечно! Что ты себе такое навыдумывала, дурёха!"
     lee "Иди сюда, обниму тебя."
 
 # game/scenes/chapter13/home.rpy:177
 translate russian scene_chapter13_home_76ca8166:
 
     # lee_think "{e=jaguar_skin}{e=yes}{e=smiley}"
-    lee_think "Ну вот, шкура готова! Теперь можно использовать её. "
+    lee_think "Ну вот, шкура готова! Теперь можно использовать её."
 
 translate russian strings:
 
     # game/scenes/chapter13/home.rpy:56
     old "{e=speak}{e=tonya}"
-    new "Tell about Tonya"
+    new "Рассказать о Тоне"
 
     # game/scenes/chapter13/home.rpy:56
     old "{e=speak}{e=no}{e=tonya}"
-    new "Don't tell about Tonya"
+    new "Не рассказывать о Тоне"
 

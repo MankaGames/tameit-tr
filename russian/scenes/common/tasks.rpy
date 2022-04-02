@@ -35,15 +35,15 @@
 
     # game/scenes/common/tasks.rpy:42
     old "{e=mirror}{e=exclamation_white}{e=smiley}"
-    new "Oh, a mirror! How come I never noticed it before?"
+    new "О, зеркало! Как я его раньше не замечал?"
 
     # game/scenes/common/tasks.rpy:42
     old "{e=mirror_broken}{e=arrow_down}{e=boom}{e=confused_face}"
-    new "Too bad the frame’s broken. At least the mirror itself is intact."
+    new "Жаль, что оправа разбита. Что же делать? Но хоть само зеркало не пострадало."
 
     # game/scenes/common/tasks.rpy:42
     old "{e=repair}{e=mirror_broken}{e=gift}{e=arrow_right}{e=octa}"
-    new "I’ll fix the frame and give it to Octa! Sure, she’s never seen anything like this."
+    new "Починю оправу и подарю его Окте! Она наверняка не видела ничего подобного."
 
     # game/scenes/common/tasks.rpy:52
     old "{e=chocolate}{e=smirk}{e=gift}{e=arrow_right}{e=catgirl}"
@@ -51,9 +51,9 @@
 
     # game/scenes/common/tasks.rpy:62
     old "{e=parachute}{e=exclamation_white}{e=tonya}{e=no}{e=crafting}"
-    new "Oh! Here is the parachute. Looks like Tonya has just begun making a sail."
+    new "О! Вот парашют! Похоже, Тоня только начала работать над созданием паруса."
 
     # game/scenes/common/tasks.rpy:62
     old "{e=crafting}{e=arrow_right}{e=sail}{e=finish}"
-    new "I’ll have to finish the job."
+    new "Мне нужно будет закончить его самому."
 

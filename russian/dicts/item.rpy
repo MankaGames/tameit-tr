@@ -2,305 +2,305 @@
 
     # game/dicts/item.rpy:2
     old "Palm leaves"
-    new "Palm leaves"
+    new "Пальмовый лист"
 
     # game/dicts/item.rpy:2
     old "Stones"
-    new "Stones"
+    new "Камень"
 
     # game/dicts/item.rpy:2
     old "Sticks"
-    new "Sticks"
+    new "Палка"
 
     # game/dicts/item.rpy:2
     old "Seaweed"
-    new "Seaweed"
+    new "Водоросли"
 
     # game/dicts/item.rpy:2
     old "Bananas"
-    new "Bananas"
+    new "Банан"
 
     # game/dicts/item.rpy:2
     old "Coconuts"
-    new "Coconuts"
+    new "Кокос"
 
     # game/dicts/item.rpy:2
     old "Poultry Leg"
-    new "Poultry Leg"
+    new "Куриная ножка"
 
     # game/dicts/item.rpy:2
     old "Fish"
-    new "Fish"
+    new "Рыба"
 
     # game/dicts/item.rpy:2
     old "Crab"
-    new "Crab"
+    new "Краб"
 
     # game/dicts/item.rpy:2
     old "Mushroom"
-    new "Mushroom"
+    new "Гриб"
 
     # game/dicts/item.rpy:2
     old "Strange Mushroom"
-    new "Strange Mushroom"
+    new "Странный гриб"
 
     # game/dicts/item.rpy:2
     old "Wild Berries"
-    new "Wild Berries"
+    new "Ягода"
 
     # game/dicts/item.rpy:2
     old "Coconut Bowl"
-    new "Coconut Bowl"
+    new "Кокосовая плошка"
 
     # game/dicts/item.rpy:2
     old "Coconut Bowl with Water"
-    new "Coconut Bowl with Water"
+    new "Кокосовая плошка с водой"
 
     # game/dicts/item.rpy:2
     old "Soup"
-    new "Soup"
+    new "Суп"
 
     # game/dicts/item.rpy:2
     old "Fruit Salad"
-    new "Fruit Salad"
+    new "Фруктовый салат"
 
     # game/dicts/item.rpy:2
     old "Mushroom Soup"
-    new "Mushroom Soup"
+    new "Грибной суп"
 
     # game/dicts/item.rpy:2
     old "Honey"
-    new "Honey"
+    new "Мёд"
 
     # game/dicts/item.rpy:2
     old "Rope"
-    new "Rope"
+    new "Верёвка"
 
     # game/dicts/item.rpy:2
     old "Tar"
-    new "Tar"
+    new "Смола"
 
     # game/dicts/item.rpy:2
     old "Torch"
-    new "Torch"
+    new "Факел"
 
     # game/dicts/item.rpy:2
     old "Knife"
-    new "Knife"
+    new "Нож"
 
     # game/dicts/item.rpy:2
     old "Spear"
-    new "Spear"
+    new "Копьё"
 
     # game/dicts/item.rpy:2
     old "Fishing Pole"
-    new "Fishing Pole"
+    new "Удочка"
 
     # game/dicts/item.rpy:2
     old "Grappling Hook"
-    new "Grappling Hook"
+    new "Крюк на верёвке"
 
     # game/dicts/item.rpy:2
     old "Paddle"
-    new "Paddle"
+    new "Весло"
 
     # game/dicts/item.rpy:2
     old "Empty Bottle"
-    new "Empty Bottle"
+    new "Пустая бутылка"
 
     # game/dicts/item.rpy:2
     old "Bottle with Water"
-    new "Bottle with Water"
+    new "Бутылка с водой"
 
     # game/dicts/item.rpy:2
     old "Plane door"
-    new "Plane door"
+    new "Дверь самолёта"
 
     # game/dicts/item.rpy:2
     old "Door Handle"
-    new "Door Handle"
+    new "Ручка двери"
 
     # game/dicts/item.rpy:2
     old "Tonya's Photo"
-    new "Tonya's Photo"
+    new "Фото Тони"
 
     # game/dicts/item.rpy:2
     old "Bra"
-    new "Bra"
+    new "Лифчик"
 
     # game/dicts/item.rpy:2
     old "Fur"
-    new "Fur"
+    new "Мех"
 
     # game/dicts/item.rpy:2
     old "Tonya's Panties"
-    new "Tonya's Panties"
+    new "Трусики Тони"
 
     # game/dicts/item.rpy:2
     old "Bungalow Wall"
-    new "Bungalow Wall"
+    new "Стена бунгало"
 
     # game/dicts/item.rpy:2
     old "Lever"
-    new "Lever"
+    new "Рычаг"
 
     # game/dicts/item.rpy:2
     old "Hook"
-    new "Hook"
+    new "Крюк"
 
     # game/dicts/item.rpy:2
     old "Propeller Blade"
-    new "Propeller Blade"
+    new "Лопасть пропеллера"
 
     # game/dicts/item.rpy:2
     old "Fishnet"
-    new "Fishnet"
+    new "Сеть"
 
     # game/dicts/item.rpy:2
     old "Spring"
-    new "Spring"
+    new "Пружина"
 
     # game/dicts/item.rpy:2
     old "Razor"
-    new "Razor"
+    new "Бритва"
 
     # game/dicts/item.rpy:2
     old "Shaving Cream"
-    new "Shaving Cream"
+    new "Крем для бритья"
 
     # game/dicts/item.rpy:2
     old "Comb"
-    new "Comb"
+    new "Расчёска"
 
     # game/dicts/item.rpy:2
     old "Fireflies"
-    new "Fireflies"
+    new "Светлячки"
 
     # game/dicts/item.rpy:2
     old "Pearls"
-    new "Pearls"
+    new "Жемчуг"
 
     # game/dicts/item.rpy:2
     old "Boot"
-    new "Boot"
+    new "Ботинок"
 
     # game/dicts/item.rpy:2
     old "Pottery"
-    new "Pottery"
+    new "Черепки"
 
     # game/dicts/item.rpy:2
     old "Coral Fish"
-    new "Coral Fish"
+    new "Коралловая рыбка"
 
     # game/dicts/item.rpy:2
     old "Big Fish"
-    new "Big Fish"
+    new "Большая рыба"
 
     # game/dicts/item.rpy:2
     old "Big Fish with Honey"
-    new "Big Fish with Honey"
+    new "Большая рыба в меду"
 
     # game/dicts/item.rpy:2
     old "Pearl Necklace"
-    new "Pearl Necklace"
+    new "Жемчужное ожерелье"
 
     # game/dicts/item.rpy:2
     old "Chocolate"
-    new "Chocolate"
+    new "Шоколад"
 
     # game/dicts/item.rpy:89
     old "Metal Sheet"
-    new "Metal Sheet"
+    new "Лист металла"
 
     # game/dicts/item.rpy:89
     old "Shovel"
-    new "Shovel"
+    new "Лопата"
 
     # game/dicts/item.rpy:89
     old "Coconut Bra"
-    new "Coconut Bra"
+    new "Кокосовый лифчик"
 
     # game/dicts/item.rpy:89
     old "Plane Seat"
-    new "Plane Seat"
+    new "Пассажирское кресло"
 
     # game/dicts/item.rpy:89
     old "Nirnroot"
-    new "Nirnroot"
+    new "Корень Нирна"
 
     # game/dicts/item.rpy:89
     old "Halberd"
-    new "Halberd"
+    new "Алебарда"
 
     # game/dicts/item.rpy:89
     old "Crystal"
-    new "Crystal"
+    new "Кристалл"
 
     # game/dicts/item.rpy:89
     old "Halberd Axe"
-    new "Halberd Axe"
+    new "Навершие алебарды"
 
     # game/dicts/item.rpy:89
     old "Halberd Shaft"
-    new "Halberd Shaft"
+    new "Древко"
 
     # game/dicts/item.rpy:89
     old "Glowing Mushroom"
-    new "Glowing Mushroom"
+    new "Светящийся гриб"
 
     # game/dicts/item.rpy:89
     old "Ointment"
-    new "Ointment"
+    new "Целебная мазь"
 
     # game/dicts/item.rpy:89
     old "Broken Mirror"
-    new "Broken Mirror"
+    new "Разбитое зеркало"
 
     # game/dicts/item.rpy:89
     old "Mirror"
-    new "Mirror"
+    new "Зеркало"
 
     # game/dicts/item.rpy:89
     old "Jam"
-    new "Jam"
+    new "Варенье"
 
     # game/dicts/item.rpy:91
     old "Shield"
-    new "Shield"
+    new "Щит"
 
     # game/dicts/item.rpy:91
     old "Stone Tablet"
-    new "Stone Tablet"
+    new "Каменный обломок"
 
     # game/dicts/item.rpy:91
     old "Jaguar Skin"
-    new "Jaguar Skin"
+    new "Шкура ягуара"
 
     # game/dicts/item.rpy:91
     old "Paper"
-    new "Paper"
+    new "Бумага"
 
     # game/dicts/item.rpy:91
     old "Parachute"
-    new "Parachute"
+    new "Парашют"
 
     # game/dicts/item.rpy:91
     old "Sail"
-    new "Sail"
+    new "Парус"
 
     # game/dicts/item.rpy:91
     old "Cloth"
-    new "Cloth"
+    new "Ткань"
 
     # game/dicts/item.rpy:91
     old "Metal Paddle"
-    new "Metal Paddle"
+    new "Металлическое весло"
 
     # game/dicts/item.rpy:91
     old "Raw Jaguar Skin"
-    new "Raw Jaguar Skin"
+    new "Сырая шкура ягуара"
 
     # game/dicts/item.rpy:91
     old "Paper Mass"
-    new "Paper Mass"
+    new "Бумажная масса"
 
