@@ -201,7 +201,7 @@ Tonya dagdan asagı kostu, küçük keskin tasların ayaklarını incittigini ve
 
 Milyonlarca düsünce birbirini kovalıyordu. Tonya hareket halindeyken bu beklenmedik kurtarıcılarla nasıl iletisim kuracagını, onlara her seyi nasıl açıklayacagını, hikayesini nasıl anlatacagını ve yardım isteyecegini düsünmeye çalıstı. Aynı zamanda, basarılı olacagına ve medeni topluma dönüsüne ve eve dönüs yolculuguna kısa bir süre kalmıstı.
 
-simdi evde durum nasıldı? Yoklugundan bu yana ne degismisti? Ve ne kadar zaman olmustu? Onu arıyorlar mıydı? Ne de olsa uçak o kadar uzaga gitmis olamazdı, o gün hava mükemmeldi ama nedense simdiye kadar kimse onu buradan kurtarmamıstı. Ve adada geçirdigi zaman boyunca, gökyüzünde tek bir uçak ya da denizde tek bir gemi görmedi. Bu, tüm zamanların ilk gemisiydi ve görünüse göre bazı adalı balıkçılara aitti.
+Simdi evde durum nasıldı? Yoklugundan bu yana ne degismisti? Ve ne kadar zaman olmustu? Onu arıyorlar mıydı? Ne de olsa uçak o kadar uzaga gitmis olamazdı, o gün hava mükemmeldi ama nedense simdiye kadar kimse onu buradan kurtarmamıstı. Ve adada geçirdigi zaman boyunca, gökyüzünde tek bir uçak ya da denizde tek bir gemi görmedi. Bu, tüm zamanların ilk gemisiydi ve görünüse göre bazı adalı balıkçılara aitti.
 
 Ama önemli degil. Önemli olan, çok yakında hayatında tekrar sıcak su, parfümlü sampuanlar, kahve ve çıtır tostlar olacagıydı.
 
