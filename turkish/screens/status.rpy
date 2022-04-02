@@ -4,3 +4,5 @@
     old "Skip time"
     new "Zamanı ilerlet"
 
+    old "Inventory"
+    new "Envanter"

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-03 17:59
-
-# game/scenes/chapter12/sleep.rpy:46
+﻿# game/scenes/chapter12/sleep.rpy:46
 translate turkish scene_sleep_chapter12_d6aaeb6f:
 
     # lee_think "[dream]"

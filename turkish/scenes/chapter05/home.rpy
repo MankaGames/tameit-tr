@@ -189,6 +189,7 @@ translate turkish scene_chapter05_inside_fbd0c56f:
 translate turkish strings:
 
     # game/scenes/chapter05/home.rpy:93
+   # no length limit
     old "The dialog window allows you to communicate with characters, give them tasks, groom them and give them gifts."
     new "Diyalog penceresi, karakterlerle iletisim kurmanıza, görevler vermenize, beslemenize, iyilestirmenize ve hediyeler vermenize olanak tanır."
 

@@ -10,5 +10,10 @@
 
     # game/screens/vocabulary.rpy:68
     old "Gifts"
-    new "Hediyeler"
+    new "Hediye ver"
 
+    old "Tasks"
+    new "Görev ver"
+
+    old "Favors"
+    new "Sex Yap"

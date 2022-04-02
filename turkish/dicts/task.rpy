@@ -1,10 +1,6 @@
 ﻿translate turkish strings:
 
     # game/dicts/task.rpy:2
-    old "{e=water}{e=consume}"
-    new "Susuzlugum gitti"
-
-    # game/dicts/task.rpy:2
     old "{e=relieved}{e=smiling_face}{e=tent}"
     new "Harika! Barınagım hazır."
 
