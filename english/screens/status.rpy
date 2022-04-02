@@ -4,3 +4,5 @@
     old "Skip time"
     new "Skip time"
 
+    old "Inventory"
+    new "Inventory"

@@ -12,3 +12,9 @@
     old "Gifts"
     new "Подарки"
 
+    old "Tasks"
+    new "Задачи"
+
+    old "Favors"
+    new "Просьбы"
+

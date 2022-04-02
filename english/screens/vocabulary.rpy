@@ -12,3 +12,8 @@
     old "Gifts"
     new "Gifts"
 
+    old "Tasks"
+    new "Tasks"
+
+    old "Favors"
+    new "Favors"

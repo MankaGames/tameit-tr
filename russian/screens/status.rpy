@@ -4,3 +4,6 @@
     old "Skip time"
     new "Пропустить время"
 
+    old "Inventory"
+    new "Инвентарь"
+
