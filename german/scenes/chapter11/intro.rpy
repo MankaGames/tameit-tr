@@ -29,6 +29,7 @@ translate german scene_chapter11_intro_77698bbc:
 translate german scene_chapter11_intro_0257d940:
 
     # lee_think "{ellipsis}"
+    # do not translate
     lee_think "{ellipsis}"
 
 # game/scenes/chapter11/intro.rpy:36

@@ -134,11 +134,11 @@
 
     # game/dicts/task.rpy:2
     old "{e=storage}{e=yes}{e=beaming_face}"
-    new "Gut, wir haben eine Box für Vorräte"
+    new "Gut, wir haben eine Box für Vorräte."
 
     # game/dicts/task.rpy:2
     old "{e=pot_of_food}{e=plus}{e=coconut_bowl_water}{e=arrow_right}{e=storage}"
-    new "Wir müssen uns mit Wasser und Lebensmitteln eindecken."
+    new "Jetzt muss ich mich mit Wasser und Lebensmitteln eindecken."
 
     # game/dicts/task.rpy:2
     old "{e=raft_4}{e=yes}{e=thumbs_up}{e=slightly_smiling_face}"

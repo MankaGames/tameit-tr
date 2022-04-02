@@ -1,6 +1,10 @@
 ﻿translate german strings:
 
     # game/dicts/craft.rpy:2
+    old "{e=yes}{e=smiley}{e=spear}{e=exclamation_white}"
+    new "Na also! Der Speer ist bereit!"
+
+    # game/dicts/craft.rpy:2
     old "{e=thinking_face}{e=spear}{e=wild_hen}{e=crab}"
     new "Ich kann jetzt mit dem Speer jagen. Ich werde endlich etwas Nahrhaftes zu essen haben."
 

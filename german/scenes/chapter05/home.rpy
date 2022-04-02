@@ -198,5 +198,6 @@ translate german scene_chapter05_inside_fbd0c56f:
 translate german strings:
 
     # game/scenes/chapter05/home.rpy:93
+    # no length limit
     old "The dialog window allows you to communicate with characters, give them tasks, groom them and give them gifts."
     new "Das Dialogfenster ermöglicht dir, mit den Charakteren zu kommunizieren, ihnen Aufgaben zu geben, sie zu pflegen und ihnen Geschenke zu geben."

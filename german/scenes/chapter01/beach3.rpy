@@ -24,7 +24,7 @@ translate german scene_chapter01_beach3_tutorial_347d298a:
     # lee_think "{e=thinking_face}{e=desert island}{e=footprints}{e=question_white}"
     lee_think "Sag mir nicht, dass die Insel unbewohnt ist und"
     lee_think "ich hier ganz allein zurückgelassen werde."
-    lee_think "Was soll ich tun? "
+    lee_think "Was soll ich tun?"
 
 # game/scenes/chapter01/beach3.rpy:30
 translate german scene_chapter01_beach3_347a3ff3:
