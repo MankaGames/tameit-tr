@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-13 01:28
-
-# game/scenes/chapter11/lake_area.rpy:21
+﻿# game/scenes/chapter11/lake_area.rpy:21
 translate english scene_chapter11_lake_shore_abf54969:
 
     # lee_think "{e=halberd_head_rusty}{e=plus}{e=rock}{e=arrow_right}{e=halberd_head}"

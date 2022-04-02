@@ -20,7 +20,7 @@ translate english scene_chapter01_beach3_tutorial_857bd662:
 translate english scene_chapter01_beach3_tutorial_347d298a:
 
     # lee_think "{e=thinking_face}{e=desert island}{e=footprints}{e=question_white}"
-    lee_think "Don't tell me the island is uninhabited and I'm left here all by myself. What do I do? "
+    lee_think "Don't tell me the island is uninhabited and I'm left here all by myself. What do I do?"
 
 # game/scenes/chapter01/beach3.rpy:30
 translate english scene_chapter01_beach3_347a3ff3:

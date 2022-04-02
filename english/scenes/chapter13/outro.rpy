@@ -32,7 +32,7 @@ translate english scene_chapter13_outro_37260f43:
 translate english scene_chapter13_outro_52de4114:
 
     # cat "{e=ocean}{e=catgirl}{e=ocean}{e=exclamation_question}{e=scream}"
-    cat "{e=ocean}{e=catgirl}{e=ocean}{e=exclamation_question}{e=scream}{alt}Only water?! Lee is poop! How can we live without solid ground at all?!{/alt}"
+    cat "{e=ocean}{e=catgirl}{e=ocean}{e=exclamation_question}{e=scream}{alt}Only water?! Poopy Lee! How can we live without solid ground at all?!{/alt}"
 
 # game/scenes/chapter13/outro.rpy:98
 translate english scene_chapter13_outro_466b760d:

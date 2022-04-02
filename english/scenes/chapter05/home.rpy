@@ -189,6 +189,7 @@ translate english scene_chapter05_inside_fbd0c56f:
 translate english strings:
 
     # game/scenes/chapter05/home.rpy:93
+    # no length limit
     old "The dialog window allows you to communicate with characters, give them tasks, groom them and give them gifts."
     new "The dialog window allows you to communicate with characters, give them tasks, groom them and give them gifts."
 

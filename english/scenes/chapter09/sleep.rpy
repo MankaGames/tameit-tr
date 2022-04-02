@@ -8,7 +8,7 @@ translate english strings:
 
     # game/scenes/chapter09/sleep.rpy:36
     old "{e=razor}{e=magnifying_glass}{e=airplane}{e=question_white}"
-    new "I can look for razor in the plane. Maybe I’ll be lucky to find one."
+    new "I can look for a razor in the plane. Maybe I’ll be lucky to find one."
 
     # game/scenes/chapter09/sleep.rpy:38
     old "{e=berries}{e=arrow_right}{e=shaving_foam}{e=thinking_face}"

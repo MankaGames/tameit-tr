@@ -1,10 +1,6 @@
 ﻿translate english strings:
 
     # game/dicts/task.rpy:2
-    old "{e=water}{e=consume}"
-    new "I'm not thursty anymore"
-
-    # game/dicts/task.rpy:2
     old "{e=relieved}{e=smiling_face}{e=tent}"
     new "Great! My hut is ready!"
 
@@ -136,11 +132,11 @@
 
     # game/dicts/task.rpy:2
     old "{e=storage}{e=yes}{e=beaming_face}"
-    new "All right, we have a box for supplies"
+    new "All right, we have a box for supplies."
 
     # game/dicts/task.rpy:2
     old "{e=pot_of_food}{e=plus}{e=coconut_bowl_water}{e=arrow_right}{e=storage}"
-    new "and need to stock up on water and food."
+    new "Now I need to stock up on water and food."
 
     # game/dicts/task.rpy:2
     old "{e=raft_4}{e=yes}{e=thumbs_up}{e=slightly_smiling_face}"

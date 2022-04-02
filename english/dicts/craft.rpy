@@ -1,6 +1,10 @@
 ﻿translate english strings:
 
     # game/dicts/craft.rpy:2
+    old "{e=yes}{e=smiley}{e=spear}{e=exclamation_white}"
+    new "There we go! The spear is ready!"
+
+    # game/dicts/craft.rpy:2
     old "{e=thinking_face}{e=spear}{e=wild_hen}{e=crab}"
     new "I can hunt with the spear now. I'll finally have something nutrious to eat."
 
