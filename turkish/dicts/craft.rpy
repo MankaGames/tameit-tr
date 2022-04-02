@@ -2,7 +2,7 @@
 
     # game/dicts/craft.rpy:2
     old "{e=yes}{e=smiley}{e=spear}{e=exclamation_white}"
-    new "Işte bu! Mızrak hazır!"
+    new "Iste bu! Mızrak hazır!"
 
     # game/dicts/craft.rpy:2
     old "{e=thinking_face}{e=spear}{e=wild_hen}{e=crab}"
