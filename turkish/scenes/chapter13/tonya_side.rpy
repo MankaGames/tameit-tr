@@ -100,7 +100,7 @@ translate turkish scene_chapter13_tonya_home_8aa7352e:
 translate turkish scene_chapter13_tonya_home_95cef622:
 
     # tonya "{e=take}{e=lee}{e=no}{e=sleeping_face}{e=thought_balloon}"
-    tonya "Sana dokunmama izin ver, çünkü bunun gerçek olduguna inanamıyorum\nve rüya görmüyorum dimi."
+    tonya "Sana dokunmama izin ver, çünkü senin gerçek olduguna inanamıyorum."
 
 # game/scenes/chapter13/tonya_side.rpy:151
 translate turkish scene_chapter13_tonya_home_a220db4f:
@@ -122,8 +122,8 @@ translate turkish scene_chapter13_tonya_home_9b449926:
     # lee "{e=me}{e=arrow_right}{e=airplane}{e=no}{e=tonya}"
     lee "Evet. Uçagı buldum. Adanın benim tarafıma düsmüs."
     lee "Tepeden görmüs olmalısın."
-    lee "Ama tabii ki uçagın içinde degildin ve nerede olabilecegine dair hiçbir ipucu bulamadım."
-    lee "Ama umudumu hiç kaybetmedim ve aramaya devam ettim. Dumanını gördüm ama buraya gelemedim."
+    lee "Ama uçagın içinde degildin ve nerede olabilecegine dair hiçbir ipucu bulamadım."
+    lee "Umudumu hiç kaybetmedim ve aramaya devam ettim. Dumanını gördüm ama buraya gelemedim."
 
 # game/scenes/chapter13/tonya_side.rpy:154
 translate turkish scene_chapter13_tonya_home_0d9951f6:
@@ -195,14 +195,14 @@ translate turkish scene_chapter13_tonya_home_5c096595:
 translate turkish scene_chapter13_tonya_home_31e729c5:
 
     # lee "{e=hammer}{e=camp}{e=sparkles}{e=muscle}"
-    lee "Sonra neyin ne oldugunu çabucak ögrendim, tıpkı senin gibi bir kulübe yaptım ve hayatta kalmaya çalıstım."
+    lee "Neyin ne oldugunu hemen ögrendim, seninki gibi bir ev yaptım ve hayatta kaldım."
     lee "Tam bir cennet adası diyebilirim!"
 
 # game/scenes/chapter13/tonya_side.rpy:171
 translate turkish scene_chapter13_tonya_home_e9e68ef1:
 
     # tonya "{e=hushed_face}{e=superhero}{e=thumbs_up}{e=unamused_face}"
-    tonya "Vay! Pek de Rambo gibi görünmüyordun. Senin için bu kadar kolay olmasına sasırdım. Iyi is!"
+    tonya "Vay! Pek de Rambo gibi görünmüyordun. Senin için bu kadar kolay olmasına sasırdım!"
 
 # game/scenes/chapter13/tonya_side.rpy:172
 translate turkish scene_chapter13_tonya_home_7cc0320b:
@@ -252,7 +252,7 @@ translate turkish scene_chapter13_tonya_home_f5182c16:
 translate turkish scene_chapter13_tonya_home_bd0fd65a:
 
     # lee "{e=magnifying_glass}{e=cave}{e=dark}{e=eyes}{e=enter}"
-    lee "Magarayı buldum, içinden tamamen karanlık bir yol geçiyordu. Yolun sonu da jaguara çıktı."
+    lee "Magarayı buldum, içinden karanlık bir yol geçiyordu. Yolun sonu da jaguara çıktı."
 
 # game/scenes/chapter13/tonya_side.rpy:187
 translate turkish scene_chapter13_tonya_home_7ad2a3c6:
@@ -283,18 +283,18 @@ translate turkish scene_chapter13_tonya_home_519c7649:
 translate turkish scene_chapter13_tonya_home_1628026e:
 
     # lee "{e=eye}{e=girl}{e=cat}{e=arrow_right}{e=catgirl}"
-    lee "Hikayemin tamamen saçmalık gibi görünebilecegini biliyorum ama önce bir kedi kızla tanıstım."
+    lee "Hikayemin saçma gelecegini biliyorum ama önce bir kedi kızla tanıstım."
     lee "Sadece hayal et - bir insan ve bir kedi, aynı bedende!"
     lee "Böyle seyleri sadece çizgi romanlarda ve filmlerde görmüstüm."
     lee "Bazen çok güneste kalınca da bir seyler görüyorum ama neyse o ayrı."
-    lee "Iste bir süre sonra da arkadas olduk ya da belki onu evcillestirdim - nasıl baktıgına baglı."
+    lee "Bir süre sonra da arkadas olduk ya da onu evcillestirdim, nasıl baktıgına baglı."
 
 # game/scenes/chapter13/tonya_side.rpy:197
 translate turkish scene_chapter13_tonya_home_f357b188:
 
     # lee "{e=lake}{e=girl}{e=octopus}{e=arrow_right}{e=octa}"
     lee "Sonra gölde bir ahtapot-kız buldum."
-    lee "Orada bir canavar oldugunu düsündüm ama sevimli bir yaratık oldugu ortaya çıktı."
+    lee "Orada bir canavar oldugunu düsündüm ama sevimli bir sey oldugu ortaya çıktı."
     lee "Konuskan degildi, meraklı ve kibardı."
 
 # game/scenes/chapter13/tonya_side.rpy:198
