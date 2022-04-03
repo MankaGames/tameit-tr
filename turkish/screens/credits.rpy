@@ -6,7 +6,7 @@
 
     # game/screens/credits.rpy:36
     old "{size=80}To be continued?!"
-    new "{size=80}Devam edecek?! Çeviren: tw:@aazdenkur"
+    new "{size=80}Devam edecek?!"
 
     # game/screens/credits.rpy:37
     old "{size=80}Somewhere on another island..."
