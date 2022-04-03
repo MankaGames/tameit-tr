@@ -4,3 +4,5 @@
     old "Skip time"
     new "Zeit überspringen"
 
+    old "Inventory"
+    new "Inventar"

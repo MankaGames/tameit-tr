@@ -11,3 +11,9 @@ translate german strings:
     # game/screens/vocabulary.rpy:68
     old "Gifts"
     new "Geschenke"
+
+    old "Tasks"
+    new "Aufgaben"
+
+    old "Favors"
+    new "Gefallen"
