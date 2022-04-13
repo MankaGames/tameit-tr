@@ -162,5 +162,5 @@ translate turkish scene_chapter03_home_02792aa1:
 translate turkish scene_chapter03_home_35cc6a40:
 
     # lee_think "{e=light_bulb}{e=fish}{e=plus}{e=gallows_2}{e=exclamation_white}"
-    lee_think "Madem balıkları bu kadar çok seviyor. Belki de yeni tuzagım için yem olarak kullanmalıyım."
+    lee_think "Belki de balıkları yeni tuzagım için yem olarak kullanmalıyım."
 

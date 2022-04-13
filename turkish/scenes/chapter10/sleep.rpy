@@ -33,7 +33,7 @@ translate turkish scene_sleep_chapter10_4acdc648:
 
     # lee_think "{e=me}{e=cold_sweat}{e=octa}{e=confused_face}"
     lee_think "Sanırım onu ​​korkuttum..."
-    lee_think "Sonunda ona dokunacagım için o kadar heyecanlandım ki beynim yerine baska bir yerimle karar verdim."
+    lee_think "Ona dokunacagım için o kadar heyecanlandım ki sikimle karar verdim."
 
 # game/scenes/chapter10/sleep.rpy:60
 translate turkish scene_sleep_chapter10_1ac51c04:

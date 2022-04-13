@@ -20,5 +20,5 @@ translate turkish scene_sleep_chapter01_d7daeded:
 translate turkish scene_sleep_chapter01_68fb01ce:
 
     # lee_think "{e=thinking_face}{e=light_bulb}{e=tent}{e=exclamation_white}"
-    lee_think "Yine de yeterli degil, bir barınak yapmam lazım. Bir fikrim var! Ufak, çadır gibi bir sey yapabilirim!"
+    lee_think "Yine de yeterli degil, bir barınak yapmam lazım. Ufak, çadır gibi bir sey yapabilirim!"
 

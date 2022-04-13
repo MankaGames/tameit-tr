@@ -129,7 +129,7 @@ translate turkish scene_chapter11_octa_shelter_mirror_6ba47d99:
 translate turkish scene_chapter11_cave1_b2312a42:
 
     # lee_think "{e=cave}{e=arrow_right}{e=desert island}{e=question_white}{e=thinking_face}"
-    lee_think "Vay! Burası da tam bir tünelmis! Gerçekten adanın diger tarafına mı gidiyor acaba?"
+    lee_think "Burası da tam bir tünelmis! Gerçekten adanın diger tarafına mı gidiyor acaba?"
 
 # game/scenes/chapter11/cave.rpy:146
 translate turkish scene_chapter11_cave1_0eba42d0:

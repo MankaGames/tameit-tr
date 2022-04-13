@@ -87,7 +87,7 @@ translate turkish scene_chapter11_inside_feed_special_c373df69:
 
     # lee "{e=health}{e=arrow_up}{e=slightly_smiling_face}"
     lee "Cat. Bebegim! Artık biraz daha iyi hissediyorum. Beni bir seyle iyilestiriyorsun, degil mi?"
-    lee "Çogu zaman uyuyorum ve düzgün düsünemiyorum ama bugün eskisinden daha iyi hissediyorum."
+    lee "Çogu zaman uyuyorum ve düzgün düsünemiyorum ama artık daha iyi hissediyorum."
 
 # game/scenes/chapter11/home.rpy:274
 translate turkish scene_chapter11_inside_feed_special_8b569331:

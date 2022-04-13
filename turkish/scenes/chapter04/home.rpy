@@ -132,7 +132,7 @@ translate turkish scene_chapter04_home_5e4fccb4:
 translate turkish scene_chapter04_home_434c585e:
 
     # lee_think "{e=tar}{e=arrow_right}{e=torch}{e=slightly_smiling_face}"
-    lee_think "Oldukça iyi yanıyor ve bu, artık bir mesale yapmak için her seye sahip oldugum anlamına geliyor."
+    lee_think "Oldukça iyi yanıyor sanırım bir mesale yapmak için her seye sahibim."
 
 # game/scenes/chapter04/home.rpy:85
 translate turkish scene_chapter04_home_ab3f7b50:

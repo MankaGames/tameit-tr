@@ -65,7 +65,7 @@ translate turkish scene_chapter07_lake_shore_get_blade_1ceca436:
 translate turkish scene_chapter07_wrecks_16f5786c:
 
     # lee_think "{e=cold_sweat}{e=catgirl}{e=arrow_right}{e=airplane}{e=arrow_down}"
-    lee_think "Tanrım hayır! Sakın bana enkazın altında oldugunu söyleme! Orada kapana kısılmıs olabilir!"
+    lee_think "Hayır! Sakın bana enkazın altında oldugunu söyleme! Orada kapana kısılmıs olabilir!"
 
 # game/scenes/chapter07/lake_area.rpy:83
 translate turkish scene_chapter07_wrecks_fdafb547:

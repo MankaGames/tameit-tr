@@ -20,7 +20,7 @@ translate turkish scene_chapter01_beach3_tutorial_857bd662:
 translate turkish scene_chapter01_beach3_tutorial_347d298a:
 
     # lee_think "{e=thinking_face}{e=desert island}{e=footprints}{e=question_white}"
-    lee_think "Umarım ada ıssız degildir ve burda tek basıma kalmamısımdır. Yoksa ne yaparım?"
+    lee_think "Umarım ada ıssız degildir ve burda tek basıma kalmamısımdır."
 
 # game/scenes/chapter01/beach3.rpy:30
 translate turkish scene_chapter01_beach3_347a3ff3:

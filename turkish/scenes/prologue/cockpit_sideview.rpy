@@ -143,8 +143,8 @@ translate turkish scene_prologue_cockpit_sideview_tonya_return_16ba244f:
     "Sadece oksuyor ama bosaltmıyor. Sonra ona dogru egiliyor,"
     "kulagına diliyle çemberler çiziyor, dikkatlice onun reaksiyonunu izliyor."
     "Lee dondu kaldı. Çok sasırdı. Ama onu geriye de itmiyor. Durumdan memnun."
-    "Tonya ustaca etegini kaldırıyor ve Lee'nin kucagına dayanıyor, onu hafifçe geri itiyor,"
-    "sonra kucagına oturuyor ve pantalonun fermuarını açıyor, onun erekte olmus sikini çıkarıyor. "
+    "Ustaca etegini kaldırıyor ve Lee'nin kucagına dayanıyor, onu hafifçe geri itiyor,"
+    "kucagına oturuyor ve fermuarını açıyor, onun erekte olmus sikini çıkarıyor. "
 
 translate turkish strings:
 

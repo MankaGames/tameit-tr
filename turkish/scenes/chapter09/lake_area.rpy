@@ -202,7 +202,7 @@ translate turkish scene_chapter09_octa_shelter_conflict_b77a4727:
 translate turkish scene_chapter09_octa_shelter_conflict_b4839fc7:
 
     # lee_think "{e=confounded face}{e=exclamation}{e=face_with_head-bandage}{e=persevering}{e=unamused_face}"
-    lee_think "Kuyruklu orospu seni! Iste yine baslıyoruz! Yüzüme bir daha tırnak attı. Napıyor bu ya?!"
+    lee_think "Kuyruklu orospu seni! Yine baslıyoruz! Yüzüme bir daha tırnak attı. Napıyor bu ya?!"
 
 # game/scenes/chapter09/lake_area.rpy:463
 translate turkish scene_chapter09_octa_shelter_conflict_6751e2d2:

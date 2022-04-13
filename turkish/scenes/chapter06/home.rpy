@@ -26,7 +26,7 @@ translate turkish scene_chapter06_inside_2ff9347b:
 translate turkish scene_chapter06_inside_d2061100:
 
     # lee_think "{e=thinking_face}{e=catgirl}{e=arrow_right}{e=sleep}{e=bungalow4}"
-    lee_think "Bungalov içinde ona da bir yer yapmalıyım, uyuması için sıcak yumusak bir yer yapayım bari."
+    lee_think "Bungalov içinde bir yer yapmalıyım, uyuması için sıcak yumusak bir yer yapayım bari."
 
 # game/scenes/chapter06/home.rpy:99
 translate turkish scene_chapter06_inside_ff1d4465:
@@ -45,7 +45,7 @@ translate turkish scene_chapter06_inside_a69f1bb2:
 translate turkish scene_chapter06_inside_35c20985:
 
     # lee_think "{e=thinking_face}{e=fish_big}{e=arrow_up}{e=catgirl}{e=heart}"
-    lee_think "Cat'in sevdigi balıgı yakalamaya devam etmeliyim. Belki bu sekilde daha da yakınlasabiliriz."
+    lee_think "Cat'in sevdigi balıgı yakalamaya devam etmeliyim. Bu sekilde daha da yakınlasabiliriz."
 
 # game/scenes/chapter06/home.rpy:142
 translate turkish scene_chapter06_outro_8ab16916:

@@ -2,7 +2,7 @@
 translate turkish scene_chapter11_fight_574f0d4d:
 
     # lee_think "{e=fearful_face}{e=angry}"
-    lee_think "Kahretsin! Hazır oldugumu sanıyordum, ama bu kadar yakınken... Her seye ragmen bu isi bitirmeliyim!"
+    lee_think "Hazır oldugumu sanıyordum ama her seye ragmen bu isi bitirmeliyim!"
 
 # game/scenes/chapter11/fight.rpy:17
 translate turkish scene_chapter11_fight_0e57f3d7:

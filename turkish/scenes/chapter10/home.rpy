@@ -46,7 +46,7 @@ translate turkish scene_chapter10_home_b6f61d66:
 
     # lee_think "{e=catgirl}{e=teach}{e=sparkles}"
     lee_think "Ama Cat'e ögrettim ve simdi az çok iletisim kurabiliyoruz."
-    lee_think "Sözlerimi anlamayı ve cevap vermek için jestleri ve yüz ifadelerini kullanmayı ögrendi."
+    lee_think "Sözlerimi anlamayı ve cevap vermek için yüz ifadelerini kullanmayı ögrendi."
 
 # game/scenes/chapter10/home.rpy:29
 translate turkish scene_chapter10_home_bc34cb16:
@@ -147,13 +147,13 @@ translate turkish scene_chapter10_basin_4c17427c:
 
     # lee_think "{e=light_bulb}{e=basin4}{e=exclamation_white}{e=sparkles}"
     lee_think "Buldum! Onun için bir havuz yapıp nehirden gelen suyla doldurabilirim!"
-    lee_think "Eh, ellerim ve sopalarla kazmayı deneyebilirim bakalım bu sekilde nereye kadar kazabilecegim."
+    lee_think "Elim ve sopayla kazmayı deneyebilirim bakalım bu sekilde uzun dayanamam."
 
 # game/scenes/chapter10/home.rpy:207
 translate turkish scene_chapter10_basin_b4fe123c:
 
     # lee_think "{e=light_bulb}{e=shovel}{e=exclamation_white}"
-    lee_think "Bir kürek kullanmak oldukça kullanıslı ve çok daha hızlı olacaktır. Yoksa çok sürecek!"
+    lee_think "Kürek kullanmak oldukça kullanıslı ve çok daha hızlı olacaktır. Yoksa çok sürecek!"
 
 # game/scenes/chapter10/home.rpy:208
 translate turkish scene_chapter10_basin_976ace2b:
@@ -179,7 +179,7 @@ translate turkish scene_chapter10_basin_197f77fa:
 
     # lee_think "{e=muscle}{e=bungalow7}{e=basin4}{e=celebration}{e=beaming_face}"
     lee_think "Büyük projemin tamamlanmasını kutlamak ve kızları da davet etmek güzel olurdu.."
-    lee_think "Bu, daha da yakınlasmamıza ve aptal hindistan cevizi sütyen hikayesini geride bırakmamıza yardımcı olacak."
+    lee_think "Bu, daha da yakınlasmamıza ve eski hikayeleri geride bırakmamıza yardımcı olacak."
     lee_think "Cat ve Octa bana kızgın görünmese de,"
     lee_think "Onlara yaptıgım aptalca seyden dolayı kendimi kötü hissediyorum."
 

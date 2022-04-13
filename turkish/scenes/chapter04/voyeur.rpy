@@ -16,7 +16,7 @@ translate turkish scene_chapter04_voyeur_666a1a1c:
 translate turkish scene_chapter04_voyeur_3523bc14:
 
     # lee_think "{e=lee}{e=plus}{e=catgirl}{e=arrow_right}{e=handshake}"
-    lee_think "Onu bir sekilde evcillestirebilir miyim? Sanırım benim ondan korktugum kadar o da benden korkuyor,"
+    lee_think "Onu evcillestirebilir miyim? Benim ondan korktugum kadar o da benden korkuyor,"
     lee_think "ve tehlikeli olup olmadıgımı ögrenmeye çalısıyor."
 
 # game/scenes/chapter04/voyeur.rpy:95

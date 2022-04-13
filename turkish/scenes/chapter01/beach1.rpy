@@ -16,7 +16,7 @@ translate turkish scene_chapter01_beach1_41bdaf03:
 translate turkish scene_chapter01_beach1_215353f3:
 
     # lee_think "{e=crescent_moon}{e=weary_face}{e=yawning_face}"
-    lee_think "Off, hava kararıyor, su an o kadar yorgun hissediyorum ki kelimenin tam anlamıyla ölü gibiyim."
+    lee_think "Hava kararıyor, su an çok yorgun hissediyorum."
 
 # game/scenes/chapter01/beach1.rpy:25
 translate turkish scene_chapter01_beach1_3d1c125d:

@@ -1014,7 +1014,7 @@
 
     # renpy/common/00gltest.rpy:214
     old "Quit"
-    new "Quit"
+    new "Kapat"
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"

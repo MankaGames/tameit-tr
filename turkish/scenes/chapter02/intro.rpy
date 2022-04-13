@@ -57,5 +57,5 @@ translate turkish scene_chapter02_intro_1ed7cdcf:
 translate turkish scene_chapter02_intro_7c225b9e:
 
     # lee_think "{e=stick}{e=plus}{e=rock}{e=arrow_right}{e=bonfire}"
-    lee_think "Kesinlikle bambu çubuklara, ve ates çok büyümesin diye çevrelemek için taslara\u00A0ihtiyacım var."
+    lee_think "Kesinlikle bambu çubuklara, ve atesi çevrelemek için taslara\u00A0ihtiyacım var."
 

@@ -28,7 +28,7 @@ translate turkish scene_chapter12_cave_secretroom_d85d0ba0:
 
     # lee_think "{e=wall}{e=torch}{e=torch}{e=question_white}{e=astonished_face}"
     lee_think "Bunlar mesale mi? Nereden gelmisler?"
-    lee_think "Daha yakından bakıldıgında, duvarın sonradan yapımıs oldugu anlasılıyor. Çok pürüzsüz."
+    lee_think "Yakından bakıldıgında, duvarın sonradan yapımıs oldugu anlasılıyor. Çok pürüzsüz."
     lee_think "Sonra burada da içinden balta basını buldugum gizli kutu vardı..."
     lee_think "Bunlar bir uygarlıgın izleri gibi görünüyor. Belki de adanın yerlileriydi."
 

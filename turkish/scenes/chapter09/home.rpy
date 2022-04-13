@@ -158,7 +158,7 @@ translate turkish scene_chapter09_inside_outro_da3e460d:
 translate turkish scene_chapter09_inside_outro_46a0f586:
 
     # lee "{e=unamused_face}{e=take}{e=you}{e=butt}"
-    lee "Yani benimle konusmayacaksın, beni dinlemeyeceksin, ve götün bana dönük oturacaksın he?"
+    lee "Benimle konusmayacaksın, beni dinlemeyeceksin, ve götün bana dönük oturacaksın he?"
     lee "O zaman bunun cezasını popon çekecek!"
 
 # game/scenes/chapter09/home.rpy:206

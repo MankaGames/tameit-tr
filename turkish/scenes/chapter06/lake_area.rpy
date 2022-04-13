@@ -143,7 +143,7 @@ translate turkish scene_chapter06_wrecks_climb_to_plane_81d4859a:
 
     # lee_think "{e=plane_door}{e=no}{e=arrow_up}"
     lee_think "Uçagın kapısı kapalı."
-    lee_think "Mesele su ki, sadece oraya tırmanmam degil, aynı zamanda bir sekilde kapıyı da açmam gerekiyor."
+    lee_think "Sadece oraya tırmanmam degil, aynı zamanda bir sekilde kapıyı da açmam gerekiyor."
 
 # game/scenes/chapter06/lake_area.rpy:75
 translate turkish scene_chapter06_wrecks_climb_to_plane_0ae9780b:

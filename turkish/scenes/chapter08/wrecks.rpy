@@ -59,7 +59,7 @@ translate turkish scene_chapter08_wrecks_plane1_b1167078:
 translate turkish scene_chapter08_wrecks_plane1_f1b2607e:
 
     # lee "{e=me}{e=no}{e=confused_face}{e=arrow_right}{e=plane_ladder}"
-    lee "Aslında oldukça kolay bir sekilde tırmanabilirim, ama bunun için merdivene ihtiyacım var."
+    lee "Oldukça kolay bir sekilde tırmanabilirim, ama bunun için merdivene ihtiyacım var."
 
 # game/scenes/chapter08/wrecks.rpy:45
 translate turkish scene_chapter08_wrecks_plane1_66d69b5e:
@@ -109,7 +109,7 @@ translate turkish scene_chapter08_wrecks_plane3_366a38c3:
 
     # lee_think "{e=take}{e=panties}{e=arrow_right}{e=inventory}"
     lee_think "Sanırım bunlar Tonya'nın külotu. Onları saklayacagım."
-    lee_think "Külodunu çıkardıgını da hatırlamıyorum. Ayrıca sanki tüm bunlar hiç yasanmamıs gibi geliyor."
+    lee_think "Külodunu çıkardıgını da hatırlamıyorum. Tüm bunlar hiç yasanmamıs gibi geliyor."
 
 # game/scenes/chapter08/wrecks.rpy:118
 translate turkish scene_chapter08_wrecks_plane_cockpit_f7dedd69:
