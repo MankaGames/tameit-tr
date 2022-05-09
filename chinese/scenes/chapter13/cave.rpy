@@ -20,8 +20,7 @@ translate chinese scene_chapter13_cave_secretroom_542bb9d5:
 translate chinese scene_chapter13_cave_secretroom_12525364:
 
     # tonya "{e=torch}{e=torch}{e=thinking_face}{e=silhouette}{e=desert island}"
-    tonya "And the torches… looks like someone lived on this island before."
-    tonya "And I thought it was totally wild."
+    tonya "还有那些火把。。。看起来有人曾经住在这个岛上。我以为它是荒野的 。"
 
 # game/scenes/chapter13/cave.rpy:82
 translate chinese scene_chapter13_cave_secretroom_6a35bbdc:
@@ -33,9 +32,7 @@ translate chinese scene_chapter13_cave_secretroom_6a35bbdc:
 translate chinese scene_chapter13_cave_secretroom_e1e6a9f7:
 
     # tonya "{e=foraging}{e=arrow_up}{e=raft}{e=boat}{e=arrow_right}"
-    tonya "Then let’s get ready for the trip. There’s plenty of work to do."
-    tonya "We need a lot of materials to build a raft."
-    tonya "And we also need to stock up on water, food and other supplies."
+    tonya "那我们开始做准备工作吧。要做很多。做木筏要很多材料。我们还需要储备水、食物和别的用得上的东西。"
 
 # game/scenes/chapter13/cave.rpy:92
 translate chinese scene_chapter13_cave_secretroom_1898ed25:
@@ -161,7 +158,7 @@ translate chinese scene_chapter13_cave3_1e302510:
 translate chinese scene_chapter13_cave_exit_1f2cd9d4:
 
     # lee_think "{e=jaguar}{ellipsis}{e=thinking_face}"
-    lee_think "The jaguar carcass, hmm…"
+    lee_think "美洲豹的尸体，哼。。。"
 
 # game/scenes/chapter13/cave.rpy:186
 translate chinese scene_chapter13_cave_exit_c47eff5d:

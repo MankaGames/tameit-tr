@@ -8,7 +8,7 @@ translate chinese scene_chapter09_lake_shore_46bfcb5b:
 translate chinese scene_chapter09_lake_700ec611:
 
     # lee_think "{e=arrow_right}{e=cave}"
-    lee_think "That cave, why haven’t I\u00A0noticed it before? There should be a way to get inside."
+    lee_think "那个山洞，我之前怎么没注意到？ 肯定有办法到那里。"
 
 # game/scenes/chapter09/lake_area.rpy:52
 translate chinese scene_chapter09_lake_38078aea:
@@ -20,8 +20,7 @@ translate chinese scene_chapter09_lake_38078aea:
 translate chinese scene_chapter09_lake_c79a1d97:
 
     # lee_think "{e=footprints}{e=enter}{e=cave}{e=question_white}"
-    lee_think "But how do I get there? Swimming doesn’t seem to be a\u00A0good idea."
-    lee_think "God knows what else lives in this lake. Besides looks like it’s pretty deep."
+    lee_think "但我怎么能到那里啊？这个湖看起来不知深浅，我不敢贸然尝试。"
 
 # game/scenes/chapter09/lake_area.rpy:54
 translate chinese scene_chapter09_lake_a6a631af:
@@ -141,7 +140,7 @@ translate chinese scene_chapter09_lake_surprise_b9b65a2c:
 translate chinese scene_chapter09_lake_surprise_011baa06:
 
     # lee "{e=boom}{e=confounded face}{e=weary_face}"
-    lee "Ouch! Shit! That was painful!\nI thought the problem was long gone."
+    lee "哎哟! 糟了！ 抓破了，疼死了！ 嗯，很久没有抓破了。"
 
 # game/scenes/chapter09/lake_area.rpy:191
 translate chinese scene_chapter09_lake_surprise_e567a145:
@@ -153,8 +152,8 @@ translate chinese scene_chapter09_lake_surprise_e567a145:
 translate chinese scene_chapter09_lake_ship_stolen_564fb04c:
 
     # lee "{e=hushed_face}{e=exclamation}{e=boat}{e=question_white}"
-    lee "Something’s wrong. The water lily that I used to sail to the cave is gone."
-    lee_think "Only cat could take it. Could she really be in the cave now?"
+    lee "糟糕，我用的百合花不见了。 "
+    lee_think "只有猫会偷走的。难道她现在在山洞里吗？！"
 
 # game/scenes/chapter09/lake_area.rpy:218
 translate chinese scene_chapter09_lake_ship_stolen_d50bfc52:
@@ -238,9 +237,7 @@ translate chinese scene_chapter09_octa_shelter_conflict_5bf5bd1d:
 translate chinese scene_chapter09_octa_shelter_conflict_e48c7f21:
 
     # lee_think "{e=catgirl}{e=weary_face}{e=unamused_face}{e=thinking_face}"
-    lee_think "But the situation with Cat needs to change. It can’t go on this way."
-    lee_think "We should come to an understanding."
-    lee_think "She is so stubborn, though, and now she is angry too."
-    lee_think "Still, she should be punished for what she’s done to Octa"
-    lee_think "to make her realize that it was wrong."
+    lee_think "但是猫怎么办，不能这样继续下去。"
+    lee_think "要把事情弄清楚。 可是她太固执了，现在又在生我的气。"
+    lee_think "但还是要惩罚她，要她明白，伤害别人是不可以的。"
 

@@ -8,8 +8,8 @@ translate chinese scene_chapter11_intro_6b3cde44:
 translate chinese scene_chapter11_intro_f69baf78:
 
     # lee_think "{e=octa}{e=swim}{e=dash}{e=weary_face}"
-    lee_think "She swam away pretty quickly after that. Did I frighten her?"
-    lee_think "Or was it Cat’s reaction that made her scared? But then she spied on us, didn’t she?"
+    lee_think "她那时候这么快就游走了，也许是我吓到她了？"
+    lee_think "还是猫的反应吓跑了她？ 但后来奥克塔偷看了我们。 我没有看错吧？"
 
 # game/scenes/chapter11/intro.rpy:33
 translate chinese scene_chapter11_intro_dd3c5e3a:

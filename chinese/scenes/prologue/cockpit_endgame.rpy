@@ -2,8 +2,7 @@
 translate chinese scene_prologue_cockpit_endgame_done_adc94a46:
 
     # tonya "{e=scream}{e=airplane}{e=arrow_down}{e=exclamation}"
-    tonya "Oh, for fuck's sake! We're going down!"
-    tonya "It seems we accidentally hit the fuel dump button! \nShit, shit, shit!"
+    tonya "他妈的！我们要坠毁了！看来，偶然按了放油开关！糟了，糟了，糟了！"
 
 translate chinese strings:
 

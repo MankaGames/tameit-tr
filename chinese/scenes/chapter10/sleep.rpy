@@ -32,15 +32,13 @@ translate chinese scene_sleep_chapter10_89d3f933:
 translate chinese scene_sleep_chapter10_4acdc648:
 
     # lee_think "{e=me}{e=cold_sweat}{e=octa}{e=confused_face}"
-    lee_think "I guess I scared her…"
-    lee_think "Got so excited that I would finally touch her that my brain just shut off."
+    lee_think "看来我吓到她了。。。我因为终于可以触摸到她就高兴得大脑都关闭了。"
 
 # game/scenes/chapter10/sleep.rpy:60
 translate chinese scene_sleep_chapter10_1ac51c04:
 
     # lee "{e=catgirl}{e=exclamation_white}{e=smiley}{e=angry}{e=question_white}"
-    lee "My kitty, you’ve come to me! I’m so glad!"
-    lee "I thought that you would get cross and hide. Are you mad at me?"
+    lee "小猫，你又来了！ 我多么高兴，我以为你会躲起来，怪我很长时间。 生我的气吗？"
 
 # game/scenes/chapter10/sleep.rpy:61
 translate chinese scene_sleep_chapter10_d08292e3:
@@ -88,8 +86,7 @@ translate chinese scene_sleep_chapter10_e5a5d219:
 translate chinese scene_sleep_chapter10_0286fb5f:
 
     # lee "{e=smiley}{e=sparkles}{e=eggplant}{e=hot_pepper}{e=fire}"
-    lee "Mmm, that feels awesome! God job, my dear! You are doing great!"
-    lee "Please keep it up. Use your tongue. Oh, that’s right…"
+    lee "嗯，多好啊！ 干得好，美女！ 你做得很棒。 请继续，用你的舌头，就这样。。。"
 
 # game/scenes/chapter10/sleep.rpy:90
 translate chinese scene_sleep_chapter10_ac79bef5:
@@ -119,17 +116,17 @@ translate chinese strings:
 
     # game/scenes/chapter10/sleep.rpy:29
     old "{e=bra_coconut}{e=catgirl}{e=bra_coconut}{e=octa}"
-    new "I need to make coconut bras for Cat and Octa."
+    new "你要给猫和奥克塔制作椰子胸罩。"
 
     # game/scenes/chapter10/sleep.rpy:31
     old "{e=bungalow4}{e=hammer}{e=arrow_up}"
-    new "Would be nice to expand the house."
+    new "把房子扩大一下不错。"
 
     # game/scenes/chapter10/sleep.rpy:34
     old "{e=hammer}{e=shovel}{e=arrow_right}{e=basin1}"
-    new "I need to make a shovel to dig faster."
+    new "我要做一把铲子才能更快地挖掘。"
 
     # game/scenes/chapter10/sleep.rpy:36
     old "{e=hammer}{e=basin4}{e=arrow_left}{e=octa}"
-    new "I need to finish making the pond for Octa."
+    new "我要做完奥克塔的池塘。"
 

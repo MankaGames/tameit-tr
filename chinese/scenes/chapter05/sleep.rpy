@@ -8,9 +8,9 @@ translate chinese strings:
 
     # game/scenes/chapter05/sleep.rpy:24
     old "{e=fireplace}{e=arrow_right}{e=bungalow4}{e=exclamation_white}"
-    new "I need to build a fireplace inside somehow."
+    new "我要在家里建灶台。"
 
     # game/scenes/chapter05/sleep.rpy:26
     old "{e=take}{e=smirk}{e=night}{e=catgirl}"
-    new "I can try touching Cat while she sleeps."
+    new "我每天晚上都会抚摸猫，她好像很喜欢。"
 

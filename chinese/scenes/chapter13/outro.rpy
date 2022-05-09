@@ -248,19 +248,19 @@ translate chinese scene_chapter13_outro2_747b47db:
 translate chinese scene_chapter13_outro2_39a6f3b5:
 
     # lee_think "{e=ship}{e=airplane}{e=no}{e=help}{e=lee}"
-    lee_think "No one’s going to fly or sail here to save me,\nthat’s for sure."
+    lee_think "没有人会航行来到或飞来救我，一定不会来。"
 
 # game/scenes/chapter13/outro.rpy:164
 translate chinese scene_chapter13_outro2_42b663f9:
 
     # lee_think "{e=angry}{e=sunglasses}{e=muscle}{e=exclamation_white}"
-    lee_think "But I’ll deal with everything myself."
+    lee_think "但我一个人可以的！"
 
 # game/scenes/chapter13/outro.rpy:165
 translate chinese scene_chapter13_outro2_19cf24b3:
 
     # lee_think "{e=muscle}{e=storm}"
-    lee_think "I survived the hurricane, defeated the jaguar,\nfound Tonya!"
+    lee_think "我在飓风中幸存下来，打败了美洲豹，找到了托妮娅。"
 
 # game/scenes/chapter13/outro.rpy:166
 translate chinese scene_chapter13_outro2_27c8cb77:

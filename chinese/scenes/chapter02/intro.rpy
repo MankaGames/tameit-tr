@@ -44,8 +44,8 @@ translate chinese scene_chapter02_intro_ed65960f:
 translate chinese scene_chapter02_intro_d5f78453:
 
     # lee_think "{e=thinking_face}{e=light_bulb}{e=arrow_right}{e=bonfire}"
-    lee_think "Perhaps I should build a\u00A0bonfire."
-    lee_think " 晚上会更暖和，并且会赶走捕食者。"
+    lee_think "也许我们应该生火并让要一直烧着。"
+    lee_think "晚上会更暖和，并且会赶走捕食者。"
 
 # game/scenes/chapter02/intro.rpy:53
 translate chinese scene_chapter02_intro_1ed7cdcf:
@@ -57,5 +57,5 @@ translate chinese scene_chapter02_intro_1ed7cdcf:
 translate chinese scene_chapter02_intro_7c225b9e:
 
     # lee_think "{e=stick}{e=plus}{e=rock}{e=arrow_right}{e=bonfire}"
-    lee_think "I definitely need sticks, and rocks to limit the spread of\u00A0fire."
+    lee_think "当然是木棍，还有石头，为了限制火焰的蔓延"
 

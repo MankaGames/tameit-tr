@@ -2,8 +2,7 @@
 translate chinese scene_chapter07_lake_shore_a3917cfe:
 
     # lee_think "{e=ear}{e=exclamation_white}{e=surprised}{e=question_white}"
-    lee_think "What was that sound?"
-    lee_think "These strange splashes are coming from the lake, no doubt."
+    lee_think "这是什么声音？湖面上有些奇怪的水纹。"
 
 # game/scenes/chapter07/lake_area.rpy:33
 translate chinese scene_chapter07_lake_shore_9aae27b9:
@@ -39,9 +38,8 @@ translate chinese scene_chapter07_lake_shore_get_blade_7324e328:
 translate chinese scene_chapter07_lake_shore_get_blade_44b91a8c:
 
     # lee_think "{e=blade}{e=exclamation_white}"
-    lee_think "Something metal. Looks like a propeller blade."
-    lee_think "Perhaps it just fell off in the crash and lay here for a long time."
-    lee_think "I wouldn't have noticed it if it were not for my looking for the fishing pole."
+    lee_think "金属的东西。看起来像飞机螺旋桨叶片。大概是坠机的时候掉下来的，已经在这很久了。"
+    lee_think "若不是在寻找钓鱼竿，我就不会发现的。"
 
 # game/scenes/chapter07/lake_area.rpy:52
 translate chinese scene_chapter07_lake_shore_get_blade_79b2d969:
@@ -113,15 +111,13 @@ translate chinese scene_chapter07_wrecks_climb_to_plane_60629747:
 translate chinese scene_chapter07_wrecks_climb_to_plane_e078dc3c:
 
     # lee_think "{e=light_bulb}{e=grappling}{e=exclamation_white}"
-    lee_think "Why did I not think of this before!"
-    lee_think "I could craft a kinda grappling hook to make it to the top."
+    lee_think "我可以做一根末端带钩子的绳子爬上去！我以前怎么没想到！"
 
 # game/scenes/chapter07/lake_area.rpy:113
 translate chinese scene_chapter07_wrecks_climb_to_plane_9dce1d1e:
 
     # lee_think "{e=thinking_face}{e=hammer}{e=hook}{e=question_white}"
-    lee_think "There's just one little hitch — where can I find a hook?"
-    lee_think "What shall I use to make it?"
+    lee_think "只有一个小问题：从哪里弄到钩子呢？可以用什么制成啊？"
 
 # game/scenes/chapter07/lake_area.rpy:118
 translate chinese scene_chapter07_wrecks_climb_to_plane_851bdb3d:
@@ -157,8 +153,7 @@ translate chinese scene_chapter07_wrecks_crash_8f31a119:
 translate chinese scene_chapter07_wrecks_crash_ed583786:
 
     # lee_think "{e=boom}{e=cold_sweat}{e=exclamation}{e=dizzy_face}"
-    lee_think "That was quite a rumble!\nThis plane has already fallen twice —"
-    lee_think "is it a joke of some kind? The shittiest airlines ever!"
+    lee_think "巨响！说真的，这飞机坠毁了两次了。还好我跳过去了。"
 
 # game/scenes/chapter07/lake_area.rpy:178
 translate chinese scene_chapter07_wrecks_crash_0de39e36:
@@ -260,7 +255,7 @@ translate chinese scene_chapter07_wrecks_free_c196c47a:
 translate chinese scene_chapter07_wrecks_free_b3ced886:
 
     # lee "{e=eyes}{e=catgirl}"
-    lee "Let me take a look."
+    lee "让我看看"
 
 # game/scenes/chapter07/lake_area.rpy:243
 translate chinese scene_chapter07_wrecks_free_a2209f31:
@@ -284,8 +279,7 @@ translate chinese scene_chapter07_wrecks_free_9fb747b6:
 translate chinese scene_chapter07_wrecks_free_3d9e33b1:
 
     # lee "{e=hug}{e=relieved}{e=slightly_smiling_face}"
-    lee "Everything's fine now. It's all right, I'm here with you."
-    lee "Oh, you're still shaking — come closer."
+    lee "现在好了。静一静。我在你身边。你还在颤抖。靠我近一点。"
 
 # game/scenes/chapter07/lake_area.rpy:247
 translate chinese scene_chapter07_wrecks_free_44bc6899:
@@ -297,15 +291,13 @@ translate chinese scene_chapter07_wrecks_free_44bc6899:
 translate chinese scene_chapter07_lake_7c366956:
 
     # lee_think "{e=astonished_face}{e=exclamation_white}{e=thinking_face}{e=question_white}"
-    lee_think "Woah! What the hell is going on?"
-    lee_think "I've never seen something like that before!"
+    lee_think "哇！到底是怎么回事？！我从来没有见过！"
 
 # game/scenes/chapter07/lake_area.rpy:282
 translate chinese scene_chapter07_lake_1d0f3935:
 
     # lee_think "{e=fish}{e=exclamation_white}{e=question_white}"
-    lee_think "Why is fish acting like that? Are they scared of something or what?"
-    lee_think "It makes no sense to me at all."
+    lee_think "鱼为什么会这样？是不是被吓到的？要不然这会意味着什么？"
 
 # game/scenes/chapter07/lake_area.rpy:283
 translate chinese scene_chapter07_lake_564999f5:
@@ -317,31 +309,26 @@ translate chinese scene_chapter07_lake_564999f5:
 translate chinese scene_chapter07_lake_1214ef83:
 
     # lee_think "{e=thinking_face}{e=fishing_pole}{e=lake}{e=question_white}{e=confounded face}"
-    lee_think "Should I even try fishing here today? What are the chances?"
-    lee_think "Looks like some Loch Ness shit's happening down there."
+    lee_think "今天我能在这钓到鱼吗？鱼像青蛙一样，跳来跳去时，我能钓到什么？"
 
 # game/scenes/chapter07/lake_area.rpy:308
 translate chinese scene_chapter07_lake_swim_c96c5fda:
 
     # lee_think "{e=fishing_pole}{e=no}{e=fish}{e=frowning_face}"
-    lee_think "Yeah, well — not the best day for fishing, it seems."
-    lee_think "This fish orchestra sort of went quiet, but it didn't help much."
+    lee_think "嗯，正如我所料。虽然鱼儿已经没有那么兴奋了，但也不上钩。"
 
 # game/scenes/chapter07/lake_area.rpy:309
 translate chinese scene_chapter07_lake_swim_dc5db4f7:
 
     # lee_think "{e=thinking_face}{e=fish}{e=fish_big}{e=question_white}{e=confused_face}"
-    lee_think "And now it looks like all the fish's just vanished! Where the hell is it?"
-    lee_think "Not even a single one? Well, that's strange, but no fish for me today, I guess."
+    lee_think "湖中的鱼突然全都消失了踪迹！鱼都去哪了？一条也钓不到吗？这太反常了。"
 
 # game/scenes/chapter07/lake_area.rpy:310
 translate chinese scene_chapter07_lake_swim_5f1618b5:
 
     # lee_think "{e=catgirl}{e=eyes}{e=drooling_face}{e=fish_big}{e=weary_face}"
-    lee_think "Cat's also watching and waiting for treats."
-    lee_think "Not gonna lie — I'm glad she's not avoiding me after what happened last night."
-    lee_think "Like, she's not even angry. If only I could treat her to something yummy."
-    lee_think "Let's wait a little more in case it finally starts biting."
+    lee_think "猫也在期待着。她好像并没有因为昨天的事而躲着我，这令我很高兴。"
+    lee_think "如果我能给她一些好吃的，说不定会更好。"
 
 # game/scenes/chapter07/lake_area.rpy:325
 translate chinese scene_chapter07_lake_swim_c7c22889:
@@ -383,8 +370,7 @@ translate chinese scene_chapter07_lake_swim_58a46953:
 translate chinese scene_chapter07_lake_swim_5f9682a1:
 
     # lee "{e=arrow_right}{e=bungalow4}{e=fireplace}{e=thermometer}{e=relieved}"
-    lee "It's okay, I'm here. We'll be home in no time,"
-    lee "warm hearth should help you dry off."
+    lee "没关系，我陪着你。回家吧，炉边会很暖和，一会儿你就干了。"
 
 # game/scenes/chapter07/lake_area.rpy:113
 translate chinese scene_chapter07_wrecks_open_door_9f699a05:
@@ -402,8 +388,7 @@ translate chinese scene_chapter07_wrecks_open_door_2736ec9c:
 translate chinese scene_chapter07_wrecks_open_door_50d49049:
 
     # lee_think "{e=plane_door}{e=hole}{e=arrow_up}{e=grappling}{e=question}"
-    lee_think "Hmm, what if I anchor the hook to the door? It looks kinda bent."
-    lee_think "But I have to open it first somehow."
+    lee_think "嗯，好像门是弯的，打开的话，我可以用钩子钩住它吗？"
 
 # game/scenes/chapter07/lake_area.rpy:116
 translate chinese scene_chapter07_wrecks_open_door_8841fbbc:

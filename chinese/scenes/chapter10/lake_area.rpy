@@ -26,8 +26,7 @@ translate chinese scene_chapter10_octa_shelter_5525adc1:
 translate chinese scene_chapter10_octa_shelter_gifting_1179c122:
 
     # lee "{e=waving_hand}{e=me}{e=lee}{e=plus}{e=catgirl}"
-    lee "Hey! Remember me? I’m Lee. This is Cat."
-    lee "You surely remember her, but don’t be afraid. She won’t hurt you anymore."
+    lee "嗨！你还记得我吗？我是Lee。这是猫。你肯定记得她。 别怕，她不会再伤你的！"
 
 # game/scenes/chapter10/lake_area.rpy:199
 translate chinese scene_chapter10_octa_shelter_gifting_bd841f62:
@@ -39,7 +38,7 @@ translate chinese scene_chapter10_octa_shelter_gifting_bd841f62:
 translate chinese scene_chapter10_octa_shelter_gifting_8f21d64e:
 
     # octa "{e=confusion}"
-    octa "{e=confusion}{alt}*Confused*{/alt}"
+    octa "{e=confusion}{alt}*困惑*{/alt}"
 
 # game/scenes/chapter10/lake_area.rpy:201
 translate chinese scene_chapter10_octa_shelter_gifting_f6035535:
@@ -81,7 +80,7 @@ translate chinese scene_chapter10_octa_shelter_gifting_8dfe8f1e:
 translate chinese scene_chapter10_octa_shelter_gifting_8f74c72c:
 
     # octa "{e=hushed_face}{e=confounded face}"
-    octa "{e=hushed_face}{e=confounded face}{alt}*Confused*{/alt}"
+    octa "{e=hushed_face}{e=confounded face}{alt}*困惑*{/alt}"
 
 # game/scenes/chapter10/lake_area.rpy:216
 translate chinese scene_chapter10_octa_shelter_gifting_6165796e:
@@ -93,6 +92,5 @@ translate chinese scene_chapter10_octa_shelter_gifting_6165796e:
 translate chinese scene_chapter10_octa_shelter_gifting_d2a4c504:
 
     # lee_think "{e=catgirl}{e=octa}{e=pouting_face}{e=weary_face}{e=disappointed}"
-    lee_think "Emmm… I guess I might’ev overdone it – they are really mad at me."
-    lee_think "But at least not at each other."
+    lee_think "哼，我应该有点过分了，她们真的生了我的气，还好不再互相生气！"
 

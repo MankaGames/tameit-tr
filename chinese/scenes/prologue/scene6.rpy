@@ -21,5 +21,5 @@ translate chinese scene_prologue_scene6_d23af69c:
 translate chinese scene_prologue_scene6_ee4acd5c:
 
     # lee_think "{e=tonya}{e=smiling_face_with_hearts}"
-    lee_think "What a hottie she is!"
+    lee_think "哇哦，她好辣！"
 

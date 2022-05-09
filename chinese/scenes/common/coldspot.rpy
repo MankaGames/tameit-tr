@@ -14,7 +14,7 @@ translate chinese scene_pet_common_9ec57123:
 translate chinese scene_pet_common_0a4b46fc:
 
     # lee_think "{e=smiley}{e=smiling_face_with_hearts}{e=smiling_face}"
-    lee_think "She liked it! I'm so glad. I am also very pleased to give her pleasure."
+    lee_think "她喜欢！我太高兴了。我也喜欢让她享受。"
 
 # game/scenes/common/coldspot.rpy:332
 translate chinese scene_pet_common_d5fc5509:
@@ -32,13 +32,13 @@ translate chinese scene_coldspot_common_79127666:
 translate chinese scene_coldspot_common_f80e5c4e:
 
     # lee "{e=exclamation}{e=hushed_face}{e=weary_face}{e=frowning_face}{e=pleading_face}"
-    lee "Ouch! Okay, okay, it's my fault, I'm sorry!"
-    lee "I'm not touching you anymore, see? Please, no more claws!"
+    lee "哎哟，糟了！ 好吧，是我自己的错，对不起！"
+    lee "好了，好了，我不碰你了，你看，我已经走开了，你不要再抓破了！"
 
 # game/scenes/common/coldspot.rpy:342
 translate chinese scene_pet_common_f80e5c4e:
 
     # lee "{e=exclamation}{e=hushed_face}{e=weary_face}{e=frowning_face}{e=pleading_face}"
-    lee "Ouch! Okay, okay, it's my fault, I'm sorry!"
-    lee "I'm not touching you anymore, see? Please, no more claws!"
+    lee "哎哟，糟了！ 好吧，是我自己的错，对不起！"
+    lee "好了，好了，我不碰你了，你看，我已经走开了，你不要再抓破了！"
 

@@ -56,8 +56,7 @@ translate chinese scene_chapter11_octa_shelter_mirror_38eeb469:
 translate chinese scene_chapter11_octa_shelter_mirror_700bfac7:
 
     # lee "{e=mirror}{e=eyes}{e=you}"
-    lee "It reflects you when you look in it. Just like water,"
-    lee "but you can see better and no wind can spoil the reflection."
+    lee "它反映照镜子的人。就像水一样，只是你看得更清楚，没有风会破坏倒影。"
 
 # game/scenes/chapter11/cave.rpy:94
 translate chinese scene_chapter11_octa_shelter_mirror_c38ee3c9:
@@ -165,15 +164,15 @@ translate chinese scene_chapter11_cave1_slab_1d83960c:
 translate chinese scene_chapter11_cave1_slab_117ca331:
 
     # lee_think "{e=halberd_head_rusty}{e=exclamation_white}{e=star_struck}{e=arrow_right}{e=inventory}"
-    lee_think "A halberd! I guess that’s what they call this type or weapon."
-    lee_think "It’s got no pole, though, but I’ll take it. May come in handy."
+    lee_think "是戟！ 我想这就是这种武器的名字，对吧？"
+    lee_think "只是没有杆。 我带回去，一定用得上！"
 
 # game/scenes/chapter11/cave.rpy:264
 translate chinese scene_chapter11_cave2_020cb973:
 
     # lee_think "{e=rock}{e=dead_end}{e=cave}{e=hushed_face}"
-    lee_think "Looks like there’s another cave behind this stone, but I can’t get there –"
-    lee_think "the boulder won’t move. Too bad ‘cos I caught glimpse of something interesting there."
+    lee_think "看来这块石头后面隐藏着另一个洞穴，但无法到那里，巨石完全挡住了道路。"
+    lee_think "可惜，那里好像可以看见有趣的东西。"
 
 # game/scenes/chapter11/cave.rpy:266
 translate chinese scene_chapter11_cave2_e048d048:
@@ -311,17 +310,17 @@ translate chinese scene_chapter11_cave_exit_5194b899:
 translate chinese scene_chapter11_cave_exit_478307c7:
 
     # lee_think "{e=back}{e=no}{e=jaguar}{e=confused_face}"
-    lee_think "Seems like I won’t be able to go around the jaguar and it’s here to stay."
-    lee_think "This should be the cave exit that I saw on the other side of the opening."
-    lee_think "And that same jaguar. Damn it!"
+    lee_think "看来我无法绕过他，他就在这里定居。"
+    lee_think "这应该就是那个洞穴，我从峡谷的另一边看到的那个。"
+    lee_think "也就是那个美洲豹。 嗯。。。"
 
 # game/scenes/chapter11/cave.rpy:444
 translate chinese scene_chapter11_cave_exit_bbaf2e61:
 
     # lee_think "{e=thinking_face}{e=hourglass}{e=arrows_counterclockwise}"
-    lee_think "I can’t go around the jaguar neither this way nor that."
-    lee_think "I need to defeat it to finally get to the other side of the island."
-    lee_think "I’ll think things over and come back later."
+    lee_think "从那里还是从这里，我都无法绕过美洲豹。"
+    lee_think "我必须打败它，这样我才终于能到岛屿的另一边。"
+    lee_think "我得好好考虑一下，稍后再回来。"
 
 # game/scenes/chapter11/cave.rpy:450
 translate chinese scene_chapter11_cave_exit_5dbd5ff8:
@@ -333,5 +332,5 @@ translate chinese scene_chapter11_cave_exit_5dbd5ff8:
 translate chinese scene_chapter11_cave_exit_d06fa9ce:
 
     # cat_think "{e=fearful_face}{e=no}{e=exclamation}"
-    cat_think "{e=fearful_face}{e=no}{e=exclamation}{alt}It's terrifying. He could devour me. I won't go there.{/alt}"
+    cat_think "{e=fearful_face}{e=no}{e=exclamation}{alt}好可怕。 它会把我吃掉。 我不去找它。{/alt}"
 

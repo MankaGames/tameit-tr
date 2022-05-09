@@ -14,8 +14,7 @@ translate chinese scene_chapter12_cave1_1e302510:
 translate chinese scene_chapter12_cave2_4f981a47:
 
     # lee_think "{e=cave}{e=surprised}{e=exclamation_white}"
-    lee_think "What’s that? A cave? Has it always been here?"
-    lee_think "Is it that I just never noticed it before or…"
+    lee_think "这是什么洞穴？它以前也在这里吗？我之前没有注意到，或者。。。"
 
 # game/scenes/chapter12/cave.rpy:73
 translate chinese scene_chapter12_cave2_09133898:
@@ -27,10 +26,9 @@ translate chinese scene_chapter12_cave2_09133898:
 translate chinese scene_chapter12_cave_secretroom_d85d0ba0:
 
     # lee_think "{e=wall}{e=torch}{e=torch}{e=question_white}{e=astonished_face}"
-    lee_think "Are these torches? Where did they come from?"
-    lee_think "A closer look reveals that the wall’s artificial. It’s so smooth."
-    lee_think "And then there was that stone box with a secret lock that I found the halberd in…"
-    lee_think "These seem to be traces of some civilization. Perhaps the island was populated."
+    lee_think "那是火炬吗？哪儿来的？仔细一看，这面墙分明是人造的，那么光滑。"
+    lee_think "想到我发现一把戟的那个秘密石盒。。。这一切看起来像是某种文明的痕迹。"
+    lee_think "看来这里住过人。"
 
 # game/scenes/chapter12/cave.rpy:106
 translate chinese scene_chapter12_cave_secretroom_1a3049e4:
@@ -42,8 +40,7 @@ translate chinese scene_chapter12_cave_secretroom_1a3049e4:
 translate chinese scene_chapter12_cave_secretroom_8b5d7e19:
 
     # lee_think "{e=eyes}{e=wall}{e=framed_picture}{e=astonished_face}{e=exclamation_white}"
-    lee_think "There’s something painted here! There in the corner."
-    lee_think "Looks like a piece of a giant painting."
+    lee_think "这里画着一些东西！那个角落里。就像一幅大画。"
 
 # game/scenes/chapter12/cave.rpy:115
 translate chinese scene_chapter12_cave_secretroom_75a7cd6a:
@@ -85,30 +82,27 @@ translate chinese scene_chapter12_cave_secretroom_ec6c931f:
 translate chinese scene_chapter12_cave_secretroom_bb1516a8:
 
     # lee_think "{e=stone_tablet}{e=framed_picture}{e=magnifying_glass}{e=question_white}"
-    lee_think "I wonder where all the other pieces are? I guess they’re scattered around the island."
-    lee_think "Perhaps if I collect them all I’ll find a treasure. "
-    lee_think "In any case it will get clear only when I fully assemble the picture."
+    lee_think "我想知道其他的碎片在哪里？大概散落在岛上。"
+    lee_think "说不定我把它们都收集起来的话，能找到一些宝物呢。"
+    lee_think "无论如何，只有我收集完整图像，才能弄清楚。"
 
 # game/scenes/chapter12/cave.rpy:169
 translate chinese scene_chapter12_cave_secretroom_open_map_eacb8c1d:
 
     # lee "{e=fearful_face}{e=exclamation}"
-    lee "What the hell is going on?! It’s shaking like crazy!"
-    lee "Did I do anything that wasn’t meant to be done?"
-    lee "Don’t tell me it’s going to bury me alive!"
+    lee "发生了什么？！一切都在颤抖。我做了不该做的事吗？我不会埋在这里，是吗？"
 
 # game/scenes/chapter12/cave.rpy:185
 translate chinese scene_chapter12_cave_secretroom_open_map_d7383af4:
 
     # lee_think "{e=wall}{e=arrow_down}{e=exclamation}{e=exploding_head}"
-    lee_think "The wall! It’s sliding down!\nAt first I thought I was seeing things!"
+    lee_think "墙！它往下去！本来我以为看错了，但没有！"
 
 # game/scenes/chapter12/cave.rpy:240
 translate chinese scene_chapter12_cave_exit_ec4056e1:
 
     # lee_think "{e=jaguar}{e=exclamation}{e=cold_sweat}"
-    lee_think "The jaguar! It’s still here. But of course! Where else would it be?"
-    lee_think "Hoping that it would just go ahead and take a hike was silly."
+    lee_think "美洲豹！它还在这里。是啊，它能去哪儿啊？不会消失的。"
 
 # game/scenes/chapter12/cave.rpy:241
 translate chinese scene_chapter12_cave_exit_cb31715b:

@@ -2,22 +2,21 @@
 translate chinese scene_chapter10_intro_76bafbed:
 
     # lee_think "{e=octa}{e=boom}{e=catgirl}{e=persevering}{e=unamused_face}"
-    lee_think "What do I do with Cat and Octa? Cat did promise not to attack Octa again,"
-    lee_think "but who knows what comes to her mind. Their warlike relations mean only trouble."
+    lee_think "猫和奥克塔怎么办？"
+    lee_think "当然，猫答应她不会再攻击奥克塔了，但谁知道呢。"
+    lee_think "她们处于战争状态，只会惹麻烦。"
 
 # game/scenes/chapter10/intro.rpy:32
 translate chinese scene_chapter10_intro_04cb17e1:
 
     # lee_think "{e=thinking_face}{e=octa}{e=handshake}{e=catgirl}"
-    lee_think "I need to help them put up with each other."
-    lee_think "What can I do to fight Cat’s jealousy and Octa’s fear of her?"
+    lee_think "得让她们好好相处。想出什么办法让猫不再嫉妒，而奥克塔也不再害怕她呢？"
 
 # game/scenes/chapter10/intro.rpy:33
 translate chinese scene_chapter10_intro_c314507a:
 
     # lee_think "{e=gift}{e=arrow_right}{e=octa}{e=catgirl}{e=question_white}"
-    lee_think "Could I make them both gifts?"
-    lee_think "Find something that they will absolutely love and give it to them at the same time."
+    lee_think "要不送她们俩礼物？ 她们会非常喜欢的东西。 同时送给她们。"
 
 # game/scenes/chapter10/intro.rpy:34
 translate chinese scene_chapter10_intro_21c4d685:
@@ -29,15 +28,14 @@ translate chinese scene_chapter10_intro_21c4d685:
 translate chinese scene_chapter10_intro_e9a114c7:
 
     # lee_think "{e=pot_of_food}{e=no}{e=gift}{e=thinking_face}"
-    lee_think "I doubt they will appreciate food that much."
-    lee_think "I give them tasty presents a\u00A0bit too often."
+    lee_think "食物她们已经不太珍惜，我常常给她们做好吃的。"
 
 # game/scenes/chapter10/intro.rpy:36
 translate chinese scene_chapter10_intro_467bcb33:
 
     # lee_think "{e=light_bulb}{e=bra_coconut}{e=exclamation_white}{e=smirk}"
-    lee_think "Oh! I have an idea! I’ll make them bras out of coconuts. Ho-ho!"
-    lee_think "A super-duper present made into a super-silly one!"
-    lee_think "I guess they will both be mad at me for that, but isn’t it just what I need?"
-    lee_think "Their anger may rally them. Should be worth a try."
+    lee_think "哦！ 有了！ 我可以用椰子做胸罩！ 哇哈哈！"
+    lee_think "与其说是一份很棒的礼物，不如说是一份超级古怪的礼物。"
+    lee_think "她们一定会因此而生我的气，这就是所需要的。"
+    lee_think "对我的愤怒可以使他们团结起来。 我想值得一试的。"
 

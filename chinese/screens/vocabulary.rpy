@@ -2,18 +2,18 @@
 
     # game/screens/vocabulary.rpy:50
     old "Talk"
-    new "Talk"
+    new "说话"
 
     # game/screens/vocabulary.rpy:59
     old "Feed"
-    new "Feed"
+    new "喂养"
 
     # game/screens/vocabulary.rpy:68
     old "Gifts"
-    new "Gifts"
+    new "礼物"
 
     old "Tasks"
-    new "Tasks"
+    new "任务"
 
     old "Favors"
-    new "Favors"
+    new "要求"

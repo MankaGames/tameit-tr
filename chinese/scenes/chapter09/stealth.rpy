@@ -8,7 +8,7 @@ translate chinese chapter09_stealth_77faac7d:
 translate chinese chapter09_stealth_d0552d07:
 
     # lee_think "{e=cave}{e=octa}{e=hut}{e=exclamation_white}"
-    lee_think "Seems like I was right and Octa really lives here."
+    lee_think "看来我没有猜错，奥克塔真的住在这里。"
 
 # game/scenes/chapter09/stealth.rpy:35
 translate chinese chapter09_stealth_61eb6710:
@@ -20,8 +20,8 @@ translate chinese chapter09_stealth_61eb6710:
 translate chinese chapter09_stealth_11fc51f4:
 
     # lee_think "{e=smirk}{e=shushing_face}{e=footprints}{e=eye}{e=octa}"
-    lee_think "Now I need to be quiet and careful."
-    lee_think "If it works out well, I may snick up to her close enough to take a good look."
+    lee_think "好了，现在安静而谨慎。"
+    lee_think "如果一切顺利，我可以偷偷接近她，好好看看她。"
 
 # game/scenes/chapter09/stealth.rpy:81
 translate chinese chapter09_stealth_a8b85143:

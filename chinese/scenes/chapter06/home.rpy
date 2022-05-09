@@ -3,30 +3,27 @@ translate chinese scene_chapter06_home_30e4c1b5:
 
     # lee "{e=smiley}{e=smiling_face_with_hearts}"
     lee "你是个多聪明的女孩呀！真棒！我指望你的帮助。"
-    lee_think "She barely understands me, huh, yet I'm still saying everything out loud habitually."
-    lee_think "This way, at least I won't forget how to speak."
-    lee_think "Plus, Cat already learned what most of the words sound like,"
-    lee_think "so now she partially understands what I say."
+    lee_think "哈，她几乎听不懂我说什么，但我还是习惯什么都大声的说出来，至少能确保我不会忘记怎么说话。"
+    lee_think "而且猫已经学会了许多单词的发音。所她也能听懂一些。"
 
 # game/scenes/chapter06/home.rpy:37
 translate chinese scene_chapter06_home_a41ff28c:
 
     # lee_think "{e=thinking_face}{e=catgirl}{e=foraging}"
-    lee_think "I should try giving her some tasks — she might become pretty helpful."
-    lee_think "If it works out, I'll finish all the repairs much faster"
-    lee_think "and have fewer problems in getting food."
+    lee_think "她真的很有帮助。我应该试着给她分配任务。"
+    lee_think "如果她每天都给我带来一些东西，那我会更快地修完房子，也有利于食物问题的解决。"
 
 # game/scenes/chapter06/home.rpy:97
 translate chinese scene_chapter06_inside_2ff9347b:
 
     # lee_think "{e=catgirl}{e=cross_mark}{e=sleep}{e=bungalow4}"
-    lee_think "Cat continues to run away somewhere at night."
+    lee_think "猫女一晚上都试图逃跑。"
 
 # game/scenes/chapter06/home.rpy:98
 translate chinese scene_chapter06_inside_d2061100:
 
     # lee_think "{e=thinking_face}{e=catgirl}{e=arrow_right}{e=sleep}{e=bungalow4}"
-    lee_think "She needs her own space in the house, where she would feel warm and comfy to sleep."
+    lee_think "在这个房子里，她可以拥有属于自己的温暖又柔软的床"
 
 # game/scenes/chapter06/home.rpy:99
 translate chinese scene_chapter06_inside_ff1d4465:
@@ -38,21 +35,19 @@ translate chinese scene_chapter06_inside_ff1d4465:
 translate chinese scene_chapter06_inside_a69f1bb2:
 
     # lee_think "{e=light_bulb}{e=fish_big}{e=plus}{e=honey}{e=drooling_face}"
-    lee_think "She enjoyed the fish I'd cooked for her."
-    lee_think "Guess I'll cook it with honey this time, would be tasty for sure."
+    lee_think "她喜欢上次的鱼。这次用蜂蜜试试，她应该也会喜欢。"
 
 # game/scenes/chapter06/home.rpy:109
 translate chinese scene_chapter06_inside_35c20985:
 
     # lee_think "{e=thinking_face}{e=fish_big}{e=arrow_up}{e=catgirl}{e=heart}"
-    lee_think "I should keep catching the fish that Cat likes. Maybe we can get even closer that way."
+    lee_think "我们要继续钓猫喜欢的那种鱼，这样我们才能更接近她。"
 
 # game/scenes/chapter06/home.rpy:142
 translate chinese scene_chapter06_outro_8ab16916:
 
     # lee_think "{e=catgirl}{e=arrow_right}{e=eggplant}{e=strawberry}{e=smirk}"
-    lee_think "She's so wet, horny and arching her back in excitement."
-    lee_think "Is she ready for the next step?"
+    lee_think "她变得燥热起来，那里也湿了。或许我们可以进行下一步了？"
 
 # game/scenes/chapter06/home.rpy:153
 translate chinese scene_chapter06_outro_998445b3:
@@ -70,23 +65,19 @@ translate chinese scene_chapter06_outro_e001ce8a:
 translate chinese scene_chapter06_outro_174178c2:
 
     # lee_think "{e=hushed_face}{e=worried_face}{e=pensive_face}{e=catgirl}{e=arrow_right}"
-    lee_think "Oh crap! It got fucked up again! Just ran away, leaving me in this condition..."
-    lee_think "Brilliant!"
+    lee_think "糟了！不要！他妈的！她又跑了。而我处于这样的状态。。。棒极了！。。"
 
 # game/scenes/chapter06/home.rpy:190
 translate chinese scene_chapter06_outro_5c9ec907:
 
     # lee_think "{e=weary_face}{e=frowning_face}"
-    lee_think "Seems I just jumped the gun with all that."
-    lee_think "Guess she hasn't ever done this before and got scared of the thing."
-    lee_think "Would've been so funny if it wasn't sad."
+    lee_think "也许我太仓促了。看起来她以前从来没有搞过那个，她害怕我的东西。既可笑又可悲，哈哈！"
 
 # game/scenes/chapter06/home.rpy:201
 translate chinese scene_chapter06_outro_f18a5812:
 
     # lee_think "{e=eggplant}{e=take}{e=unamused_face}"
-    lee_think "And what am I supposed to do now?"
-    lee_think "Beat the hell out of my meat, that's what!"
+    lee_think "好吧，我怎么办呢？又要打飞机，还能做什么？！"
 
 # game/scenes/chapter06/home.rpy:214
 translate chinese scene_chapter06_outro_eb16a2df:

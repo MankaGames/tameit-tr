@@ -14,16 +14,15 @@ translate chinese scene_chapter09_tame_77c529c8:
 translate chinese scene_chapter09_tame_47690411:
 
     # lee_think "{e=gift}{e=smiling_face_with_hearts}{e=octa}{e=question_white}{e=thinking_face}"
-    lee_think "I wonder what she would like."
-    lee_think "I know she likes fruits, but could there be something that she might like even more?"
+    lee_think "我想知道她会喜欢什么？ 她似乎很喜欢水果，但也许有什么她特别喜欢的东西？"
 
 # game/scenes/chapter09/tame.rpy:65
 translate chinese scene_chapter09_tame_d9093360:
 
     # lee_think "{e=t-shirt}{e=surprised}{e=exclamation_white}"
-    lee_think "Oh, Isn’t it my T-shirt? How did it end up here? And other things too!"
-    lee_think "I never noticed all this stuff."
-    lee_think "I guess Octa picks up everything she considers interesting and brings it here."
+    lee_think "诶，那是我的t恤欸，它怎么在这里？"
+    lee_think "而且不止T恤！还有很多东西，我刚没注意到。"
+    lee_think "看来，奥克塔会收集他觉得有趣的东西。"
 
 # game/scenes/chapter09/tame.rpy:75
 translate chinese scene_chapter09_tame_59b58972:
@@ -35,16 +34,14 @@ translate chinese scene_chapter09_tame_59b58972:
 translate chinese scene_chapter09_tame_6f61da61:
 
     # lee_think "{e=thinking_face}{e=gift}{e=comb}{e=arrow_right}{e=octa}"
-    lee_think "It would be great to give her a comb."
-    lee_think "This will be an unusual and useful present for her."
+    lee_think "送她个梳子多好。对她来说，这肯定是个新奇又有用的东西。"
 
 # game/scenes/chapter09/tame.rpy:78
 translate chinese scene_chapter09_tame_01c66ba3:
 
     # lee_think "{e=magnifying_glass}{e=comb}{e=arrow_right}{e=airplane}{e=question_white}"
-    lee_think "But where could I find a comb?"
-    lee_think "Should I make it myself? I\u00A0doubt it will be any good."
-    lee_think "I’ll try to search the plane again to see if I can find anything of this kind."
+    lee_think "但是我去哪里弄到梳子？ 自己做？ 我怀疑是否会做出正经的好梳子。"
+    lee_think "我再试试在飞机上看看，或许会有什么梳子。"
 
 # game/scenes/chapter09/tame.rpy:105
 translate chinese scene_chapter09_tame_done_b1819cac:
@@ -56,6 +53,5 @@ translate chinese scene_chapter09_tame_done_b1819cac:
 translate chinese scene_chapter09_tame_done_2f84d4db:
 
     # lee_think "{e=lee}{e=handshake}{e=octa}{e=smiling_face}{e=exclamation_white}"
-    lee_think "My efforts paid off and looks like the little presents"
-    lee_think "that I was leaving for her brought us a little closer."
+    lee_think "我的努力没有白费，看来我们终于接近了一点，多亏了我留给她的小礼物。"
 

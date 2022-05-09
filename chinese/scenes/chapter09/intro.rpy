@@ -26,9 +26,9 @@ translate chinese scene_chapter09_intro_a96413f6:
 translate chinese scene_chapter09_intro_8cc14e76:
 
     # lee_think "{e=octa}{e=broken_heart}{e=beard}{e=lee}"
-    lee_think "This creature is just stunning! She, it’s her… Octa. Hmm, sounds pretty good!"
-    lee_think "The name just came out of the blue, but it suits her well.\nI wanna see her again."
-    lee_think "The beard makes me look like a total freak, though. She may get scared."
+    lee_think "这个生物太美了。 她，是她。。。奥克塔。"
+    lee_think "嗯，听起来不错。我脑子里突然就蹦出了这个名字，很适合她啊！"
+    lee_think "我想见见她，可我这胡子这么丑，她会怕我的！"
 
 # game/scenes/chapter09/intro.rpy:52
 translate chinese scene_chapter09_intro_a992278e:
@@ -58,13 +58,12 @@ translate chinese scene_chapter09_intro_7c98c2dc:
 translate chinese scene_chapter09_intro_e7fd8eee:
 
     # lee_think "{e=razor}{e=check_mark}{e=thinking_face}{e=shaving_foam}{e=question_white}"
-    lee_think "I do have a razor but it may get stuck and break in this thicket."
-    lee_think "I need some sort of shaving foam."
+    lee_think "有剃须刀了，但它会被这些灌木弄断吧，我需要剃须膏之类的。"
 
 # game/scenes/chapter09/intro.rpy:63
 translate chinese scene_chapter09_intro_a564daec:
 
     # lee_think "{e=berries}{e=arrow_right}{e=shaving_foam}{e=thinking_face}"
-    lee_think "Could I make some kind of shavng foam from berries?"
-    lee_think "Their pulp is quite slimy, so what if I make mash out of them and try to use it?"
+    lee_think "你能用浆果做剃须泡沫之类的东西吗？"
+    lee_think "浆果肉很粘，如果把浆果压成浆然后用呢？"
 

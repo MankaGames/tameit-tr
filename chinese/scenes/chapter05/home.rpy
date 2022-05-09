@@ -14,30 +14,26 @@ translate chinese scene_chapter05_inside_exit_f0dadcb3:
 translate chinese scene_chapter05_inside_08fd7836:
 
     # lee_think "{e=smirk}{e=shushing_face}{e=smiling_face_with_hearts}{e=smiling_face}"
-    lee_think "I must be more careful this time to not scare her off."
-    lee_think "I want her to get used to being around me."
-    lee_think "Maybe she will even like me after all."
+    lee_think "我一定很小心，不要像上次那样惊吓她。"
+    lee_think "我想让她习惯和我这么亲近。 也许我可以让她喜欢上我呢？"
 
 # game/scenes/chapter05/home.rpy:95
 translate chinese scene_chapter05_inside_5bf8a028:
 
     # lee_think "{e=thinking_face}{e=fish}{e=arrow_right}{e=catgirl}"
-    lee_think "Guess I'll just offer her some treats."
-    lee_think "I did stock up on food, so it'll be enough for both of us."
+    lee_think "我给她点好吃的，我有很多东西，够我们俩吃饱。"
 
 # game/scenes/chapter05/home.rpy:100
 translate chinese scene_chapter05_inside_6b6009b0:
 
     # lee_think "{e=smiling_face}{e=catgirl}"
-    lee_think "She took the food — great! She didn't even try to step back into a corner."
-    lee_think "That's a good sign, I guess."
+    lee_think "好的，拿走了食物，并没有躲在她的角落里—已经很好了。我做对了。"
 
 # game/scenes/chapter05/home.rpy:101
 translate chinese scene_chapter05_inside_41368456:
 
     # lee_think "{e=thinking_face}{e=say}{e=arrow_right}{e=catgirl}{e=question}"
-    lee_think "I'm still wondering if she can speak at all."
-    lee_think "I doubt she knows my language, but I think it's still worth a shot."
+    lee_think "我想了很久：她会说话吗？我觉得她听不懂我的语言，但还是可以试一试"
 
 # game/scenes/chapter05/home.rpy:107
 translate chinese scene_chapter05_inside_e703c833:
@@ -55,7 +51,7 @@ translate chinese scene_chapter05_inside_c652f5b4:
 translate chinese scene_chapter05_inside_f63d01d9:
 
     # cat "{e=confusion}"
-    cat "{e=confusion}{alt}*Confused*{/alt}"
+    cat "{e=confusion}{alt}*困惑*{/alt}"
 
 # game/scenes/chapter05/home.rpy:111
 translate chinese scene_chapter05_inside_5f81e3d5:
@@ -73,16 +69,14 @@ translate chinese scene_chapter05_inside_7bcf3479:
 translate chinese scene_chapter05_inside_f63d01d9_1:
 
     # cat "{e=confusion}"
-    cat "{e=confusion}{alt}*Confused*{/alt}"
+    cat "{e=confusion}{alt}*困惑*{/alt}"
 
 # game/scenes/chapter05/home.rpy:114
 translate chinese scene_chapter05_inside_13d60782:
 
     # lee_think "{e=thinking_face}{e=catgirl}{e=confusion}{e=frowning_face}"
-    lee_think "She doesn't seem to understand anything I say. Let me think."
-    lee_think "Could it be that she can't speak at all?"
-    lee_think "She was only making these cat sounds all the time. I don't know any sign language,"
-    lee_think "but there must be a way to set up a communication. Maybe we can make our sign system?"
+    lee_think "看来她根本不懂我在说什么。 要想一想。 也许她不会说话？ 一直以来，她只发出小猫的声音。"
+    lee_think " 我不会手语，但一定有某种交流方式。 或许我们可以拥有独特的交流方式？"
 
 # game/scenes/chapter05/home.rpy:120
 translate chinese scene_chapter05_inside_a227c91e:
@@ -118,8 +112,7 @@ translate chinese scene_chapter05_outro_47bb7635:
 translate chinese scene_chapter05_outro_a27cc721:
 
     # lee_think "{e=thermometer}{e=catgirl}{e=relieved}"
-    lee_think "She's so warm, so lovely. Damn, her heart is racing!"
-    lee_think "She's so scared, my god."
+    lee_think "她好温暖，好舒服。 心跳得特别快，真的怕了。"
 
 # game/scenes/chapter05/home.rpy:176
 translate chinese scene_chapter05_outro_7b7bc0d0:
@@ -131,16 +124,14 @@ translate chinese scene_chapter05_outro_7b7bc0d0:
 translate chinese scene_chapter05_outro_bbed1e73:
 
     # lee_think "{e=lee}{e=plus}{e=catgirl}{e=smiling_face}{e=relieved}"
-    lee_think "See, it's not so scary when we're together."
-    lee_think "Thanks to her, it feels much better now."
+    lee_think "好了，在一起就不怕了。 多亏了她，我也冷静下来了。"
 
 # game/scenes/chapter05/home.rpy:186
 translate chinese scene_chapter05_outro_6e99cc03:
 
     # lee_think "{e=thermometer}{e=catgirl}{e=smiling_face_with_hearts}{e=yawning_face}{e=sleep}"
-    lee_think "She's so close, so warm. And the rain goes off, it seems."
-    lee_think "Just look at her, dozed off clinging on me. My eyes are getting heavy too."
-    lee_think "I need some rest — let's sleep on it. Just leave the rest for tomorrow."
+    lee_think "她抱得那么紧，那么温暖。 看起来雨小了。 猫打瞌睡，紧贴着我，我的眼睛也困得睁不开。"
+    lee_think "我要休息了，剩下的事留到明天再做吧。"
 
 # game/scenes/chapter05/home.rpy:205
 translate chinese scene_chapter05_outro_f426c768:
@@ -158,9 +149,7 @@ translate chinese scene_chapter05_outro_08fd8cb9:
 translate chinese scene_chapter05_outro_bce18a01:
 
     # lee_think "{e=thinking_face}{e=catgirl}{e=question_white}"
-    lee_think "A more interesting question is — where's Cat?"
-    lee_think "As far as I remember, she was snuggling up on me all night."
-    lee_think "And now she's gone again."
+    lee_think "猫呢？ 她整个晚上都紧紧地抱着我，似乎她刚刚在我的怀里。"
 
 # game/scenes/chapter05/home.rpy:208
 translate chinese scene_chapter05_outro_23a0500c:
@@ -172,24 +161,20 @@ translate chinese scene_chapter05_outro_23a0500c:
 translate chinese scene_chapter05_outro_c1a50e63:
 
     # lee_think "{e=bungalow_wrecked}{e=arrow_right}{e=repair}"
-    lee_think "Well, that's a pity, but now I have more important things to do:"
-    lee_think "my house is a complete mess needs some serious repairs."
-    lee_think "I need to quickly fix it in case the storm returns."
-    lee_think "Wouldn't like to welcome Cat into this wreck of a bungalow."
+    lee_think "哦好吧，有点遗憾。但现在还有更重要的事要做："
+    lee_think "小屋需要修复。我必须尽快处理防止风暴再次来临。我也不希望小猫再回来时房屋仍是倒塌的。"
 
 # game/scenes/chapter05/home.rpy:125
 translate chinese scene_chapter05_inside_fbd0c56f:
 
     # lee_think "{e=take}{e=smirk}{e=night}{e=catgirl}"
-    lee_think "We've made good progress in our lessons."
-    lee_think "Don't even know yet, which words to teach her next."
-    lee_think "But I know where we can progress too..."
-    lee_think "I'll just keep fondling her every night until she starts asking for it herself"
+    lee_think "教她认识事物方面进展的不错。我还不知道接下来要教她什么单词。"
+    lee_think "但我知道我们可以在其他方面继续发展。 我会继续每晚抚摸她，直到她自己也渴求这个。"
 
 translate chinese strings:
 
     # game/scenes/chapter05/home.rpy:93
     # no length limit
     old "The dialog window allows you to communicate with characters, give them tasks, groom them and give them gifts."
-    new "The dialog window allows you to communicate with characters, give them tasks, groom them and give them gifts."
+    new "对话框允许您与角色交流，给他们任务，照顾、赠送礼物。"
 

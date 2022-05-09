@@ -2,8 +2,7 @@
 translate chinese scene_chapter08_lake_shore_5e2ae60d:
 
     # lee_think "{e=stick}{e=hammer}{e=lake_trap}{e=plus}{e=lake_trap}"
-    lee_think "I’ll make two grids out of strong sticks and put one of them at the source"
-    lee_think "of the river in the narrow bent section to block the creature."
+    lee_think "我要用结实的棍子做两个围栏，放在河流的起点和拐弯处的狭窄地方，这样它就无处可去。"
 
 # game/scenes/chapter08/lake_area.rpy:33
 translate chinese scene_chapter08_lake_shore_c4a26ae0:
@@ -21,8 +20,7 @@ translate chinese scene_chapter08_lake_shore_e42c9dbb:
 translate chinese scene_chapter08_lake_shore_7cf19d25:
 
     # lee_think "{e=banana}{e=berries}{ellipsis}{e=arrow_right}{e=worm}"
-    lee_think "But I still need to make a bait of different fruits and berries."
-    lee_think "Get everything that the creature may like."
+    lee_think "但是还需要各种水果和浆果，以及这种生物可能喜欢的所有东西做诱饵。"
 
 # game/scenes/chapter08/lake_area.rpy:128
 translate chinese scene_chapter08_lake_shore_trap1_e1f8674c:
@@ -112,8 +110,7 @@ translate chinese scene_chapter08_lake_shore_trap1_f9cbfdac:
 translate chinese scene_chapter08_lake_shore_trap1_67cab507:
 
     # lee_think "{e=octo_anon}{e=fishnet}{e=arrow_right}{e=lake}{e=frowning_face}"
-    lee_think "Pulled the net away as well! Freaking bad luck! All the efforts wasted!"
-    lee_think "At least we are still in one piece."
+    lee_think "渔网也随之被拖了下去！糟了！那么多努力白费了！好吧，至少我们安然无恙。"
 
 # game/scenes/chapter08/lake_area.rpy:162
 translate chinese scene_chapter08_lake_shore_trap1_3daaf39c:
@@ -167,7 +164,7 @@ translate chinese scene_chapter08_lake_shore_trap1_051afd3d:
 translate chinese scene_chapter08_lake_shore_trap2_0cba3f21:
 
     # lee "{e=shushing_face}{e=eyes}{e=arrow_right}{e=lake}"
-    lee "Now we stay put and keep our eyes peeled, understand?"
+    lee "现在我们静静地坐着看两边，明白吗？"
 
 # game/scenes/chapter08/lake_area.rpy:215
 translate chinese scene_chapter08_lake_shore_trap2_e974dbc2:
@@ -191,7 +188,7 @@ translate chinese scene_chapter08_lake_shore_trap2_6477f333:
 translate chinese scene_chapter08_lake_shore_trap2_dc2e7db2:
 
     # cat "{e=lake_trap}{e=arrow_down}{e=exclamation_white}"
-    cat "{e=lake_trap}{e=arrow_down}{e=exclamation_white}{alt}The gate! Down!{/alt}"
+    cat "{e=lake_trap}{e=arrow_down}{e=exclamation_white}{alt}围栏 ！向下！{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:231
 translate chinese scene_chapter08_lake_shore_trap2_32dbe370:
@@ -215,13 +212,13 @@ translate chinese scene_chapter08_lake_shore_trap2_8780f419:
 translate chinese scene_chapter08_lake_shore_trap2_aae24fa9:
 
     # lee "{e=fearful_face}{e=exclamation}{e=octo_anon}{e=boom}{e=lake_trap}"
-    lee "Shit! It’s breaking the gate!"
+    lee "他妈的！它打破围栏了。"
 
 # game/scenes/chapter08/lake_area.rpy:257
 translate chinese scene_chapter08_lake_shore_trap2_bc6b6280:
 
     # lee "{e=lake_trap}{e=octo_anon}{e=arrow_right}{e=persevering}"
-    lee "It will soon break out! The gate won’t last long!"
+    lee "它很快就要出去了！ 这个围栏快拦不住了！"
 
 # game/scenes/chapter08/lake_area.rpy:259
 translate chinese scene_chapter08_lake_shore_trap2_70e254ee:
@@ -245,8 +242,7 @@ translate chinese scene_chapter08_lake_shore_trap2_ebedfe64:
 translate chinese scene_chapter08_lake_shore_trap2_b4d8fcf8:
 
     # lee_think "{e=girl}{e=plus}{e=octopus}{e=dizzy_face}{e=question_white}"
-    lee_think "Do such creatures even exist? A human-octopus hybrid?\nAre you serious?"
-    lee_think "On the other hand though, Cat also exists…"
+    lee_think "这样的生物存在吗？人和章鱼的合体？真的吗？不过啊，这已经有猫女了 。"
 
 # game/scenes/chapter08/lake_area.rpy:274
 translate chinese scene_chapter08_lake_shore_trap2_2fc9390a:
@@ -270,8 +266,7 @@ translate chinese scene_chapter08_lake_shore_trap2_c165e187:
 translate chinese scene_chapter08_lake_shore_trap2_c803badf:
 
     # lee_think "{e=weary_face}"
-    lee_think "Damn it! Everything was in vain!"
-    lee_think "But at least I found out what creature it was and even took a closer look at her."
+    lee_think "真糟糕，这一切都是白费的！ 但还是知道了它是一种什么样的生物，甚至看都没看一下。"
 
 # game/scenes/chapter08/lake_area.rpy:292
 translate chinese scene_chapter08_lake_shore_trap2_38f3e465:
@@ -313,16 +308,13 @@ translate chinese scene_chapter08_lake_2052fe22:
 translate chinese scene_chapter08_lake_ab0c39ee:
 
     # lee_think "{e=shark}{e=arrow_right}{e=lake}{e=question_white}"
-    lee_think "Could there be an unusually big fish in this lake?"
-    lee_think "Something must be scaring the hell out of all the other fish"
-    lee_think "to make it jump right out of the water"
+    lee_think "也许这个湖里有异常大的鱼？毕竟有些东西吓坏了其他的鱼，导致它们从水里跳出来。"
 
 # game/scenes/chapter08/lake_area.rpy:350
 translate chinese scene_chapter08_lake_632e75dd:
 
     # lee_think "{e=crocodile}{e=fearful_face}{e=question_white}"
-    lee_think "Or could it even be… say… a croc?"
-    lee_think "Fuck, let it be something else! As if having a jaguar around is not enough!"
+    lee_think "或者这甚至是。。。哼。。。鳄鱼？天哪，不要鳄鱼！难道附近的美洲豹还不够啊！"
 
 # game/scenes/chapter08/lake_area.rpy:351
 translate chinese scene_chapter08_lake_3f9e1b74:
@@ -346,7 +338,7 @@ translate chinese scene_chapter08_lake_cca3c278:
 translate chinese scene_chapter08_lake_663b4b29:
 
     # lee_think "{e=poultry_leg}{e=question_white}{e=fish}{e=question_white}"
-    lee_think "Meat? Or, maybe, fish? If that’s some king of croc both would do."
+    lee_think "肉？或者一条鱼？如果是某种鳄鱼，那么两者都可以。"
 
 # game/scenes/chapter08/lake_area.rpy:369
 translate chinese scene_chapter08_lake_7cd90136:
@@ -388,7 +380,7 @@ translate chinese scene_chapter08_lake_fishnet_ca89e7da:
 translate chinese scene_chapter08_lake_7557f437:
 
     # lee_think "{e=thinking_face}{e=worm}{e=arrow_right}{e=fishnet}{e=question_white}"
-    lee_think "I wonder what bait would be the best."
+    lee_think "不知道用什么样的诱饵好"
 
 # game/scenes/chapter08/lake_area.rpy:33
 translate chinese scene_chapter08_lake_shore_8b07c55a:

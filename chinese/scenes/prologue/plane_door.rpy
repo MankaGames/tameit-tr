@@ -2,6 +2,4 @@
 translate chinese scene_prologue_plane_door_5ac4da9d:
 
     # lee_think "{e=scream}{e=exclamation}{e=poop}{e=exclamation}{e=skull}{e=exclamation}"
-    lee_think "Good heavens! That's it!\nI'm a goner!"
-    lee_think "I'm definitely gonna die here and now! I've never ever skydived in my life!"
-    lee_think "How is this shit even supposed to work?!"
+    lee_think "天呢！完蛋了！我要死了！现在在这里死掉！我没跳过伞！这鬼东西怎么用啊？"

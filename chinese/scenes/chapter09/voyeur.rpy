@@ -26,8 +26,7 @@ translate chinese scene_chapter09_voyeur_9cac1124:
 translate chinese scene_chapter09_voyeur_e0f7324b:
 
     # lee_think "{e=lee}{e=handshake}{e=octa}{e=question_white}{e=thinking_face}"
-    lee_think "What should I do to help her get used to me and stop being afraid?"
-    lee_think "Our first meeting didn’t go so well. Same as with Cat."
+    lee_think "我要怎么做他才能习惯不害怕我？我们连认识都不算。不过和猫女初次见面也不顺利。"
 
 # game/scenes/chapter09/voyeur.rpy:115
 translate chinese scene_chapter09_voyeur_a8b85143:

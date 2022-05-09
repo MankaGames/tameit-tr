@@ -20,7 +20,7 @@ translate chinese scene_chapter11_home_81e2067b:
 translate chinese scene_chapter11_fishing_cat_89be29e8:
 
     # cat_think "{e=fishing}{e=no}{e=water}{e=persevering}"
-    cat_think "{e=fishing}{e=no}{e=water}{e=persevering}{alt}No, I don't want to fish! The water's yuck. What if I fall in the water?! Brrr!{/alt}"
+    cat_think "{e=fishing}{e=no}{e=water}{e=persevering}{alt}不，我不想钓鱼! 水，呸！ 如果我掉进水里怎么办？ 呸！{/alt}"
 
 # game/scenes/chapter11/home.rpy:201
 translate chinese scene_chapter11_inside_5af7d767:
@@ -86,8 +86,9 @@ translate chinese scene_chapter11_inside_ee2b51a1:
 translate chinese scene_chapter11_inside_feed_special_c373df69:
 
     # lee "{e=health}{e=arrow_up}{e=slightly_smiling_face}"
-    lee "Cat. Hey, my girl! I feel kinda better. You’re healing me with something, right?"
-    lee "I sleep most of the time and can’t think straight, but today I feel better than before."
+    lee "猫。 美女好。 感觉好一点了。"
+    lee "你是用什么东西给我疗伤，对吗？"
+    lee "我一直睡觉，并且有点儿糊涂，但现在我肯定比昨天感觉好多了。"
 
 # game/scenes/chapter11/home.rpy:274
 translate chinese scene_chapter11_inside_feed_special_8b569331:
@@ -243,9 +244,8 @@ translate chinese scene_chapter11_basin_outro_f493ab05:
 translate chinese scene_chapter11_basin_outro_c81b5a8b:
 
     # lee "{e=blush}{e=hug}{e=octa}{e=catgirl}"
-    lee "Yes, and I owe it all to you and Octa! Thank you so much!"
-    lee "I would have surely died without you."
-    lee "That jaguar wounded me more severely than I initially thought."
+    lee "是的，这一切都归功于你和 奥克塔。 谢谢！"
+    lee "没有你们，我肯定会死的。 这只美洲豹对我的伤害比我起初想象的要大。"
 
 # game/scenes/chapter11/home.rpy:457
 translate chinese scene_chapter11_basin_outro_b2055714:
@@ -257,6 +257,5 @@ translate chinese scene_chapter11_basin_outro_b2055714:
 translate chinese scene_chapter11_basin_outro_d9c5a85c:
 
     # lee "{e=laughing}{e=exclamation_white}{e=catgirl}{e=question_white}{e=kiss_face}"
-    lee "Oh-wow! What are you doing, Kitty! Mmm… when did you learn to do that stuff?"
-    lee "That feels so good!"
+    lee "哦-哦！ 你干吗，小猫！ 嗯，你什么时候学会这个？ 好舒服！"
 

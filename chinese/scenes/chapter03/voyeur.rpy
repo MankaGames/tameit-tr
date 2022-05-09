@@ -2,9 +2,8 @@
 translate chinese scene_chapter03_voyeur_973a7b7d:
 
     # lee_think "{e=smirk}{e=light_bulb}{e=shushing_face}{e=eye}"
-    lee_think "Wow, it's her again! It must be my lucky day!"
-    lee_think "I need to be quiet this time in order not to spook her."
-    lee_think "Maybe I could find out what exactly she is."
+    lee_think "哇哦，又是她。 我好幸运！ "
+    lee_think "我们必须保持安静，不要像上次那样把她吓跑。 也许你可以弄清楚她是什么"
 
 # game/scenes/chapter03/voyeur.rpy:85
 translate chinese scene_chapter03_voyeur_40cf4ca6:
@@ -22,7 +21,6 @@ translate chinese scene_chapter03_voyeur_02792aa1:
 translate chinese scene_chapter03_voyeur_23bcebf3:
 
     # lee_think "{e=heart_eyes}{e=strawberry}{e=peach}{e=boobs}{e=fire}"
-    lee_think "Yet she's extremely hot, so flexible, and that body, damn..."
-    lee_think "I know she is not human, but I just can't help myself."
-    lee_think "I can't take my eyes off her. Is it okay that I find this creature appealing?"
+    lee_think "不过，这只小猫还是很美！ 如此灵活，身材苗条 。"
+    lee_think "当然，她不完全是人，但怎么办？ 艳丽夺目。喜欢这样的生物正常吗？"
 

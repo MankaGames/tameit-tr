@@ -14,13 +14,13 @@ translate chinese scene_chapter02_home_1cb1a6cf:
 translate chinese scene_chapter02_home_ba3e841c:
 
     # lee_think "{e=thinking_face}{e=knife}{e=arrow_right}{e=spear}"
-    lee_think "What if I attach my knife to some stick? Can pass for a\u00A0spear."
+    lee_think "如果我把刀绑在棍子上，就得到长矛了。"
 
 # game/scenes/chapter02/home.rpy:16
 translate chinese scene_chapter02_home_17260d7f:
 
     # lee_think "{e=stick}{e=rock}{e=knife}{e=rope}{e=arrow_right}{e=spear}"
-    lee_think "I need a stick, a rock, a couple of ropes, and a knife to make a\u00A0spear."
+    lee_think "制作长矛我需要一根木棍、一块石头、两条绳子和我的刀子。"
 
 # game/scenes/chapter02/home.rpy:17
 translate chinese scene_chapter02_home_06e81aeb:

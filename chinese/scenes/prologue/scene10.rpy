@@ -2,8 +2,7 @@
 translate chinese scene_prologue_scene100_f5487570:
 
     # lee_think "{e=tonya}{e=blush}{e=heart}"
-    lee_think "Oh, wow! She's even prettier than I expected."
-    lee_think "That bottle rolled away pretty conveniently."
+    lee_think "哇塞！近看更漂亮！这瓶水掉的真巧！"
 
 # game/scenes/prologue/scene10.rpy:26
 translate chinese scene_prologue_scene100_535cf5da:
@@ -21,7 +20,7 @@ translate chinese scene_prologue_scene100_e4422dda:
 translate chinese scene_prologue_scene100_f94dae95:
 
     # tonya "{e=seat}{e=question}"
-    tonya "Why don't you sit down next to me? As you can see\nthe second chair is empty."
+    tonya "想不想坐在我旁边？你看到了吧，副驾驶座是空的。"
 
 # game/scenes/prologue/scene10.rpy:33
 translate chinese scene_prologue_scene100_161bb2dc:
@@ -45,11 +44,11 @@ translate chinese scene_prologue_scene100_57017a68:
 translate chinese scene_prologue_scene100_0593d100:
 
     # tonya "{e=yoke}{e=question}"
-    tonya "Maybe wanna steer? \nHave you ever tried it?"
+    tonya "开过飞机吗？想试试吗？"
 
 # game/scenes/prologue/scene10.rpy:37
 translate chinese scene_prologue_scene100_1e495d0d:
 
     # lee "{e=star_struck}{e=exclamation}"
-    lee "No, I've never tried it, \nbut that would be awesome!"
+    lee "没开过，但我想试试。"
 

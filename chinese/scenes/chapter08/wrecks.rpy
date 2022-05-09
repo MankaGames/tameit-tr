@@ -8,8 +8,8 @@ translate chinese scene_chapter08_wrecks_5f1f09d9:
 translate chinese scene_chapter08_wrecks_plane1_d9b1e923:
 
     # lee_think "{e=magnifying_glass}{e=no}{e=confused_face}"
-    lee_think "I searched the whole cabin, but looks like there’s nothing there."
-    lee_think "There’s no trace of Tonya and nothing useful."
+    lee_think "我把整个机舱都看了一遍，但这里似乎什么都没有。"
+    lee_think "没有托妮娅的痕迹，没有任何用处。"
 
 # game/scenes/chapter08/wrecks.rpy:33
 translate chinese scene_chapter08_wrecks_plane1_8af47926:
@@ -27,9 +27,8 @@ translate chinese scene_chapter08_wrecks_plane1_3ee5067d:
 translate chinese scene_chapter08_wrecks_plane1_f9c831f3:
 
     # lee_think "{e=thinking_face}{e=light_bulb}{e=arrow_right}{e=hammer}{e=plane_ladder}"
-    lee_think "Hell! I thought I could climb up using the seats,"
-    lee_think "but it’s not so easy and many of them are barely holding."
-    lee_think "Oh, I know! I can make a ladder!"
+    lee_think "糟了，我以为我可以爬上座位去，但似乎没有作用，很多座位都勉强保持在原位。"
+    lee_think "我知道了！可以做楼梯啊！"
 
 # game/scenes/chapter08/wrecks.rpy:36
 translate chinese scene_chapter08_wrecks_plane1_f994eb42:
@@ -101,15 +100,14 @@ translate chinese scene_chapter08_wrecks_plane3_4ff9f247:
 translate chinese scene_chapter08_wrecks_plane3_ca9bd7ee:
 
     # lee "{e=laughing}{e=panties}{e=arrow_right}{e=butt}"
-    lee "Ho-ho! That’s not the right body part to put it on!"
-    lee "I’ll show you the right way to wear it later."
+    lee "哈哈！这个你穿错了！给我吧，以后告诉你怎么穿。"
 
 # game/scenes/chapter08/wrecks.rpy:89
 translate chinese scene_chapter08_wrecks_plane3_366a38c3:
 
     # lee_think "{e=take}{e=panties}{e=arrow_right}{e=inventory}"
-    lee_think "I guess these are Tonya’s panties. I’ll keep them."
-    lee_think "I even remember taking them off her, even though seems like it was in another life."
+    lee_think "好像是托妮娅的内裤。我还是带走吧。"
+    lee_think "我还记得自己帮她脱过，但好像在前世似的。"
 
 # game/scenes/chapter08/wrecks.rpy:118
 translate chinese scene_chapter08_wrecks_plane_cockpit_f7dedd69:
@@ -121,8 +119,7 @@ translate chinese scene_chapter08_wrecks_plane_cockpit_f7dedd69:
 translate chinese scene_chapter08_wrecks_plane_cockpit_8bcfa4bd:
 
     # lee_think "{e=relieved}{e=cockpit}{e=no}{e=blood}"
-    lee_think "No trace of blood – that’s already good."
-    lee_think "I was afraid that everything here would be covered with blood or even…"
+    lee_think "看不到血迹，已经很好。我害怕这里所有的东西上有血，甚至。。。"
 
 # game/scenes/chapter08/wrecks.rpy:121
 translate chinese scene_chapter08_wrecks_plane_cockpit_d44cec2c:
@@ -164,8 +161,7 @@ translate chinese scene_chapter08_wrecks_plane_door_right_02fc6bac:
 translate chinese scene_chapter08_wrecks_plane_door_right_view_2a064218:
 
     # lee_think "{e=arrow_up}{e=confounded face}"
-    lee_think "Wow, it’s quite high!"
-    lee_think "I had no idea there was such a steep cliff and a waterfall beyond the hill."
+    lee_think "哇，好高啊！没想到山后有这么陡峭的悬崖，甚至还有瀑布。"
 
 # game/scenes/chapter08/wrecks.rpy:175
 translate chinese scene_chapter08_wrecks_plane_door_right_view_42e4152b:
@@ -195,8 +191,7 @@ translate chinese scene_chapter08_wrecks_plane_door_right_view_0aa6c134:
 translate chinese scene_chapter08_wrecks_plane_door_right_view_622e1172:
 
     # lee_think "{e=me}{e=footprints}{e=hut}{e=question_white}{e=thinking_face}"
-    lee_think "How can I make it to the other side?"
-    lee_think "It’s too far away to use a ladder or a rope and there’s no way to fix them there."
+    lee_think "我怎么到那里啊？离那悬崖边太远了，梯子和绳子都不能扔过去，也没法钩住。"
 
 # game/scenes/chapter08/wrecks.rpy:183
 translate chinese scene_chapter08_wrecks_plane_door_right_view_21075f7a:
@@ -208,29 +203,27 @@ translate chinese scene_chapter08_wrecks_plane_door_right_view_21075f7a:
 translate chinese scene_chapter08_wrecks_plane_door_right_view_9df8f2c1:
 
     # lee_think "{e=eyes}{e=exclamation}{e=jaguar}{e=scream}"
-    lee_think "That is a jaguar!"
-    lee_think "Now I’m even glad that there’s an opening between us and it can’t jump over."
+    lee_think "是美洲豹！现在我甚至高兴这个悬崖把我们隔开了，他不能跳到这里。"
 
 # game/scenes/chapter08/wrecks.rpy:188
 translate chinese scene_chapter08_wrecks_plane_door_right_view_96053fc5:
 
     # lee_think "{e=tiger}{e=jaguar}{e=exclamation}{e=cold_sweat}{e=confounded face}"
-    lee_think "So the island does have big predators!"
-    lee_think "Maybe during my first nights on the island it wasn’t Cat but the jaguar growling."
+    lee_think "原来岛上还有这种 猛兽？！或许那时，来岛上的第一个晚上，"
+    lee_think "我听到的不是猫，而是从远方来的这只美洲豹的咆哮？"
 
 # game/scenes/chapter08/wrecks.rpy:189
 translate chinese scene_chapter08_wrecks_plane_door_right_view_f97d2779:
 
     # lee_think "{e=thinking_face}{e=back}{e=jaguar}{e=arrow_right}{e=hut}"
-    lee_think "I need to get to the other side anyway!"
-    lee_think "Should look for alternative routes. There has to be a way to reach the hut!"
+    lee_think "但我还是要以某种方式到达这座岛的另一边！我们需要找到绕行的道路。"
+    lee_think "一定有办法到达那个窝棚！"
 
 # game/scenes/chapter08/wrecks.rpy:190
 translate chinese scene_chapter08_wrecks_plane_door_right_view_a5db052d:
 
     # lee_think "{e=spear}{e=torch}{e=gallows_2}{e=jaguar}"
-    lee_think "I also need to get ready to deal with the beast in case we meet."
-    lee_think "I have a spear, a torch and ropes, but I’m not sure if it’s enough."
+    lee_think "同时，也要提前准备和那头野兽的会面。我有长矛、火把和绳子，这些够不够？"
 
 # game/scenes/chapter08/wrecks.rpy:191
 translate chinese scene_chapter08_wrecks_plane_door_right_view_9de9c4ae:

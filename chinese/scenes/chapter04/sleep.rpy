@@ -8,7 +8,7 @@ translate chinese scene_sleep_chapter04_3c90cbbc:
 translate chinese scene_sleep_chapter04_de9d01ee:
 
     # lee_think "{e=cold_face}{e=confounded face}"
-    lee_think "It's damn f-f-freezing!\nEven worse than the first nights here!"
+    lee_think "好冷啊，他妈的！比前几天晚上还要冷！"
 
 # game/scenes/chapter04/sleep.rpy:38
 translate chinese scene_sleep_chapter04_3c90cbbc_1:
@@ -32,21 +32,21 @@ translate chinese strings:
 
     # game/scenes/chapter04/sleep.rpy:47
     old "{e=catgirl}{e=strawberry}{e=smiling_face_with_hearts}{e=eggplant}"
-    new "Mhm, baby, what are you doing to me... Oh, please, don't stop!"
+    new "嗯。。。小猫，宝贝，你在对我做什么？。。哦，是啊，继续！"
 
     # game/scenes/chapter04/sleep.rpy:50
     old "{e=lightning}{e=cold_sweat}{e=persevering}"
-    new "Thunder! Fuck, it turned into a real lightning storm! It's raining cats and dogs already."
+    new "打雷了！他妈的，雷暴开始了！暴雨如注，在我的窝棚里根本躲不了。"
 
     # game/scenes/chapter04/sleep.rpy:51
     old "{e=lee}{e=hammer}{e=bungalow4}"
-    new "I must build a house before I freeze my ass off!"
+    new "我需要房子！越快越好！"
 
     # game/scenes/chapter04/sleep.rpy:56
     old "{e=foraging}{e=banana}{e=poultry_leg}{e=fuel}{e=arrow_right}{e=inventory}"
-    new "I should stock up on food."
+    new "要准备食物"
 
     # game/scenes/chapter04/sleep.rpy:57
     old "{e=storm}{e=exclamation}{e=bungalow4}{e=no}{e=desert island}"
-    new "I won't have a chance to leave the house if the weather gets worse."
+    new "当暴风雨加剧时，我可能无法离开家。"
 

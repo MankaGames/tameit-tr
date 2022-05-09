@@ -2,12 +2,10 @@
 translate chinese scene_chapter13_intro_cafb8d66:
 
     # lee_think "{e=octa}{e=catgirl}{e=smiling_face_with_hearts}{e=smirk}{ellipsis}"
-    lee_think "It was awesome yesterday! Who could’ve thought that Cat would pull that trick?"
-    lee_think "I guess she did it out of curiosity. Funny."
-    lee_think "She was so jealous before and then suddenly got us into a threesome."
-    lee_think "And then Octa… amazing!"
-    lee_think "Everything turned out to be much easier with her than with Cat."
-    lee_think "Perhaps she’s quite inquisitive by nature and open to new experience."
+    lee_think "昨天真是太棒了。我从来没有想过猫会做这样的事情。"
+    lee_think "她自己似乎也很好奇。有趣。她以前很嫉妒，突然安排了双飞3p。"
+    lee_think "还有奥克塔 。。。哇！说到她，一切都比猫容易多了。"
+    lee_think "她似乎天生好奇，不介意尝试新的。"
 
 # game/scenes/chapter13/intro.rpy:35
 translate chinese scene_chapter13_intro_6dc3e1c1:

@@ -2,8 +2,7 @@
 translate chinese scene_chapter13_tonya_side_7285d524:
 
     # lee "{e=tonya}{e=eyes}{e=exclamation_white}{e=airplane}{e=smiley}"
-    lee "And here is the plane! I saw you hut from the cockpit for the first time"
-    lee "and realized that I needed to get to this side of the island no matter what."
+    lee "飞机在那里！从驾驶舱里，我第一次看到了你的小屋，并意识到无论如何都要到达岛上的这一边。"
 
 # game/scenes/chapter13/tonya_side.rpy:24
 translate chinese scene_chapter13_tonya_side_80a03145:
@@ -93,22 +92,19 @@ translate chinese scene_chapter13_tonya_home_3c28b4e8:
 translate chinese scene_chapter13_tonya_home_8aa7352e:
 
     # tonya "{e=you}{e=lee}{e=question_white}{e=dizzy_face}"
-    tonya "Is it really you? I can’t believe my eyes! You’ve changed so\u00A0much!"
-    tonya "I barely recognized you! But I’ve gotta look totally different too now!"
+    tonya "真的是你吗？不可能！你完全变了！我差点认出你！但我现在可能看起来也不一样。"
 
 # game/scenes/chapter13/tonya_side.rpy:142
 translate chinese scene_chapter13_tonya_home_95cef622:
 
     # tonya "{e=take}{e=lee}{e=no}{e=sleeping_face}{e=thought_balloon}"
-    tonya "Let me touch you coz I just can’t believe it’s real\nand I’m not dreaming."
+    tonya "让我摸摸你，我还是不敢相信我不是在做梦。"
 
 # game/scenes/chapter13/tonya_side.rpy:151
 translate chinese scene_chapter13_tonya_home_a220db4f:
 
     # lee "{e=me}{e=hourglass}{e=magnifying_glass}{e=you}{e=tear_smile}"
-    lee "Tonya… I can’t believe it too."
-    lee "I hoped to find you, but now that I’ve done it, things don’t seem real."
-    lee "I’ve been looking for you for so long."
+    lee "托妮娅。。。我不相信。我希望，但现在觉得不切实际。我找你这么久了。"
 
 # game/scenes/chapter13/tonya_side.rpy:152
 translate chinese scene_chapter13_tonya_home_0fd3e394:
@@ -120,10 +116,9 @@ translate chinese scene_chapter13_tonya_home_0fd3e394:
 translate chinese scene_chapter13_tonya_home_9b449926:
 
     # lee "{e=me}{e=arrow_right}{e=airplane}{e=no}{e=tonya}"
-    lee "Yes. I found the plane. It fell on my side of the island."
-    lee "You must’ve seen it from the hill."
-    lee "But, of course, you weren’t there and I found no clues as to where you could be."
-    lee "But I never lost hope and continued searching. I saw smoke but couldn’t get here."
+    lee "是的。我找到了飞机，它坠毁在我的岛上。"
+    lee "你一定从山上见过。当然，你不在那里，也没有任何迹象表明你在哪里。"
+    lee "但我一直希望，一直寻找。我看到了烟雾，但我无法到这里。"
 
 # game/scenes/chapter13/tonya_side.rpy:154
 translate chinese scene_chapter13_tonya_home_0d9951f6:
@@ -135,10 +130,8 @@ translate chinese scene_chapter13_tonya_home_0d9951f6:
 translate chinese scene_chapter13_tonya_home_58933736:
 
     # tonya "{e=airplane}{e=arrow_down}{e=desert island}{e=pensive_face}"
-    tonya "I thought I could land the plane, but it crashed."
-    tonya "The trees must’ve cushioned it and saved from total destruction."
-    tonya "I saw it on the other side, but the jaguar would hang around all the time."
-    tonya "I couldn’t even take a proper look at the wreckage."
+    tonya "我以为我仍然可以使飞机着陆，但它坠毁了。树木应该不让它完全破坏。"
+    tonya "我在峡谷的另一边看到了，但美洲豹一直在附近徘徊，我连残骸也不能好好看看。"
 
 # game/scenes/chapter13/tonya_side.rpy:156
 translate chinese scene_chapter13_tonya_home_a112e14b:
@@ -162,28 +155,25 @@ translate chinese scene_chapter13_tonya_home_0eb007ef:
 translate chinese scene_chapter13_tonya_home_b49a5b61:
 
     # lee "{e=swim}{e=arrow_right}{e=desert island}{e=night}{e=dizzy_face}"
-    lee "Still don’t know how I got to the shore in the dark before fainting."
-    lee "When I came to it was already morning."
+    lee "奇迹般地，在黑暗中到达了岸边，失去了知觉。早上才醒来了。"
 
 # game/scenes/chapter13/tonya_side.rpy:164
 translate chinese scene_chapter13_tonya_home_1e79e8f9:
 
     # lee "{e=magnifying_glass}{e=weed}{e=health}{e=relieved}"
-    lee "I was lucky to find some healing weed, then water and food."
-    lee "Fortunately banana trees and coconut palms grew right on the shore."
+    lee "我很幸运能够立即找到有药效的海草，还有水和食物。幸好香蕉树和椰子树就生长在岸边。"
 
 # game/scenes/chapter13/tonya_side.rpy:165
 translate chinese scene_chapter13_tonya_home_0ac9d722:
 
     # lee "{e=hourglass}{e=arrows_counterclockwise}{e=ok_hand}{e=slightly_smiling_face}"
-    lee "Little by little I somehow settled on the island and then got used to it."
-    lee "Even built myself a small house."
+    lee "渐渐地习惯了这个岛，然后就习惯了一切。甚至建了一座小房子。"
 
 # game/scenes/chapter13/tonya_side.rpy:166
 translate chinese scene_chapter13_tonya_home_62971f8d:
 
     # tonya "{e=thumbs_up}{e=smiling_face}"
-    tonya "You’ve done really well! I\u00A0hoped you’d manage to\u00A0make it."
+    tonya "你很棒，我希望你能成功。"
 
 # game/scenes/chapter13/tonya_side.rpy:169
 translate chinese scene_chapter13_tonya_home_5c096595:
@@ -195,8 +185,7 @@ translate chinese scene_chapter13_tonya_home_5c096595:
 translate chinese scene_chapter13_tonya_home_31e729c5:
 
     # lee "{e=hammer}{e=camp}{e=sparkles}{e=muscle}"
-    lee "Then I quickly learned what’s what, built a hut just like you and started surviving."
-    lee "I would say, it’s quite a paradise island!"
+    lee "然后很快就弄清了情况，建造了一个小屋，就像你一样，也努力生存。一般来说，这是一个天堂岛！"
 
 # game/scenes/chapter13/tonya_side.rpy:171
 translate chinese scene_chapter13_tonya_home_e9e68ef1:
@@ -214,8 +203,7 @@ translate chinese scene_chapter13_tonya_home_7cc0320b:
 translate chinese scene_chapter13_tonya_home_da469511:
 
     # lee "{e=jaguar}{e=exclamation_white}{e=weary_face}{e=no}{e=footprints}"
-    lee "It’s because of the opening and the damn jaguar!"
-    lee "That’s the reason why it took me so long to get here!"
+    lee "都怪山沟和该死的美洲豹！这就是为什么我不能来这里这么久！"
 
 # game/scenes/chapter13/tonya_side.rpy:175
 translate chinese scene_chapter13_tonya_home_f0d63cea:
@@ -227,14 +215,13 @@ translate chinese scene_chapter13_tonya_home_f0d63cea:
 translate chinese scene_chapter13_tonya_home_d8f5c108:
 
     # lee "{e=cave}{e=mountain}{e=arrow_right}{e=tonya}{e=desert island}"
-    lee "There’s a cave there. You must’ve seen it yourself."
-    lee "It goes right through the mountain and I used it to get here."
+    lee "那里有一个洞穴，你应该可看到过入口。我从那个山洞过来的。"
 
 # game/scenes/chapter13/tonya_side.rpy:180
 translate chinese scene_chapter13_tonya_home_8fee0474:
 
     # lee "{e=jaguar}{e=wound}{e=me}{e=persevering}{e=skull_and_crossbones}"
-    lee "The jaguar nearly killed me, but I managed to kill it with a\u00A0weapon and shield."
+    lee "美洲豹差点要了我的命，但多亏了武器和盾牌，我成功地打败了它。"
 
 # game/scenes/chapter13/tonya_side.rpy:181
 translate chinese scene_chapter13_tonya_home_9bd40234:
@@ -258,8 +245,7 @@ translate chinese scene_chapter13_tonya_home_bd0fd65a:
 translate chinese scene_chapter13_tonya_home_7ad2a3c6:
 
     # lee "{e=halberd}{e=crossed_swords}{e=jaguar}{e=muscle}{e=sparkles}"
-    lee "I had a great weapon so I took care of it in no time."
-    lee "A couple of well-aimed hits and the freak kicked off."
+    lee "我随身携带了一把出色的武器，所以我很快就处理了它。打了几下，它就死了。"
 
 # game/scenes/chapter13/tonya_side.rpy:188
 translate chinese scene_chapter13_tonya_home_d148a1d1:
@@ -283,26 +269,24 @@ translate chinese scene_chapter13_tonya_home_519c7649:
 translate chinese scene_chapter13_tonya_home_1628026e:
 
     # lee "{e=eye}{e=girl}{e=cat}{e=arrow_right}{e=catgirl}"
-    lee "I know that my story may sound like total bullshit, but first I met a cat-girl."
-    lee "Just imagine – a human and a cat, all in one!"
-    lee "I saw such things only in comic books and in movies."
-    lee "I even though I was seeing things after staying out in the sun for too long."
-    lee "In some time we made friends, or maybe I tamed it – depends on how you look at it."
+    lee "我知道我的故事可能听起来完全是胡说八道，但我先遇到了一个猫女孩。"
+    lee "一个人和一只猫合二为一，你想象得出来吗?！我只在漫画中看到过，还有电影。"
+    lee "起初，我以为是我脑袋被晒糊涂了，但没有。"
+    lee "久而久之，我们就和她成了朋友，或者我驯服了她，这取决于怎么看，呵呵。"
 
 # game/scenes/chapter13/tonya_side.rpy:197
 translate chinese scene_chapter13_tonya_home_f357b188:
 
     # lee "{e=lake}{e=girl}{e=octopus}{e=arrow_right}{e=octa}"
-    lee "And then I found a girl-octopus in the lake."
-    lee "I thought there was a monster there, but it turned out to be a cute creature."
-    lee "She is not talkative but inquisitive and kind."
+    lee "然后在湖里发现了一个章鱼女孩。"
+    lee "我以为那里住着某种怪物，原来是这样的生物。她话少，，但好奇而善良。"
 
 # game/scenes/chapter13/tonya_side.rpy:198
 translate chinese scene_chapter13_tonya_home_4f77c0de:
 
     # tonya "{e=astonished_face}{e=question_white}{e=exploding_head}{e=exclamation_white}"
-    tonya "What?! That is unbelievable! How is it even possible?!"
-    tonya "I saw nothing of that kind. Just the jaguar and the seagulls. And crabs."
+    tonya "什么？？我简直不敢相信自己的耳朵！"
+    tonya "这怎么可能？！我这里谁也没有人！只有美洲豹和海鸥。嗯，还有螃蟹。"
 
 # game/scenes/chapter13/tonya_side.rpy:199
 translate chinese scene_chapter13_tonya_home_bf8b40d4:
@@ -344,15 +328,14 @@ translate chinese scene_chapter13_tonya_home_fc14aa5b:
 translate chinese scene_chapter13_tonya_home_c84f2d1d:
 
     # lee "{e=muscle}{e=steam_from_nose}{e=ok_hand}{e=beaming_face}"
-    lee "Oh, that’s OK! I’m a former scout! I quickly remembered my training and it was fine!"
-    lee "There was no time to be lonely or afraid – I had to focus on survival!"
+    lee "噗，这算什么？我是前侦察兵！我什么都很快就想起了！没有时间无聊、害怕，得活下去！"
 
 # game/scenes/chapter13/tonya_side.rpy:210
 translate chinese scene_chapter13_tonya_home_56e2a316:
 
     # tonya "{e=rolling_eyes}{e=unamused_face}"
-    tonya "Oh really… and I did have a hard time here."
-    tonya "It’s a pity we didn’t meet earlier ‘cuz I could really use your help."
+    tonya "原来如此。。。但我在这里过得很艰难。"
+    tonya "可惜我们没有早点见面，你的帮助对我很有用。"
 
 # game/scenes/chapter13/tonya_side.rpy:212
 translate chinese scene_chapter13_tonya_home_aecbb07a:
@@ -376,8 +359,7 @@ translate chinese scene_chapter13_tonya_home_51993bde:
 translate chinese scene_chapter13_tonya_home_6072e746:
 
     # lee "{e=exclamation_white}{e=storm}{e=persevering}"
-    lee "Absolutely! That freaking storm blew a half of my house away!"
-    lee "I thought it would be the death of me."
+    lee "对啊！该死的风暴！房子的一半儿被吹走了，我以为我完蛋了。"
 
 # game/scenes/chapter13/tonya_side.rpy:220
 translate chinese scene_chapter13_tonya_home_f7d6a78a:
@@ -395,15 +377,13 @@ translate chinese scene_chapter13_tonya_home_3a06d57b:
 translate chinese scene_chapter13_tonya_home_7b44ca00:
 
     # lee "{e=pleading_face}{e=pensive_face}{e=me}{e=no}{e=hug}"
-    lee "I’m so sorry I was not around at that moment! It would’ve been easier together."
-    lee "I would protect and help you."
+    lee "很抱歉我当时不在！在一起会更容易的。我会保护你的、帮助你。"
 
 # game/scenes/chapter13/tonya_side.rpy:226
 translate chinese scene_chapter13_tonya_home_2207b123:
 
     # lee "{e=rain}{e=ok_hand}{e=beaming_face}{e=bungalow4}{e=muscle}"
-    lee "Just a heavier rain. No big deal."
-    lee "And my hut turned out to be quite strong, so it didn’t get badly damaged."
+    lee "嗨，只是场暴雨，没大问题的。而且我的小屋很坚固，几乎没有损坏 "
 
 # game/scenes/chapter13/tonya_side.rpy:227
 translate chinese scene_chapter13_tonya_home_d586ac17:
@@ -421,31 +401,31 @@ translate chinese scene_chapter13_tonya_home_88203352:
 translate chinese scene_chapter13_tonya_home_old_friend_67dd13e7:
 
     # lee "{e=relieved}{e=tonya}{e=handshake}{e=heart}{e=lee}"
-    lee "It’s good that we survived the storm and got together again."
+    lee "还好暴风雨过去了。我们现在在一起。"
 
 # game/scenes/chapter13/tonya_side.rpy:235
 translate chinese scene_chapter13_tonya_home_old_friend_ad811db4:
 
     # tonya "{e=yes}{e=smiling_face}"
-    tonya "Yeah…"
+    tonya "是的"
 
 # game/scenes/chapter13/tonya_side.rpy:236
 translate chinese scene_chapter13_tonya_home_old_friend_d56e0ce3:
 
     # lee "{e=tonya}{ellipsis}{e=pleading_face}"
-    lee "Tonya, you know…"
+    lee "托妮娅，你知道吗。。。"
 
 # game/scenes/chapter13/tonya_side.rpy:237
 translate chinese scene_chapter13_tonya_home_old_friend_3eda9ade:
 
     # lee "{e=sleeping_face}{e=thought_balloon}{e=tonya}{e=smiling_face_with_hearts}"
-    lee "…I missed you. Even saw you in my dreams."
+    lee "。。。我很想你。我甚至梦见了你。"
 
 # game/scenes/chapter13/tonya_side.rpy:239
 translate chinese scene_chapter13_tonya_home_old_friend_f1c7896a:
 
     # tonya "{e=me}{e=blush}"
-    tonya "I also often thought about you."
+    tonya "我也经常想你。"
 
 # game/scenes/chapter13/tonya_side.rpy:240
 translate chinese scene_chapter13_tonya_home_old_friend_477952aa:
@@ -493,15 +473,14 @@ translate chinese scene_chapter13_tonya_home_escape_plan_ff8820b8:
 translate chinese scene_chapter13_tonya_home_escape_plan_c8888385:
 
     # lee "{e=no}{e=stone_tablet}{e=arrow_right}{e=map}"
-    lee "I was shocked myself when I found it. It’s a big stone map!"
-    lee "I still haven’t assembled it completely, but many things are clear even now."
+    lee "我发现时，自己也吃了一惊。 大石头地图！"
+    lee "我还没有拼完，但很多东西已经很清楚了。明白了很多？"
 
 # game/scenes/chapter13/tonya_side.rpy:271
 translate chinese scene_chapter13_tonya_home_escape_plan_d051cebb:
 
     # lee "{e=map}{e=arrow_right}{e=desert island}{e=desert island}{e=desert island}"
-    lee "It shows this island and neighboring islands."
-    lee "Judging by the picture the islands are not so far away from each other."
+    lee "它描绘了这个岛屿和附近的岛屿。 看来，这些岛屿并不那么远。"
 
 # game/scenes/chapter13/tonya_side.rpy:272
 translate chinese scene_chapter13_tonya_home_escape_plan_c20702a5:
@@ -537,7 +516,7 @@ translate chinese scene_chapter13_tonya_home_escape_plan_b4d286af:
 translate chinese scene_chapter13_tonya_home_escape_plan_ea0c98c2:
 
     # lee "{e=yes}{e=map}{e=puzzle}{e=stone_tablet}"
-    lee "Yes, it’s like a puzzle made of\u00A0stone pieces."
+    lee "是的，它就像一块石头拼图。"
 
 # game/scenes/chapter13/tonya_side.rpy:278
 translate chinese scene_chapter13_tonya_home_escape_plan_9bc61810:
@@ -555,17 +534,16 @@ translate chinese scene_chapter13_tonya_home_escape_plan_02687229:
 translate chinese scene_chapter13_tonya_home_escape_plan_288bfb7e:
 
     # tonya "{e=magnifying_glass}{e=stone_tablet}{e=arrow_down}{e=beach}"
-    tonya "I found it here on the beach."
-    tonya "But I haven’t seen any other pieces and didn’t know what it was. "
+    tonya "在海滩上找到的。但我再也没有找到过，也不知道是什么。"
 
 # game/scenes/chapter13/tonya_side.rpy:284
 translate chinese scene_chapter13_tonya_home_escape_plan_aab4c3e7:
 
     # lee "{e=stone_tablet}{e=exclamation_white}{e=map}{e=yes}{e=smiley}"
     if len(cave_map_pieces_collected) == 12:
-        lee "We don’t need any more! This\u00A0is the last missing piece!"
+        lee "再也不需要！只差这一块！"
     else:
-        lee "Excellent! That’s exactly what we need!"
+        lee "棒极了！这就是我们需要的！"
 
 # game/scenes/chapter13/tonya_side.rpy:285
 translate chinese scene_chapter13_tonya_home_escape_plan_445a27b9:
@@ -733,39 +711,39 @@ translate chinese strings:
 
     # game/scenes/chapter13/tonya_side.rpy:158
     old "{e=relieved}"
-    new "Truth"
+    new "真相"
 
     # game/scenes/chapter13/tonya_side.rpy:158
     old "{e=sunglasses}"
-    new "Bragging"
+    new "炫耀"
 
     # game/scenes/chapter13/tonya_side.rpy:190
     old "{e=speak}{e=girls}"
-    new "Tell about the girls"
+    new "介绍一下奥克塔和猫"
 
     # game/scenes/chapter13/tonya_side.rpy:190
     old "{e=no}{e=speak}{e=girls}"
-    new "Don't tell about the girls"
+    new "不介绍奥克塔和猫"
 
     # game/scenes/chapter13/tonya_side.rpy:215
     old "{e=relieved}{e=pleading_face}"
-    new "Sympathy"
+    new "同情"
 
     # game/scenes/chapter13/tonya_side.rpy:215
     old "{e=sunglasses}{e=muscle}"
-    new "Bravado"
+    new "故作强硬"
 
     # game/scenes/chapter13/tonya_side.rpy:427
     old "{e=girls}{e=yes}{e=raft}"
-    new "Take the girls with you"
+    new "带她们走"
 
     # game/scenes/chapter13/tonya_side.rpy:427
     old "{e=girls}{e=no}{e=raft}"
-    new "Don't take the girls with you"
+    new "不带她们走"
 
     # game/scenes/chapter13/tonya_side.rpy:406
     # no text limit for this phrase
     # use \n for line break
     old "{e=no}{e=back}{e=finish}{e=question_white}"
-    new "You’re about to enter the final stage of the game.\nYou will not be able to get back to the island. Are you ready to continue?"
+    new "您正在进入游戏的最后阶段。\n无法再回到岛上。\n继续吗？"
 

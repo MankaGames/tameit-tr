@@ -2,16 +2,13 @@
 translate chinese scene_chapter04_behindriver1_9baf518a:
 
     # lee_think "{e=eyes}{e=magnifying_glass}{e=desert island}{e=footprints}"
-    lee_think "Time to find out what's out there, over the river!"
-    lee_think "I should've done it a long time ago."
-    lee_think "What if I can find something useful here?"
+    lee_think "是时候了解一下河对岸是什么！早就应该去那里。万一那里有什么有用的东西？"
 
 # game/scenes/chapter04/behindriver.rpy:13
 translate chinese scene_chapter04_behindriver1_600dda1a:
 
     # lee_think "{e=magnifying_glass}{e=arrow_right}{e=smoke}"
-    lee_think "I have to find a source of that smoke."
-    lee_think "That was surely a bonfire that should've been made by someone."
+    lee_think "我必须找到烟雾的来源。这一定是一个大篝火，这意味着那一定有人。"
 
 # game/scenes/chapter04/behindriver.rpy:14
 translate chinese scene_chapter04_behindriver1_87fb70f8:
@@ -23,9 +20,8 @@ translate chinese scene_chapter04_behindriver1_87fb70f8:
 translate chinese scene_chapter04_behindriver2_e60c4f4d:
 
     # lee_think "{e=dead_end}{e=hushed_face}{e=frowning_face}"
-    lee_think "Oh, crap! That huge tree is blocking the whole road.\nI can't go any further."
-    lee_think "I'll think it over later."
-    lee_think "Maybe I could climb over it or find a way around?"
+    lee_think "糟了！这棵大树完全挡住了路，不能再往前走了。"
+    lee_think "好吧，我稍后再考虑，也许我可以爬过去或者找到别的路？"
 
 # game/scenes/chapter04/behindriver.rpy:28
 translate chinese scene_chapter04_behindriver2_7ef48b3c:
@@ -55,6 +51,5 @@ translate chinese scene_chapter04_behindriver2_19046b9f:
 translate chinese scene_chapter04_behindriver2_ff299a3d:
 
     # lee_think "{e=thinking_face}{e=tar}{e=arrow_right}{e=torch}"
-    lee_think "If it's flammable, I could use it to make a torch! That would be nice!"
-    lee_think "Let's collect it and experiment."
+    lee_think "也许适合做火把的？！要收集，试试"
 

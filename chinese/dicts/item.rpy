@@ -2,305 +2,305 @@
 
     # game/dicts/item.rpy:2
     old "Palm leaves"
-    new "Palm leaves"
+    new "棕榈叶"
 
     # game/dicts/item.rpy:2
     old "Stones"
-    new "Stones"
+    new "石头"
 
     # game/dicts/item.rpy:2
     old "Sticks"
-    new "Sticks"
+    new "棍子"
 
     # game/dicts/item.rpy:2
     old "Seaweed"
-    new "Seaweed"
+    new "海藻"
 
     # game/dicts/item.rpy:2
     old "Bananas"
-    new "Bananas"
+    new "香蕉"
 
     # game/dicts/item.rpy:2
     old "Coconuts"
-    new "Coconuts"
+    new "椰子"
 
     # game/dicts/item.rpy:2
     old "Poultry Leg"
-    new "Poultry Leg"
+    new "鸡腿"
 
     # game/dicts/item.rpy:2
     old "Fish"
-    new "Fish"
+    new "鱼"
 
     # game/dicts/item.rpy:2
     old "Crab"
-    new "Crab"
+    new "螃蟹"
 
     # game/dicts/item.rpy:2
     old "Mushroom"
-    new "Mushroom"
+    new "蘑菇"
 
     # game/dicts/item.rpy:2
     old "Strange Mushroom"
-    new "Strange Mushroom"
+    new "奇怪的蘑菇"
 
     # game/dicts/item.rpy:2
     old "Wild Berries"
-    new "Wild Berries"
+    new "浆果"
 
     # game/dicts/item.rpy:2
     old "Coconut Bowl"
-    new "Coconut Bowl"
+    new "椰子壳"
 
     # game/dicts/item.rpy:2
     old "Coconut Bowl with Water"
-    new "Coconut Bowl with Water"
+    new "装水的椰子壳"
 
     # game/dicts/item.rpy:2
     old "Soup"
-    new "Soup"
+    new "汤"
 
     # game/dicts/item.rpy:2
     old "Fruit Salad"
-    new "Fruit Salad"
+    new "水果沙拉"
 
     # game/dicts/item.rpy:2
     old "Mushroom Soup"
-    new "Mushroom Soup"
+    new "蘑菇汤"
 
     # game/dicts/item.rpy:2
     old "Honey"
-    new "Honey"
+    new "蜂蜜"
 
     # game/dicts/item.rpy:2
     old "Rope"
-    new "Rope"
+    new "绳子"
 
     # game/dicts/item.rpy:2
     old "Tar"
-    new "Tar"
+    new "树脂"
 
     # game/dicts/item.rpy:2
     old "Torch"
-    new "Torch"
+    new "火把"
 
     # game/dicts/item.rpy:2
     old "Knife"
-    new "Knife"
+    new "刀"
 
     # game/dicts/item.rpy:2
     old "Spear"
-    new "Spear"
+    new "长矛"
 
     # game/dicts/item.rpy:2
     old "Fishing Pole"
-    new "Fishing Pole"
+    new "钓竿"
 
     # game/dicts/item.rpy:2
     old "Grappling Hook"
-    new "Grappling Hook"
+    new "带钩绳子"
 
     # game/dicts/item.rpy:2
     old "Paddle"
-    new "Paddle"
+    new "桨"
 
     # game/dicts/item.rpy:2
     old "Empty Bottle"
-    new "Empty Bottle"
+    new "空瓶子"
 
     # game/dicts/item.rpy:2
     old "Bottle with Water"
-    new "Bottle with Water"
+    new "水瓶"
 
     # game/dicts/item.rpy:2
     old "Plane door"
-    new "Plane door"
+    new "飞机门"
 
     # game/dicts/item.rpy:2
     old "Door Handle"
-    new "Door Handle"
+    new "门把手"
 
     # game/dicts/item.rpy:2
     old "Tonya's Photo"
-    new "Tonya's Photo"
+    new "托妮娅的照片"
 
     # game/dicts/item.rpy:2
     old "Bra"
-    new "Bra"
+    new "胸罩"
 
     # game/dicts/item.rpy:2
     old "Fur"
-    new "Fur"
+    new "毛皮"
 
     # game/dicts/item.rpy:2
     old "Tonya's Panties"
-    new "Tonya's Panties"
+    new "托妮娅的内裤"
 
     # game/dicts/item.rpy:2
     old "Bungalow Wall"
-    new "Bungalow Wall"
+    new "小屋的墙壁"
 
     # game/dicts/item.rpy:2
     old "Lever"
-    new "Lever"
+    new "杠杆"
 
     # game/dicts/item.rpy:2
     old "Hook"
-    new "Hook"
+    new "钩"
 
     # game/dicts/item.rpy:2
     old "Propeller Blade"
-    new "Propeller Blade"
+    new "螺旋桨叶"
 
     # game/dicts/item.rpy:2
     old "Fishnet"
-    new "Fishnet"
+    new "渔网"
 
     # game/dicts/item.rpy:2
     old "Spring"
-    new "Spring"
+    new "弹簧"
 
     # game/dicts/item.rpy:2
     old "Razor"
-    new "Razor"
+    new "剃刀"
 
     # game/dicts/item.rpy:2
     old "Shaving Cream"
-    new "Shaving Cream"
+    new "剃须膏"
 
     # game/dicts/item.rpy:2
     old "Comb"
-    new "Comb"
+    new "梳子"
 
     # game/dicts/item.rpy:2
     old "Fireflies"
-    new "Fireflies"
+    new "萤火虫"
 
     # game/dicts/item.rpy:2
     old "Pearls"
-    new "Pearls"
+    new "珍珠"
 
     # game/dicts/item.rpy:2
     old "Boot"
-    new "Boot"
+    new "鞋子"
 
     # game/dicts/item.rpy:2
     old "Pottery"
-    new "Pottery"
+    new "碎片"
 
     # game/dicts/item.rpy:2
     old "Coral Fish"
-    new "Coral Fish"
+    new "珊瑚鱼"
 
     # game/dicts/item.rpy:2
     old "Big Fish"
-    new "Big Fish"
+    new "大鱼"
 
     # game/dicts/item.rpy:2
     old "Big Fish with Honey"
-    new "Big Fish with Honey"
+    new "蜂蜜大鱼"
 
     # game/dicts/item.rpy:2
     old "Pearl Necklace"
-    new "Pearl Necklace"
+    new "珍珠项链"
 
     # game/dicts/item.rpy:2
     old "Chocolate"
-    new "Chocolate"
+    new "巧克力"
 
     # game/dicts/item.rpy:89
     old "Metal Sheet"
-    new "Metal Sheet"
+    new "金属板"
 
     # game/dicts/item.rpy:89
     old "Shovel"
-    new "Shovel"
+    new "铲子"
 
     # game/dicts/item.rpy:89
     old "Coconut Bra"
-    new "Coconut Bra"
+    new "椰子胸罩"
 
     # game/dicts/item.rpy:89
     old "Plane Seat"
-    new "Plane Seat"
+    new "乘客座位"
 
     # game/dicts/item.rpy:89
     old "Nirnroot"
-    new "Nirnroot"
+    new "奈恩根"
 
     # game/dicts/item.rpy:89
     old "Halberd"
-    new "Halberd"
+    new "戟"
 
     # game/dicts/item.rpy:89
     old "Crystal"
-    new "Crystal"
+    new "水晶"
 
     # game/dicts/item.rpy:89
     old "Halberd Axe"
-    new "Halberd Axe"
+    new "戟头"
 
     # game/dicts/item.rpy:89
     old "Halberd Shaft"
-    new "Halberd Shaft"
+    new "杆"
 
     # game/dicts/item.rpy:89
     old "Glowing Mushroom"
-    new "Glowing Mushroom"
+    new "发光的蘑菇"
 
     # game/dicts/item.rpy:89
     old "Ointment"
-    new "Ointment"
+    new "药膏"
 
     # game/dicts/item.rpy:89
     old "Broken Mirror"
-    new "Broken Mirror"
+    new "破碎的镜子"
 
     # game/dicts/item.rpy:89
     old "Mirror"
-    new "Mirror"
+    new "镜子"
 
     # game/dicts/item.rpy:89
     old "Jam"
-    new "Jam"
+    new "果酱"
 
     # game/dicts/item.rpy:91
     old "Shield"
-    new "Shield"
+    new "盾"
 
     # game/dicts/item.rpy:91
     old "Stone Tablet"
-    new "Stone Tablet"
+    new "石片"
 
     # game/dicts/item.rpy:91
     old "Jaguar Skin"
-    new "Jaguar Skin"
+    new "美洲豹皮"
 
     # game/dicts/item.rpy:91
     old "Paper"
-    new "Paper"
+    new "纸"
 
     # game/dicts/item.rpy:91
     old "Parachute"
-    new "Parachute"
+    new "降落伞"
 
     # game/dicts/item.rpy:91
     old "Sail"
-    new "Sail"
+    new "船帆"
 
     # game/dicts/item.rpy:91
     old "Cloth"
-    new "Cloth"
+    new "布料"
 
     # game/dicts/item.rpy:91
     old "Metal Paddle"
-    new "Metal Paddle"
+    new "金属桨"
 
     # game/dicts/item.rpy:91
     old "Raw Jaguar Skin"
-    new "Raw Jaguar Skin"
+    new "美洲豹生皮"
 
     # game/dicts/item.rpy:91
     old "Paper Mass"
-    new "Paper Mass"
+    new "纸浆"
 

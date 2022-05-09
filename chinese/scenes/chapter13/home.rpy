@@ -8,8 +8,7 @@ translate chinese scene_chapter13_home_feed3021:
 translate chinese scene_chapter13_home_228660cf:
 
     # lee_think "{e=pouting_face}{e=arrow_right}{e=lee}{e=question_white}{e=pleading_face}"
-    lee_think "Whoops! They don’t seem to be in a good mood."
-    lee_think "They are surely mad at me for going away for so long."
+    lee_think "哎呀，她们的心情似乎不太好。她们一定很生气，因为我离开了这么久。"
 
 # game/scenes/chapter13/home.rpy:48
 translate chinese scene_chapter13_home_2fef7356:
@@ -225,7 +224,7 @@ translate chinese scene_chapter13_home_6ff50ea6:
 translate chinese scene_chapter13_home_614a1eb6:
 
     # lee "{e=catgirl}{e=octa}{e=no}{e=swim}{e=ocean}"
-    lee "You won’t have to swim!\nThe raft sails on water and we stay on it."
+    lee "你们不必在水里游泳！木筏漂浮在水面上，我们在上面。"
 
 # game/scenes/chapter13/home.rpy:101
 translate chinese scene_chapter13_home_259b2565:
@@ -255,7 +254,7 @@ translate chinese scene_chapter13_home_04049e03:
 translate chinese scene_chapter13_home_82489c6b:
 
     # octa "{e=octa}{e=no}{e=lee}{e=scream}"
-    octa "{e=octa}{e=no}{e=lee}{e=scream}{alt}-{/alt}"
+    octa "{e=octa}{e=no}{e=lee}{e=scream}{alt}NOTDONE{/alt}"
 
 # game/scenes/chapter13/home.rpy:106
 translate chinese scene_chapter13_home_4b2c3789:
@@ -381,8 +380,7 @@ translate chinese scene_chapter13_home_4724dfdd:
 translate chinese scene_chapter13_home_d889ba03:
 
     # lee "{e=open_hands}{e=happy_sweat}{e=no}{e=hug}"
-    lee "Calm down baby! Of course not! Made up such nonsense, silly girl!"
-    lee "Come over let me give you a hug."
+    lee "冷静点宝贝！当然不是！你在想什么，你这个笨蛋！过来，让我抱抱你。"
 
 # game/scenes/chapter13/home.rpy:177
 translate chinese scene_chapter13_home_76ca8166:
@@ -394,9 +392,9 @@ translate chinese strings:
 
     # game/scenes/chapter13/home.rpy:56
     old "{e=speak}{e=tonya}"
-    new "Tell about Tonya"
+    new "介绍托妮娅"
 
     # game/scenes/chapter13/home.rpy:56
     old "{e=speak}{e=no}{e=tonya}"
-    new "Don't tell about Tonya"
+    new "不介绍托妮娅"
 

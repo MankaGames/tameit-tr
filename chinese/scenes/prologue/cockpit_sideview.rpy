@@ -2,8 +2,7 @@
 translate chinese scene_prologue_cockpit_sideview_57f9f054:
 
     # lee_think "{e=sparkles}{e=cloud}{e=bird}{e=smiley}"
-    lee_think "What a nice view from up here!"
-    lee_think "Much better than looking through a small porthole."
+    lee_think "风景好美啊！完全不一样！小小的舷窗比不上！"
 
 # game/scenes/prologue/cockpit_sideview.rpy:49
 translate chinese scene_prologue_cockpit_sideview_8e678bbe:
@@ -15,7 +14,7 @@ translate chinese scene_prologue_cockpit_sideview_8e678bbe:
 translate chinese scene_prologue_cockpit_sideview_7c9efd05:
 
     # lee "{e=exclamation_question}{e=hushed_face}{e=question}"
-    lee "What's happening? Have I just pressed anything?"
+    lee "发生了什么？是不是我按了什么？"
 
 # game/scenes/prologue/cockpit_sideview.rpy:59
 translate chinese scene_prologue_cockpit_sideview_9f558ff8:
@@ -27,8 +26,8 @@ translate chinese scene_prologue_cockpit_sideview_9f558ff8:
 translate chinese scene_prologue_cockpit_sideview_drink_79914201:
 
     # lee_think "{e=exclamation_question}{e=tonya}{e=boobs}{e=heart}{e=flushed_face}{e=boobs}"
-    lee_think "It shook again and now all the water is on her shirt. \nHow awkward..."
-    lee_think "On the other side, though her shirt is completely transparent."
+    lee_think "哎呦，又 颠簸 了。水都洒她身上了。有点尴尬。"
+    lee_think "那倒也不错! 她的衬衫变得全透明。"
     lee_think "连她的奶子我都看得清！"
 
 # game/scenes/prologue/cockpit_sideview.rpy:94
@@ -53,7 +52,7 @@ translate chinese scene_prologue_cockpit_sideview_drink_72702b29:
 translate chinese scene_prologue_cockpit_sideview_drink_993d09c5:
 
     # lee "{e=ok_hand}"
-    lee "Um... Ok!"
+    lee "嗯...好吧！"
 
 # game/scenes/prologue/cockpit_sideview.rpy:105
 translate chinese scene_prologue_cockpit_sideview_drink_b81b206f:
@@ -65,8 +64,7 @@ translate chinese scene_prologue_cockpit_sideview_drink_b81b206f:
 translate chinese scene_prologue_cockpit_sideview_voyeur_endgame_708ebfae:
 
     # lee_think "{e=flushed_face}{e=strawberry}{e=peach}{e=boobs}"
-    lee_think "Wow! That was totally worth it!"
-    lee_think "She has such a nice body! Glad she decided to completely change her clothes."
+    lee_think "哇塞！没白来！身材真棒！他还决定换所有的衣服。"
 
 # game/scenes/prologue/cockpit_sideview.rpy:127
 translate chinese scene_prologue_cockpit_sideview_voyeur_endgame_88b8ccae:
@@ -129,7 +127,7 @@ translate chinese scene_prologue_cockpit_sideview_tonya_return_e13a6387:
     if 'prologue_voyeur' in persistent.gallery:
         lee_think "Oh, shoot! Her hand just slid right over my... but I still have a boner after what I've seen."
     else:
-        lee_think "Oh, shoot! Her hand just slid right over my..."
+        lee_think "糟了！她的手就碰了一下我的。。。"
     lee_think "Maybe she won't notice or at least pretend she didn't?"
 
 # game/scenes/prologue/cockpit_sideview.rpy:173
@@ -138,13 +136,11 @@ translate chinese scene_prologue_cockpit_sideview_tonya_return_16ba244f:
     # tonya_think "{e=astonished_face}{e=eggplant}{e=heart}"
     tonya_think "不小啊！你这里好大呀！我喜欢。"
 
-    "Pretending to look at the readings, Tonya gently"
-    "and slowly starts to stroke Lee's dick through his pants."
-    "She just teases him, preventing from cumming. Then she leans toward him,"
-    "circles his ear with her tongue, attentively watching his reaction."
-    "Lee freezes up, thrilled and confused, but isn't trying to push her away."
-    "Tonya deftly pulls up her tight skirt, leans over Lee's seat, pushes him back a little,"
-    "then sits down on his lap and unzips his pants, pulling out fully erect, drooling dick. "
+    "托妮娅假装看飞行仪表的同时，手慢慢伸进他的裤子，开始轻抚他火辣之处。"
+    "她只是挑逗他，可是不让射。然后她靠向他，用舌头圈住他的耳朵，看他如何反应。"
+    "他愣住了，又不好意思又着急，但又不曾推开她。"
+    "托妮娅撩裙子，俯身在他的椅子前边，挪一下他，坐在他的大腿上。"
+    "解开他裤子的拉链，把勃起的肉棒拉出来，开始舔舐他的肉棒。"
 
 translate chinese strings:
 
@@ -154,11 +150,11 @@ translate chinese strings:
 
     # game/scenes/prologue/cockpit_sideview.rpy:109
     old "{e=lee}{e=arrow_right}{e=wc}"
-    new "Go to the restroom"
+    new "去洗手间
 
     # game/scenes/prologue/cockpit_sideview.rpy:109
     old "{e=lee}{e=yoke}{e=airplane}"
-    new "Stay in the cockpit"
+    new "留在驾驶舱"
 
 # game/scenes/prologue/cockpit_sideview.rpy:165
 translate chinese scene_prologue_cockpit_sideview_tonya_return_63bba0ab:

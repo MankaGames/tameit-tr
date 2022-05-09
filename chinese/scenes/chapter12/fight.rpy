@@ -8,8 +8,7 @@ translate chinese scene_chapter12_fight_eacfa942:
 translate chinese scene_chapter12_fight_2027fe22:
 
     # lee_think "{e=angry}{e=crossed_swords}{e=jaguar}{e=arrow_right}{e=cave}"
-    lee_think "But I need to try cuz there’s no other way to get through the cave"
-    lee_think "and I just have to get on the other side of the island."
+    lee_think "但是我必须要试试，不然我进不去山洞的，但是我要到岛屿的另一边。"
 
 # game/scenes/chapter12/fight.rpy:22
 translate chinese scene_chapter12_fight_aa5e926b:
@@ -39,8 +38,7 @@ translate chinese scene_chapter12_fight_done_b615a652:
 translate chinese scene_chapter12_fight_done_8db687f3:
 
     # lee_think "{e=dizzy_face}{e=weary_face}"
-    lee_think "Whew, but I’m absolutely exhausted! I’m aching all over. No strength to move."
-    lee_think "But this time it didn’t claw me so badly as before."
+    lee_think "呼，不过我好累啊！浑身疼。没有力气动。但这一次，它好像没有像当时那样狠狠地抓破我。"
 
 # game/scenes/chapter12/fight.rpy:60
 translate chinese scene_chapter12_fight_done_477c21e5:

@@ -9,8 +9,7 @@ translate chinese scene_prologue_lee_place_ef4fad28:
 translate chinese scene_prologue_lee_place_6a1acff2:
 
     # lee_think "{e=cloud}{e=bird}"
-    lee_think "Calm down, there's nothing to worry about. The weather report was good."
-    lee_think "Only me, seagulls and clear skies."
+    lee_think "冷静！只有我的航班，成群的海鸥和干净的云彩，天气也好极了！没有什么需要担心的！"
 
 # game/scenes/prologue/lee_place.rpy:45
 translate chinese scene_prologue_lee_place_b2b1da17:
@@ -22,28 +21,27 @@ translate chinese scene_prologue_lee_place_b2b1da17:
 translate chinese scene_prologue_lee_place_4ac84862:
 
     # lee_think "{e=exit}{e=relieved}"
-    lee_think "Okay, I need to take my mind off this."
-    lee_think "By the way, where's the emergency exit? \nFine, it is right over there."
+    lee_think "哦对了，紧急出口在哪儿？哦！不远，棒极了。OK，我需要转移下注意力。"
 
 # game/scenes/prologue/lee_place.rpy:196
 translate chinese scene_prologue_lee_place_drink_a064951c:
 
     # lee_think "{e=water bottle}{e=tonya}{e=question}"
-    lee_think "Should I perhaps bring the bottle back to her?"
+    lee_think "应该要把水交给托妮娅吧？"
 
 translate chinese strings:
 
     # game/scenes/prologue/lee_place.rpy:199
     old "{e=water bottle}{e=arrow_right}{e=tonya}"
-    new "Bring it back."
+    new "交给托妮娅。"
 
     # game/scenes/prologue/lee_place.rpy:199
     old "{e=water bottle}{e=arrow_right}{e=lee}"
-    new "Take a sip."
+    new "自己喝。"
 
 translate chinese strings:
 
     # game/scenes/prologue/lee_place.rpy:162
     old "{e=cloud boobs}{e=exclamation}"
-    new "Hehe, I see some titty-shaped clouds."
+    new "这是奶子！奶子型的云彩哈！"
 

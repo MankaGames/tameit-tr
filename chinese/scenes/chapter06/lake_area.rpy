@@ -8,16 +8,14 @@ translate chinese scene_chapter06_rockway_1b8efc13:
 translate chinese scene_chapter06_rockway_6ca4acd1:
 
     # lee_think "{e=smiley}{e=hive}{e=exclamation_white}"
-    lee_think "Oh, a hive! It must be my lucky day! The one I've been using got destroyed by the flames."
-    lee_think "For a second there, I thought there would be no more honey for me."
+    lee_think "蜂巢。我今天很幸运！上次的那个跟树都被烧毁了，我以为我没有蜂蜜了。"
 
 # game/scenes/chapter06/lake_area.rpy:14
 translate chinese scene_chapter06_rockway_733f38e0:
 
     # lee_think "{e=smoke}{e=no}{e=eyes}"
-    lee_think "I can't see the smoke anymore."
-    lee_think "Could the storm destroy that bonfire just like mine?"
-    lee_think "I'm sure the smoke was that way. I need to move on."
+    lee_think "从这里看不到烟。也许跟我一样，篝火被风暴刮灭了？"
+    lee_think "但我记得我在那个方向看到过烟。要继续走。"
 
 # game/scenes/chapter06/lake_area.rpy:33
 translate chinese scene_chapter06_lake_shore_99c89fe2:
@@ -29,9 +27,8 @@ translate chinese scene_chapter06_lake_shore_99c89fe2:
 translate chinese scene_chapter06_lake_shore_c2475901:
 
     # lee_think "{e=lake}{e=water}{e=exclamation_white}"
-    lee_think "My goodness, a whole lake of fresh water, who would've thought!"
-    lee_think "If it were not for my building the bridge and the storm kicking in"
-    lee_think "I wouldn't have even discovered this place."
+    lee_think "天呢！一整湖淡水，真没想到！"
+    lee_think "如果我没有建桥，如果不是因为暴风雨，我可能不会走到这个地方。"
 
 # game/scenes/chapter06/lake_area.rpy:35
 translate chinese scene_chapter06_lake_shore_72011906:
@@ -43,30 +40,26 @@ translate chinese scene_chapter06_lake_shore_72011906:
 translate chinese scene_chapter06_lake_shore_ddc7c836:
 
     # lee_think "{e=airplane}{e=astonished_face}{e=exclamation_white}"
-    lee_think "Geez! It's a plane! I got so caught up with the lake I didn't even notice it at first."
-    lee_think "I should get closer and inspect it."
+    lee_think "他妈的！是飞机！这座湖让我高兴得没有立即注意到它。我必须走近些并查看。"
 
 # game/scenes/chapter06/lake_area.rpy:37
 translate chinese scene_chapter06_lake_shore_28cac388:
 
     # lee_think "{e=thinking_face}{e=smoke}{e=arrow_right}{e=tonya}{e=question_white}"
-    lee_think "No doubt, the smoke was coming from somewhere there. If that's the same plane —"
-    lee_think "there's a chance Tonya survived too!"
+    lee_think "烟雾就是从那一边的某个地方传来。如果说这是我们乘坐的飞机，那么托尼亚一定死里逃生了！"
 
 # game/scenes/chapter06/lake_area.rpy:54
 translate chinese scene_chapter06_wrecks_43e34169:
 
     # lee_think "{e=lee}{e=arrow_right}{e=airplane}{e=arrow_down}{e=desert island}"
-    lee_think "That is definitely the plane that took me here."
-    lee_think "There's no doubt now when I'm standing here."
+    lee_think "这么近的距离，我可以确定这就是我所乘坐的飞机，毫无疑问。"
 
 # game/scenes/chapter06/lake_area.rpy:55
 translate chinese scene_chapter06_wrecks_6baef6e3:
 
     # lee_think "{e=tonya}{e=parachute}{e=desert island}{e=thinking_face}{e=question_white}"
-    lee_think "If Tonya jumped out with the parachute just like I did —"
-    lee_think "she may be here on the island too. I have to try to find her! Maybe try calling for her?"
-    lee_think "What if she's not so far away, right behind this hill!"
+    lee_think "托妮娅可以像我一样，跳伞，降落在这个岛。"
+    lee_think "我必须设法找到她！也许可以试试叫叫她？如果她就在附近，比如就在山后面，那她一定能听到！"
 
 # game/scenes/chapter06/lake_area.rpy:56
 translate chinese scene_chapter06_wrecks_5f71f848:
@@ -84,8 +77,7 @@ translate chinese scene_chapter06_wrecks_6c1081f5:
 translate chinese scene_chapter06_lake_9c275715:
 
     # lee_think "{e=fish}{e=arrow_up}"
-    lee_think "I bet there's plenty of various fish here that I can easily catch."
-    lee_think "Gonna be a cakewalk compared to fishing in the fast-flowing river near my place."
+    lee_think "这座湖里肯定有各种各样的鱼，和我小屋附近的水流湍急的河比起来，这里更容易捕到鱼。"
 
 # game/scenes/chapter06/lake_area.rpy:80
 translate chinese scene_chapter06_lake_15c6553d:
@@ -97,8 +89,7 @@ translate chinese scene_chapter06_lake_15c6553d:
 translate chinese scene_chapter06_lake_1e44eb16:
 
     # lee_think "{e=light_bulb}{e=fish_big}{e=gift}{e=arrow_right}{e=catgirl}"
-    lee_think "I've caught a big fish lately. Cat's gonna love it for sure."
-    lee_think "I'll give it to her. She loves special treats."
+    lee_think "我猜捉到一只大鱼，猫女肯定喜欢。她一向喜欢好吃的东西。送给她，让她开心，她喜欢好吃的。"
 
 # game/scenes/chapter06/lake_area.rpy:62
 translate chinese scene_chapter06_wrecks_02861276:
@@ -128,27 +119,23 @@ translate chinese scene_chapter06_wrecks_climb_to_plane_60629747:
 translate chinese scene_chapter06_wrecks_climb_to_plane_e078dc3c:
 
     # lee_think "{e=light_bulb}{e=grappling}{e=exclamation_white}"
-    lee_think "Why did I not think of this before!"
-    lee_think "I could craft a kinda grappling hook to make it to the top."
+    lee_think "我可以做一根末端带钩子的绳子爬上去！我以前怎么没想到！"
 
 # game/scenes/chapter06/lake_area.rpy:73
 translate chinese scene_chapter06_wrecks_climb_to_plane_9dce1d1e:
 
     # lee_think "{e=thinking_face}{e=hammer}{e=hook}{e=question_white}"
-    lee_think "There's just one little hitch — where can I find a hook?"
-    lee_think "What shall I use to make it?"
+    lee_think "只有一个小问题：从哪里弄到钩子呢？可以用什么制成啊？"
 
 # game/scenes/chapter06/lake_area.rpy:74
 translate chinese scene_chapter06_wrecks_climb_to_plane_81d4859a:
 
     # lee_think "{e=plane_door}{e=no}{e=arrow_up}"
-    lee_think "The plane door is closed, anyway."
-    lee_think "The point is that I not only need to climb up there but also open the door somehow."
+    lee_think "飞机门还关着。不仅要爬上去，还要想办法把门打开。"
 
 # game/scenes/chapter06/lake_area.rpy:75
 translate chinese scene_chapter06_wrecks_climb_to_plane_0ae9780b:
 
     # lee_think "{e=weary_face}{e=dont_know}{e=thinking_face}{e=hourglass}{e=arrow_left}"
-    lee_think "I've got no idea how to do it so far."
-    lee_think "I need to think it out properly and come back here later."
+    lee_think "虽然还没想到，但是要好好考虑一下，然后再回来。"
 

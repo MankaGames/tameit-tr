@@ -2,9 +2,7 @@
 translate chinese scene_prologue_plane_middle_3068d230:
 
     # lee_think "{e=eyes}{e=leg}{e=heart}"
-    lee_think "Wow, it seems like the pilot is a hot girl."
-    lee_think "Oh, what a luscious pair she has. I can admire these the whole flight."
-    lee_think "I've never been so lucky."
+    lee_think "哇哦，机长貌似是个超辣的女生！她腿好长啊，我可以这么欣赏一路，太棒了。"
 
 # game/scenes/prologue/plane_middle.rpy:70
 translate chinese scene_prologue_plane_middle_shot80_de9bc878:

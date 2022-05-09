@@ -2,8 +2,8 @@
 translate chinese scene_chapter11_lake_shore_abf54969:
 
     # lee_think "{e=halberd_head_rusty}{e=plus}{e=rock}{e=arrow_right}{e=halberd_head}"
-    lee_think "I can sand and grind the edge of the halberd with sand and stones."
-    lee_think "Let’s try to do it here – the place has everything I need."
+    lee_think "我可以用沙子和石头把戟磨得锋利。"
+    lee_think "我试试在这里做，这个地方很合适。"
 
 # game/scenes/chapter11/lake_area.rpy:94
 translate chinese scene_chapter11_lake_weed_065e6aed:

@@ -2,111 +2,111 @@
 
     # game/dicts/task.rpy:2
     old "{e=relieved}{e=smiling_face}{e=tent}"
-    new "Great! My hut is ready!"
+    new "棒极了！我的窝棚做好了！"
 
     # game/dicts/task.rpy:2
     old "{e=smiley}{e=fence}{e=exclamation_white}{e=smiling_face}"
-    new "Well, that's it! Looks pretty solid. A kind of protection at\u00A0last."
+    new "好了，做完了！看起来十分牢固！现在 至少有些保护物了"
 
     # game/dicts/task.rpy:2
     old "{e=smiley}{e=bonfire}{e=exclamation_white}{e=smiling_face}"
-    new "Great, now the bonfire is ready! Hope I'll sleep better tonight."
+    new "太棒了！烧火了！我希望这样夜晚会更安静。"
 
     # game/dicts/task.rpy:2
     old "{e=slightly_smiling_face}{e=bungalow1}{e=check_mark}{e=smiling_face}"
-    new "All right, the frame is ready. Looks solid. Now it is time for the walls."
+    new "好的，骨架已经准备好了。 看起来足够坚固。 现在你可以开始建墙了。"
 
     # game/dicts/task.rpy:2
     old "{e=bungalow2}{e=slightly_smiling_face}"
-    new "Phew, the walls are almost ready!"
+    new "呼，墙壁几乎做好了。"
 
     # game/dicts/task.rpy:2
     old "{e=bungalow3}{e=check_mark}{e=question}{e=thinking_face}"
-    new "Hmm, the house is almost ready, but I think I miss something..."
+    new "房子好像快建完了，但是缺少一些什么。"
 
     # game/dicts/task.rpy:2
     old "{e=magnifying_glass}{e=arrow_right}{e=desert island}"
-    new "Maybe I'll find something suitable if I look around."
+    new "也许我可以在附近找到合适的东西。"
 
     # game/dicts/task.rpy:2
     old "{e=smiley}{e=bungalow4}{e=check_mark}{e=exclamation_white}{e=smiling_face}"
-    new "Just a few blows with a stone and sits like a glove!\nNow the bungalow is ready!"
+    new "嘿—嘿—，用石头打了几下，这扇门真合适啊！现在平房已经建完了。"
 
     # game/dicts/task.rpy:2
     old "{e=catgirl}{e=smiling_face_with_hearts}{e=cat_bed}{e=smiley}"
-    new "Well, seems Cat's happy with my creation. Hope she'll sleep here with me from now on."
+    new "看来，猫对我的所作所为很满意。我希望现在她会睡在我旁边。"
 
     # game/dicts/task.rpy:633
     old "{e=smiley}{e=gallows}{e=exclamation_white}{e=smiling_face}"
-    new "Great, the trap is ready!"
+    new "好嘞！陷阱做好了！"
 
     # game/dicts/task.rpy:633
     old "{e=thinking_face}{e=gallows}{e=plus}{e=poultry_leg}{e=question}"
-    new "Okay, now it's time for the bait. I guess these weird birds will do for her."
+    new "好的，现在要找诱饵。 这鬼东西是肉食动物，所以应该可以用那些伪鸡。"
 
     # game/dicts/task.rpy:633
     old "{e=bridge}{e=check_mark}{e=smiling_face}"
-    new "The bridge is ready! It's nothing special, but it'll hold me, I guess."
+    new "桥准备好了！不咋的，但我想它禁得住我。"
 
     # game/dicts/task.rpy:2
     old "{e=leavesbed}{e=ok_hand}{e=yawning_face}"
-    new "Now I have some kind of bedding, that's better."
+    new "有睡的地方了，还算不错。"
 
     # game/dicts/task.rpy:634
     old "{e=gallows_2}{e=check_mark}{e=slightly_smiling_face}{e=arrow_right}{e=fish}"
-    new "My new trap is almost ready. All I need is to add the bait."
+    new "新的陷阱几乎准备好了，还要放诱饵。"
 
     # game/dicts/task.rpy:634
     old "{e=thumbs_up}{e=smiley}{e=grappling}{e=arrow_up}"
-    new "It worked! Now I can throw my hook there and try to catch on something."
+    new "成功了！现在试试把钩子扔上去，看能不能勾住什么东西。"
 
     # game/dicts/task.rpy:703
     old "{e=gallows_2}{e=check_mark}{e=slightly_smiling_face}{e=arrow_right}{e=fish}{#ch04}"
-    new "All right, the noose is ready, now the bait. She likes fish, so let's give her a big one."
+    new "圈套做好了，要添加诱饵。她喜欢鱼，要放肥点儿的。"
 
     # game/dicts/task.rpy:703
     old "{e=lake_trap}{e=yes}{e=slightly_smiling_face}"
-    new "The trap is ready. Whew it wasn’t easy!"
+    new "陷阱已做好了。呼，这可不容易！"
 
     # game/dicts/task.rpy:2
     old "{e=slightly_smiling_face}{e=bungalow5}{e=yes}{e=smiling_face}"
-    new "The first house expansion stage is over!"
+    new "房子扩建的第一阶段完成了！"
 
     # game/dicts/task.rpy:2
     old "{e=bungalow6}{e=yes}{e=slightly_smiling_face}"
-    new "Perfect! I’ve made great progress."
+    new "很棒！ 我的进度不错。"
 
     # game/dicts/task.rpy:2
     old "{e=smiley}{e=bungalow7}{e=yes}{e=exclamation_white}{e=smiling_face}"
-    new "All right, the construction is over and now my house is way bigger. Excellent job!"
+    new "房子已经建好了，房子大了。 我好酷！"
 
     # game/dicts/task.rpy:2
     old "{e=slightly_smiling_face}{e=basin1}{e=yes}{e=smiling_face}"
-    new "Not too bad! I can consider the first stage complete."
+    new "我做得不错！ 第一阶段已经算完成了。"
 
     # game/dicts/task.rpy:2
     old "{e=basin2}{e=yes}{e=slightly_smiling_face}"
-    new "I made great progress!"
+    new "进度不错！"
 
     # game/dicts/task.rpy:2
     old "{e=basin3}{e=yes}{e=muscle}{e=beaming_face}"
-    new "Whew! Just a little left."
+    new "呼，很快就结束了！"
 
     # game/dicts/task.rpy:2
     old "{e=smiley}{e=basin4}{e=yes}{e=exclamation_white}{e=smiling_face}"
-    new "There you go, the pond is ready! It looks all right.\nI hope Octa will like it."
+    new "好了，池塘准备好了！ 看起来挺好的。 希望 奥克塔也喜欢。"
 
     # game/dicts/task.rpy:939
     old "{e=boat}{e=yes}{e=smiley}{e=arrow_right}{e=cave}"
-    new "Perfect! My boat is ready to sail!"
+    new "太好了，我的船可以启航了！"
 
     # game/dicts/task.rpy:965
     old "{e=halberd_head}{e=sparkles}{e=thumbs_up}"
-    new "There you go – came out pretty well! Now the edge is clean and sharp!"
+    new "嗯，做得很好！ 现在戟尖锋利极了！"
 
     # game/dicts/task.rpy:965
     old "{e=halberd_head}{e=plus}{e=halberd_shaft}{e=arrow_right}{e=halberd}"
-    new "I need a long and strong pole to make a real halberd."
+    new "我需要一根结实的长柄才能使它成为真正的戟。"
 
     # game/dicts/task.rpy:1215
     # do not translate
@@ -120,65 +120,65 @@
 
     # game/dicts/task.rpy:1215
     old "{e=bridge}{e=check_mark}{e=thumbs_up}{e=smiley}"
-    new "Excellent! The bridge’s back on its place!"
+    new "很好！桥重建了！"
 
     # game/dicts/task.rpy:2
     old "{e=raft_1}{e=yes}{e=arrow_up}{e=ocean}"
-    new "The base is ready and seems to be quite stable on water.\nI did it well!"
+    new "底座已准备好了，看起来它可以很好地在水面飘浮。我可以的！"
 
     # game/dicts/task.rpy:2
     old "{e=tent}{e=thumbs_up}{e=raft_2}{e=yes}"
-    new "The hut came out OK. It will protect us from wind and rain."
+    new "小屋不错，下雨刮风时会保护我们的。"
 
     # game/dicts/task.rpy:2
     old "{e=storage}{e=yes}{e=beaming_face}"
-    new "All right, we have a box for supplies."
+    new "补给箱是有的。"
 
     # game/dicts/task.rpy:2
     old "{e=pot_of_food}{e=plus}{e=coconut_bowl_water}{e=arrow_right}{e=storage}"
-    new "Now I need to stock up on water and food."
+    new "要储备水和食物。"
 
     # game/dicts/task.rpy:2
     old "{e=raft_4}{e=yes}{e=thumbs_up}{e=slightly_smiling_face}"
-    new "OK, I put the sail in place. It looks fine."
+    new "好吧，风船帆就位。看起来不错。"
 
     # game/dicts/task.rpy:2
     old "{e=raft}{e=yes}{e=smiley}{e=sparkles}"
-    new "Is it all really done already! I can’t believe it!"
+    new "我们真的完成了吗！我甚至不敢相信！"
 
     # game/dicts/task.rpy:2
     old "{e=paddle}{e=plus}{e=metal_sheet}{e=arrow_right}{e=metal_paddle}"
-    new "I still need to make a strong paddle!"
+    new "剩下的只要制作一个坚固的桨！"
 
     # game/dicts/task.rpy:2
     old "{e=thinking_face}{e=mushroom_glowing}{e=crafting}{e=ointment}"
-    new "I need to remember to make a healing ointment from those glowing mushrooms."
+    new "别忘了用那些发光的蘑菇做药膏。"
 
     # game/dicts/task.rpy:2
     old "{e=boat}{e=ok_hand}{e=hourglass}{e=arrow_right}{e=desert island}"
-    new "Everything’s ready for departure."
+    new "一切准备就绪，可以启航了。"
 
     # game/dicts/task.rpy:1283
     old "{e=jaguar_skin_raw}{e=thumbs_up}"
-    new "Not bad! Years ago my grandpa showed me how to flay rabbits. "
+    new "不错！有一次我祖父教我如何给兔子剥皮，"
 
     # game/dicts/task.rpy:1283
     old "{e=teach}{e=brain}{e=crafting}{e=jaguar_skin}"
-    new "I never thought I would put this knowledge to use."
+    new "我以为没有用。"
 
     # game/dicts/task.rpy:1283
     old "{e=jaguar_skin_raw}{e=crafting}{e=jaguar_skin}{e=sparkles}"
-    new "Now I’ve gotta tan it. I\u00A0hope I’ll manage to do it well."
+    new "好吧，还要制革。希望我可以的。"
 
     # game/dicts/task.rpy:1283
     old "{e=paper}{e=yes}{e=smiley}"
-    new "Fantastic! Now I have paper!"
+    new "好极了！现在我有纸了！"
 
     # game/dicts/task.rpy:1283
     old "{e=paper}{e=cave}{e=arrow_right}{e=draw}{e=map}"
-    new "Now that I have paper I can go back to the cave and copy the map."
+    new "现在我有纸了，我可以回到洞穴绘制地图。"
 
     # game/dicts/task.rpy:2
     old "{e=weary_face}{e=yawning_face}{e=hourglass}{e=arrow_right}"
-    new "Whew, I'm tired, I'll get back to it later."
+    new "呼，我累了，我稍后再继续。"
 

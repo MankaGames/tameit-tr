@@ -50,14 +50,13 @@ translate chinese scene_chapter09_home_735350fd:
 translate chinese scene_chapter09_home_87c9ee8c:
 
     # lee_think "{e=catgirl}{e=lake}{e=question_white}"
-    lee_think "Cat may be sticking around that area because I haven’t seen her anywhere here."
-    lee_think "I bet she is hiding from me."
+    lee_think "或许猫在某个地方转来转去，因为我没在附近看到她。 大概是躲着我吧。"
 
 # game/scenes/chapter09/home.rpy:62
 translate chinese scene_chapter09_home_de78f792:
 
     # lee_think "{e=eyes}{e=octa}{e=lake}{e=blush}"
-    lee_think "And then there’s a chance of meeting Octa there again. Just can’t take my mind off her."
+    lee_think "在湖上还有机会再次看到 奥克塔。 我无法停止想她！"
 
 # game/scenes/chapter09/home.rpy:63
 translate chinese scene_chapter09_home_9e7829c1:
@@ -93,7 +92,7 @@ translate chinese scene_chapter09_inside_1ff3f59b:
 translate chinese scene_chapter09_inside_f7d70d67:
 
     # lee_think "{e=catgirl}{e=no}{e=bungalow4}{e=question_white}"
-    lee_think "Can it be that she decided not to return at all?\nWhat do I do now?"
+    lee_think "她决定不回家了吗？ 该怎么办？"
 
 # game/scenes/chapter09/home.rpy:158
 translate chinese scene_chapter09_inside_b961ffba:
@@ -105,9 +104,8 @@ translate chinese scene_chapter09_inside_b961ffba:
 translate chinese scene_chapter09_inside_d0bde765:
 
     # lee_think "{e=weary_face}{e=crying_face}"
-    lee_think "I didn’t want to offend her. I feel sad and lonely without her,"
-    lee_think "but I can’t stop thinking about Octa either."
-    lee_think "Still, right now I need to focus on Cat and make it up to her."
+    lee_think "我不是故意要冒犯她的。 没有她我好难过，好孤独啊。"
+    lee_think "但我也无法忘记奥克塔。现在还是先和猫女和好吧。"
 
 # game/scenes/chapter09/home.rpy:192
 translate chinese scene_chapter09_inside_outro_e00882c0:
@@ -119,15 +117,13 @@ translate chinese scene_chapter09_inside_outro_e00882c0:
 translate chinese scene_chapter09_inside_outro_c26a20de:
 
     # lee "{e=catgirl}{e=exclamation_white}{e=speak}{e=say}"
-    lee "Hey, Cat, we need to discuss an important point!"
-    lee "Stop pretending that you don’t understand me!"
+    lee "嘿，猫，我们要认真谈谈! 不要假装你不明白我的意思！"
 
 # game/scenes/chapter09/home.rpy:194
 translate chinese scene_chapter09_inside_outro_06e13e09:
 
     # lee "{e=angry}{e=you}{e=octa}{e=crying_face}"
-    lee "You treated Octa very badly. You can’t do that."
-    lee "You are mad at me and that’s fine, but I won’t let you hurt Octa."
+    lee "你伤害了奥克塔，这是不对的。如果你生我的气，那我们沟通；但你不能伤害别人。"
 
 # game/scenes/chapter09/home.rpy:195
 translate chinese scene_chapter09_inside_outro_e7ffb98b:
@@ -151,15 +147,14 @@ translate chinese scene_chapter09_inside_outro_3603b886:
 translate chinese scene_chapter09_inside_outro_da3e460d:
 
     # lee_think "{e=downcast_face}{e=expressionless}"
-    lee_think "Look at her now! Cats will be cats! How am I supposed to talk sense into her?"
-    lee_think "Should I slap her with a slipper like a domestic kitty? Hold on, that’s an idea!"
+    lee_think "你看看她！猫就是猫！"
+    lee_think "我该怎么处理她？跟家猫怎么样？拿着拖鞋打她的屁股？等等，这是一个主意！"
 
 # game/scenes/chapter09/home.rpy:202
 translate chinese scene_chapter09_inside_outro_46a0f586:
 
     # lee "{e=unamused_face}{e=take}{e=you}{e=butt}"
-    lee "So you won’t talk to me, you won’t listen to me, you’ll sit with your bottom to me?"
-    lee "Then your bad-mannered bottom will take it all!"
+    lee "所以你不想说话，也不想听，你是不是背着我坐在那里？ 好啊，那我就打你屁股作为惩罚！"
 
 # game/scenes/chapter09/home.rpy:206
 translate chinese scene_chapter09_inside_outro_fe13f5f4:
@@ -171,8 +166,7 @@ translate chinese scene_chapter09_inside_outro_fe13f5f4:
 translate chinese scene_chapter09_inside_outro_ed480000:
 
     # lee "{e=octa}{e=crying_face}{e=question_white}{e=disappointed}"
-    lee "So, how do you like it? Will you pull that shit again, huh?"
-    lee "Will you behave like a bad kitty?"
+    lee "怎么样？还想再继续胡闹吗？你会继续做坏猫吗？"
 
 # game/scenes/chapter09/home.rpy:214
 translate chinese scene_chapter09_inside_outro_5625ae6a:
@@ -196,8 +190,7 @@ translate chinese scene_chapter09_inside_outro_de8a3885:
 translate chinese scene_chapter09_inside_outro_fddbda36:
 
     # lee "{e=catgirl}{e=butt}{e=apple}"
-    lee "He-he, your butt’s as red as a tomato or an apple."
-    lee "You won’t get it because they don’t grow here anyway."
+    lee "呵呵，屁股好红，像个苹果，或者像个番茄。 你可能不知道这是什么，这个岛上没有。"
 
 # game/scenes/chapter09/home.rpy:243
 translate chinese scene_chapter09_inside_outro_943cba28:
@@ -233,10 +226,8 @@ translate chinese scene_chapter09_inside_outro_f9d6b83b:
 translate chinese scene_chapter09_inside_outro_e247903e:
 
     # lee "{e=happy_sweat}{e=catgirl}{e=handshake}{e=octa}{e=hourglass}"
-    lee "I’m sure you can make friends with her."
-    lee "She’s not so bad as it might seem – just give her a chance."
-    lee "At first I was scared too and thought that she was a lake monster."
-    lee "But then I saw that she was just like you – an unusual and beautiful girl."
+    lee "我相信你可以做朋友。 给她一个机会，她并没有你想象的那么糟糕。"
+    lee "毕竟一开始我也害怕，以为她是湖里的怪物，后来发现她和你一样，也是个不寻常的美丽女孩。"
 
 # game/scenes/chapter09/home.rpy:249
 translate chinese scene_chapter09_inside_outro_1923f0a3:

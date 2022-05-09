@@ -8,17 +8,17 @@ translate chinese strings:
 
     # game/scenes/chapter09/sleep.rpy:36
     old "{e=razor}{e=magnifying_glass}{e=airplane}{e=question_white}"
-    new "I can look for a razor in the plane. Maybe I’ll be lucky to find one."
+    new "可能可以在飞机上找一找？ 或许能找到。"
 
     # game/scenes/chapter09/sleep.rpy:38
     old "{e=berries}{e=arrow_right}{e=shaving_foam}{e=thinking_face}"
-    new "Could I make some kind of shaving foam from berries?"
+    new "可能应该试着用浆果做剃须膏吧？"
 
     # game/scenes/chapter09/sleep.rpy:40
     old "{e=magnifying_glass}{e=comb}{e=arrow_right}{e=airplane}{e=question_white}"
-    new "I need to find a comb for Octa."
+    new "我们要给奥克塔找到一把梳子。"
 
     # game/scenes/chapter09/sleep.rpy:42
     old "{e=gift}{e=smiling_face_with_hearts}{e=octa}{e=question_white}{e=thinking_face}"
-    new "I should continue to please Octa with yummy treats."
+    new "我们必须继续给奥克塔好吃的让她快乐。"
 

@@ -14,17 +14,16 @@ translate chinese game_map_c542301c:
 translate chinese game_map_1df51720:
 
     # lee "{e=boat}{e=arrow_up}{e=desert island}{e=silhouette}{e=silhouette}"
-    lee "We need to sail to that big island, it’s surely inhabited."
-    lee "See those pictures of warriors? It may mean that it’s populated by some tribe."
-    lee "Could their descendants still be there?"
-    lee "If we get very lucky they may have a way to communicate with the rest of the world."
+    lee "我们得去那个大岛，那里一定有人。你看，那些战士的身影。"
+    lee "这可能意味着什么部落住在那里。也许他们的后代还在？"
+    lee "如果我们很幸运，他们可能与世界其他地方有联系。"
 
 # game/scenes/common/map.rpy:217
 translate chinese game_map_9c4ef427:
 
     # tonya "{e=draw}{e=map}{e=arrow_right}{e=question_white}{e=thinking_face}"
-    tonya "That would be great! Well, we will never find out unless we try!"
-    tonya "We need to copy the map to take it with us. We should draw it on something."
+    tonya "如果这样，多好啊。好吧，要是不尝试，我们就不会知道！"
+    tonya "应该复制地图，随身携带。我得把它画在什么东西上。"
 
 # game/scenes/common/map.rpy:218
 translate chinese game_map_526ef9f4:
@@ -72,7 +71,7 @@ translate chinese game_map_copy_done_017fc46f:
 translate chinese game_map_copy_87a213f5:
 
     # lee_think "{e=poop}{e=map}{e=tired_face}"
-    lee_think "Just look at this ugly shit!\nI need to try again."
+    lee_think "做得不好，必须再试一次。"
 
 # game/scenes/common/map.rpy:248
 translate chinese game_map_copy_a597009b:
@@ -84,13 +83,13 @@ translate chinese strings:
 
     # game/scenes/common/map.rpy:85
     old "Save and exit"
-    new "Save and exit"
+    new "保存并退出"
 
     # game/scenes/common/map.rpy:86
     old "Clean the paper"
-    new "Clean the paper"
+    new "清楚本页内容"
 
     # game/scenes/common/map.rpy:88
     old "Check the map"
-    new "Check the map"
+    new "检查地图"
 

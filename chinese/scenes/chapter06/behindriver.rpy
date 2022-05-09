@@ -14,6 +14,5 @@ translate chinese scene_chapter06_behindriver2_ef4ce083:
 translate chinese scene_chapter06_behindriver2_e54ce1cd:
 
     # lee_think "{e=relieved}{e=beaming_face}{e=footprints}{e=arrow_right}{e=magnifying_glass}"
-    lee_think "A stroke of luck, no doubt!"
-    lee_think "Now I can finally get through and see what's going on out there."
+    lee_think "真巧！现在我终于可以走得更远，看一下那里有什么。"
 

@@ -8,15 +8,15 @@ translate chinese strings:
 
     # game/scenes/chapter08/sleep.rpy:28
     old "{e=hammer}{e=fishnet}{e=arrow_right}{e=shark}"
-    new "I need to make a net to catch the lake monster."
+    new "要做一个网来捕捉湖里的怪物。"
 
     # game/scenes/chapter08/sleep.rpy:30
     old "{e=stick}{e=hammer}{e=lake_trap}{e=plus}{e=lake_trap}"
-    new "I need more sticks to set two traps on the lake."
+    new "我要更多的棍子来制作两个陷阱。"
 
 translate chinese strings:
 
     # game/scenes/chapter08/sleep.rpy:33
     old "{e=worm}{e=arrow_right}{e=fishnet}{e=question}"
-    new "I wonder what bait would be the best."
+    new "不知道用什么样的诱饵好？"
 

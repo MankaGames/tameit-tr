@@ -6,5 +6,5 @@
 
     # game/scenes/common/search.rpy:34
     old "play"
-    new "play"
+    new "驾驶"
 

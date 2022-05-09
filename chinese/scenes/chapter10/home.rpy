@@ -38,22 +38,19 @@ translate chinese scene_chapter10_home_dbe076d0:
 translate chinese scene_chapter10_home_60454e65:
 
     # lee_think "{e=octa}{e=no}{e=speak}"
-    lee_think "She’s clearly an intelligent being but doesn’t seem to be able to speak at all."
-    lee_think "And, of course, at the moment she gets almost nothing when I try to talk to her."
+    lee_think "她显然很聪明，但看来完全不会说话，现在当我试着告诉她一些事情时，她当然几乎听不懂我的话。"
 
 # game/scenes/chapter10/home.rpy:28
 translate chinese scene_chapter10_home_b6f61d66:
 
     # lee_think "{e=catgirl}{e=teach}{e=sparkles}"
-    lee_think "But I did teach Cat and now we communicate more or less well."
-    lee_think "She learned to understand my words and use gestures and facial expressions to reply."
+    lee_think "但我已经教会了猫。现在我们可以进行日常沟通。她学会了理解我说的话，并使用手势和面部表情来回应我。"
 
 # game/scenes/chapter10/home.rpy:29
 translate chinese scene_chapter10_home_bc34cb16:
 
     # lee_think "{e=thinking_face}{e=octa}{e=say}{e=teach}"
-    lee_think "I think it might work with Octa too, if I really apply myself."
-    lee_think "I’ve gotta pay her a visit."
+    lee_think "我想，如果我足够努力，奥克塔也可以的。 应该去看看她。"
 
 # game/scenes/chapter10/home.rpy:32
 translate chinese scene_chapter10_home_38d654aa:
@@ -65,8 +62,8 @@ translate chinese scene_chapter10_home_38d654aa:
 translate chinese scene_chapter10_home_6c392bca:
 
     # lee_think "{e=bungalow4}{e=arrow_up}{e=thinking_face}"
-    lee_think "Would be nice to expand it. Who knows, I might be stuck here for a long time…"
-    lee_think "or even for good. I’d like to have a little more comfort."
+    lee_think "要是扩建房子就好了。"
+    lee_think "毕竟，我可能会被困在这里很长时间，甚至可能是我的余生，谁知道呢。 我想生活得更舒服一点。"
 
 # game/scenes/chapter10/home.rpy:36
 translate chinese scene_chapter10_home_c6c09920:
@@ -132,9 +129,8 @@ translate chinese scene_chapter10_basin_4b33cf79:
 translate chinese scene_chapter10_basin_1a576dd9:
 
     # lee_think "{e=octa}{e=arrow_right}{e=hut}{e=question_white}"
-    lee_think "I wish I could make her live closer to me."
-    lee_think "We could meet more often and she would learn quicker."
-    lee_think "Besides, if she stays closer I can enjoy her beauty all day long."
+    lee_think "能把她拉近一点就好了。"
+    lee_think "然后我们可以更常交流，学习进步会更快。 要是他在我身边，可以经常欣赏她的美。"
 
 # game/scenes/chapter10/home.rpy:202
 translate chinese scene_chapter10_basin_8cf7d11b:
@@ -146,8 +142,8 @@ translate chinese scene_chapter10_basin_8cf7d11b:
 translate chinese scene_chapter10_basin_4c17427c:
 
     # lee_think "{e=light_bulb}{e=basin4}{e=exclamation_white}{e=sparkles}"
-    lee_think "Cracked it! I can make a pond for her and fill it with water from the river!"
-    lee_think "Well, I can try digging with my hands and sticks and see where it takes me."
+    lee_think "对了！我可以给她挖个池塘，把河里的水引出来！"
+    lee_think "但怎么挖呢？用 手吗？ 好吧，先可以用手和棍子试试，不行再说。"
 
 # game/scenes/chapter10/home.rpy:207
 translate chinese scene_chapter10_basin_b4fe123c:
@@ -165,8 +161,7 @@ translate chinese scene_chapter10_basin_976ace2b:
 translate chinese scene_chapter10_basin_3c433a0e:
 
     # lee_think "{e=metal_sheet}{e=plus}{e=stick}"
-    lee_think "OK, a shovel is basically a stick with a piece of metal."
-    lee_think "I have plenty of sticks, but metal…"
+    lee_think "铲子本质上是一根棍子和一块金属。 我有很多棍子，但金属..."
 
 # game/scenes/chapter10/home.rpy:210
 translate chinese scene_chapter10_basin_a330278f:
@@ -178,10 +173,9 @@ translate chinese scene_chapter10_basin_a330278f:
 translate chinese scene_chapter10_basin_197f77fa:
 
     # lee_think "{e=muscle}{e=bungalow7}{e=basin4}{e=celebration}{e=beaming_face}"
-    lee_think "Would be nice to celebrate the completion of the great project and invite the girls."
-    lee_think "This will help us get closer and leave the silly coconut bra story behind."
-    lee_think "Even though Cat and Octa don’t seem to be mad at me,"
-    lee_think "I feel bad about the lame joke I played on them."
+    lee_think "做完之后，要庆祝一下！ 我请姑娘们来。"
+    lee_think "这也有利于我们的关系，并把椰子胸罩的愚蠢事儿抛在脑后。"
+    lee_think "虽然他们好像不生我的气，但我对这个愚蠢的笑话还是挺内疚的。"
 
 # game/scenes/chapter10/home.rpy:215
 translate chinese scene_chapter10_basin_03ad9bb5:
@@ -193,9 +187,8 @@ translate chinese scene_chapter10_basin_03ad9bb5:
 translate chinese scene_chapter10_basin_2cba351b:
 
     # lee_think "{e=fish_big_honey}{e=salad}{e=pottage}{e=smiling_face}"
-    lee_think "Say, something that each of us absolutely loves – fish in honey for Cat,"
-    lee_think "some salad for Octa and mushroom soup for me."
-    lee_think "I need to find the right ingredients and get down to cooking."
+    lee_think "比如，要给猫做蜂蜜鱼，给奥克塔做 沙拉，对我来说，蘑菇汤。"
+    lee_think "我要收集材料并开始做饭。"
 
 # game/scenes/chapter10/home.rpy:218
 translate chinese scene_chapter10_basin_58560632:
@@ -207,7 +200,7 @@ translate chinese scene_chapter10_basin_58560632:
 translate chinese scene_chapter10_basin_dinner_b0c18b5b:
 
     # lee "{e=cooking}{e=arrow_right}{e=catgirl}{e=octa}"
-    lee "Glad to see you!\nI’ve just cooked something tasty for you."
+    lee "我很高兴你们俩都在这里。 刚刚为你们做了一些美味佳肴。"
 
 # game/scenes/chapter10/home.rpy:269
 translate chinese scene_chapter10_basin_dinner_b292a9c0:
@@ -255,7 +248,7 @@ translate chinese scene_chapter10_basin_dinner_2f2087c2:
 translate chinese scene_chapter10_basin_dinner_3f12c348:
 
     # octa_think "{e=flushed_face}{e=exclamation_white}"
-    octa_think "{e=flushed_face}{e=exclamation_white}{alt}*Puzzled*{/alt}"
+    octa_think "{e=flushed_face}{e=exclamation_white}{alt}*困惑*{/alt}"
 
 # game/scenes/chapter10/home.rpy:308
 translate chinese scene_chapter10_basin_dinner_2dfd8dd5:
@@ -273,7 +266,7 @@ translate chinese scene_chapter10_basin_dinner_6edd6b47:
 translate chinese scene_chapter10_basin_dinner_fe39c6e5:
 
     # octa_think "{e=confusion}"
-    octa_think "{e=confusion}{alt}*Confused*{/alt}"
+    octa_think "{e=confusion}{alt}*困惑*{/alt}"
 
 # game/scenes/chapter10/home.rpy:314
 translate chinese scene_chapter10_basin_dinner_b0b8c99a:
@@ -285,7 +278,7 @@ translate chinese scene_chapter10_basin_dinner_b0b8c99a:
 translate chinese scene_chapter10_basin_dinner_fe39c6e5_1:
 
     # octa_think "{e=confusion}"
-    octa_think "{e=confusion}{alt}*Confused*{/alt}"
+    octa_think "{e=confusion}{alt}*困惑*{/alt}"
 
 # game/scenes/chapter10/home.rpy:316
 translate chinese scene_chapter10_basin_dinner_4c9dcd33:
@@ -303,8 +296,8 @@ translate chinese scene_chapter10_basin_dinner_bbb6a430:
 translate chinese scene_chapter10_basin_dinner_d29dbc9f:
 
     # lee_think "{e=light_bulb}{e=kiss_face}{e=arrow_right}{e=octa}{e=smirk}"
-    lee_think "Oh, I know! I’ll just show it to her! Explaining that with jesters might take ages."
-    lee_think "Easy now! I need to calm down not to show how I crave it."
+    lee_think "对了！我就吻她！用手势解释太麻烦了。"
+    lee_think "呼，冷静点，最重要的是不要透露我有多想要这个。"
 
 # game/scenes/chapter10/home.rpy:319
 translate chinese scene_chapter10_basin_dinner_70280053:
@@ -352,5 +345,5 @@ translate chinese scene_chapter10_basin_dinner_a3d03506:
 translate chinese scene_chapter10_basin_1ceca436:
 
     # lee_think "{e=hammer}{e=fishing_pole}{e=weary_face}"
-    lee_think "And I still have to make a new fishing pole."
+    lee_think "我还要做鱼竿。"
 

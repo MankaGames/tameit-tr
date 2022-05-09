@@ -8,17 +8,17 @@ translate chinese strings:
 
     # game/scenes/chapter13/sleep.rpy:36
     old "{e=crafting}{e=paper}{e=arrow_right}{e=draw}{e=map}"
-    new "I need to make paper."
+    new "需要做纸。"
 
     # game/scenes/chapter13/sleep.rpy:40
     old "{e=dash}{e=hammer}{e=raft}{e=exclamation_white}"
-    new "I need to make a raft."
+    new "需要做一个木筏。"
 
     # game/scenes/chapter13/sleep.rpy:42
     old "{e=foraging}{e=raft}{e=arrow_right}"
-    new "I need to gather supplies before the departure."
+    new "我们需要收集航海用品。"
 
     # game/scenes/chapter13/sleep.rpy:41
     old "{e=cloth}{e=arrow_right}{e=magnifying_glass}{e=airplane}"
-    new "I can look for fabric in the plane."
+    new "料子可以在飞机上找一找。"
 

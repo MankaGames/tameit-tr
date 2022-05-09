@@ -26,8 +26,7 @@ translate chinese scene_chapter11_fight_done_5ae27e13:
 translate chinese scene_chapter11_fight_done_36d8a64f:
 
     # lee_think "{e=wound}{e=blood}{e=exclamation}"
-    lee_think "The son of a bitch wrecked me in no time… comes closer every second…"
-    lee_think "and I’m so exhausted that I\u00A0can’t even lift the halberd anymore."
+    lee_think "他把我整个人都抓破了。。。越来越近，我已经没有力气举起戟了。"
 
 # game/scenes/chapter11/fight.rpy:50
 translate chinese scene_chapter11_fight_done_db42b1ca:
@@ -63,14 +62,13 @@ translate chinese scene_chapter11_fight_done_e2008887:
 translate chinese scene_chapter11_fight_done_d7b26094:
 
     # lee "{e=catgirl}{e=relieved}{e=hug}"
-    lee "You saved me, baby! Came just in time! Good girl!"
+    lee "你救了我。 我的仙女！你来的正是时候！你真棒！"
 
 # game/scenes/chapter11/fight.rpy:85
 translate chinese scene_chapter11_fight_done_2e6e7091:
 
     # lee "{e=help}{e=footprints}{e=arrow_right}{e=home}"
-    lee "It’s all right. Just help me get back to the house."
-    lee "I’ll stay down for a while and it’s gonna be fine."
+    lee "没事的，不要太担心。 帮我回家。 我休息一下就好了。"
 
 # game/scenes/chapter11/fight.rpy:92
 translate chinese scene_chapter11_fight_done_6ac9b296:

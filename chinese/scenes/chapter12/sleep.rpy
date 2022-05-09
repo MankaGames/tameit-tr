@@ -8,13 +8,13 @@ translate chinese strings:
 
     # game/scenes/chapter12/sleep.rpy:35
     old "{e=eyes}{e=arrow_right}{e=cave}"
-    new "I need to see what’s inside the cave that Cat and Octa opened the entrance to."
+    new "要看看猫和奥克塔打开的那个洞穴里有什么。"
 
     # game/scenes/chapter12/sleep.rpy:38
     old "{e=crafting}{e=shield}"
-    new "I need to make a shield."
+    new "你要做一个盾牌。"
 
     # game/scenes/chapter12/sleep.rpy:40
     old "{e=halberd}{e=shield}{e=crossed_swords}{e=jaguar}"
-    new "I need to defeat the jaguar to get on the other side of the island."
+    new "我必须打败美洲豹才能到岛屿的另一边。"
 

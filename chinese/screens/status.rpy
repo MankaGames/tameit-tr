@@ -2,7 +2,7 @@
 
     # game/screens/status.rpy:29
     old "Skip time"
-    new "Skip time"
+    new "跳过时间"
 
     old "Inventory"
-    new "Inventory"
+    new "存档"

@@ -2,7 +2,7 @@
 translate chinese scene_chapter12_home_fd409290:
 
     # lee_think "{e=confused_face}{e=repair}{e=bridge}{e=exclamation_white}"
-    lee_think "Damn it! The bridge! Gotta repair it asap."
+    lee_think "糟了，桥！要尽快重建 。"
 
 # game/scenes/chapter12/home.rpy:25
 translate chinese scene_chapter12_home_cbec5088:
@@ -26,8 +26,7 @@ translate chinese scene_chapter12_home_8000abb1:
 translate chinese scene_chapter12_home_bebba19b:
 
     # lee "{e=surprised}{e=water_lily}{e=question_white}{e=thinking_face}"
-    lee "On a water lily pad? Oh, quite resourceful… Why hasn’t it crossed my mind too?"
-    lee "I actually used them on the lake. They’re quite strong."
+    lee "在睡莲上？哦，好办法。。。我自己怎么没有想到。我在湖上用过睡莲。它们足够结实的。"
 
 # game/scenes/chapter12/home.rpy:105
 translate chinese scene_chapter12_inside_54400e79:
@@ -51,8 +50,7 @@ translate chinese scene_chapter12_inside_acebf6cc:
 translate chinese scene_chapter12_inside_517a08cc:
 
     # lee "{e=sleeping_face}{e=thought_balloon}{e=question_white}{e=relieved}"
-    lee "Oh, was it just a dream? Whew…"
-    lee "It was so vivid that I took it for real and thought it would do me in this time."
+    lee "哦，原来是梦？呼。。。太亮了，我以为都是真的，我肯定完蛋了。"
 
 # game/scenes/chapter12/home.rpy:110
 translate chinese scene_chapter12_inside_4f1ae0a7:
@@ -64,8 +62,7 @@ translate chinese scene_chapter12_inside_4f1ae0a7:
 translate chinese scene_chapter12_inside_c589ec93:
 
     # lee "{e=yes}{e=jaguar}{e=cold_sweat}{e=persevering}"
-    lee "Yes… about the jaguar. It almost ate me alive."
-    lee "And was all on fire for some reason… stupid dream."
+    lee "是的。。。梦到美洲豹。它差点把我吃了。不知为什么它着火了。。。糟糕的梦。"
 
 # game/scenes/chapter12/home.rpy:113
 translate chinese scene_chapter12_inside_6c7a044b:
@@ -77,22 +74,19 @@ translate chinese scene_chapter12_inside_6c7a044b:
 translate chinese scene_chapter12_inside_522d5db3:
 
     # lee_think "{e=wall}{e=framed_picture}{e=eyes}{e=shield}"
-    lee_think "Hmm… Let’s focus."
-    lee_think "One of the puzzle fragments showed warriors with spears and shields… shields!"
+    lee_think "嗯，如果仔细想想，石头拼图的一块儿上面有战士手里拿着长矛和盾牌。。。盾牌！"
 
 # game/scenes/chapter12/home.rpy:127
 translate chinese scene_chapter12_inside_496cd87f:
 
     # lee_think "{e=light_bulb}{e=exclamation_white}{e=shield}{e=smiley}"
-    lee_think "How come I’ve never thought that I need a shield?!"
-    lee_think "The jaguar wouldn’t have clawed me so badly if I had a\u00A0shield."
+    lee_think "以前我怎么没想到我需要盾牌！如果我当时想到给自己做盾牌，美洲豹就不会那样伤我。"
 
 # game/scenes/chapter12/home.rpy:128
 translate chinese scene_chapter12_inside_bfac8a7e:
 
     # lee_think "{e=crafting}{e=shield}{e=arrow_right}{e=stick}{e=metal_sheet}"
-    lee_think "I’ll make a shield of bamboo and metal sheets."
-    lee_think "I guess it will be strong and not too heavy."
+    lee_think "我用竹子和金属片做一个盾牌。我认为它会结实而且不会太重。"
 
 # game/scenes/chapter12/home.rpy:133
 translate chinese scene_chapter12_inside_90ea3183:

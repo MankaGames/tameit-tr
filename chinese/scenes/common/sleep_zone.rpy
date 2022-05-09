@@ -20,21 +20,21 @@ translate chinese strings:
 
     # game/scenes/common/sleep_zone.rpy:374
     old "{e=boobs}{e=eyes}"
-    new "Watch"
+    new "去看"
 
     # game/scenes/common/sleep_zone.rpy:374
     old "{e=boobs}{e=joystick}"
-    new "Play"
+    new "驾驶"
 
 # game/scenes/common/sleep_zone.rpy:358
 translate chinese scene_sleep_zone_43ebc942:
 
     # lee "{e=tonya}{e=exclamation_question}"
-    lee "Tonya?! How did you get here? I can't believe you survived! \nSo glad to see you alive!"
+    lee "托妮娅？！你怎么会在这里啊？难道你还活着?!我高兴极了！"
 
 # game/scenes/common/sleep_zone.rpy:372
 translate chinese scene_sleep_zone_43ebc942_1:
 
     # lee "{e=tonya}{e=exclamation_question}"
-    lee "Tonya?! How did you get here? I can't believe you survived! \nSo glad to see you alive!"
+    lee "托妮娅？！你怎么会在这里啊？难道你还活着?!我高兴极了！"
 

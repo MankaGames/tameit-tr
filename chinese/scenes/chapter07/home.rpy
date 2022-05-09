@@ -20,8 +20,7 @@ translate chinese scene_chapter07_inside_6eec660a:
 translate chinese scene_chapter07_inside_7501bf54:
 
     # lee_think "{e=catgirl}{e=heart_eyes}{e=blush}"
-    lee_think "Good lord, she's rubbing against me and purring so much it gives me goosies."
-    lee_think "And these vibrations — damn..."
+    lee_think "她一边发出咕噜咕噜的叫声，一边蹭我。我听到这个声音就有感觉了！"
 
 # game/scenes/chapter07/home.rpy:84
 translate chinese scene_chapter07_inside_501d0d7c:
@@ -33,8 +32,7 @@ translate chinese scene_chapter07_inside_501d0d7c:
 translate chinese scene_chapter07_inside_1d7eb93c:
 
     # lee_think "{e=thinking_face}{e=hot_pepper}{e=fire}"
-    lee_think "So, what do I do now? So horny can't even help it anymore."
-    lee_think "She keeps doing all this stuff — maybe she enjoys it too..."
+    lee_think "该怎么办？我太兴奋了，我忍不住了。但也许她也喜欢，因为她还在蹭我。"
 
 # game/scenes/chapter07/home.rpy:93
 translate chinese scene_chapter07_inside_0996dbbe:
@@ -52,16 +50,13 @@ translate chinese scene_chapter07_inside_1a607312:
 translate chinese scene_chapter07_inside_dfa3e344:
 
     # lee "{e=heart_eyes}{e=eggplant}{e=hot_pepper}"
-    lee "Do you even know how hot you are when you rub on me like that?"
-    lee "Of course you don't. That turns me on like hell!"
-    lee "And it's all your fault, Kitty-cat."
+    lee "你蹭得那么刺激。你知道你有多热，多么甜吗？你当然不明白。而我发热了。都怪你，小猫 。"
 
 # game/scenes/chapter07/home.rpy:96
 translate chinese scene_chapter07_inside_e250c6d0:
 
     # lee "{e=smiling_face}{e=heart}{e=fire}{e=kiss_face}"
-    lee "Can't wait to smash this pussy. Not even sure I'll be able to stop."
-    lee "Hope it works out this time. I'm gonna be gentle, I promise."
+    lee "我好想快点儿接触到你。这次不知道能不能停下来。希望我们这一次可以做到。我会小心地进去，我保证。"
 
 # game/scenes/chapter07/home.rpy:125
 translate chinese scene_chapter07_outro_94377d4c:
@@ -97,6 +92,5 @@ translate chinese scene_chapter07_inside_3e9607b6:
 translate chinese scene_chapter07_inside_db7f2c36:
 
     # lee_think "{e=magnifying_glass}{e=fishing_pole}{e=arrow_right}{e=lake}"
-    lee_think "I should try looking for it."
-    lee_think "It's made of bamboo and maybe still floating somewhere there."
+    lee_think "应该在那里找一找，用竹子做的，应该不会沉底，所以可能仍然在那里漂浮。"
 

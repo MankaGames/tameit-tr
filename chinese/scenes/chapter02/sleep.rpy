@@ -38,8 +38,7 @@ translate chinese scene_sleep_chapter02_7ae8c25b:
 translate chinese scene_sleep_chapter02_2e22e58a:
 
     # lee_think "{e=face_without_mouth}{e=exclamation}{e=fearful_face}{e=cold_sweat}{e=confounded face}"
-    lee_think "What the f...That creature again?"
-    lee_think "These wacky dreams, and now this!"
+    lee_think "怎么了？这个鬼东西！又来了吗？ 梦想如此愚蠢，还有这个！"
 
 # game/scenes/chapter02/sleep.rpy:38
 translate chinese scene_sleep_chapter02_ed65960f:
@@ -63,8 +62,7 @@ translate chinese scene_sleep_chapter02_3c90cbbc_2:
 translate chinese scene_sleep_chapter02_7e615075:
 
     # lee_think "{e=ear}{e=tiger}{e=confounded face}{e=persevering}"
-    lee_think "Oh, no! It's here again! And it sounds... like a tiger."
-    lee_think "Are there really tigers here?!"
+    lee_think "糟了！它又来了！这些声音。。。 像老虎一样。 难道这里有老虎吗？"
 
 # game/scenes/chapter02/sleep.rpy:55
 translate chinese scene_sleep_chapter02_16d98d68:
@@ -82,8 +80,7 @@ translate chinese scene_sleep_chapter02_0ee2b10f:
 translate chinese scene_sleep_chapter02_02d402e6:
 
     # lee_think "{e=spear}{e=slightly_smiling_face}{e=relieved}"
-    lee_think "But I have my spear this time, feeling safer with it."
-    lee_think "If someone attacks, I can fight back."
+    lee_think "但现在我有了长矛，我更有安全感了。如果谁袭击我，我可以反击。"
 
 # game/scenes/chapter02/sleep.rpy:68
 translate chinese scene_sleep_chapter02_5f0f7a59:
@@ -101,7 +98,7 @@ translate chinese scene_sleep_chapter02_92fae8c5:
 translate chinese scene_sleep_chapter02_a1983c1b:
 
     # lee_think "{e=fur}{e=question_white}"
-    lee_think "And what the hell is this? A\u00A0tuft of fur?"
+    lee_think "这又是什么？ 一撮毛？！"
 
 # game/scenes/chapter02/sleep.rpy:85
 translate chinese scene_sleep_chapter02_b7948955:
@@ -113,8 +110,7 @@ translate chinese scene_sleep_chapter02_b7948955:
 translate chinese scene_sleep_chapter02_d165def9:
 
     # lee_think "{e=confounded face}{e=persevering}"
-    lee_think "Scary as fuck! I can only dream of rest."
-    lee_think "Freaking animals, you won't get my ass! Hopefully..."
+    lee_think "吓死人了！根本不敢入睡，不能放松。该死的掠食者，你们别想害我！ 希望。。。"
 
 # game/scenes/chapter02/sleep.rpy:98
 translate chinese scene_sleep_chapter02_a9196f80:

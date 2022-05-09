@@ -8,5 +8,5 @@ translate chinese strings:
 
     # game/scenes/chapter03/sleep.rpy:19
     old "{e=fish}{e=arrow_right}{e=gallows_2}"
-    new "A fish for the trap."
+    new "需要鱼作诱饵。"
 
