@@ -182,3 +182,19 @@
     old "{e=weary_face}{e=yawning_face}{e=hourglass}{e=arrow_right}"
     new "Whew, I'm tired, I'll get back to it later."
 
+    # game/dicts/task.rpy:2
+    old "{e=bridge}{e=yes}{e=muscle}{e=beaming_face}{e=arrow_right}"
+    new "Excellent! The bridge is ready! The path is clear!"
+
+    # game/dicts/task.rpy:2
+    old "{e=pointing_up}{e=lee_fairy_house}{e=yes}{e=smiley}"
+    new "Hurray! The first house is ready!"
+
+    # game/dicts/task.rpy:2
+    old "{e=weary_face}{e=yawning_face}{e=bed}"
+    new "I’m exhausted; I need to have some rest."
+
+    # game/dicts/task.rpy:2
+    old "{e=lee_fairy_house}{e=yes}{e=muscle}{e=beaming_face}"
+    new "That’s it! All the houses are ready!"
+

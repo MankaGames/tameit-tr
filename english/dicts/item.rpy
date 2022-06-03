@@ -304,3 +304,15 @@
     old "Paper Mass"
     new "Paper Mass"
 
+    # game/dicts/item.rpy:91
+    old "Meat"
+    new "Meat"
+
+    # game/dicts/item.rpy:91
+    old "Empty fairy cage"
+    new "Empty fairy cage"
+
+    # game/dicts/item.rpy:91
+    old "Fairy in the cage"
+    new "Fairy in the cage"
+

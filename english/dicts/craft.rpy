@@ -48,3 +48,11 @@
     old "{e=pearl_necklace}{e=arrow_right}{e=catgirl}{e=butt}{e=smirk}"
     new "Hmm, this can be used with Cat as more than just a necklace."
 
+    # game/dicts/craft.rpy:2
+    old "{e=fairy_cage}{e=yes}{e=thumbs_up}"
+    new "Excellent! The cage for the fairy is ready."
+
+    # game/dicts/craft.rpy:2
+    old "{e=take}{e=fairy}{e=arrow_right}{e=fairy_cage}{e=smirk}"
+    new "Came out pretty well. It’s strong enough and won’t hurt the fairy."
+
