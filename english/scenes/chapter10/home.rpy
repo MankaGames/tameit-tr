@@ -303,7 +303,7 @@ translate english scene_chapter10_basin_dinner_bbb6a430:
 translate english scene_chapter10_basin_dinner_d29dbc9f:
 
     # lee_think "{e=light_bulb}{e=kiss_face}{e=arrow_right}{e=octa}{e=smirk}"
-    lee_think "Oh, I know! I’ll just show it to her! Explaining that with jesters might take ages."
+    lee_think "Oh, I know! I’ll just show it to her! Explaining that with gestures might take ages."
     lee_think "Easy now! I need to calm down not to show how I crave it."
 
 # game/scenes/chapter10/home.rpy:319

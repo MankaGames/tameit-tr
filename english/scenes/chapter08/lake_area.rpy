@@ -167,7 +167,7 @@ translate english scene_chapter08_lake_shore_trap1_051afd3d:
 translate english scene_chapter08_lake_shore_trap2_0cba3f21:
 
     # lee "{e=shushing_face}{e=eyes}{e=arrow_right}{e=lake}"
-    lee "Now we stay put and keep our eyes pilled, understand?"
+    lee "Now we stay put and keep our eyes peeled, understand?"
 
 # game/scenes/chapter08/lake_area.rpy:215
 translate english scene_chapter08_lake_shore_trap2_e974dbc2:
@@ -191,7 +191,7 @@ translate english scene_chapter08_lake_shore_trap2_6477f333:
 translate english scene_chapter08_lake_shore_trap2_dc2e7db2:
 
     # cat "{e=lake_trap}{e=arrow_down}{e=exclamation_white}"
-    cat "{e=lake_trap}{e=arrow_down}{e=exclamation_white}{alt}The grid! Down!{/alt}"
+    cat "{e=lake_trap}{e=arrow_down}{e=exclamation_white}{alt}The gate! Down!{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:231
 translate english scene_chapter08_lake_shore_trap2_32dbe370:
@@ -215,13 +215,13 @@ translate english scene_chapter08_lake_shore_trap2_8780f419:
 translate english scene_chapter08_lake_shore_trap2_aae24fa9:
 
     # lee "{e=fearful_face}{e=exclamation}{e=octo_anon}{e=boom}{e=lake_trap}"
-    lee "Shit! It’s breaking the grids!"
+    lee "Shit! It’s breaking the gate!"
 
 # game/scenes/chapter08/lake_area.rpy:257
 translate english scene_chapter08_lake_shore_trap2_bc6b6280:
 
     # lee "{e=lake_trap}{e=octo_anon}{e=arrow_right}{e=persevering}"
-    lee "It will soon break out! The grid won’t last long!"
+    lee "It will soon break out! The gate won’t last long!"
 
 # game/scenes/chapter08/lake_area.rpy:259
 translate english scene_chapter08_lake_shore_trap2_70e254ee:

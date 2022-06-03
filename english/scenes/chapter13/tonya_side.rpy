@@ -240,7 +240,7 @@ translate english scene_chapter13_tonya_home_8fee0474:
 translate english scene_chapter13_tonya_home_9bd40234:
 
     # lee "{e=me}{e=cold_sweat}{e=crossed_swords}{e=jaguar}{e=skull}"
-    lee "It was damn scary but I somehow put it down. Perhaps I got luck again."
+    lee "It was damn scary but I somehow put it down. Perhaps I got lucky again."
 
 # game/scenes/chapter13/tonya_side.rpy:182
 translate english scene_chapter13_tonya_home_f5182c16:
@@ -286,7 +286,7 @@ translate english scene_chapter13_tonya_home_1628026e:
     lee "I know that my story may sound like total bullshit, but first I met a cat-girl."
     lee "Just imagine – a human and a cat, all in one!"
     lee "I saw such things only in comic books and in movies."
-    lee "I even though I was seeing things after staying out in the sun for too long."
+    lee "I even thought I was seeing things after staying out in the sun for too long."
     lee "In some time we made friends, or maybe I tamed it – depends on how you look at it."
 
 # game/scenes/chapter13/tonya_side.rpy:197

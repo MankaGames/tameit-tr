@@ -88,7 +88,7 @@ translate english scene_sleep_chapter10_e5a5d219:
 translate english scene_sleep_chapter10_0286fb5f:
 
     # lee "{e=smiley}{e=sparkles}{e=eggplant}{e=hot_pepper}{e=fire}"
-    lee "Mmm, that feels awesome! God job, my dear! You are doing great!"
+    lee "Mmm, that feels awesome! Good job, my dear! You are doing great!"
     lee "Please keep it up. Use your tongue. Oh, that’s right…"
 
 # game/scenes/chapter10/sleep.rpy:90

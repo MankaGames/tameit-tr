@@ -101,7 +101,7 @@ translate english scene_chapter13_cave_secretroom_25bd64c0:
 translate english scene_chapter13_cave_secretroom_0dd7f653:
 
     # tonya "{e=yes}{e=lee}{e=plus}{e=tonya}{e=muscle}"
-    tonya "Deal! Well manage it together!"
+    tonya "Deal! We'll manage it together!"
 
 # game/scenes/chapter13/cave.rpy:105
 translate english scene_chapter13_cave_secretroom_7d074c07:
