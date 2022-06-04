@@ -47,3 +47,11 @@
     # game/dicts/craft.rpy:2
     old "{e=pearl_necklace}{e=arrow_right}{e=catgirl}{e=butt}{e=smirk}"
     new "Hmm, das könnte man bei Cat nicht nur als Halskette verwenden."
+
+    # game/dicts/craft.rpy:2
+    old "{e=fairy_cage}{e=yes}{e=thumbs_up}"
+    new "Ausgezeichnet! Der Käfig für die Fee ist fertig."
+
+    # game/dicts/craft.rpy:2
+    old "{e=take}{e=fairy}{e=arrow_right}{e=fairy_cage}{e=smirk}"
+    new "Das hat ganz gut geklappt. Es ist stark genug und wird der Fee nicht wehtun."

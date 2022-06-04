@@ -183,3 +183,19 @@
     # game/dicts/task.rpy:2
     old "{e=weary_face}{e=yawning_face}{e=hourglass}{e=arrow_right}"
     new "Puh, ich bin müde, ich mache später weiter."
+
+    # game/dicts/task.rpy:2
+    old "{e=bridge}{e=yes}{e=muscle}{e=beaming_face}{e=arrow_right}"
+    new "Ausgezeichnet! Die Brücke ist fertig! Der Weg ist frei!"
+
+    # game/dicts/task.rpy:2
+    old "{e=pointing_up}{e=lee_fairy_house}{e=yes}{e=smiley}"
+    new "Hurra! Das erste Haus ist fertig!"
+
+    # game/dicts/task.rpy:2
+    old "{e=weary_face}{e=yawning_face}{e=bed}"
+    new "Ich bin erschöpft, ich muss mich ausruhen."
+
+    # game/dicts/task.rpy:2
+    old "{e=lee_fairy_house}{e=yes}{e=muscle}{e=beaming_face}"
+    new "Das war's! Alle Häuser sind fertig!"

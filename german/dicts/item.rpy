@@ -303,3 +303,16 @@
     # game/dicts/item.rpy:91
     old "Paper Mass"
     new "Papiermasse"
+
+    # game/dicts/item.rpy:91
+    old "Meat"
+    new "Fleisch"
+
+    # game/dicts/item.rpy:91
+    old "Empty fairy cage"
+    new "Leerer Feenkäfig"
+
+    # game/dicts/item.rpy:91
+    old "Fairy in the cage"
+    new "Fee im Käfig"
+
