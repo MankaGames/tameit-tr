@@ -32,7 +32,7 @@ translate german scene_addon1_raft_2aa45876:
 translate german scene_addon1_raft_80702590:
 
     # lee_think "{e=yes}{e=storm}{e=frowning_face}"
-    lee_think "Oh nein, es sieht so aus, als würde der Sturm immer noch kommen!"
+    lee_think "Oh nein, es sieht so aus, als würde der Sturm kommen!"
 
 # game/scenes/addon1/raft.rpy:107
 translate german scene_addon1_raft_969a7d79:

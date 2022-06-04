@@ -8,7 +8,7 @@ translate german scene_addon1_coldspot_13e1ea24:
 translate german scene_addon1_coldspot_c3a2d2a3:
 
     # fairy_think "{e=tentacle}{e=arrow_right}{e=pants}{e=question_white}{e=hushed_face}"
-    fairy_think "Hey! Es bewegt sich, wenn du es berührst!"
+    fairy_think "Hey! Es bewegt sich, wenn man es berührt!"
 
 # game/scenes/addon1/coldspot.rpy:34
 translate german scene_addon1_coldspot_f3b1990e:
@@ -38,5 +38,5 @@ translate german scene_addon1_coldspot_7c13d1c0:
 translate german scene_addon1_coldspot_b06d7cba:
 
     # fairy_think "{e=smirk}{e=take}{e=eggplant}{e=question_white}"
-    fairy_think "Was passiert, wenn du ihn gut anfasst?"
+    fairy_think "Was passiert, wenn man ihn richtig anpackt?"
 

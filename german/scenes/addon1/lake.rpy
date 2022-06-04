@@ -59,7 +59,7 @@ translate german scene_addon1_lake_hive_867940d8:
 translate german scene_addon1_lake_hive_b3dd0142:
 
     # lee_think "{e=hive}{e=arrow_right}{e=honey}{e=savoring}"
-    lee_think "Das ist gut! Wenn du Bienenstöcke hast, sollte dort Honig drin sein."
+    lee_think "Das ist gut! Wenn es Bienenstöcke sind, sollte Honig drin sein."
 
 # game/scenes/addon1/lake.rpy:73
 translate german scene_addon1_lake_hive_1ab52142:
