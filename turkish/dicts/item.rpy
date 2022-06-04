@@ -303,4 +303,15 @@
     # game/dicts/item.rpy:91
     old "Paper Mass"
     new "Kagıt Hamuru"
-
+    
+    # game/dicts/item.rpy:91
+    old "Meat"
+    new "Et"
+    
+    # game/dicts/item.rpy:91
+    old "Empty fairy cage"
+    new "Boş peri kafesi"
+    
+    # game/dicts/item.rpy:91
+    old "Fairy in the cage"
+    new "Perili kafes"

@@ -181,4 +181,19 @@
     # game/dicts/task.rpy:2
     old "{e=weary_face}{e=yawning_face}{e=hourglass}{e=arrow_right}"
     new "Yoruldum, daha sonra geri dönecegim."
-
+    
+    # game/dicts/task.rpy:2
+    old "{e=bridge}{e=yes}{e=muscle}{e=beaming_face}{e=arrow_right}"
+    new "Harika! Köprü hazır! Yol açıldı!"
+    
+    # game/dicts/task.rpy:2
+    old "{e=pointing_up}{e=lee_fairy_house}{e=yes}{e=smiley}"
+    new "Yasasın! Ilk ev hazır!"
+    
+    # game/dicts/task.rpy:2
+    old "{e=weary_face}{e=yawning_face}{e=bed}"
+    new "Çok yoruldum; Biraz dinlenmeye ihtiyacım var."
+    
+    # game/dicts/task.rpy:2
+    old "{e=lee_fairy_house}{e=yes}{e=muscle}{e=beaming_face}"
+    new "Bu kadar! Bütün evler hazır!"

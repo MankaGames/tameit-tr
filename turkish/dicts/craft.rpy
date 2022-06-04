@@ -47,3 +47,11 @@
     # game/dicts/craft.rpy:2
     old "{e=pearl_necklace}{e=arrow_right}{e=catgirl}{e=butt}{e=smirk}"
     new "Hmm, Cat ile bu sadece bir kolyeden daha fazlası olarak kullanılabilir."
+    
+    # game/dicts/craft.rpy:2
+    old "{e=fairy_cage}{e=yes}{e=thumbs_up}"
+    new "Harika! Peri kafesi hazır."
+    
+    # game/dicts/craft.rpy:2
+    old "{e=take}{e=fairy}{e=arrow_right}{e=fairy_cage}{e=smirk}"
+    new "Oldukça iyi görünüyor. Yeterince güçlü ve periye de zarar vermez."

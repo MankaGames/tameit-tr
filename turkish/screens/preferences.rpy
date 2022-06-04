@@ -22,7 +22,7 @@
 
     # game/screens/preferences.rpy:95
     old "Tooltips Enabled"
-    new "Ipuçlarını aç"
+    new "Ipuçlarini aç"
 
     # game/screens/preferences.rpy:107
     old "Music volume"
@@ -50,11 +50,11 @@
 
     # game/screens/preferences.rpy:91
     old "Enabled"
-    new "Açıldı"
+    new "Açildi"
 
     # game/screens/preferences.rpy:91
     old "Disabled"
-    new "Kapatıldı"
+    new "Kapatildi"
 
     # game/screens/preferences.rpy:90
     old "{e=arrows_counterclockwise}{s=joystick}{e=question_white}"
@@ -70,5 +70,5 @@
 
     # game/screens/preferences.rpy:74
     old "Human dialogues are translated,\nmost emoji phrases have hints."
-    new "Insan diyalogları çevrilmistir,\nçogu emojinin ipuçları da çevrilmistir."
+    new "Insan diyaloglari çevrilmistir,\nçogu emojinin ipuçlari da çevrilmistir."
 
