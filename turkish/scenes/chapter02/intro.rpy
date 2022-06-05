@@ -26,36 +26,36 @@ translate turkish scene_chapter02_intro_71ddc414:
 translate turkish scene_chapter02_intro_9778eefc:
 
     # lee_think "{e=cold_sweat}{e=persevering}{e=confounded face}"
-    lee_think "Ayak sesi duydum sanki! Artık nasıl uyuyacam simdi ya?"
+    lee_think "Ayak sesi duydum sanki! Artik nasil uyuyacam simdi ya?"
 
 # game/scenes/chapter02/intro.rpy:34
 translate turkish scene_chapter02_intro_cf9f9be5:
 
     # lee_think "{e=thinking_face}{e=arrow_right}{e=spear}"
-    lee_think "Bir silaha ihtiyacım var. Belki bir mızrak yapabilirim?"
+    lee_think "Bir silaha ihtiyacim var. Belki bir mizrak yapabilirim?"
 
 # game/scenes/chapter02/intro.rpy:36
 translate turkish scene_chapter02_intro_ed65960f:
 
     # lee_think "{e=ear}{e=exclamation}{e=scream}"
-    lee_think "Siktir! Gittikçe yaklasıyor!"
+    lee_think "Siktir! Gittikçe yaklasiyor!"
 
 # game/scenes/chapter02/intro.rpy:52
 translate turkish scene_chapter02_intro_d5f78453:
 
     # lee_think "{e=thinking_face}{e=light_bulb}{e=arrow_right}{e=bonfire}"
-    lee_think "Belki de ates yakmam\u00A0lazım."
-    lee_think "Hem beni sıcak tutar hem yırtıcıları uzak tutar."
+    lee_think "Belki de ates yakmam\u00A0lazim."
+    lee_think "Hem beni sicak tutar hem yirticilari uzak tutar."
 
 # game/scenes/chapter02/intro.rpy:53
 translate turkish scene_chapter02_intro_1ed7cdcf:
 
     # lee_think "{e=thinking_face}{e=arrow_right}{e=bonfire}{e=question_white}"
-    lee_think "Simdi, bakalım ne lazım?"
+    lee_think "Simdi, bakalim ne lazim?"
 
 # game/scenes/chapter02/intro.rpy:54
 translate turkish scene_chapter02_intro_7c225b9e:
 
     # lee_think "{e=stick}{e=plus}{e=rock}{e=arrow_right}{e=bonfire}"
-    lee_think "Kesinlikle bambu çubuklara, ve atesi çevrelemek için taslara\u00A0ihtiyacım var."
+    lee_think "Kesinlikle bambu çubuklara, ve atesi çevrelemek için taslara\u00A0ihtiyacim var."
 

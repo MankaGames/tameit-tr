@@ -6,5 +6,5 @@
 
     # game/scenes/common/pushspot_tonya.rpy:53
     old "Impregnation"
-    new "Icıne bosal"
+    new "Icine bosal"
 

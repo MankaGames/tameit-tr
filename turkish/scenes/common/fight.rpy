@@ -2,11 +2,11 @@
 
     # game/scenes/common/fight.rpy:76
     old "Fast Attack"
-    new "Hızlı Saldırı"
+    new "Hizli Saldiri"
 
     # game/scenes/common/fight.rpy:81
     old "Strong Attack"
-    new "Güçlü Saldırı"
+    new "Güçlü Saldiri"
 
     # game/scenes/common/fight.rpy:86
     old "Defence"

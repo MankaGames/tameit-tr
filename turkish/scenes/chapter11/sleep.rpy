@@ -14,19 +14,19 @@ translate turkish strings:
 
     # game/scenes/chapter11/sleep.rpy:48
     old "{e=magnifying_glass}{e=airplane}{e=thinking_face}"
-    new "Uçakta Octa'nın hosuna gidebilecek bir sey bulabilecek miyim görmem gerek."
+    new "Uçakta Octa'nin hosuna gidebilecek bir sey bulabilecek miyim görmem gerek."
 
     # game/scenes/chapter11/sleep.rpy:50
     old "{e=repair}{e=mirror_broken}{e=arrow_right}{e=mirror}"
-    new "Buldugum aynayı düzeltmeliyim."
+    new "Buldugum aynayi düzeltmeliyim."
 
     # game/scenes/chapter11/sleep.rpy:52
     old "{e=crystal}{e=question_white}{e=thinking_face}{e=magnifying_glass}{e=cave}"
-    new "Bu kristal nereden geliyor? Geri dönüp magarayı aramalıyım."
+    new "Bu kristal nereden geliyor? Geri dönüp magarayi aramaliyim."
 
     # game/scenes/chapter11/sleep.rpy:54
     old "{e=halberd}{e=crossed_swords}{e=jaguar}"
-    new "Jaguarı yenmek için bir balta yapmayı bitirmem gerekiyor."
+    new "Jaguari yenmek için bir balta yapmayi bitirmem gerekiyor."
 
     # game/scenes/chapter11/sleep.rpy:57
     old "{e=speak}{e=octa}"

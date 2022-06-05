@@ -40,5 +40,5 @@ translate turkish scene_pet_common_f80e5c4e:
 
     # lee "{e=exclamation}{e=hushed_face}{e=weary_face}{e=frowning_face}{e=pleading_face}"
     lee "Aah! Tamam, tamam. Benim hatam. Özür dilerim."
-    lee "Sana dokunmuyorum, gördün mü? Tırmalama lütfen!"
+    lee "Sana dokunmuyorum, gördün mü? Tirmalama lütfen!"
 

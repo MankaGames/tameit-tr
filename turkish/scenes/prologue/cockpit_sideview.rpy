@@ -9,19 +9,19 @@ translate turkish scene_prologue_cockpit_sideview_57f9f054:
 translate turkish scene_prologue_cockpit_sideview_8e678bbe:
 
     # lee_think "{ellipsis}{e=leg}{e=heart_eyes}"
-    lee_think "Bacakları da burdan çok güzel görünüyormus!"
+    lee_think "Bacaklari da burdan çok güzel görünüyormus!"
 
 # game/scenes/prologue/cockpit_sideview.rpy:54
 translate turkish scene_prologue_cockpit_sideview_7c9efd05:
 
     # lee "{e=exclamation_question}{e=hushed_face}{e=question}"
-    lee "Ne oldu? Bir seye mi bastım?"
+    lee "Ne oldu? Bir seye mi bastim?"
 
 # game/scenes/prologue/cockpit_sideview.rpy:59
 translate turkish scene_prologue_cockpit_sideview_9f558ff8:
 
     # tonya "{e=cloud}{e=dash}{e=airplane}{e=arrow_upper_right}{e=arrow_lower_right}"
-    tonya "Hayır, sadece türbülans. Sakin ol."
+    tonya "Hayir, sadece türbülans. Sakin ol."
 
 # game/scenes/prologue/cockpit_sideview.rpy:92
 translate turkish scene_prologue_cockpit_sideview_drink_79914201:
@@ -47,7 +47,7 @@ translate turkish scene_prologue_cockpit_sideview_drink_17734b99:
 translate turkish scene_prologue_cockpit_sideview_drink_72702b29:
 
     # tonya "{e=tonya}{e=arrow_right}{e=wc}"
-    tonya "Benim lavaboya gidip temizlenmem lazım."
+    tonya "Benim lavaboya gidip temizlenmem lazim."
 
 # game/scenes/prologue/cockpit_sideview.rpy:98
 translate turkish scene_prologue_cockpit_sideview_drink_993d09c5:
@@ -59,50 +59,50 @@ translate turkish scene_prologue_cockpit_sideview_drink_993d09c5:
 translate turkish scene_prologue_cockpit_sideview_drink_b81b206f:
 
     # lee_think "{e=question}{e=boobs}{e=heart}{e=light_bulb}{e=eye}"
-    lee_think "Lavabo burası olmalı. Belki üstünü degistirirken onu dikizleyebilirim."
+    lee_think "Lavabo burasi olmali. Belki üstünü degistirirken onu dikizleyebilirim."
 
 # game/scenes/prologue/cockpit_sideview.rpy:126
 translate turkish scene_prologue_cockpit_sideview_voyeur_endgame_708ebfae:
 
     # lee_think "{e=flushed_face}{e=strawberry}{e=peach}{e=boobs}"
     lee_think "Wow! Cidden buna degdi!"
-    lee_think "Harika bir vücudu var! Tüm kıyafetlerini degistirmeye karar verdigine memnunum."
+    lee_think "Harika bir vücudu var! Tüm kiyafetlerini degistirmeye karar verdigine memnunum."
 
 # game/scenes/prologue/cockpit_sideview.rpy:127
 translate turkish scene_prologue_cockpit_sideview_voyeur_endgame_88b8ccae:
 
     # lee_think "{e=hot_pepper}{e=fire}{e=dizzy_face}{e=boom}"
-    lee_think "Off harika bir manzaraydı. Kız çok iyi. Tas gibi oldum."
+    lee_think "Off harika bir manzaraydi. Kiz çok iyi. Tas gibi oldum."
 
 # game/scenes/prologue/cockpit_sideview.rpy:131
 translate turkish scene_prologue_cockpit_sideview_voyeur_endgame_f476003c:
 
     # lee_think "{ellipsis}{e=smiling_face}{e=blush}"
-    lee_think "Geri geldi. Normal davranmalıyım."
+    lee_think "Geri geldi. Normal davranmaliyim."
 
 # game/scenes/prologue/cockpit_sideview.rpy:135
 translate turkish scene_prologue_cockpit_sideview_voyeur_endgame_a9d0466d:
 
     # tonya "{e=smirk}{e=yoke}{e=airplane}{e=ok_hand}{e=question}"
-    tonya "Nasılsın sıkıntı yok degil mi?"
+    tonya "Nasilsin sikinti yok degil mi?"
 
 # game/scenes/prologue/cockpit_sideview.rpy:136
 translate turkish scene_prologue_cockpit_sideview_voyeur_endgame_c156e6f5:
 
     # lee "{e=blush}{e=ok_hand}"
-    lee "Her sey tamam, sıkıntı yok."
+    lee "Her sey tamam, sikinti yok."
 
 # game/scenes/prologue/cockpit_sideview.rpy:139
 translate turkish scene_prologue_cockpit_sideview_voyeur_endgame_72b47abb:
 
     # tonya "{e=unamused_face}{e=eye}{e=question}{e=smirk}"
-    tonya "Beni dikizledigini gördüm! Bunu nasıl yaparsın seni küçük sapık!"
+    tonya "Beni dikizledigini gördüm! Bunu nasil yaparsin seni küçük sapik!"
 
 # game/scenes/prologue/cockpit_sideview.rpy:140
 translate turkish scene_prologue_cockpit_sideview_voyeur_endgame_3743f6e9:
 
     # lee "{e=pensive_face}{e=pleading_face}"
-    lee "s-sey yanlıslıkla oldu. Özür dilerim!"
+    lee "s-sey yanlislikla oldu. Özür dilerim!"
 
 # game/scenes/prologue/cockpit_sideview.rpy:151
 translate turkish scene_prologue_cockpit_sideview_tonya_return_eb545904:
@@ -127,24 +127,24 @@ translate turkish scene_prologue_cockpit_sideview_tonya_return_e13a6387:
 
     # lee_think "{e=exclamation}{e=exclamation_question}{e=hushed_face}{e=flushed_face}{e=elephant}"
     if 'prologue_voyeur' in persistent.gallery:
-        lee_think "Oh! Eli kalkmıs seyime dogru kaydı...."
+        lee_think "Oh! Eli kalkmis seyime dogru kaydi...."
     else:
         lee_think "Oh, shoot! Her hand just slid right over my..."
-    lee_think "Belki fark etmedi, ya da fark etmemis gibi davranıyor."
+    lee_think "Belki fark etmedi, ya da fark etmemis gibi davraniyor."
 
 # game/scenes/prologue/cockpit_sideview.rpy:173
 translate turkish scene_prologue_cockpit_sideview_tonya_return_16ba244f:
 
     # tonya_think "{e=astonished_face}{e=eggplant}{e=heart}"
-    tonya_think "Bakın burda ne varmıs? Kesinlikle küçük boy degil o belli."
+    tonya_think "Bakin burda ne varmis? Kesinlikle küçük boy degil o belli."
 
-    "Bakıyormus gibi yapan Tonya nazikçe"
-    "ve yavasça Lee'nin sikini sıvazlamaya basladı"
-    "Sadece oksuyor ama bosaltmıyor. Sonra ona dogru egiliyor,"
-    "kulagına diliyle çemberler çiziyor, dikkatlice onun reaksiyonunu izliyor."
-    "Lee dondu kaldı. Çok sasırdı. Ama onu geriye de itmiyor. Durumdan memnun."
-    "Ustaca etegini kaldırıyor ve Lee'nin kucagına dayanıyor, onu hafifçe geri itiyor,"
-    "kucagına oturuyor ve fermuarını açıyor, onun erekte olmus sikini çıkarıyor. "
+    "Bakiyormus gibi yapan Tonya nazikçe"
+    "ve yavasça Lee'nin sikini sivazlamaya basladi"
+    "Sadece oksuyor ama bosaltmiyor. Sonra ona dogru egiliyor,"
+    "kulagina diliyle çemberler çiziyor, dikkatlice onun reaksiyonunu izliyor."
+    "Lee dondu kaldi. Çok sasirdi. Ama onu geriye de itmiyor. Durumdan memnun."
+    "Ustaca etegini kaldiriyor ve Lee'nin kucagina dayaniyor, onu hafifçe geri itiyor,"
+    "kucagina oturuyor ve fermuarini açiyor, onun erekte olmus sikini çikariyor. "
 
 translate turkish strings:
 
@@ -164,7 +164,7 @@ translate turkish strings:
 translate turkish scene_prologue_cockpit_sideview_tonya_return_63bba0ab:
 
     # tonya "{e=slightly_smiling_face}{e=ok_hand}{e=arrow_upper_right}{e=arrow_lower_right}{e=relieved}"
-    tonya "Endiselenme, sık sık sallanır.."
+    tonya "Endiselenme, sik sik sallanir.."
 
 # game/scenes/prologue/cockpit_sideview.rpy:172
 translate turkish scene_prologue_cockpit_sideview_tonya_return_b5b71d6b:

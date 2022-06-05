@@ -8,19 +8,19 @@ translate turkish scene_sleep_chapter10_d6aaeb6f:
 translate turkish scene_sleep_chapter10_dcd70c73:
 
     # lee_think "{e=pensive_face}{e=pleading_face}"
-    lee_think "Siktir! Sanırım yine batırdım!"
+    lee_think "Siktir! Sanirim yine batirdim!"
 
 # game/scenes/chapter10/sleep.rpy:53
 translate turkish scene_sleep_chapter10_cf575c47:
 
     # lee_think "{e=weary_face}{e=tear_smile}"
-    lee_think "Bunu yapmamalıydım... Neden bunun iyi bir fikir oldugunu düsündüm ki?"
+    lee_think "Bunu yapmamaliydim... Neden bunun iyi bir fikir oldugunu düsündüm ki?"
 
 # game/scenes/chapter10/sleep.rpy:54
 translate turkish scene_sleep_chapter10_d4a612bd:
 
     # lee_think "{e=catgirl}{e=angry}{e=disappointed}"
-    lee_think "Simdi Cat bana kızgın… Tekrardan."
+    lee_think "Simdi Cat bana kizgin… Tekrardan."
 
 # game/scenes/chapter10/sleep.rpy:55
 translate turkish scene_sleep_chapter10_89d3f933:
@@ -32,15 +32,15 @@ translate turkish scene_sleep_chapter10_89d3f933:
 translate turkish scene_sleep_chapter10_4acdc648:
 
     # lee_think "{e=me}{e=cold_sweat}{e=octa}{e=confused_face}"
-    lee_think "Sanırım onu ​​korkuttum..."
-    lee_think "Ona dokunacagım için o kadar heyecanlandım ki sikimle karar verdim."
+    lee_think "Sanirim onu ​​korkuttum..."
+    lee_think "Ona dokunacagim için o kadar heyecanlandim ki sikimle karar verdim."
 
 # game/scenes/chapter10/sleep.rpy:60
 translate turkish scene_sleep_chapter10_1ac51c04:
 
     # lee "{e=catgirl}{e=exclamation_white}{e=smiley}{e=angry}{e=question_white}"
-    lee "Tatlı kedicigim benim, sonunda bana geldin! Çok memnunum!"
-    lee "Sinirlenip saklanacagını düsündüm. Bana kızgın mısın?"
+    lee "Tatli kedicigim benim, sonunda bana geldin! Çok memnunum!"
+    lee "Sinirlenip saklanacagini düsündüm. Bana kizgin misin?"
 
 # game/scenes/chapter10/sleep.rpy:61
 translate turkish scene_sleep_chapter10_d08292e3:
@@ -58,7 +58,7 @@ translate turkish scene_sleep_chapter10_418591d5:
 translate turkish scene_sleep_chapter10_3f82c2c7:
 
     # lee "{e=catgirl}{e=flushed_face}{e=question_white}"
-    lee "Fıstıgım, ne yapıyorsun? Gerçekten düsündügüm seyi mi yapıyorsun?"
+    lee "Fistigim, ne yapiyorsun? Gerçekten düsündügüm seyi mi yapiyorsun?"
 
 # game/scenes/chapter10/sleep.rpy:67
 translate turkish scene_sleep_chapter10_776f9a51:
@@ -82,32 +82,32 @@ translate turkish scene_sleep_chapter10_38b3df04:
 translate turkish scene_sleep_chapter10_e5a5d219:
 
     # lee "{e=smiling_face}{e=smiling_face_with_hearts}"
-    lee "Oh, seni küçük orospu! Tamam, madem öyle. Sadece sikimi tek parça bırak yeter!"
+    lee "Oh, seni küçük orospu! Tamam, madem öyle. Sadece sikimi tek parça birak yeter!"
 
 # game/scenes/chapter10/sleep.rpy:81
 translate turkish scene_sleep_chapter10_0286fb5f:
 
     # lee "{e=smiley}{e=sparkles}{e=eggplant}{e=hot_pepper}{e=fire}"
-    lee "Bu harika hissettiriyor! Ohh, tatlım! Iyi gidiyorsun!"
+    lee "Bu harika hissettiriyor! Ohh, tatlim! Iyi gidiyorsun!"
     lee "Lütfen böyle devam et. Dilini kullan. Evet bu cok iyi…"
 
 # game/scenes/chapter10/sleep.rpy:90
 translate turkish scene_sleep_chapter10_ac79bef5:
 
     # octa_think "{e=flushed_face}{e=exclamation_white}{e=dizzy_face}"
-    octa_think "{e=flushed_face}{e=exclamation_white}{e=dizzy_face}{alt}Napıyor bunlar?{/alt}"
+    octa_think "{e=flushed_face}{e=exclamation_white}{e=dizzy_face}{alt}Napiyor bunlar?{/alt}"
 
 # game/scenes/chapter10/sleep.rpy:91
 translate turkish scene_sleep_chapter10_fc44942f:
 
     # octa_think "{e=you}{e=kiss_face}{e=astonished_face}{e=question_white}{e=exclamation_white}"
-    octa_think "{e=you}{e=kiss_face}{e=astonished_face}{e=question_white}{e=exclamation_white}{alt}Bu da mı öpüsmek?{/alt}"
+    octa_think "{e=you}{e=kiss_face}{e=astonished_face}{e=question_white}{e=exclamation_white}{alt}Bu da mi öpüsmek?{/alt}"
 
 # game/scenes/chapter10/sleep.rpy:92
 translate turkish scene_sleep_chapter10_da1511e7:
 
     # octa_think "{e=catgirl}{e=lee}{e=exploding_head}"
-    octa_think "{e=catgirl}{e=lee}{e=exploding_head}{alt}Tuhaf bir sey yapıyorlar.{/alt}"
+    octa_think "{e=catgirl}{e=lee}{e=exploding_head}{alt}Tuhaf bir sey yapiyorlar.{/alt}"
 
 # game/scenes/chapter10/sleep.rpy:93
 translate turkish scene_sleep_chapter10_639eb060:
@@ -127,9 +127,9 @@ translate turkish strings:
 
     # game/scenes/chapter10/sleep.rpy:34
     old "{e=hammer}{e=shovel}{e=arrow_right}{e=basin1}"
-    new "Daha hızlı kazmak için bir kürek yapmam gerekiyor."
+    new "Daha hizli kazmak için bir kürek yapmam gerekiyor."
 
     # game/scenes/chapter10/sleep.rpy:36
     old "{e=hammer}{e=basin4}{e=arrow_left}{e=octa}"
-    new "Octa için havuz yapmayı bitirmem gerekiyor."
+    new "Octa için havuz yapmayi bitirmem gerekiyor."
 

@@ -8,5 +8,5 @@ translate turkish strings:
 
     # game/scenes/chapter03/sleep.rpy:19
     old "{e=fish}{e=arrow_right}{e=gallows_2}"
-    new "Tuzak için bir balık."
+    new "Tuzak için bir balik."
 

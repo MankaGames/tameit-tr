@@ -8,11 +8,11 @@ translate turkish strings:
 
     # game/scenes/chapter08/sleep.rpy:28
     old "{e=hammer}{e=fishnet}{e=arrow_right}{e=shark}"
-    new "Göl canavarını yakalamak için bir ag yapmam gerekiyor."
+    new "Göl canavarini yakalamak için bir ag yapmam gerekiyor."
 
     # game/scenes/chapter08/sleep.rpy:30
     old "{e=stick}{e=hammer}{e=lake_trap}{e=plus}{e=lake_trap}"
-    new "Göle iki tuzak kurmak için daha fazla bambu çubuga ihtiyacım var."
+    new "Göle iki tuzak kurmak için daha fazla bambu çubuga ihtiyacim var."
 
 translate turkish strings:
 

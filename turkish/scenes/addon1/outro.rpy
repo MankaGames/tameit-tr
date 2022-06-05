@@ -2,25 +2,25 @@
 translate turkish scene_addon1_outro_16210b7c:
 
     # lee "{e=ok_hand}{e=boat}{e=ocean}{e=arrow_right}"
-    lee "Görünüse göre denize açılmaya hazırız!"
+    lee "Görünüse göre denize açilmaya haziriz!"
 
 # game/scenes/addon1/outro.rpy:25
 translate turkish scene_addon1_outro_946b7524:
 
     # lee "{e=girls}{e=arrow_right}{e=raft}{e=boat}{e=question_white}"
-    lee "Siz de hazır mısınız kızlar?"
+    lee "Siz de hazir misiniz kizlar?"
 
 # game/scenes/addon1/outro.rpy:26
 translate turkish scene_addon1_outro_3f3bd5e3:
 
     # cat "{e=confounded face}{e=ocean}{e=weary_face}{ellipsis}{e=ok_hand}"
-    cat "{e=confounded face}{e=ocean}{e=weary_face}{ellipsis}{e=ok_hand}{alt}Yuck, gitmek istemiyorum! Tekrar su! Kedi bu sekilde balıga dönüsebilir!{/alt}"
+    cat "{e=confounded face}{e=ocean}{e=weary_face}{ellipsis}{e=ok_hand}{alt}Yuck, gitmek istemiyorum! Tekrar su! Kedi bu sekilde baliga dönüsebilir!{/alt}"
 
 # game/scenes/addon1/outro.rpy:27
 translate turkish scene_addon1_outro_a8058881:
 
     # octa "{e=boat}{e=exclamation_white}{e=smiley}"
-    octa "{e=boat}{e=exclamation_white}{e=smiley}{alt}Hadi gidelim. Ben hazırım!{/alt}"
+    octa "{e=boat}{e=exclamation_white}{e=smiley}{alt}Hadi gidelim. Ben hazirim!{/alt}"
 
 # game/scenes/addon1/outro.rpy:28
 translate turkish scene_addon1_outro_be5841ad:
@@ -32,14 +32,14 @@ translate turkish scene_addon1_outro_be5841ad:
 translate turkish scene_addon1_outro_3ff03299:
 
     # lee "{e=relieved}{e=desert island}{e=fairy}{e=smiley}"
-    lee "He-o, siz ikiniz, tekrar baslatmayın! Yine de ilginç bir mola oldu."
-    lee "Periler… kim düsünebilirdi ki! Hala inanamıyorum."
+    lee "He-o, siz ikiniz, tekrar baslatmayin! Yine de ilginç bir mola oldu."
+    lee "Periler… kim düsünebilirdi ki! Hala inanamiyorum."
 
 # game/scenes/addon1/outro.rpy:30
 translate turkish scene_addon1_outro_313a44e9:
 
     # lee_think "{e=hourglass}{e=arrow_right}{e=map}{e=desert island}"
-    lee_think "Heyecan verici bir macera olmasına ragmen, umarım daha fazla gecikme yasamayız."
+    lee_think "Heyecan verici bir macera olmasina ragmen, umarim daha fazla gecikme yasamayiz."
 
 # game/scenes/addon1/outro.rpy:31
 translate turkish scene_addon1_outro_36206790:
@@ -69,20 +69,20 @@ translate turkish scene_addon1_outro_cc54349c:
 translate turkish scene_addon1_outro_03a8d0b8:
 
     # lee_think "{e=ok_hand}{e=boat}{e=ocean}{e=arrow_right}"
-    lee_think "Görünüse göre her sey denize açılmak için hazır!"
+    lee_think "Görünüse göre her sey denize açilmak için hazir!"
 
 # game/scenes/addon1/outro.rpy:43
 translate turkish scene_addon1_outro_7546cca8:
 
     # lee_think "{e=relieved}{e=desert island}{e=fairy}{e=smiley}"
     lee_think "Yine de ilginç bir mola oldu."
-    lee_think "Periler… kim düsünebilirdi ki! Hala inanamıyorum."
+    lee_think "Periler… kim düsünebilirdi ki! Hala inanamiyorum."
 
 # game/scenes/addon1/outro.rpy:44
 translate turkish scene_addon1_outro_313a44e9_1:
 
     # lee_think "{e=hourglass}{e=arrow_right}{e=map}{e=desert island}"
-    lee_think "Heyecan verici bir macera olmasına ragmen, umarım daha fazla gecikme yasamayız."
+    lee_think "Heyecan verici bir macera olmasina ragmen, umarim daha fazla gecikme yasamayiz."
 
 # game/scenes/addon1/outro.rpy:51
 translate turkish scene_addon1_outro_36206790_1:

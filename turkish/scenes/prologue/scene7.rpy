@@ -2,7 +2,7 @@
 translate turkish scene_prologue_scene70_3c846659:
 
     # tonya_think "{e=thermometer}{e=sun}{e=water bottle}"
-    tonya_think "Bugün çok sıcak. \nBir sise su içmeliyim."
+    tonya_think "Bugün çok sicak. \nBir sise su içmeliyim."
 
 # game/scenes/prologue/scene7.rpy:35
 translate turkish scene_prologue_scene70_702889e1:
@@ -14,5 +14,5 @@ translate turkish scene_prologue_scene70_702889e1:
 translate turkish scene_prologue_scene70_9b853cb4:
 
     # tonya_think "Oops! It slipped out... How could this happen..."
-    tonya_think "Oops! Tüh, düstü... Bu nasıl olabilir yaa..."
+    tonya_think "Oops! Tüh, düstü... Bu nasil olabilir yaa..."
 

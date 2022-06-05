@@ -2,13 +2,13 @@
 translate turkish scene_chapter08_wrecks_5f1f09d9:
 
     # lee_think "{e=plane_door}{e=enter}{e=arrow_up}"
-    lee_think "En azından simdi kısmen yerde ve kapı açık. Içeri girebilmeliyim."
+    lee_think "En azindan simdi kismen yerde ve kapi açik. Içeri girebilmeliyim."
 
 # game/scenes/chapter08/wrecks.rpy:32
 translate turkish scene_chapter08_wrecks_plane1_d9b1e923:
 
     # lee_think "{e=magnifying_glass}{e=no}{e=confused_face}"
-    lee_think "Bütün kabini aradım ama hiçbir sey yok gibi görünüyor."
+    lee_think "Bütün kabini aradim ama hiçbir sey yok gibi görünüyor."
     lee_think "Tonya'dan eser yok ve ise yarar hiçbir sey yok."
 
 # game/scenes/chapter08/wrecks.rpy:33
@@ -27,7 +27,7 @@ translate turkish scene_chapter08_wrecks_plane1_3ee5067d:
 translate turkish scene_chapter08_wrecks_plane1_f9c831f3:
 
     # lee_think "{e=thinking_face}{e=light_bulb}{e=arrow_right}{e=hammer}{e=plane_ladder}"
-    lee_think "Siktir! Koltukları kullanarak tırmanabilecegimi düsünmüstüm,,"
+    lee_think "Siktir! Koltuklari kullanarak tirmanabilecegimi düsünmüstüm,,"
     lee_think "ama o kadar kolay degil ve birçogu zar zor tutuyor."
     lee_think "Aaa, biliyorum! Bir merdiven yapabilirim!"
 
@@ -35,13 +35,13 @@ translate turkish scene_chapter08_wrecks_plane1_f9c831f3:
 translate turkish scene_chapter08_wrecks_plane1_f994eb42:
 
     # lee_think "{e=plane_ladder}{e=arrow_right}{e=stick}{e=plus}{e=rope}"
-    lee_think "Bambu çubuklara ve iplere ihtiyacım olacak."
+    lee_think "Bambu çubuklara ve iplere ihtiyacim olacak."
 
 # game/scenes/chapter08/wrecks.rpy:38
 translate turkish scene_chapter08_wrecks_plane1_1217aa68:
 
     # cat "{e=hushed_face}{e=lee}{e=question_white}"
-    cat "{e=hushed_face}{e=lee}{e=question_white}{alt}Lee napıyor?{/alt}"
+    cat "{e=hushed_face}{e=lee}{e=question_white}{alt}Lee napiyor?{/alt}"
 
 # game/scenes/chapter08/wrecks.rpy:39
 translate turkish scene_chapter08_wrecks_plane1_fec43945:
@@ -53,13 +53,13 @@ translate turkish scene_chapter08_wrecks_plane1_fec43945:
 translate turkish scene_chapter08_wrecks_plane1_b1167078:
 
     # cat "{e=me}{e=arrow_up}{e=cockpit}{e=grinning_cat}"
-    cat "{e=me}{e=arrow_up}{e=cockpit}{e=grinning_cat}{alt}Tırmanıyorum, bak.{/alt}"
+    cat "{e=me}{e=arrow_up}{e=cockpit}{e=grinning_cat}{alt}Tirmaniyorum, bak.{/alt}"
 
 # game/scenes/chapter08/wrecks.rpy:42
 translate turkish scene_chapter08_wrecks_plane1_f1b2607e:
 
     # lee "{e=me}{e=no}{e=confused_face}{e=arrow_right}{e=plane_ladder}"
-    lee "Oldukça kolay bir sekilde tırmanabilirim, ama bunun için merdivene ihtiyacım var."
+    lee "Oldukça kolay bir sekilde tirmanabilirim, ama bunun için merdivene ihtiyacim var."
 
 # game/scenes/chapter08/wrecks.rpy:45
 translate turkish scene_chapter08_wrecks_plane1_66d69b5e:
@@ -71,13 +71,13 @@ translate turkish scene_chapter08_wrecks_plane1_66d69b5e:
 translate turkish scene_chapter08_wrecks_plane1_8f336d07:
 
     # lee "{e=catgirl}{e=help}{e=arrow_right}{e=stick}{e=arrow_up}"
-    lee "Hadi gel de seninle bambu çubuk toplayalım merdiven içim."
+    lee "Hadi gel de seninle bambu çubuk toplayalim merdiven içim."
 
 # game/scenes/chapter08/wrecks.rpy:55
 translate turkish scene_chapter08_wrecks_plane1_94261145:
 
     # lee_think "{e=smiley}{e=plane_ladder}{e=yes}{e=exclamation_white}"
-    lee_think "Bu iyi bir baslangıç! Bunlardan birkaç tane daha yapıp kokpite gidecegim!"
+    lee_think "Bu iyi bir baslangiç! Bunlardan birkaç tane daha yapip kokpite gidecegim!"
 
 # game/scenes/chapter08/wrecks.rpy:56
 translate turkish scene_chapter08_wrecks_plane1_75c2cc8a:
@@ -101,34 +101,34 @@ translate turkish scene_chapter08_wrecks_plane3_4ff9f247:
 translate turkish scene_chapter08_wrecks_plane3_ca9bd7ee:
 
     # lee "{e=laughing}{e=panties}{e=arrow_right}{e=butt}"
-    lee "Ha-ha! Yanlıs yere giyiyorsun!"
+    lee "Ha-ha! Yanlis yere giyiyorsun!"
     lee "Sana daha sonra onu giymenin dogru yolunu gösterecegim."
 
 # game/scenes/chapter08/wrecks.rpy:89
 translate turkish scene_chapter08_wrecks_plane3_366a38c3:
 
     # lee_think "{e=take}{e=panties}{e=arrow_right}{e=inventory}"
-    lee_think "Sanırım bunlar Tonya'nın külotu. Onları saklayacagım."
-    lee_think "Külodunu çıkardıgını da hatırlamıyorum. Tüm bunlar hiç yasanmamıs gibi geliyor."
+    lee_think "Sanirim bunlar Tonya'nin külotu. Onlari saklayacagim."
+    lee_think "Külodunu çikardigini da hatirlamiyorum. Tüm bunlar hiç yasanmamis gibi geliyor."
 
 # game/scenes/chapter08/wrecks.rpy:118
 translate turkish scene_chapter08_wrecks_plane_cockpit_f7dedd69:
 
     # lee_think "{e=cockpit}{e=exclamation_white}{e=smiley}"
-    lee_think "Harika! Sonunda buradayım!"
+    lee_think "Harika! Sonunda buradayim!"
 
 # game/scenes/chapter08/wrecks.rpy:119
 translate turkish scene_chapter08_wrecks_plane_cockpit_8bcfa4bd:
 
     # lee_think "{e=relieved}{e=cockpit}{e=no}{e=blood}"
     lee_think "Kan izi yok - bu iyi."
-    lee_think "Buradaki her seyin kanla kaplanmasından korktum, hatta…"
+    lee_think "Buradaki her seyin kanla kaplanmasindan korktum, hatta…"
 
 # game/scenes/chapter08/wrecks.rpy:121
 translate turkish scene_chapter08_wrecks_plane_cockpit_d44cec2c:
 
     # lee_think "{e=thinking_face}{e=tonya}{e=arrow_down}{e=parachute}"
-    lee_think "Tonya kazadan önce parasütle atlayıp hayatta kaldı mı acaba?"
+    lee_think "Tonya kazadan önce parasütle atlayip hayatta kaldi mi acaba?"
 
 # game/scenes/chapter08/wrecks.rpy:122
 translate turkish scene_chapter08_wrecks_plane_cockpit_572188b6:
@@ -140,25 +140,25 @@ translate turkish scene_chapter08_wrecks_plane_cockpit_572188b6:
 translate turkish scene_chapter08_wrecks_plane_cockpit_7935cecb:
 
     # lee_think "{e=tonya}{e=swim}{e=arrow_right}{e=desert island}{e=question_white}"
-    lee_think "Kıyıya ulasabildi mi acaba?"
+    lee_think "Kiyiya ulasabildi mi acaba?"
 
 # game/scenes/chapter08/wrecks.rpy:124
 translate turkish scene_chapter08_wrecks_plane_cockpit_b512a901:
 
     # lee_think "{e=thinking_face}{e=parachute}{e=dash}{e=arrow_right}{e=question_white}"
-    lee_think "Rüzgar, onu baska bir adaya mı attı acaba?"
+    lee_think "Rüzgar, onu baska bir adaya mi atti acaba?"
 
 # game/scenes/chapter08/wrecks.rpy:126
 translate turkish scene_chapter08_wrecks_plane_cockpit_9bcbc088:
 
     # lee_think "{e=tonya}{e=arrow_right}{e=hut}{e=question_white}"
-    lee_think "Gördügüm kulübe... Tonya'nın olabilir mi?"
+    lee_think "Gördügüm kulübe... Tonya'nin olabilir mi?"
 
 # game/scenes/chapter08/wrecks.rpy:144
 translate turkish scene_chapter08_wrecks_plane_door_right_02fc6bac:
 
     # lee_think "{e=plane_door}{e=eyes}{e=enter}"
-    lee_think "Uçagın kapısı kayıp. Dısarı çıkıp etrafata arayım."
+    lee_think "Uçagin kapisi kayip. Disari çikip etrafata arayim."
 
 # game/scenes/chapter08/wrecks.rpy:169
 translate turkish scene_chapter08_wrecks_plane_door_right_view_2a064218:
@@ -177,25 +177,25 @@ translate turkish scene_chapter08_wrecks_plane_door_right_view_42e4152b:
 translate turkish scene_chapter08_wrecks_plane_door_right_view_85397762:
 
     # lee_think "{e=hut}{e=fireplace}{e=surprised}{e=exclamation_white}"
-    lee_think "Bu bir kulübe mi? Biri kamp yapmıs gibi görünüyor!"
+    lee_think "Bu bir kulübe mi? Biri kamp yapmis gibi görünüyor!"
 
 # game/scenes/chapter08/wrecks.rpy:177
 translate turkish scene_chapter08_wrecks_plane_door_right_view_f99c1e51:
 
     # lee_think "{e=smoke}{e=arrow_right}{e=fireplace}{e=thinking_face}"
-    lee_think "Kesinlikle! Kamp atesinin dumanını bile görüyorum. Belki de geçen gördügüm sey buydu!"
+    lee_think "Kesinlikle! Kamp atesinin dumanini bile görüyorum. Belki de geçen gördügüm sey buydu!"
 
 # game/scenes/chapter08/wrecks.rpy:178
 translate turkish scene_chapter08_wrecks_plane_door_right_view_0aa6c134:
 
     # lee_think "{e=thinking_face}{e=tonya}{e=question_white}{e=silhouette}{e=question_white}"
-    lee_think "Tonya'nın kampı olabilir mi? Yoksa yerlilere mi ait?"
+    lee_think "Tonya'nin kampi olabilir mi? Yoksa yerlilere mi ait?"
 
 # game/scenes/chapter08/wrecks.rpy:180
 translate turkish scene_chapter08_wrecks_plane_door_right_view_622e1172:
 
     # lee_think "{e=me}{e=footprints}{e=hut}{e=question_white}{e=thinking_face}"
-    lee_think "Diger tarafa nasıl geçebilirim?"
+    lee_think "Diger tarafa nasil geçebilirim?"
     lee_think "Bir merdiven ya da ip oraya yetismez oraya burdan geçmemin bir yolu yok."
 
 # game/scenes/chapter08/wrecks.rpy:183
@@ -209,44 +209,44 @@ translate turkish scene_chapter08_wrecks_plane_door_right_view_9df8f2c1:
 
     # lee_think "{e=eyes}{e=exclamation}{e=jaguar}{e=scream}"
     lee_think "Bu bir jaguar!"
-    lee_think "Simdi aramızda bir uçurum oldugu ve üzerinden atlayamayacagı için mutluyum."
+    lee_think "Simdi aramizda bir uçurum oldugu ve üzerinden atlayamayacagi için mutluyum."
 
 # game/scenes/chapter08/wrecks.rpy:188
 translate turkish scene_chapter08_wrecks_plane_door_right_view_96053fc5:
 
     # lee_think "{e=tiger}{e=jaguar}{e=exclamation}{e=cold_sweat}{e=confounded face}"
-    lee_think "Demek adada büyük yırtıcılar var!"
-    lee_think "Belki de adadaki ilk gecelerimde hırlayan Cat'in degil jaguarın hırlamasıydı."
+    lee_think "Demek adada büyük yirticilar var!"
+    lee_think "Belki de adadaki ilk gecelerimde hirlayan Cat'in degil jaguarin hirlamasiydi."
 
 # game/scenes/chapter08/wrecks.rpy:189
 translate turkish scene_chapter08_wrecks_plane_door_right_view_f97d2779:
 
     # lee_think "{e=thinking_face}{e=back}{e=jaguar}{e=arrow_right}{e=hut}"
     lee_think "Yine de diger tarafa geçmem gerek!"
-    lee_think "Alternatif yollar olmalı. Kulübeye ulasmanın bir yolunu bulmalıyım!"
+    lee_think "Alternatif yollar olmali. Kulübeye ulasmanin bir yolunu bulmaliyim!"
 
 # game/scenes/chapter08/wrecks.rpy:190
 translate turkish scene_chapter08_wrecks_plane_door_right_view_a5db052d:
 
     # lee_think "{e=spear}{e=torch}{e=gallows_2}{e=jaguar}"
-    lee_think "Ayrıca karsılasmamız ihtimaline karsı canavarla dövüsmeye hazırlanmam gerekiyor."
-    lee_think "Mızragım, mesalem ve halatlarım var ama yeterli mi emin degilim."
+    lee_think "Ayrica karsilasmamiz ihtimaline karsi canavarla dövüsmeye hazirlanmam gerekiyor."
+    lee_think "Mizragim, mesalem ve halatlarim var ama yeterli mi emin degilim."
 
 # game/scenes/chapter08/wrecks.rpy:191
 translate turkish scene_chapter08_wrecks_plane_door_right_view_9de9c4ae:
 
     # lee_think "{e=weary_face}{e=thinking_face}{e=hourglass}{e=arrows_counterclockwise}"
-    lee_think "Üzerinde düsünmem gerekiyor. Nasılsa su an yapabilecegim bir sey yok."
+    lee_think "Üzerinde düsünmem gerekiyor. Nasilsa su an yapabilecegim bir sey yok."
 
 # game/scenes/chapter08/wrecks.rpy:206
 translate turkish scene_chapter08_wrecks_plane_door_right_view_9de9c4ae_1:
 
     # lee_think "{e=weary_face}{e=thinking_face}{e=hourglass}{e=arrows_counterclockwise}"
-    lee_think "Üzerinde düsünmem gerekiyor. Nasılsa su an yapabilecegim bir sey yok."
+    lee_think "Üzerinde düsünmem gerekiyor. Nasilsa su an yapabilecegim bir sey yok."
 
 # game/scenes/chapter08/wrecks.rpy:179
 translate turkish scene_chapter08_wrecks_plane_door_right_view_c5ffda27:
 
     # lee "{e=speak}{e=tonya}{e=exclamation_white}{e=exclamation_white}{e=exclamation_white}"
-    lee "Tonya! Tonya! Orada mısın?"
+    lee "Tonya! Tonya! Orada misin?"
 

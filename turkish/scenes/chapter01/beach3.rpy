@@ -2,25 +2,25 @@
 translate turkish scene_chapter01_beach3_41bdaf03:
 
     # lee_think "{e=water}{e=exclamation}"
-    lee_think "Hızlıca temiz su bulmam lazım."
+    lee_think "Hizlica temiz su bulmam lazim."
 
 # game/scenes/chapter01/beach3.rpy:49
 translate turkish scene_chapter01_beach3_tutorial_6ebf95d5:
 
     # lee_think "{e=relieved}"
-    lee_think "Fena degil, ama umarım daha besleyici bir seyler bulabilirim."
+    lee_think "Fena degil, ama umarim daha besleyici bir seyler bulabilirim."
 
 # game/scenes/chapter01/beach3.rpy:53
 translate turkish scene_chapter01_beach3_tutorial_857bd662:
 
     # lee_think "{e=eyes}{e=magnifying_glass}{e=desert island}"
-    lee_think "Simdi biraz etrafa bakmalı ve nerede oldugumu anlamaya calismaliyim."
+    lee_think "Simdi biraz etrafa bakmali ve nerede oldugumu anlamaya calismaliyim."
 
 # game/scenes/chapter01/beach3.rpy:54
 translate turkish scene_chapter01_beach3_tutorial_347d298a:
 
     # lee_think "{e=thinking_face}{e=desert island}{e=footprints}{e=question_white}"
-    lee_think "Umarım ada ıssız degildir ve burda tek basıma kalmamısımdır."
+    lee_think "Umarim ada issiz degildir ve burda tek basima kalmamisimdir."
 
 # game/scenes/chapter01/beach3.rpy:30
 translate turkish scene_chapter01_beach3_347a3ff3:
@@ -32,8 +32,8 @@ translate turkish scene_chapter01_beach3_347a3ff3:
 translate turkish scene_chapter01_beach3_tutorial_9843428e:
 
     # lee_think "{e=coconut}{e=arrow_right}{e=coconut_bowl}{e=arrow_right}{e=coconut_bowl_water}"
-    lee_think "Bu hindistan cevizi kabuklarını baska bir sekilde kullanabilirim"
-    lee_think "mesela bunlarla su tasıyabilirim."
+    lee_think "Bu hindistan cevizi kabuklarini baska bir sekilde kullanabilirim"
+    lee_think "mesela bunlarla su tasiyabilirim."
 
 # game/scenes/chapter01/beach3.rpy:41
 translate turkish scene_chapter01_beach3_tutorial_b7c5c171:

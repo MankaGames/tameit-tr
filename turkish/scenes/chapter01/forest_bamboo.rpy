@@ -2,7 +2,7 @@
 translate turkish scene_chapter01_forest_bamboo1_41bdaf03:
 
     # lee_think "{e=water}{e=exclamation}"
-    lee_think "Hızlıca temiz su bulmalıyım."
+    lee_think "Hizlica temiz su bulmaliyim."
 
 # game/scenes/chapter01/forest_bamboo.rpy:25
 translate turkish scene_chapter01_forest_bamboo1_78b42009:
@@ -20,6 +20,6 @@ translate turkish scene_chapter01_forest_bamboo1_673ccf89:
 translate turkish scene_chapter01_forest_bamboo1_d1b526f0:
 
     # lee_think "{e=skull_and_crossbones}{e=exclamation}{e=confounded face}"
-    lee_think "Umarım bunu yemek zorunda kalmam. Zehirli gibi görünüyor."
-    lee_think "Hayatta kalmak istiyorsam, dikkatli olmalıyım."
+    lee_think "Umarim bunu yemek zorunda kalmam. Zehirli gibi görünüyor."
+    lee_think "Hayatta kalmak istiyorsam, dikkatli olmaliyim."
 

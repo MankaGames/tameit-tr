@@ -46,7 +46,7 @@
 
     # game/screens/preferences.rpy:91
     old "L2D animation: %s. Restart required on change"
-    new "L2D animation: %s. Degistirdikten sonra yeniden baslatmalısın"
+    new "L2D animation: %s. Degistirdikten sonra yeniden baslatmalisin"
 
     # game/screens/preferences.rpy:91
     old "Enabled"

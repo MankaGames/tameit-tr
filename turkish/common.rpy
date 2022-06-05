@@ -422,11 +422,11 @@
 
     # renpy/common/00gui.rpy:375
     old "Are you sure you want to delete this save?"
-    new "Bu kayıt dosyasını silmek istedigine emin misin?"
+    new "Bu kayit dosyasini silmek istedigine emin misin?"
 
     # renpy/common/00gui.rpy:376
     old "Are you sure you want to overwrite your save?"
-    new "Bu kayıt dosyasının üzerine yazmak istedigine emin misin?"
+    new "Bu kayit dosyasinin üzerine yazmak istedigine emin misin?"
 
     # renpy/common/00gui.rpy:377
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"

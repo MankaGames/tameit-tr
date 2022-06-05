@@ -2,12 +2,12 @@
 translate turkish scene_chapter13_intro_cafb8d66:
 
     # lee_think "{e=octa}{e=catgirl}{e=smiling_face_with_hearts}{e=smirk}{ellipsis}"
-    lee_think "Dün harikaydı! Cat'in böyes bir sey yapacagını kim düsünebilirdi?"
-    lee_think "Sanırım meraktan yaptı. Yine de eglenceliydi."
-    lee_think "Önceleri çok kıskançtı ve sonra aniden bizi üçlü yapmaya basladık."
-    lee_think "Ve sonra Octa… harikaydı!"
+    lee_think "Dün harikaydi! Cat'in böyes bir sey yapacagini kim düsünebilirdi?"
+    lee_think "Sanirim meraktan yapti. Yine de eglenceliydi."
+    lee_think "Önceleri çok kiskançti ve sonra aniden bizi üçlü yapmaya basladik."
+    lee_think "Ve sonra Octa… harikaydi!"
     lee_think "Onunla sevismem Cat'dan daha kolay oldu."
-    lee_think "Belki de dogası geregi oldukça meraklıdır ve yeni deneyimlere açıktır."
+    lee_think "Belki de dogasi geregi oldukça meraklidir ve yeni deneyimlere açiktir."
 
 # game/scenes/chapter13/intro.rpy:35
 translate turkish scene_chapter13_intro_6dc3e1c1:
@@ -19,7 +19,7 @@ translate turkish scene_chapter13_intro_6dc3e1c1:
 translate turkish scene_chapter13_intro_92c45ec0:
 
     # lee_think "{e=jaguar}{e=skull}{e=footprints}{e=arrow_right}{e=cave}"
-    lee_think "Jaguar öldü ve diger tarafa giden yol yeniden açıldı."
+    lee_think "Jaguar öldü ve diger tarafa giden yol yeniden açildi."
 
 # game/scenes/chapter13/intro.rpy:37
 translate turkish scene_chapter13_intro_b2f54e5c:
@@ -37,5 +37,5 @@ translate turkish scene_chapter13_intro_65e58c11:
 translate turkish scene_chapter13_intro_662f31d4:
 
     # lee_think "{e=footprints}{e=arrow_right}{e=cave}{e=desert island}{e=exclamation_white}"
-    lee_think "Uzun zamandır bunu bekliyordum! Hemen magaradan karsıya geçmeliyim."
+    lee_think "Uzun zamandir bunu bekliyordum! Hemen magaradan karsiya geçmeliyim."
 

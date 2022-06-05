@@ -2,7 +2,7 @@
 
     # game/screens/status.rpy:29
     old "Skip time"
-    new "Zamanı ilerlet"
+    new "Zamani ilerlet"
 
     old "Inventory"
     new "Envanter"

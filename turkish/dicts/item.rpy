@@ -2,7 +2,7 @@
 
     # game/dicts/item.rpy:2
     old "Palm leaves"
-    new "Palmiye Yapragı"
+    new "Palmiye Yapragi"
 
     # game/dicts/item.rpy:2
     old "Stones"
@@ -30,7 +30,7 @@
 
     # game/dicts/item.rpy:2
     old "Fish"
-    new "Balık"
+    new "Balik"
 
     # game/dicts/item.rpy:2
     old "Crab"
@@ -62,11 +62,11 @@
 
     # game/dicts/item.rpy:2
     old "Fruit Salad"
-    new "Meyve Salatası"
+    new "Meyve Salatasi"
 
     # game/dicts/item.rpy:2
     old "Mushroom Soup"
-    new "Mantar Çorbası"
+    new "Mantar Çorbasi"
 
     # game/dicts/item.rpy:2
     old "Honey"
@@ -86,11 +86,11 @@
 
     # game/dicts/item.rpy:2
     old "Knife"
-    new "Bıçak"
+    new "Biçak"
 
     # game/dicts/item.rpy:2
     old "Spear"
-    new "Mızrak"
+    new "Mizrak"
 
     # game/dicts/item.rpy:2
     old "Fishing Pole"
@@ -98,7 +98,7 @@
 
     # game/dicts/item.rpy:2
     old "Grappling Hook"
-    new "Tutma Kancası"
+    new "Tutma Kancasi"
 
     # game/dicts/item.rpy:2
     old "Paddle"
@@ -114,15 +114,15 @@
 
     # game/dicts/item.rpy:2
     old "Plane door"
-    new "Uçak Kapısı"
+    new "Uçak Kapisi"
 
     # game/dicts/item.rpy:2
     old "Door Handle"
-    new "Kapı Kolu"
+    new "Kapi Kolu"
 
     # game/dicts/item.rpy:2
     old "Tonya's Photo"
-    new "Tonya'nın Fotografı"
+    new "Tonya'nin Fotografi"
 
     # game/dicts/item.rpy:2
     old "Bra"
@@ -134,7 +134,7 @@
 
     # game/dicts/item.rpy:2
     old "Tonya's Panties"
-    new "Tonya'nın Külodu"
+    new "Tonya'nin Külodu"
 
     # game/dicts/item.rpy:2
     old "Bungalow Wall"
@@ -150,11 +150,11 @@
 
     # game/dicts/item.rpy:2
     old "Propeller Blade"
-    new "Pervane Kanadı"
+    new "Pervane Kanadi"
 
     # game/dicts/item.rpy:2
     old "Fishnet"
-    new "Balık Agı"
+    new "Balik Agi"
 
     # game/dicts/item.rpy:2
     old "Spring"
@@ -162,11 +162,11 @@
 
     # game/dicts/item.rpy:2
     old "Razor"
-    new "Tıras Bıcagı"
+    new "Tiras Bicagi"
 
     # game/dicts/item.rpy:2
     old "Shaving Cream"
-    new "Tıras Köpügü"
+    new "Tiras Köpügü"
 
     # game/dicts/item.rpy:2
     old "Comb"
@@ -190,7 +190,7 @@
 
     # game/dicts/item.rpy:2
     old "Coral Fish"
-    new "Mercan Balıgı"
+    new "Mercan Baligi"
 
     # game/dicts/item.rpy:2
     old "Big Fish"
@@ -198,7 +198,7 @@
 
     # game/dicts/item.rpy:2
     old "Big Fish with Honey"
-    new "Ballı Sazan Yemegi"
+    new "Balli Sazan Yemegi"
 
     # game/dicts/item.rpy:2
     old "Pearl Necklace"
@@ -210,7 +210,7 @@
 
     # game/dicts/item.rpy:89
     old "Metal Sheet"
-    new "Metal Parçası"
+    new "Metal Parçasi"
 
     # game/dicts/item.rpy:89
     old "Shovel"
@@ -230,7 +230,7 @@
 
     # game/dicts/item.rpy:89
     old "Halberd"
-    new "Savascı Baltası"
+    new "Savasci Baltasi"
 
     # game/dicts/item.rpy:89
     old "Crystal"
@@ -238,11 +238,11 @@
 
     # game/dicts/item.rpy:89
     old "Halberd Axe"
-    new "Savascı Baltası Bası"
+    new "Savasci Baltasi Basi"
 
     # game/dicts/item.rpy:89
     old "Halberd Shaft"
-    new "Savascı Baltası Sapı"
+    new "Savasci Baltasi Sapi"
 
     # game/dicts/item.rpy:89
     old "Glowing Mushroom"
@@ -254,7 +254,7 @@
 
     # game/dicts/item.rpy:89
     old "Broken Mirror"
-    new "Kırık Ayna"
+    new "Kirik Ayna"
 
     # game/dicts/item.rpy:89
     old "Mirror"
@@ -278,7 +278,7 @@
 
     # game/dicts/item.rpy:91
     old "Paper"
-    new "Kagıt"
+    new "Kagit"
 
     # game/dicts/item.rpy:91
     old "Parachute"
@@ -290,7 +290,7 @@
 
     # game/dicts/item.rpy:91
     old "Cloth"
-    new "Kıyafet"
+    new "Kiyafet"
 
     # game/dicts/item.rpy:91
     old "Metal Paddle"
@@ -302,7 +302,7 @@
 
     # game/dicts/item.rpy:91
     old "Paper Mass"
-    new "Kagıt Hamuru"
+    new "Kagit Hamuru"
     
     # game/dicts/item.rpy:91
     old "Meat"

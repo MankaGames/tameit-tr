@@ -8,7 +8,7 @@ translate turkish strings:
 
     # game/scenes/chapter12/sleep.rpy:35
     old "{e=eyes}{e=arrow_right}{e=cave}"
-    new "Cat ve Octa'nın girisini açtıgı magarayı bir kontrol edeyim."
+    new "Cat ve Octa'nin girisini açtigi magarayi bir kontrol edeyim."
 
     # game/scenes/chapter12/sleep.rpy:38
     old "{e=crafting}{e=shield}"
@@ -16,5 +16,5 @@ translate turkish strings:
 
     # game/scenes/chapter12/sleep.rpy:40
     old "{e=halberd}{e=shield}{e=crossed_swords}{e=jaguar}"
-    new "Adanın diger tarafına geçmek için jaguarı yenmem gerekiyor."
+    new "Adanin diger tarafina geçmek için jaguari yenmem gerekiyor."
 

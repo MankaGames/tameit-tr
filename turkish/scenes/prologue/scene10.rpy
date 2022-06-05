@@ -2,14 +2,14 @@
 translate turkish scene_prologue_scene100_f5487570:
 
     # lee_think "{e=tonya}{e=blush}{e=heart}"
-    lee_think "Off, bekledigimden daha tatlıymıs."
-    lee_think "sise de tam önüme yuvarlandı ya"
+    lee_think "Off, bekledigimden daha tatliymis."
+    lee_think "sise de tam önüme yuvarlandi ya"
 
 # game/scenes/prologue/scene10.rpy:26
 translate turkish scene_prologue_scene100_535cf5da:
 
     # tonya "{e=smiling_face}{e=handshake}"
-    tonya "Tesekkür ederim. Nasıl oldu da düstü anlamadım."
+    tonya "Tesekkür ederim. Nasil oldu da düstü anlamadim."
 
 # game/scenes/prologue/scene10.rpy:31
 translate turkish scene_prologue_scene100_e4422dda:
@@ -21,7 +21,7 @@ translate turkish scene_prologue_scene100_e4422dda:
 translate turkish scene_prologue_scene100_f94dae95:
 
     # tonya "{e=seat}{e=question}"
-    tonya "Niye yanıma oturmuyorsun? Gördügün gibi\nkoltuk bos."
+    tonya "Niye yanima oturmuyorsun? Gördügün gibi\nkoltuk bos."
 
 # game/scenes/prologue/scene10.rpy:33
 translate turkish scene_prologue_scene100_161bb2dc:
@@ -33,13 +33,13 @@ translate turkish scene_prologue_scene100_161bb2dc:
 translate turkish scene_prologue_scene100_55021fe7:
 
     # tonya "{e=airplane}{e=heart}{e=question}"
-    tonya "Uçmayı sevdin mi, Lee?"
+    tonya "Uçmayi sevdin mi, Lee?"
 
 # game/scenes/prologue/scene10.rpy:35
 translate turkish scene_prologue_scene100_57017a68:
 
     # lee "{e=heart}{e=exclamation}"
-    lee "Bayıldım!"
+    lee "Bayildim!"
 
 # game/scenes/prologue/scene10.rpy:36
 translate turkish scene_prologue_scene100_0593d100:

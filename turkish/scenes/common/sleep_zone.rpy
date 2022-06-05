@@ -8,7 +8,7 @@ translate turkish scene_sleep_zone_3c90cbbc:
 translate turkish scene_sleep_zone_8850d53f:
 
     # tonya "{e=shushing_face}{e=wink}"
-    tonya "Nefes al tatlım. Seninleyim."
+    tonya "Nefes al tatlim. Seninleyim."
 
 # game/scenes/common/sleep_zone.rpy:368
 translate turkish scene_sleep_zone_3c90cbbc_1:
@@ -30,11 +30,11 @@ translate turkish strings:
 translate turkish scene_sleep_zone_43ebc942:
 
     # lee "{e=tonya}{e=exclamation_question}"
-    lee "Tonya?! Buraya nasıl geldin! Yasadıgına inanamıyorum. \nSeni gördügüme çok sevindim!"
+    lee "Tonya?! Buraya nasil geldin! Yasadigina inanamiyorum. \nSeni gördügüme çok sevindim!"
 
 # game/scenes/common/sleep_zone.rpy:372
 translate turkish scene_sleep_zone_43ebc942_1:
 
     # lee "{e=tonya}{e=exclamation_question}"
-    lee "Tonya?! Buraya nasıl geldin! Yasadıgına inanamıyorum. \nSeni gördügüme çok sevindim!"
+    lee "Tonya?! Buraya nasil geldin! Yasadigina inanamiyorum. \nSeni gördügüme çok sevindim!"
 

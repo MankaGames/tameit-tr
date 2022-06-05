@@ -38,7 +38,7 @@ translate turkish scene_sleep_addon1_33c4b396:
 translate turkish scene_sleep_addon1_5451cc09:
 
     # fairy "{e=girl}{e=cat}{e=girl}{e=octopus}{e=exploding_head}"
-    fairy "Yanında garip kızlar getirdi! Hepsi çok büyük!"
+    fairy "Yaninda garip kizlar getirdi! Hepsi çok büyük!"
 
 # game/scenes/addon1/sleep.rpy:166
 translate turkish scene_sleep_addon1_c9e188e4:
@@ -50,13 +50,13 @@ translate turkish scene_sleep_addon1_c9e188e4:
 translate turkish scene_sleep_addon1_556ebf1e:
 
     # fairy "{e=eyes}{e=lee}{e=smirk}{e=beaming_face}"
-    fairy "Bakalım burada neler var."
+    fairy "Bakalim burada neler var."
 
 translate turkish strings:
 
     # game/scenes/addon1/sleep.rpy:177
     old "{e=repair}{e=raft_wrecked}{e=exclamation_white}"
-    new "Salı tamir etmem gerek."
+    new "Sali tamir etmem gerek."
 
     # game/scenes/addon1/sleep.rpy:179
     old "{e=hammer}{e=lee_fairy_house}{e=exclamation_white}"

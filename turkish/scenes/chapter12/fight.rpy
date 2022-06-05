@@ -8,8 +8,8 @@ translate turkish scene_chapter12_fight_eacfa942:
 translate turkish scene_chapter12_fight_2027fe22:
 
     # lee_think "{e=angry}{e=crossed_swords}{e=jaguar}{e=arrow_right}{e=cave}"
-    lee_think "Ama denemek zorundayım çünkü magaradan geçmenin baska yolu yok"
-    lee_think "ve adanın diger tarafına bir sekilde geçmem gerekiyor."
+    lee_think "Ama denemek zorundayim çünkü magaradan geçmenin baska yolu yok"
+    lee_think "ve adanin diger tarafina bir sekilde geçmem gerekiyor."
 
 # game/scenes/chapter12/fight.rpy:22
 translate turkish scene_chapter12_fight_aa5e926b:
@@ -21,7 +21,7 @@ translate turkish scene_chapter12_fight_aa5e926b:
 translate turkish scene_chapter12_fight_done_672c3431:
 
     # lee "{e=surprised}{e=smiley}{e=exclamation_white}"
-    lee "Basardım!... Basardım…"
+    lee "Basardim!... Basardim…"
 
 # game/scenes/chapter12/fight.rpy:53
 translate turkish scene_chapter12_fight_done_8c67efd8:
@@ -33,20 +33,20 @@ translate turkish scene_chapter12_fight_done_8c67efd8:
 translate turkish scene_chapter12_fight_done_b615a652:
 
     # lee "{e=smiley}{e=star_struck}{e=muscle}{e=jaguar}{e=exclamation_white}"
-    lee "Kazandım! Aman Tanrım! inanamıyorum!"
+    lee "Kazandim! Aman Tanrim! inanamiyorum!"
 
 # game/scenes/chapter12/fight.rpy:55
 translate turkish scene_chapter12_fight_done_8db687f3:
 
     # lee_think "{e=dizzy_face}{e=weary_face}"
-    lee_think "Vay, ama kesinlikle yoruldum! her yerim agrıyor Hareket edecek güç yok."
-    lee_think "Ama bu sefer beni eskisi kadar kötü yaralayamadı."
+    lee_think "Vay, ama kesinlikle yoruldum! her yerim agriyor Hareket edecek güç yok."
+    lee_think "Ama bu sefer beni eskisi kadar kötü yaralayamadi."
 
 # game/scenes/chapter12/fight.rpy:60
 translate turkish scene_chapter12_fight_done_477c21e5:
 
     # cat "{e=lee}{e=exclamation_white}{e=muscle}{e=jaguar}{e=star_struck}{e=sparkles}"
-    cat "{e=lee}{e=exclamation_white}{e=muscle}{e=jaguar}{e=star_struck}{e=sparkles}{alt}Lee! Basardın! Jaguar öldü!{/alt}"
+    cat "{e=lee}{e=exclamation_white}{e=muscle}{e=jaguar}{e=star_struck}{e=sparkles}{alt}Lee! Basardin! Jaguar öldü!{/alt}"
 
 # game/scenes/chapter12/fight.rpy:61
 translate turkish scene_chapter12_fight_done_142c9b9e:
@@ -58,7 +58,7 @@ translate turkish scene_chapter12_fight_done_142c9b9e:
 translate turkish scene_chapter12_fight_done_962f2944:
 
     # cat "{e=lee}{e=wound}{e=question_white}{e=anguished_face}"
-    cat "{e=lee}{e=wound}{e=question_white}{e=anguished_face}{alt}Lee, yaralandın mı? Tamam. Seni iyilestirecegiz. Sorun yok.{/alt}"
+    cat "{e=lee}{e=wound}{e=question_white}{e=anguished_face}{alt}Lee, yaralandin mi? Tamam. Seni iyilestirecegiz. Sorun yok.{/alt}"
 
 # game/scenes/chapter12/fight.rpy:63
 translate turkish scene_chapter12_fight_done_52def41f:

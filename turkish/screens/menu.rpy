@@ -2,11 +2,11 @@
 
     # game/screens/menu.rpy:42
     old "Help"
-    new "Yardım"
+    new "Yardim"
 
     # game/screens/menu.rpy:47
     old "Quick Save"
-    new "Hızlı Kayıt"
+    new "Hizli Kayit"
 
     # game/screens/menu.rpy:154
     old "Quit to Main Menu"
@@ -38,5 +38,5 @@
 
     # game/screens/menu.rpy:224
     old "Tonya`s Story"
-    new "Tonya`nın Hikayesi"
+    new "Tonya`nin Hikayesi"
 

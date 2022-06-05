@@ -8,7 +8,7 @@ translate turkish strings:
 
     # game/scenes/chapter13/sleep.rpy:36
     old "{e=crafting}{e=paper}{e=arrow_right}{e=draw}{e=map}"
-    new "Kagıt yapmam gerekiyor."
+    new "Kagit yapmam gerekiyor."
 
     # game/scenes/chapter13/sleep.rpy:40
     old "{e=dash}{e=hammer}{e=raft}{e=exclamation_white}"
@@ -16,7 +16,7 @@ translate turkish strings:
 
     # game/scenes/chapter13/sleep.rpy:42
     old "{e=foraging}{e=raft}{e=arrow_right}"
-    new "Adadan ayrılmadan önce malzeme stoklamam lazım."
+    new "Adadan ayrilmadan önce malzeme stoklamam lazim."
 
     # game/scenes/chapter13/sleep.rpy:41
     old "{e=cloth}{e=arrow_right}{e=magnifying_glass}{e=airplane}"

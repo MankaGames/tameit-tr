@@ -3,9 +3,9 @@ translate turkish scene_fishing_home_done_b67b8cdb:
 
     # lee_think "{e=fish}{rt}[_return]{/rt}{e=arrow_right}{e=inventory}"
     if _return > 1:
-        lee_think "[_return] tane balık tuttun"
+        lee_think "[_return] tane balik tuttun"
     else:
-        lee_think "[_return] tane balık tuttun"
+        lee_think "[_return] tane balik tuttun"
 
 translate turkish strings:
 
@@ -17,5 +17,5 @@ translate turkish strings:
 
     # game/scenes/common/fishing.rpy:303
     old "{e=skip} ({e=no}{s=gift})"
-    new "Geç (ender seyler çıkmayacak)"
+    new "Geç (ender seyler çikmayacak)"
 

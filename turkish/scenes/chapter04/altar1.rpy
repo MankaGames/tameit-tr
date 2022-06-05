@@ -2,5 +2,5 @@
 translate turkish scene_chapter04_altar1_a7e2265c:
 
     # lee_think "{e=catgirl}{e=exclamation_white}{e=smiley}"
-    lee_think "Cat! Ona denk geldigim için çok sanslıyım!"
+    lee_think "Cat! Ona denk geldigim için çok sansliyim!"
 

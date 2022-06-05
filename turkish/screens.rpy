@@ -34,15 +34,15 @@
 
     # game/screens.rpy:326
     old "Quick Saves"
-    new "Hızlı Kayıtlar"
+    new "Hizli Kayitlar"
 
     # game/screens.rpy:331
     old "Auto Saves"
-    new "Otomatik Kayıtlar"
+    new "Otomatik Kayitlar"
 
     # game/screens.rpy:336
     old "Manual Saves"
-    new "Manuel Kayıtlar"
+    new "Manuel Kayitlar"
 
     # game/screens.rpy:345
     old "Previous Page"
@@ -50,7 +50,7 @@
 
     # game/screens.rpy:355
     old "Page Number"
-    new "Sayfa Numarası"
+    new "Sayfa Numarasi"
 
     # game/screens.rpy:358
     old "Next Page"

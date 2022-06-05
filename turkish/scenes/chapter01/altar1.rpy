@@ -2,7 +2,7 @@
 translate turkish scene_chapter01_altar1_41bdaf03:
 
     # lee_think "{e=water}{e=exclamation}"
-    lee_think "Hızlıca temiz su bulmalıyım."
+    lee_think "Hizlica temiz su bulmaliyim."
 
 # game/scenes/chapter01/altar1.rpy:25
 translate turkish scene_chapter01_altar1_af583976:
@@ -21,5 +21,5 @@ translate turkish scene_chapter01_altar1_4c99901d:
 
     # lee_think "{e=nauseated_face}{e=confounded face}"
     lee_think "Eger bir sey bulamazsam sunlardan birini yakalamak son çarem olacak."
-    lee_think "ve açlıktan ölmemem lazım.\nIgrenç, ama mecburum."
+    lee_think "ve açliktan ölmemem lazim.\nIgrenç, ama mecburum."
 

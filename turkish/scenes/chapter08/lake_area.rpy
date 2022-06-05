@@ -2,33 +2,33 @@
 translate turkish scene_chapter08_lake_shore_5e2ae60d:
 
     # lee_think "{e=stick}{e=hammer}{e=lake_trap}{e=plus}{e=lake_trap}"
-    lee_think "Buraya ahtapotu yakalamak iki tane hareketli ızgara yapacagım"
-    lee_think "ahtapot buraya gelince ızgarayı asagı indirecegim sonra saak kapana kısılcak."
+    lee_think "Buraya ahtapotu yakalamak iki tane hareketli izgara yapacagim"
+    lee_think "ahtapot buraya gelince izgarayi asagi indirecegim sonra saak kapana kisilcak."
 
 # game/scenes/chapter08/lake_area.rpy:33
 translate turkish scene_chapter08_lake_shore_c4a26ae0:
 
     # lee_think "{e=thinking_face}{e=spring}{e=arrow_right}{e=lake_trap}"
-    lee_think "Uçakta buldugum yay tam da yaylı bir tuzak için ihtiyacım olan sey."
+    lee_think "Uçakta buldugum yay tam da yayli bir tuzak için ihtiyacim olan sey."
 
 # game/scenes/chapter08/lake_area.rpy:35
 translate turkish scene_chapter08_lake_shore_e42c9dbb:
 
     # lee_think "{e=magnifying_glass}{e=spring}{e=arrow_right}{e=airplane}{e=question_white}"
-    lee_think "Uçakta aramalı mıyım?"
+    lee_think "Uçakta aramali miyim?"
 
 # game/scenes/chapter08/lake_area.rpy:43
 translate turkish scene_chapter08_lake_shore_7cf19d25:
 
     # lee_think "{e=banana}{e=berries}{ellipsis}{e=arrow_right}{e=worm}"
-    lee_think "Ama yine de farklı meyve ve yemislerden bir yem yapmam gerekiyor."
-    lee_think "Yaratıgın begenebilecegi her seyi almalıyım."
+    lee_think "Ama yine de farkli meyve ve yemislerden bir yem yapmam gerekiyor."
+    lee_think "Yaratigin begenebilecegi her seyi almaliyim."
 
 # game/scenes/chapter08/lake_area.rpy:128
 translate turkish scene_chapter08_lake_shore_trap1_e1f8674c:
 
     # lee "{e=shushing_face}{e=hourglass}{e=eyes}{e=arrow_right}{e=lake}"
-    lee "Ve simdi sessizlik! Sessiz kalıp beklememiz gerekiyor."
+    lee "Ve simdi sessizlik! Sessiz kalip beklememiz gerekiyor."
 
 # game/scenes/chapter08/lake_area.rpy:129
 translate turkish scene_chapter08_lake_shore_trap1_1973e1f5:
@@ -46,31 +46,31 @@ translate turkish scene_chapter08_lake_shore_trap1_d33f79bb:
 translate turkish scene_chapter08_lake_shore_trap1_de852524:
 
     # lee "{e=octo_anon}{e=arrow_right}{e=fishnet}{e=exclamation_white}"
-    lee "Harika! Iyi kedicik seni! Canavar agımıza yaklasıyor!"
+    lee "Harika! Iyi kedicik seni! Canavar agimiza yaklasiyor!"
 
 # game/scenes/chapter08/lake_area.rpy:139
 translate turkish scene_chapter08_lake_shore_trap1_b63c64d4:
 
     # lee "{e=octo_anon}{e=yes}{e=fishnet}{e=smiley}"
-    lee "Bir sey ipi zorluyor, yakaladım!"
+    lee "Bir sey ipi zorluyor, yakaladim!"
 
 # game/scenes/chapter08/lake_area.rpy:145
 translate turkish scene_chapter08_lake_shore_trap1_b9e7379e:
 
     # lee "{e=rope}{e=muscle}{e=fishnet}{e=arrow_right}"
-    lee "Hızlıca! Hadi çıkaralım! O sey her ne haltmıs görelim?"
+    lee "Hizlica! Hadi çikaralim! O sey her ne haltmis görelim?"
 
 # game/scenes/chapter08/lake_area.rpy:146
 translate turkish scene_chapter08_lake_shore_trap1_ded10f59:
 
     # lee "{e=catgirl}{e=help}{e=exclamation_white}"
-    lee "Cat, yardım et! Tek basıma yapamıyorum!"
+    lee "Cat, yardim et! Tek basima yapamiyorum!"
 
 # game/scenes/chapter08/lake_area.rpy:147
 translate turkish scene_chapter08_lake_shore_trap1_9dafa796:
 
     # lee "{e=ton}{e=exclamation_white}"
-    lee "Çok agır! Hadi, biraz daha!"
+    lee "Çok agir! Hadi, biraz daha!"
 
 # game/scenes/chapter08/lake_area.rpy:148
 translate turkish scene_chapter08_lake_shore_trap1_1c1bb72b:
@@ -82,7 +82,7 @@ translate turkish scene_chapter08_lake_shore_trap1_1c1bb72b:
 translate turkish scene_chapter08_lake_shore_trap1_1b4105a6:
 
     # lee_think "{e=tentacle}{e=exclamation_question}"
-    lee_think "Bunlar... dokunaç mıydı, ha?"
+    lee_think "Bunlar... dokunaç miydi, ha?"
 
 # game/scenes/chapter08/lake_area.rpy:154
 translate turkish scene_chapter08_lake_shore_trap1_43e1658e:
@@ -94,13 +94,13 @@ translate turkish scene_chapter08_lake_shore_trap1_43e1658e:
 translate turkish scene_chapter08_lake_shore_trap1_8ee126a9:
 
     # lee_think "{e=octopus}{e=astonished_face}{e=question_white}{e=exclamation_white}"
-    lee_think "Dev bir ahtapot mu? Gerçekten bu kadar büyük ve agır olabilirler mi?"
+    lee_think "Dev bir ahtapot mu? Gerçekten bu kadar büyük ve agir olabilirler mi?"
 
 # game/scenes/chapter08/lake_area.rpy:157
 translate turkish scene_chapter08_lake_shore_trap1_5da54b88:
 
     # lee_think "{e=octo_anon}{e=muscle}{e=arrow_right}"
-    lee_think "Agı yırtıyor! Tutamayacagız!"
+    lee_think "Agi yirtiyor! Tutamayacagiz!"
 
 # game/scenes/chapter08/lake_area.rpy:158
 translate turkish scene_chapter08_lake_shore_trap1_f9cbfdac:
@@ -112,32 +112,32 @@ translate turkish scene_chapter08_lake_shore_trap1_f9cbfdac:
 translate turkish scene_chapter08_lake_shore_trap1_67cab507:
 
     # lee_think "{e=octo_anon}{e=fishnet}{e=arrow_right}{e=lake}{e=frowning_face}"
-    lee_think "Agı da sikti attı! Sansa bak ya! Tüm çabalar bosa gitti!"
-    lee_think "en azından biz tek parçayız."
+    lee_think "Agi da sikti atti! Sansa bak ya! Tüm çabalar bosa gitti!"
+    lee_think "en azindan biz tek parçayiz."
 
 # game/scenes/chapter08/lake_area.rpy:162
 translate turkish scene_chapter08_lake_shore_trap1_3daaf39c:
 
     # cat "{e=lee}{e=confounded face}{e=question_white}{e=crying_face}{e=question_white}"
-    cat "{e=lee}{e=confounded face}{e=question_white}{e=crying_face}{e=question_white}{alt}Lee üzgün? Sen aglıyon?{/alt}"
+    cat "{e=lee}{e=confounded face}{e=question_white}{e=crying_face}{e=question_white}{alt}Lee üzgün? Sen agliyon?{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:163
 translate turkish scene_chapter08_lake_shore_trap1_e817e5a8:
 
     # lee "{e=me}{e=confused_face}{e=octo_anon}{e=arrow_right}{e=lake}"
-    lee "O yaratıgı yakalayamadıgımız için biraz üzgünüm."
+    lee "O yaratigi yakalayamadigimiz için biraz üzgünüm."
 
 # game/scenes/chapter08/lake_area.rpy:164
 translate turkish scene_chapter08_lake_shore_trap1_adf2f8d0:
 
     # cat "{e=relieved}{e=hug}"
-    cat "{e=relieved}{e=hug}{alt}Lee ilk basta Cat'i DE yakalayamadı, Cat Lee'yi yakaladı.{/alt}"
+    cat "{e=relieved}{e=hug}{alt}Lee ilk basta Cat'i DE yakalayamadi, Cat Lee'yi yakaladi.{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:165
 translate turkish scene_chapter08_lake_shore_trap1_b9ad4cd9:
 
     # cat "{e=octo_anon}{e=arrow_right}{e=lee}{e=smiling_face}"
-    cat "{e=octo_anon}{e=arrow_right}{e=lee}{e=smiling_face}{alt}Sonra Сat kendisi geldi. Çünkü balık çok lezzetliydi.{/alt}"
+    cat "{e=octo_anon}{e=arrow_right}{e=lee}{e=smiling_face}{alt}Sonra Сat kendisi geldi. Çünkü balik çok lezzetliydi.{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:166
 translate turkish scene_chapter08_lake_shore_trap1_1efb03f7:
@@ -149,13 +149,13 @@ translate turkish scene_chapter08_lake_shore_trap1_1efb03f7:
 translate turkish scene_chapter08_lake_shore_trap1_185e1a5b:
 
     # lee "{e=thinking_face}{e=octo_anon}{e=consume}{e=banana}"
-    lee "Yaratık meyveleri seviyor gibi görünüyor. Tamam, ona meyve verelim!"
+    lee "Yaratik meyveleri seviyor gibi görünüyor. Tamam, ona meyve verelim!"
 
 # game/scenes/chapter08/lake_area.rpy:168
 translate turkish scene_chapter08_lake_shore_trap1_4c511ccf:
 
     # lee "{e=light_bulb}{e=lake_trap}{e=exclamation_white}"
-    lee "Içinden çıkamayacagı bir tuzak kuracagız!"
+    lee "Içinden çikamayacagi bir tuzak kuracagiz!"
 
 # game/scenes/chapter08/lake_area.rpy:169
 translate turkish scene_chapter08_lake_shore_trap1_051afd3d:
@@ -167,7 +167,7 @@ translate turkish scene_chapter08_lake_shore_trap1_051afd3d:
 translate turkish scene_chapter08_lake_shore_trap2_0cba3f21:
 
     # lee "{e=shushing_face}{e=eyes}{e=arrow_right}{e=lake}"
-    lee "Simdi yerimizde duracagız ve gözlerimizi dört açacagız, anladın mı?"
+    lee "Simdi yerimizde duracagiz ve gözlerimizi dört açacagiz, anladin mi?"
 
 # game/scenes/chapter08/lake_area.rpy:215
 translate turkish scene_chapter08_lake_shore_trap2_e974dbc2:
@@ -191,7 +191,7 @@ translate turkish scene_chapter08_lake_shore_trap2_6477f333:
 translate turkish scene_chapter08_lake_shore_trap2_dc2e7db2:
 
     # cat "{e=lake_trap}{e=arrow_down}{e=exclamation_white}"
-    cat "{e=lake_trap}{e=arrow_down}{e=exclamation_white}{alt}Tuzak! Asagı!{/alt}"
+    cat "{e=lake_trap}{e=arrow_down}{e=exclamation_white}{alt}Tuzak! Asagi!{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:231
 translate turkish scene_chapter08_lake_shore_trap2_32dbe370:
@@ -203,7 +203,7 @@ translate turkish scene_chapter08_lake_shore_trap2_32dbe370:
 translate turkish scene_chapter08_lake_shore_trap2_4a908d9b:
 
     # lee "{e=octo_anon}{e=yes}{e=lake_trap}{e=smiley}{e=exclamation_white}"
-    lee "Yakaladım seni! Tuzak ise yaradı! Basardık!!!"
+    lee "Yakaladim seni! Tuzak ise yaradi! Basardik!!!"
 
 # game/scenes/chapter08/lake_area.rpy:238
 translate turkish scene_chapter08_lake_shore_trap2_8780f419:
@@ -215,13 +215,13 @@ translate turkish scene_chapter08_lake_shore_trap2_8780f419:
 translate turkish scene_chapter08_lake_shore_trap2_aae24fa9:
 
     # lee "{e=fearful_face}{e=exclamation}{e=octo_anon}{e=boom}{e=lake_trap}"
-    lee "Siktir! Tuzak dayanmıyor!"
+    lee "Siktir! Tuzak dayanmiyor!"
 
 # game/scenes/chapter08/lake_area.rpy:257
 translate turkish scene_chapter08_lake_shore_trap2_bc6b6280:
 
     # lee "{e=lake_trap}{e=octo_anon}{e=arrow_right}{e=persevering}"
-    lee "Yakında kırılacak! Tuzak uzun dayanmayacak!"
+    lee "Yakinda kirilacak! Tuzak uzun dayanmayacak!"
 
 # game/scenes/chapter08/lake_area.rpy:259
 translate turkish scene_chapter08_lake_shore_trap2_70e254ee:
@@ -233,7 +233,7 @@ translate turkish scene_chapter08_lake_shore_trap2_70e254ee:
 translate turkish scene_chapter08_lake_shore_trap2_8ede3450:
 
     # lee "{e=tentacle}{e=muscle}{e=surprised}"
-    lee "Lanet olsun dokunaçları çok güçlü! Tuzagı parçalara ayırdı."
+    lee "Lanet olsun dokunaçlari çok güçlü! Tuzagi parçalara ayirdi."
 
 # game/scenes/chapter08/lake_area.rpy:272
 translate turkish scene_chapter08_lake_shore_trap2_ebedfe64:
@@ -245,7 +245,7 @@ translate turkish scene_chapter08_lake_shore_trap2_ebedfe64:
 translate turkish scene_chapter08_lake_shore_trap2_b4d8fcf8:
 
     # lee_think "{e=girl}{e=plus}{e=octopus}{e=dizzy_face}{e=question_white}"
-    lee_think "Böyle yaratıklar gerçekten var mı? Insan-ahtapot melezi mi?\nCiddi misin aq?"
+    lee_think "Böyle yaratiklar gerçekten var mi? Insan-ahtapot melezi mi?\nCiddi misin aq?"
     lee_think "Öte yandan, Cat de gerçek bir kedi-insan melezi…"
 
 # game/scenes/chapter08/lake_area.rpy:274
@@ -258,32 +258,32 @@ translate turkish scene_chapter08_lake_shore_trap2_2fc9390a:
 translate turkish scene_chapter08_lake_shore_trap2_2c02bfa5:
 
     # lee_think "{e=dash}{e=octa}{e=arrow_right}{e=lake}"
-    lee_think "Ona yetismek imkansız. Peki…"
+    lee_think "Ona yetismek imkansiz. Peki…"
 
 # game/scenes/chapter08/lake_area.rpy:282
 translate turkish scene_chapter08_lake_shore_trap2_c165e187:
 
     # lee_think "{e=octa}{e=swim}{e=arrow_right}"
-    lee_think "Yüzerek uzaklastı ve çok hızlı bir sekilde gölün derinliklerine saklandı."
+    lee_think "Yüzerek uzaklasti ve çok hizli bir sekilde gölün derinliklerine saklandi."
 
 # game/scenes/chapter08/lake_area.rpy:283
 translate turkish scene_chapter08_lake_shore_trap2_c803badf:
 
     # lee_think "{e=weary_face}"
-    lee_think "Lanet olsun! Her sey bosunaydı!"
-    lee_think "Ama en azından nasıl bir yaratık oldugunu ögrendim ve hatta ona daha yakından bakabildim."
+    lee_think "Lanet olsun! Her sey bosunaydi!"
+    lee_think "Ama en azindan nasil bir yaratik oldugunu ögrendim ve hatta ona daha yakindan bakabildim."
 
 # game/scenes/chapter08/lake_area.rpy:292
 translate turkish scene_chapter08_lake_shore_trap2_38f3e465:
 
     # cat_think "{e=face_without_mouth}{e=coconut}{e=coconut}{e=question_white}"
-    cat_think "{e=face_without_mouth}{e=coconut}{e=coconut}{e=question_white}{alt}Hindistan cevizi mi? Hayır... elinde ne var? Çok büyük...{/alt}"
+    cat_think "{e=face_without_mouth}{e=coconut}{e=coconut}{e=question_white}{alt}Hindistan cevizi mi? Hayir... elinde ne var? Çok büyük...{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:293
 translate turkish scene_chapter08_lake_shore_trap2_052bcd5a:
 
     # cat_think "{e=me}{e=berries}{e=berries}{e=question_white}{e=frowning_face}"
-    cat_think "{e=me}{e=berries}{e=berries}{e=question_white}{e=frowning_face}{alt}Benimkiler.. Cilek kadarcık :({/alt}"
+    cat_think "{e=me}{e=berries}{e=berries}{e=question_white}{e=frowning_face}{alt}Benimkiler.. Cilek kadarcik :({/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:294
 translate turkish scene_chapter08_lake_shore_trap2_3e051070:
@@ -295,76 +295,76 @@ translate turkish scene_chapter08_lake_shore_trap2_3e051070:
 translate turkish scene_chapter08_lake_shore_trap2_04c281b5:
 
     # lee_think "{e=arrow_up}{e=boobs}{e=sparkles}{e=flushed_face}{e=heart_eyes}"
-    lee_think "O kadar büyük… ve güzel… mem.. ohm.. gözleri vardı… vaay!"
+    lee_think "O kadar büyük… ve güzel… mem.. ohm.. gözleri vardi… vaay!"
 
 # game/scenes/chapter08/lake_area.rpy:319
 translate turkish scene_chapter08_lake_shore_trap2_0fdb696e:
 
     # lee_think "{e=eyes}{e=octa}{e=smiling_face_with_hearts}{e=heart}"
-    lee_think "Onu tekrar görecek miyim? Son görüsmemiz olmasını istemen. Onu bulacagım!"
+    lee_think "Onu tekrar görecek miyim? Son görüsmemiz olmasini istemen. Onu bulacagim!"
 
 # game/scenes/chapter08/lake_area.rpy:348
 translate turkish scene_chapter08_lake_2052fe22:
 
     # lee_think "{e=lake}{e=arrow_right}{e=dizzy_face}{e=confounded face}"
-    lee_think "Lanet olasıca! Yine balıklarla ilgili o tuhaf sey. Burada neler oluyor? "
+    lee_think "Lanet olasica! Yine baliklarla ilgili o tuhaf sey. Burada neler oluyor? "
 
 # game/scenes/chapter08/lake_area.rpy:349
 translate turkish scene_chapter08_lake_ab0c39ee:
 
     # lee_think "{e=shark}{e=arrow_right}{e=lake}{e=question_white}"
-    lee_think "Bu gölde alısılmadık derecede büyük bir balık olabilir mi?"
-    lee_think "Bir sey diger tüm balıkları korkutuyor olmalı,"
-    lee_think "böyle sıçradıklarına göre..."
+    lee_think "Bu gölde alisilmadik derecede büyük bir balik olabilir mi?"
+    lee_think "Bir sey diger tüm baliklari korkutuyor olmali,"
+    lee_think "böyle siçradiklarina göre..."
 
 # game/scenes/chapter08/lake_area.rpy:350
 translate turkish scene_chapter08_lake_632e75dd:
 
     # lee_think "{e=crocodile}{e=fearful_face}{e=question_white}"
     lee_think "Ya da… diyelim ki… bir timsah olabilir mi?"
-    lee_think "Kahretsin, umarım baska bir seydir! Sanki etrafta bir jaguar olması yetmiyormus gibi!"
+    lee_think "Kahretsin, umarim baska bir seydir! Sanki etrafta bir jaguar olmasi yetmiyormus gibi!"
 
 # game/scenes/chapter08/lake_area.rpy:351
 translate turkish scene_chapter08_lake_3f9e1b74:
 
     # lee_think "{e=thinking_face}{e=fishing_pole}{e=arrow_right}{e=shark}"
-    lee_think "Nasıl bir canavar oldugunu görmek ilginç olurdu. Ama nasıl? yakalamaya çalıssam mı ki?"
+    lee_think "Nasil bir canavar oldugunu görmek ilginç olurdu. Ama nasil? yakalamaya çalissam mi ki?"
 
 # game/scenes/chapter08/lake_area.rpy:352
 translate turkish scene_chapter08_lake_563cd581:
 
     # lee_think "{e=fishing_pole}{e=no}{e=arrow_up}{e=shark}"
-    lee_think "Oltam ise yaramayacak. Sanırım canavar herhangi bir olta için çok büyük."
+    lee_think "Oltam ise yaramayacak. Sanirim canavar herhangi bir olta için çok büyük."
 
 # game/scenes/chapter08/lake_area.rpy:353
 translate turkish scene_chapter08_lake_cca3c278:
 
     # lee_think "{e=thinking_face}{e=light_bulb}{e=arrow_right}{e=fishnet}{e=exclamation_white}"
-    lee_think "Bir ag! Kesinlikle! Büyük bir ag yapacagım ve ne tür bir canavar oldugunu görecegim."
+    lee_think "Bir ag! Kesinlikle! Büyük bir ag yapacagim ve ne tür bir canavar oldugunu görecegim."
 
 # game/scenes/chapter08/lake_area.rpy:359
 translate turkish scene_chapter08_lake_663b4b29:
 
     # lee_think "{e=poultry_leg}{e=question_white}{e=fish}{e=question_white}"
-    lee_think "Et mi? Ya da belki balık? Bu bir tür timsahsa ikisinden de yem olur."
+    lee_think "Et mi? Ya da belki balik? Bu bir tür timsahsa ikisinden de yem olur."
 
 # game/scenes/chapter08/lake_area.rpy:369
 translate turkish scene_chapter08_lake_7cd90136:
 
     # lee_think "{e=fishnet}{e=plus}{e=banana}{e=yes}{e=hourglass}"
-    lee_think "Tamam, ag kuruldu, geriye sadece iyi bir yem yapmak kaldı."
+    lee_think "Tamam, ag kuruldu, geriye sadece iyi bir yem yapmak kaldi."
 
 # game/scenes/chapter08/lake_area.rpy:370
 translate turkish scene_chapter08_lake_e1dd4800:
 
     # cat "{e=lee}{e=fishing}{e=question_white}"
-    cat "{e=lee}{e=fishing}{e=question_white}{alt}Lee balık mı yakalayacak?{/alt}"
+    cat "{e=lee}{e=fishing}{e=question_white}{alt}Lee balik mi yakalayacak?{/alt}"
 
 # game/scenes/chapter08/lake_area.rpy:371
 translate turkish scene_chapter08_lake_25af110d:
 
     # lee "{e=yes}{e=shark}{e=slightly_smiling_face}"
-    lee "Aynen aynen, büyük bir balık yakalicam."
+    lee "Aynen aynen, büyük bir balik yakalicam."
 
 # game/scenes/chapter08/lake_area.rpy:372
 translate turkish scene_chapter08_lake_bc5fcdda:
@@ -376,13 +376,13 @@ translate turkish scene_chapter08_lake_bc5fcdda:
 translate turkish scene_chapter08_lake_0b95b7e9:
 
     # lee "{e=yes}{e=shark}{e=consume}{e=catgirl}{e=beaming_face}"
-    lee "Ha-ha! Bununla tek basına basa çıkabilirsen - hepsi senin!"
+    lee "Ha-ha! Bununla tek basina basa çikabilirsen - hepsi senin!"
 
 # game/scenes/chapter08/lake_area.rpy:381
 translate turkish scene_chapter08_lake_fishnet_ca89e7da:
 
     # lee_think "{e=hammer}{e=rope}{e=arrow_right}{e=fishnet}"
-    lee_think "Bir ag yapmam gerekiyor ama bunun için çok fazla ipe ihtiyacım var."
+    lee_think "Bir ag yapmam gerekiyor ama bunun için çok fazla ipe ihtiyacim var."
 
 # game/scenes/chapter08/lake_area.rpy:357
 translate turkish scene_chapter08_lake_7557f437:
@@ -394,5 +394,5 @@ translate turkish scene_chapter08_lake_7557f437:
 translate turkish scene_chapter08_lake_shore_8b07c55a:
 
     # lee_think "{e=spring}{e=question_white}{e=thinking_face}"
-    lee_think "Tuzak için bir yaya ihtiyacım var. Nerede bulabilirim acaba?"
+    lee_think "Tuzak için bir yaya ihtiyacim var. Nerede bulabilirim acaba?"
 

@@ -3,13 +3,13 @@ translate turkish scene_chapter13_tonya_side_7285d524:
 
     # lee "{e=tonya}{e=eyes}{e=exclamation_white}{e=airplane}{e=smiley}"
     lee "Ve iste uçak! Seni ilk kez kokpitten kulübede gördüm"
-    lee "ve ne olursa olsun adanın bu tarafına gitmem gerektigini anladım."
+    lee "ve ne olursa olsun adanin bu tarafina gitmem gerektigini anladim."
 
 # game/scenes/chapter13/tonya_side.rpy:24
 translate turkish scene_chapter13_tonya_side_80a03145:
 
     # lee_think "{e=hut}{e=exclamation_white}"
-    lee_think "Açıklıgın diger tarafından gördügüm kulübe buydu."
+    lee_think "Açikligin diger tarafindan gördügüm kulübe buydu."
 
 # game/scenes/chapter13/tonya_side.rpy:25
 translate turkish scene_chapter13_tonya_side_6721135a:
@@ -27,7 +27,7 @@ translate turkish scene_chapter13_tonya_side_a420b536:
 translate turkish scene_chapter13_tonya_side_29c4b9b8:
 
     # lee_think "{e=desert island}{e=tonya}{e=hourglass}{e=question_white}{e=thinking_face}"
-    lee_think "Bunca zaman adada yasamıs olabilir mi? Ah, gerçekten öyle umuyorum!"
+    lee_think "Bunca zaman adada yasamis olabilir mi? Ah, gerçekten öyle umuyorum!"
 
 # game/scenes/chapter13/tonya_side.rpy:39
 translate turkish scene_chapter13_tonya_plane_3b7ce584:
@@ -39,7 +39,7 @@ translate turkish scene_chapter13_tonya_plane_3b7ce584:
 translate turkish scene_chapter13_tonya_plane_1525a53f:
 
     # lee_think "{e=hammer}{e=plane_ladder}{e=arrow_right}{e=airplane}{e=thinking_face}"
-    lee_think "Hmm, buraya bir köprü ve kısayol görevi görecek bir merdiven yapabilirim.."
+    lee_think "Hmm, buraya bir köprü ve kisayol görevi görecek bir merdiven yapabilirim.."
 
 # game/scenes/chapter13/tonya_side.rpy:45
 translate turkish scene_chapter13_tonya_plane_9d9a5e5e:
@@ -63,7 +63,7 @@ translate turkish scene_chapter13_tonya_forest_78674d18:
 translate turkish scene_chapter13_tonya_home_c1c3e5de:
 
     # lee_think "{e=flushed_face}"
-    lee_think "Inanamıyorum…"
+    lee_think "Inanamiyorum…"
 
 # game/scenes/chapter13/tonya_side.rpy:130
 translate turkish scene_chapter13_tonya_home_21eb1482:
@@ -87,97 +87,97 @@ translate turkish scene_chapter13_tonya_home_a843e1c6:
 translate turkish scene_chapter13_tonya_home_3c28b4e8:
 
     # tonya "{e=smiley}{e=lee}{e=exclamation_white}{e=question_white}"
-    tonya "Lee! Ama nasıl? Nasıl buradasın?"
+    tonya "Lee! Ama nasil? Nasil buradasin?"
 
 # game/scenes/chapter13/tonya_side.rpy:141
 translate turkish scene_chapter13_tonya_home_8aa7352e:
 
     # tonya "{e=you}{e=lee}{e=question_white}{e=dizzy_face}"
-    tonya "Bu gerçekten sen misin? gözlerime inanamıyorum! Çok\u00A0 degismissin!"
-    tonya "Seni zar zor tanıdım! Ama simdi ben de farklı görünüyorumdur!"
+    tonya "Bu gerçekten sen misin? gözlerime inanamiyorum! Çok\u00A0 degismissin!"
+    tonya "Seni zar zor tanidim! Ama simdi ben de farkli görünüyorumdur!"
 
 # game/scenes/chapter13/tonya_side.rpy:142
 translate turkish scene_chapter13_tonya_home_95cef622:
 
     # tonya "{e=take}{e=lee}{e=no}{e=sleeping_face}{e=thought_balloon}"
-    tonya "Sana dokunmama izin ver, çünkü senin gerçek olduguna inanamıyorum."
+    tonya "Sana dokunmama izin ver, çünkü senin gerçek olduguna inanamiyorum."
 
 # game/scenes/chapter13/tonya_side.rpy:151
 translate turkish scene_chapter13_tonya_home_a220db4f:
 
     # lee "{e=me}{e=hourglass}{e=magnifying_glass}{e=you}{e=tear_smile}"
-    lee "Tonya… Ben de inanamıyorum."
-    lee "Seni bulmayı umuyordum, simdi buldum da ama gözlerime inanamıyorum."
-    lee "Seni çok uzun zamandır arıyorum."
+    lee "Tonya… Ben de inanamiyorum."
+    lee "Seni bulmayi umuyordum, simdi buldum da ama gözlerime inanamiyorum."
+    lee "Seni çok uzun zamandir ariyorum."
 
 # game/scenes/chapter13/tonya_side.rpy:152
 translate turkish scene_chapter13_tonya_home_0fd3e394:
 
     # tonya "{e=magnifying_glass}{e=question_white}"
-    tonya "Beni mi arıyordun?"
+    tonya "Beni mi ariyordun?"
 
 # game/scenes/chapter13/tonya_side.rpy:153
 translate turkish scene_chapter13_tonya_home_9b449926:
 
     # lee "{e=me}{e=arrow_right}{e=airplane}{e=no}{e=tonya}"
-    lee "Evet. Uçagı buldum. Adanın benim tarafıma düsmüs."
-    lee "Tepeden görmüs olmalısın."
-    lee "Ama uçagın içinde degildin ve nerede olabilecegine dair hiçbir ipucu bulamadım."
-    lee "Umudumu hiç kaybetmedim ve aramaya devam ettim. Dumanını gördüm ama buraya gelemedim."
+    lee "Evet. Uçagi buldum. Adanin benim tarafima düsmüs."
+    lee "Tepeden görmüs olmalisin."
+    lee "Ama uçagin içinde degildin ve nerede olabilecegine dair hiçbir ipucu bulamadim."
+    lee "Umudumu hiç kaybetmedim ve aramaya devam ettim. Dumanini gördüm ama buraya gelemedim."
 
 # game/scenes/chapter13/tonya_side.rpy:154
 translate turkish scene_chapter13_tonya_home_0d9951f6:
 
     # tonya "{e=airplane}{e=arrow_lower_right}{e=parachute}"
-    tonya "Ve son anda parasütle atladım."
+    tonya "Ve son anda parasütle atladim."
 
 # game/scenes/chapter13/tonya_side.rpy:155
 translate turkish scene_chapter13_tonya_home_58933736:
 
     # tonya "{e=airplane}{e=arrow_down}{e=desert island}{e=pensive_face}"
-    tonya "Uçagı indirebilecegimi düsündüm ama düstü."
-    tonya "Agaçlar düsüsü yumusatmıs ve tamamen yok olmaktan kurtarmıs olmalı."
-    tonya "Uçagı diger tarafta gördüm ama jaguar her zaman ortalıkta dolanıyordu."
-    tonya "Jaguar yüzünden enkazı bile dogru dürüst inceleyemedim."
+    tonya "Uçagi indirebilecegimi düsündüm ama düstü."
+    tonya "Agaçlar düsüsü yumusatmis ve tamamen yok olmaktan kurtarmis olmali."
+    tonya "Uçagi diger tarafta gördüm ama jaguar her zaman ortalikta dolaniyordu."
+    tonya "Jaguar yüzünden enkazi bile dogru dürüst inceleyemedim."
 
 # game/scenes/chapter13/tonya_side.rpy:156
 translate turkish scene_chapter13_tonya_home_a112e14b:
 
     # tonya "{e=you}{e=parachute}{e=no}{e=arrow_down}{e=ocean}"
-    tonya "Devam et! Parasütün hiç açılmadı ve denize çakıldın!"
+    tonya "Devam et! Parasütün hiç açilmadi ve denize çakildin!"
 
 # game/scenes/chapter13/tonya_side.rpy:158
 translate turkish scene_chapter13_tonya_home_08b233b6:
 
     # tonya "{e=you}{e=no}{e=skull_and_crossbones}{e=question_white}" nointeract
-    tonya "Sonra nasıl hayatta kaldın ya?" nointeract
+    tonya "Sonra nasil hayatta kaldin ya?" nointeract
 
 # game/scenes/chapter13/tonya_side.rpy:162
 translate turkish scene_chapter13_tonya_home_0eb007ef:
 
     # lee "{e=boom}{e=ocean}{e=face_with_head-bandage}{e=injured_leg}{e=confounded face}"
-    lee "Suya çok sert vurduktan ve bacagımı incittikten sonra yüzerken zorlandım."
+    lee "Suya çok sert vurduktan ve bacagimi incittikten sonra yüzerken zorlandim."
 
 # game/scenes/chapter13/tonya_side.rpy:163
 translate turkish scene_chapter13_tonya_home_b49a5b61:
 
     # lee "{e=swim}{e=arrow_right}{e=desert island}{e=night}{e=dizzy_face}"
-    lee "Hala bayılmadan önce karanlıkta kıyıya nasıl çıktıgımı bilmiyorum."
+    lee "Hala bayilmadan önce karanlikta kiyiya nasil çiktigimi bilmiyorum."
     lee "Kendime geldigimde sabah olmustu."
 
 # game/scenes/chapter13/tonya_side.rpy:164
 translate turkish scene_chapter13_tonya_home_1e79e8f9:
 
     # lee "{e=magnifying_glass}{e=weed}{e=health}{e=relieved}"
-    lee "Biraz sifalı yosun, sonra su ve yiyecek buldugum için sanslıydım."
-    lee "Neyse ki muz agaçları ve hindistancevizi palmiyeleri hemen yakınımda büyüyordu."
+    lee "Biraz sifali yosun, sonra su ve yiyecek buldugum için sansliydim."
+    lee "Neyse ki muz agaçlari ve hindistancevizi palmiyeleri hemen yakinimda büyüyordu."
 
 # game/scenes/chapter13/tonya_side.rpy:165
 translate turkish scene_chapter13_tonya_home_0ac9d722:
 
     # lee "{e=hourglass}{e=arrows_counterclockwise}{e=ok_hand}{e=slightly_smiling_face}"
-    lee "Yavas yavas adaya bir sekilde yerlestim ve sonra alıstım."
-    lee "Kendime küçük bir kulübe bile yaptım."
+    lee "Yavas yavas adaya bir sekilde yerlestim ve sonra alistim."
+    lee "Kendime küçük bir kulübe bile yaptim."
 
 # game/scenes/chapter13/tonya_side.rpy:166
 translate turkish scene_chapter13_tonya_home_62971f8d:
@@ -195,20 +195,20 @@ translate turkish scene_chapter13_tonya_home_5c096595:
 translate turkish scene_chapter13_tonya_home_31e729c5:
 
     # lee "{e=hammer}{e=camp}{e=sparkles}{e=muscle}"
-    lee "Neyin ne oldugunu hemen ögrendim, seninki gibi bir ev yaptım ve hayatta kaldım."
-    lee "Tam bir cennet adası diyebilirim!"
+    lee "Neyin ne oldugunu hemen ögrendim, seninki gibi bir ev yaptim ve hayatta kaldim."
+    lee "Tam bir cennet adasi diyebilirim!"
 
 # game/scenes/chapter13/tonya_side.rpy:171
 translate turkish scene_chapter13_tonya_home_e9e68ef1:
 
     # tonya "{e=hushed_face}{e=superhero}{e=thumbs_up}{e=unamused_face}"
-    tonya "Vay! Pek de Rambo gibi görünmüyordun. Senin için bu kadar kolay olmasına sasırdım!"
+    tonya "Vay! Pek de Rambo gibi görünmüyordun. Senin için bu kadar kolay olmasina sasirdim!"
 
 # game/scenes/chapter13/tonya_side.rpy:172
 translate turkish scene_chapter13_tonya_home_7cc0320b:
 
     # tonya "{e=lee}{e=tonya}{e=desert island}{e=exploding_head}{e=smiley}"
-    tonya "Bunca zaman aynı adada oldugumuza inanamıyorum!"
+    tonya "Bunca zaman ayni adada oldugumuza inanamiyorum!"
 
 # game/scenes/chapter13/tonya_side.rpy:173
 translate turkish scene_chapter13_tonya_home_da469511:
@@ -221,118 +221,118 @@ translate turkish scene_chapter13_tonya_home_da469511:
 translate turkish scene_chapter13_tonya_home_f0d63cea:
 
     # tonya "{e=footprints}{e=arrow_right}{e=tonya}{e=desert island}{e=question_white}" nointeract
-    tonya "Ama sonunda bunu yapmayı nasıl basardın?" nointeract
+    tonya "Ama sonunda bunu yapmayi nasil basardin?" nointeract
 
 # game/scenes/chapter13/tonya_side.rpy:179
 translate turkish scene_chapter13_tonya_home_d8f5c108:
 
     # lee "{e=cave}{e=mountain}{e=arrow_right}{e=tonya}{e=desert island}"
-    lee "Orada bir magara var. kendin görmüs olmalısın."
-    lee "Dagın içinden geçiyor ve buraya gelmek için o magarayı kullandım."
+    lee "Orada bir magara var. kendin görmüs olmalisin."
+    lee "Dagin içinden geçiyor ve buraya gelmek için o magarayi kullandim."
 
 # game/scenes/chapter13/tonya_side.rpy:180
 translate turkish scene_chapter13_tonya_home_8fee0474:
 
     # lee "{e=jaguar}{e=wound}{e=me}{e=persevering}{e=skull_and_crossbones}"
-    lee "Jaguar beni neredeyse öldürüyordu, ama onu bir silah ve kalkanla öldürmeyi basardım."
+    lee "Jaguar beni neredeyse öldürüyordu, ama onu bir silah ve kalkanla öldürmeyi basardim."
 
 # game/scenes/chapter13/tonya_side.rpy:181
 translate turkish scene_chapter13_tonya_home_9bd40234:
 
     # lee "{e=me}{e=cold_sweat}{e=crossed_swords}{e=jaguar}{e=skull}"
-    lee "Çok korkutucuydu ama bir sekilde hallettim. Belki de yine sansım yaver gitti."
+    lee "Çok korkutucuydu ama bir sekilde hallettim. Belki de yine sansim yaver gitti."
 
 # game/scenes/chapter13/tonya_side.rpy:182
 translate turkish scene_chapter13_tonya_home_f5182c16:
 
     # tonya "{e=thumbs_up}{e=muscle}{e=smiling_face}"
-    tonya "Sanırım kolay olmadı, degil mi? Halletmis olman harika!"
+    tonya "Sanirim kolay olmadi, degil mi? Halletmis olman harika!"
 
 # game/scenes/chapter13/tonya_side.rpy:186
 translate turkish scene_chapter13_tonya_home_bd0fd65a:
 
     # lee "{e=magnifying_glass}{e=cave}{e=dark}{e=eyes}{e=enter}"
-    lee "Magarayı buldum, içinden karanlık bir yol geçiyordu. Yolun sonu da jaguara çıktı."
+    lee "Magarayi buldum, içinden karanlik bir yol geçiyordu. Yolun sonu da jaguara çikti."
 
 # game/scenes/chapter13/tonya_side.rpy:187
 translate turkish scene_chapter13_tonya_home_7ad2a3c6:
 
     # lee "{e=halberd}{e=crossed_swords}{e=jaguar}{e=muscle}{e=sparkles}"
-    lee "Harika bir silahım vardı, bu yüzden hemen onu yendim."
-    lee "Birkaç iyi darbe ile ucubeyi indirmeyi basardım."
+    lee "Harika bir silahim vardi, bu yüzden hemen onu yendim."
+    lee "Birkaç iyi darbe ile ucubeyi indirmeyi basardim."
 
 # game/scenes/chapter13/tonya_side.rpy:188
 translate turkish scene_chapter13_tonya_home_d148a1d1:
 
     # tonya "{e=you}{e=crossed_swords}{e=jaguar}{e=question_white}{e=surprised}"
-    tonya "Bu kadar kolay mı hallettin?! Harika!"
+    tonya "Bu kadar kolay mi hallettin?! Harika!"
 
 # game/scenes/chapter13/tonya_side.rpy:190
 translate turkish scene_chapter13_tonya_home_b9527a7f:
 
     # tonya "{ellipsis}{e=cold_sweat}{e=pointing_up}{e=desert island}{e=question_white}" nointeract
-    tonya "…Adada yalnız kalmak korkutucu olmalı. Bununla nasıl basa çıktın?" nointeract
+    tonya "…Adada yalniz kalmak korkutucu olmali. Bununla nasil basa çiktin?" nointeract
 
 # game/scenes/chapter13/tonya_side.rpy:195
 translate turkish scene_chapter13_tonya_home_519c7649:
 
     # lee "{e=no}{e=pointing_up}{e=desert island}{e=relieved}"
-    lee "Yalnız degildim."
+    lee "Yalniz degildim."
 
 # game/scenes/chapter13/tonya_side.rpy:196
 translate turkish scene_chapter13_tonya_home_1628026e:
 
     # lee "{e=eye}{e=girl}{e=cat}{e=arrow_right}{e=catgirl}"
-    lee "Hikayemin saçma gelecegini biliyorum ama önce bir kedi kızla tanıstım."
-    lee "Sadece hayal et - bir insan ve bir kedi, aynı bedende!"
+    lee "Hikayemin saçma gelecegini biliyorum ama önce bir kedi kizla tanistim."
+    lee "Sadece hayal et - bir insan ve bir kedi, ayni bedende!"
     lee "Böyle seyleri sadece çizgi romanlarda ve filmlerde görmüstüm."
-    lee "Bazen çok güneste kalınca da bir seyler görüyorum ama neyse o ayrı."
-    lee "Bir süre sonra da arkadas olduk ya da onu evcillestirdim, nasıl baktıgına baglı."
+    lee "Bazen çok güneste kalinca da bir seyler görüyorum ama neyse o ayri."
+    lee "Bir süre sonra da arkadas olduk ya da onu evcillestirdim, nasil baktigina bagli."
 
 # game/scenes/chapter13/tonya_side.rpy:197
 translate turkish scene_chapter13_tonya_home_f357b188:
 
     # lee "{e=lake}{e=girl}{e=octopus}{e=arrow_right}{e=octa}"
-    lee "Sonra gölde bir ahtapot-kız buldum."
-    lee "Orada bir canavar oldugunu düsündüm ama sevimli bir sey oldugu ortaya çıktı."
-    lee "Konuskan degildi, meraklı ve kibardı."
+    lee "Sonra gölde bir ahtapot-kiz buldum."
+    lee "Orada bir canavar oldugunu düsündüm ama sevimli bir sey oldugu ortaya çikti."
+    lee "Konuskan degildi, merakli ve kibardi."
 
 # game/scenes/chapter13/tonya_side.rpy:198
 translate turkish scene_chapter13_tonya_home_4f77c0de:
 
     # tonya "{e=astonished_face}{e=question_white}{e=exploding_head}{e=exclamation_white}"
-    tonya "Ne?! Bu inanılmaz! Bu nasıl mümkün olabilir?!"
-    tonya "Ben öyle seyler görmedim. Sadece jaguar ve martılar. Ve yengeçler."
+    tonya "Ne?! Bu inanilmaz! Bu nasil mümkün olabilir?!"
+    tonya "Ben öyle seyler görmedim. Sadece jaguar ve martilar. Ve yengeçler."
 
 # game/scenes/chapter13/tonya_side.rpy:199
 translate turkish scene_chapter13_tonya_home_bf8b40d4:
 
     # tonya "{e=catgirl}{e=octa}{e=skull}{e=you}{e=question_white}"
-    tonya "Seni öldürmeye çalısmadılar mı? Sonuçta onlar canavar."
+    tonya "Seni öldürmeye çalismadilar mi? Sonuçta onlar canavar."
 
 # game/scenes/chapter13/tonya_side.rpy:200
 translate turkish scene_chapter13_tonya_home_7f230d96:
 
     # lee "{e=hut}{e=catgirl}{e=octa}{e=lee}{e=happy_sweat}"
-    lee "Hayır… simdi benimle birlikte yasıyorlar."
+    lee "Hayir… simdi benimle birlikte yasiyorlar."
 
 # game/scenes/chapter13/tonya_side.rpy:201
 translate turkish scene_chapter13_tonya_home_d3ba1dfc:
 
     # lee "{e=catgirl}{e=octa}{e=handshake}{e=lee}{e=blush}"
-    lee "Biz, bir nevi… arkadasız…"
+    lee "Biz, bir nevi… arkadasiz…"
 
 # game/scenes/chapter13/tonya_side.rpy:202
 translate turkish scene_chapter13_tonya_home_9b07d8c9:
 
     # tonya "{e=surprised}{e=exclamation_white}"
-    tonya "Bu kesinlikle inanılmaz."
+    tonya "Bu kesinlikle inanilmaz."
 
 # game/scenes/chapter13/tonya_side.rpy:203
 translate turkish scene_chapter13_tonya_home_dacd6fbe:
 
     # tonya "{e=me}{e=handshake}{e=catgirl}{e=octa}{e=question_white}"
-    tonya "Bizi daha sonra tanıstırır mısın? Onları görmek isterim."
+    tonya "Bizi daha sonra tanistirir misin? Onlari görmek isterim."
 
 # game/scenes/chapter13/tonya_side.rpy:204
 translate turkish scene_chapter13_tonya_home_fc14aa5b:
@@ -344,21 +344,21 @@ translate turkish scene_chapter13_tonya_home_fc14aa5b:
 translate turkish scene_chapter13_tonya_home_c84f2d1d:
 
     # lee "{e=muscle}{e=steam_from_nose}{e=ok_hand}{e=beaming_face}"
-    lee "Sorun degil! Ben eski bir izciyim! Egitimimi çabucak hatırladım ve ise yaradı!"
-    lee "Yalnız kalmaya ya da korkmaya zaman yoktu - hayatta kalmaya odaklanmam gerekiyordu!"
+    lee "Sorun degil! Ben eski bir izciyim! Egitimimi çabucak hatirladim ve ise yaradi!"
+    lee "Yalniz kalmaya ya da korkmaya zaman yoktu - hayatta kalmaya odaklanmam gerekiyordu!"
 
 # game/scenes/chapter13/tonya_side.rpy:210
 translate turkish scene_chapter13_tonya_home_56e2a316:
 
     # tonya "{e=rolling_eyes}{e=unamused_face}"
-    tonya "Oh gerçekten… ve burada çok zorlandım."
-    tonya "Daha önce tanısmamıs olmamız üzücü çünkü gerçekten yardımın ise yarardı."
+    tonya "Oh gerçekten… ve burada çok zorlandim."
+    tonya "Daha önce tanismamis olmamiz üzücü çünkü gerçekten yardimin ise yarardi."
 
 # game/scenes/chapter13/tonya_side.rpy:212
 translate turkish scene_chapter13_tonya_home_aecbb07a:
 
     # tonya "{e=pensive_face}{e=pointing_up}{e=desert island}{e=crying_face}"
-    tonya "Bunca zaman burada yalnızdım. Bana arkadaslık etmesi için çöp adam bile yaptım."
+    tonya "Bunca zaman burada yalnizdim. Bana arkadaslik etmesi için çöp adam bile yaptim."
 
 # game/scenes/chapter13/tonya_side.rpy:213
 translate turkish scene_chapter13_tonya_home_6e705a56:
@@ -370,14 +370,14 @@ translate turkish scene_chapter13_tonya_home_6e705a56:
 translate turkish scene_chapter13_tonya_home_51993bde:
 
     # tonya "{e=storm}{e=tired_face}" nointeract
-    tonya "Ve sonra o korkunç fırtına geldi!" nointeract
+    tonya "Ve sonra o korkunç firtina geldi!" nointeract
 
 # game/scenes/chapter13/tonya_side.rpy:219
 translate turkish scene_chapter13_tonya_home_6072e746:
 
     # lee "{e=exclamation_white}{e=storm}{e=persevering}"
-    lee "Kesinlikle! O korkunç fırtına evimin yarısını havaya uçurdu!"
-    lee "Bunun benim ölümüm olacagını düsündüm."
+    lee "Kesinlikle! O korkunç firtina evimin yarisini havaya uçurdu!"
+    lee "Bunun benim ölümüm olacagini düsündüm."
 
 # game/scenes/chapter13/tonya_side.rpy:220
 translate turkish scene_chapter13_tonya_home_f7d6a78a:
@@ -389,21 +389,21 @@ translate turkish scene_chapter13_tonya_home_f7d6a78a:
 translate turkish scene_chapter13_tonya_home_3a06d57b:
 
     # tonya "{e=no}{e=bonfire}{e=cold_face}"
-    tonya "Çok soguktu ve ates yakamıyordum."
+    tonya "Çok soguktu ve ates yakamiyordum."
 
 # game/scenes/chapter13/tonya_side.rpy:222
 translate turkish scene_chapter13_tonya_home_7b44ca00:
 
     # lee "{e=pleading_face}{e=pensive_face}{e=me}{e=no}{e=hug}"
-    lee "O an etrafında olamadıgım için çok üzgünüm! Birlikte daha kolay olurdu."
-    lee "Seni korur ve yardım ederdim."
+    lee "O an etrafinda olamadigim için çok üzgünüm! Birlikte daha kolay olurdu."
+    lee "Seni korur ve yardim ederdim."
 
 # game/scenes/chapter13/tonya_side.rpy:226
 translate turkish scene_chapter13_tonya_home_2207b123:
 
     # lee "{e=rain}{e=ok_hand}{e=beaming_face}{e=bungalow4}{e=muscle}"
     lee "Sadece siddetli bir yagmurdu çok da bir sey degil."
-    lee "Ve kulübem oldukça güçlüydü, bu yüzden agır hasar görmedi."
+    lee "Ve kulübem oldukça güçlüydü, bu yüzden agir hasar görmedi."
 
 # game/scenes/chapter13/tonya_side.rpy:227
 translate turkish scene_chapter13_tonya_home_d586ac17:
@@ -415,13 +415,13 @@ translate turkish scene_chapter13_tonya_home_d586ac17:
 translate turkish scene_chapter13_tonya_home_88203352:
 
     # tonya "{e=hourglass}{e=night}{e=footprints}{e=sleeping_face}"
-    tonya "Zaten karanlık oldu. Hadi yatalım."
+    tonya "Zaten karanlik oldu. Hadi yatalim."
 
 # game/scenes/chapter13/tonya_side.rpy:234
 translate turkish scene_chapter13_tonya_home_old_friend_67dd13e7:
 
     # lee "{e=relieved}{e=tonya}{e=handshake}{e=heart}{e=lee}"
-    lee "Iyi ki fırtınadan sag çıktık ve tekrar bir araya geldik."
+    lee "Iyi ki firtinadan sag çiktik ve tekrar bir araya geldik."
 
 # game/scenes/chapter13/tonya_side.rpy:235
 translate turkish scene_chapter13_tonya_home_old_friend_ad811db4:
@@ -439,13 +439,13 @@ translate turkish scene_chapter13_tonya_home_old_friend_d56e0ce3:
 translate turkish scene_chapter13_tonya_home_old_friend_3eda9ade:
 
     # lee "{e=sleeping_face}{e=thought_balloon}{e=tonya}{e=smiling_face_with_hearts}"
-    lee "…Seni özledim. Rüyalarımda bile seni gördüm."
+    lee "…Seni özledim. Rüyalarimda bile seni gördüm."
 
 # game/scenes/chapter13/tonya_side.rpy:239
 translate turkish scene_chapter13_tonya_home_old_friend_f1c7896a:
 
     # tonya "{e=me}{e=blush}"
-    tonya "Ben de sık sık seni düsündüm."
+    tonya "Ben de sik sik seni düsündüm."
 
 # game/scenes/chapter13/tonya_side.rpy:240
 translate turkish scene_chapter13_tonya_home_old_friend_477952aa:
@@ -457,25 +457,25 @@ translate turkish scene_chapter13_tonya_home_old_friend_477952aa:
 translate turkish scene_chapter13_tonya_home_old_friend_f7706428:
 
     # tonya "{e=kiss}{e=me}{e=smiling_face}{e=exclamation_white}"
-    tonya "Öp artık beni, aptal! Nasıl oluyor da hala üzerime atlamadın?"
+    tonya "Öp artik beni, aptal! Nasil oluyor da hala üzerime atlamadin?"
 
 # game/scenes/chapter13/tonya_side.rpy:242
 translate turkish scene_chapter13_tonya_home_old_friend_1f5d95ad:
 
     # lee "{e=star_struck}{e=heart_eyes}"
-    lee "Gerçekten aldırmayacak mısın? Uzun zamandır bunun hayalini kuruyorum…"
+    lee "Gerçekten aldirmayacak misin? Uzun zamandir bunun hayalini kuruyorum…"
 
 # game/scenes/chapter13/tonya_side.rpy:243
 translate turkish scene_chapter13_tonya_home_old_friend_0f3e957e:
 
     # tonya "{e=consume}{e=you}{e=beaming_face}{e=smirk}"
-    tonya "Her yerini yiyecegim ham yapacagım seni!"
+    tonya "Her yerini yiyecegim ham yapacagim seni!"
 
 # game/scenes/chapter13/tonya_side.rpy:260
 translate turkish scene_chapter13_tonya_home_escape_plan_723bf904:
 
     # lee "{e=speak}{e=you}{e=cave}{e=arrow_right}{e=desert island}"
-    lee "Dün adanın bu tarafına geçmemi saglayan magaradan bahsetmistim."
+    lee "Dün adanin bu tarafina geçmemi saglayan magaradan bahsetmistim."
 
 # game/scenes/chapter13/tonya_side.rpy:268
 translate turkish scene_chapter13_tonya_home_escape_plan_599a9586:
@@ -487,7 +487,7 @@ translate turkish scene_chapter13_tonya_home_escape_plan_599a9586:
 translate turkish scene_chapter13_tonya_home_escape_plan_ff8820b8:
 
     # tonya "{e=map}{e=question_white}{e=cave}{e=question_white}{e=astonished_face}"
-    tonya "Bir harita? Bir magarada? Neyin haritası?"
+    tonya "Bir harita? Bir magarada? Neyin haritasi?"
 
 # game/scenes/chapter13/tonya_side.rpy:270
 translate turkish scene_chapter13_tonya_home_escape_plan_c8888385:
@@ -500,8 +500,8 @@ translate turkish scene_chapter13_tonya_home_escape_plan_c8888385:
 translate turkish scene_chapter13_tonya_home_escape_plan_d051cebb:
 
     # lee "{e=map}{e=arrow_right}{e=desert island}{e=desert island}{e=desert island}"
-    lee "Bu adayı ve komsu adaları gösteriyor."
-    lee "Resme bakılırsa adalar birbirinden çok uzakta degil."
+    lee "Bu adayi ve komsu adalari gösteriyor."
+    lee "Resme bakilirsa adalar birbirinden çok uzakta degil."
 
 # game/scenes/chapter13/tonya_side.rpy:272
 translate turkish scene_chapter13_tonya_home_escape_plan_c20702a5:
@@ -513,7 +513,7 @@ translate turkish scene_chapter13_tonya_home_escape_plan_c20702a5:
 translate turkish scene_chapter13_tonya_home_escape_plan_da1c6ef3:
 
     # lee "{e=hammer}{e=raft}{e=boat}{e=arrow_right}{e=desert island}"
-    lee "Evet, sanırım oralara bir sal ile ulasabiliriz!"
+    lee "Evet, sanirim oralara bir sal ile ulasabiliriz!"
 
 # game/scenes/chapter13/tonya_side.rpy:274
 translate turkish scene_chapter13_tonya_home_escape_plan_b735faff:
@@ -525,25 +525,25 @@ translate turkish scene_chapter13_tonya_home_escape_plan_b735faff:
 translate turkish scene_chapter13_tonya_home_escape_plan_d1bb94a7:
 
     # tonya "{e=no}{e=compass}{e=map}{e=skull_and_crossbones}"
-    tonya "Ben de bu fikirdeydim ama navigasyon isaretleri olmadan denize açılmak intihardır."
+    tonya "Ben de bu fikirdeydim ama navigasyon isaretleri olmadan denize açilmak intihardir."
 
 # game/scenes/chapter13/tonya_side.rpy:276
 translate turkish scene_chapter13_tonya_home_escape_plan_b4d286af:
 
     # tonya "{e=exclamation_white}{e=no}{e=stone_tablet}{e=map}{e=question_white}"
-    tonya "Bekle, tüm haritayı bir araya getirmedigini söylüyorsun, degil mi?"
+    tonya "Bekle, tüm haritayi bir araya getirmedigini söylüyorsun, degil mi?"
 
 # game/scenes/chapter13/tonya_side.rpy:277
 translate turkish scene_chapter13_tonya_home_escape_plan_ea0c98c2:
 
     # lee "{e=yes}{e=map}{e=puzzle}{e=stone_tablet}"
-    lee "Evet, tas parçalardan yapılmıs bir yapboz gibi."
+    lee "Evet, tas parçalardan yapilmis bir yapboz gibi."
 
 # game/scenes/chapter13/tonya_side.rpy:278
 translate turkish scene_chapter13_tonya_home_escape_plan_9bc61810:
 
     # tonya "{e=arrow_right}{e=stone_tablet}{e=question_white}"
-    tonya "Bu tür parçalrdan mı?"
+    tonya "Bu tür parçalrdan mi?"
 
 # game/scenes/chapter13/tonya_side.rpy:279
 translate turkish scene_chapter13_tonya_home_escape_plan_02687229:
@@ -563,9 +563,9 @@ translate turkish scene_chapter13_tonya_home_escape_plan_aab4c3e7:
 
     # lee "{e=stone_tablet}{e=exclamation_white}{e=map}{e=yes}{e=smiley}"
     if len(cave_map_pieces_collected) == 12:
-        lee "Daha fazlasına ihtiyacımız yok! Bu\u00A0son eksik parça!"
+        lee "Daha fazlasina ihtiyacimiz yok! Bu\u00A0son eksik parça!"
     else:
-        lee "Harika! Tam da ihtiyacımız olan sey bu!"
+        lee "Harika! Tam da ihtiyacimiz olan sey bu!"
 
 # game/scenes/chapter13/tonya_side.rpy:285
 translate turkish scene_chapter13_tonya_home_escape_plan_445a27b9:
@@ -589,31 +589,31 @@ translate turkish scene_chapter13_tonya_home_escape_plan_7624e901:
 translate turkish scene_chapter13_tonya_home_escape_plan_2e460e0c:
 
     # tonya "{e=lee}{e=exclamation}{e=help}{e=exclamation}"
-    tonya "Lee! Yardım et! Leee!!!"
+    tonya "Lee! Yardim et! Leee!!!"
 
 # game/scenes/chapter13/tonya_side.rpy:318
 translate turkish scene_chapter13_tonya_home_escape_plan_815eda2c:
 
     # lee_think "{e=ear}{e=exclamation}{e=tonya}{e=speak}"
-    lee_think "Bu Tonya'nın sesi! Yardıma ihtiyacı var!"
+    lee_think "Bu Tonya'nin sesi! Yardima ihtiyaci var!"
 
 # game/scenes/chapter13/tonya_side.rpy:319
 translate turkish scene_chapter13_tonya_home_escape_plan_e1679909:
 
     # lee "{e=tonya}{e=exclamation}{e=dash}{e=footprints}{e=arrow_right}"
-    lee "Tonya! Buradayım! Geliyorum!"
+    lee "Tonya! Buradayim! Geliyorum!"
 
 # game/scenes/chapter13/tonya_side.rpy:329
 translate turkish scene_chapter13_tonya_home_escape_plan_33d49755:
 
     # lee_think "{e=tonya}{e=take}{e=native_ship}{e=exclamation}{e=scream}"
-    lee_think "Onu götürdüler! Tonya onların elinde!"
+    lee_think "Onu götürdüler! Tonya onlarin elinde!"
 
 # game/scenes/chapter13/tonya_side.rpy:330
 translate turkish scene_chapter13_tonya_home_escape_plan_add4cf9d:
 
     # lee_think "{e=dash}{e=native_ship}{e=arrow_right}{e=ocean}{e=cold_sweat}"
-    lee_think "Ben ne yapacagım? Gemi çok çabuk uzaklasıyor!"
+    lee_think "Ben ne yapacagim? Gemi çok çabuk uzaklasiyor!"
 
 # game/scenes/chapter13/tonya_side.rpy:331
 translate turkish scene_chapter13_tonya_home_escape_plan_673949ec:
@@ -625,7 +625,7 @@ translate turkish scene_chapter13_tonya_home_escape_plan_673949ec:
 translate turkish scene_chapter13_tonya_home_escape_plan_5e54059b:
 
     # lee "{e=tonya}{e=exclamation}"
-    lee "Tonya! Seni bulacagım! Seni mutlaka bulacagım!"
+    lee "Tonya! Seni bulacagim! Seni mutlaka bulacagim!"
 
 # game/scenes/chapter13/tonya_side.rpy:332
 translate turkish scene_chapter13_tonya_home_escape_plan_5d662cae:
@@ -637,7 +637,7 @@ translate turkish scene_chapter13_tonya_home_escape_plan_5d662cae:
 translate turkish scene_chapter13_tonya_home_escape_plan_badda5f1:
 
     # lee "{e=me}{e=hammer}{e=raft}{e=boat}{e=you}"
-    lee "Bir sal yapacagım, oraya yelken açacagım ve seni geri alacagım!"
+    lee "Bir sal yapacagim, oraya yelken açacagim ve seni geri alacagim!"
 
 # game/scenes/chapter13/tonya_side.rpy:336
 translate turkish scene_chapter13_tonya_home_escape_plan_a99cec07:
@@ -655,7 +655,7 @@ translate turkish scene_chapter13_tonya_home_escape_plan_c1b78d63:
 translate turkish scene_chapter13_tonya_home_escape_plan_c8deaec1:
 
     # lee_think "{e=desert island}{e=silhouette}{e=arrow_up}{e=map}{e=question_white}"
-    lee_think "Haritanın üst kısmında gösterilen büyük adadan gelmis olabilirler mi?"
+    lee_think "Haritanin üst kisminda gösterilen büyük adadan gelmis olabilirler mi?"
 
 # game/scenes/chapter13/tonya_side.rpy:338
 translate turkish scene_chapter13_tonya_home_escape_plan_336adc2c:
@@ -667,25 +667,25 @@ translate turkish scene_chapter13_tonya_home_escape_plan_336adc2c:
 translate turkish scene_chapter13_tonya_home_escape_plan_a18b6805:
 
     # lee_think "{e=tonya}{e=no}{e=confused_face}{e=foraging}{e=raft}"
-    lee_think "Tonya burada degil. Sal için malzeme toplamalıyım."
+    lee_think "Tonya burada degil. Sal için malzeme toplamaliyim."
 
 # game/scenes/chapter13/tonya_side.rpy:356
 translate turkish scene_chapter13_tonya_home_escape_plan_1d6c6a82:
 
     # lee_think "{e=magnifying_glass}{e=tonya}{e=hut}"
-    lee_think "Tonya'nın kulübesini aramam gerek. Orada faydalı bir seyler bulabilirim."
+    lee_think "Tonya'nin kulübesini aramam gerek. Orada faydali bir seyler bulabilirim."
 
 # game/scenes/chapter13/tonya_side.rpy:357
 translate turkish scene_chapter13_tonya_home_escape_plan_a7f18640:
 
     # lee_think "{e=tonya}{e=crafting}{e=parachute}{e=sail}"
-    lee_think "Parasütten yelken yapıyordu. Burada bir yerde olmalı."
+    lee_think "Parasütten yelken yapiyordu. Burada bir yerde olmali."
 
 # game/scenes/chapter13/tonya_side.rpy:358
 translate turkish scene_chapter13_tonya_home_escape_plan_a6727f48:
 
     # lee_think "{e=hourglass}{e=dash}{e=hammer}{e=raft}{e=exclamation_white}"
-    lee_think "Sal insaatına baslamamın zamanı geldi!"
+    lee_think "Sal insaatina baslamamin zamani geldi!"
 
 # game/scenes/chapter13/tonya_side.rpy:359
 translate turkish scene_chapter13_tonya_home_escape_plan_a64e126f:
@@ -697,13 +697,13 @@ translate turkish scene_chapter13_tonya_home_escape_plan_a64e126f:
 translate turkish scene_chapter13_tonya_beach_right_08f1ad0c:
 
     # lee_think "{e=hammer}{e=raft}{e=tonya}{e=beach}"
-    lee_think "Tıpkı Tonya'nın dedigi gibi, salı onun kıyısına insa etmemiz gerekiyor."
+    lee_think "Tipki Tonya'nin dedigi gibi, sali onun kiyisina insa etmemiz gerekiyor."
 
 # game/scenes/chapter13/tonya_side.rpy:427
 translate turkish scene_chapter13_tonya_beach_right_set_sail_cd96d73c:
 
     # lee_think "{e=girls}{e=boat}{e=raft}{e=question_white}{e=thinking_face}" nointeract
-    lee_think "Cat ve Octa'yı gerçekten yanıma almalı mıyım?" nointeract
+    lee_think "Cat ve Octa'yi gerçekten yanima almali miyim?" nointeract
 
 # game/scenes/chapter13/tonya_side.rpy:431
 translate turkish scene_chapter13_tonya_beach_right_set_sail_af10efec:
@@ -721,13 +721,13 @@ translate turkish scene_chapter13_tonya_beach_right_set_sail_05ceb2da:
 translate turkish scene_chapter13_tonya_beach_right_set_sail_d019f271:
 
     # lee_think "{e=catgirl}{e=octa}{e=no}{e=raft}{e=crying_face}"
-    lee_think "Onlarsız gitsem daha iyi olur."
+    lee_think "Onlarsiz gitsem daha iyi olur."
 
 # game/scenes/chapter13/tonya_side.rpy:436
 translate turkish scene_chapter13_tonya_beach_right_set_sail_613fec52:
 
     # lee_think "{e=catgirl}{e=octa}{e=skull_and_crossbones}{e=ocean}"
-    lee_think "Onları almak çok tehlikeli. Orada ölebilirler."
+    lee_think "Onlari almak çok tehlikeli. Orada ölebilirler."
 
 translate turkish strings:
 
@@ -741,11 +741,11 @@ translate turkish strings:
 
     # game/scenes/chapter13/tonya_side.rpy:190
     old "{e=speak}{e=girls}"
-    new "Kızları anlat"
+    new "Kizlari anlat"
 
     # game/scenes/chapter13/tonya_side.rpy:190
     old "{e=no}{e=speak}{e=girls}"
-    new "Kızları anlatma"
+    new "Kizlari anlatma"
 
     # game/scenes/chapter13/tonya_side.rpy:215
     old "{e=relieved}{e=pleading_face}"
@@ -757,15 +757,15 @@ translate turkish strings:
 
     # game/scenes/chapter13/tonya_side.rpy:427
     old "{e=girls}{e=yes}{e=raft}"
-    new "Kızları da yanına al"
+    new "Kizlari da yanina al"
 
     # game/scenes/chapter13/tonya_side.rpy:427
     old "{e=girls}{e=no}{e=raft}"
-    new "Kızları yanına alma"
+    new "Kizlari yanina alma"
 
     # game/scenes/chapter13/tonya_side.rpy:406
     # no text limit for this phrase
     # use \n for line break
     old "{e=no}{e=back}{e=finish}{e=question_white}"
-    new "Oyunun son asamasına girmek üzeresiniz.\nAdaya geri dönemeyeceksiniz. Devam etmeye hazır mısınız?"
+    new "Oyunun son asamasina girmek üzeresiniz.\nAdaya geri dönemeyeceksiniz. Devam etmeye hazir misiniz?"
 

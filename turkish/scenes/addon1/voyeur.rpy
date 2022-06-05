@@ -16,7 +16,7 @@ translate turkish scene_addon1_voyeur_92e445e8:
 translate turkish scene_addon1_voyeur_8dc8716e:
 
     # lee_think "{e=no}{e=exclamation_white}{e=girl}{e=plus}{e=butterfly}"
-    lee_think "Hayır, onlar böcek degiller! Onlar… kanatlı küçük kızlar!"
+    lee_think "Hayir, onlar böcek degiller! Onlar… kanatli küçük kizlar!"
 
 # game/scenes/addon1/voyeur.rpy:34
 translate turkish scene_addon1_voyeur_36851805:
@@ -29,22 +29,22 @@ translate turkish scene_addon1_voyeur_complete_9920c159:
 
     # lee_think "{e=persevering}{e=exclamation}{e=fairy}{e=eyes}{e=lee}"
     lee_think "Lanet olsun! Fark edildim!"
-    lee_think "Artık hiçbir seyin beni sasırtamayacagını düsünmüstüm."
-    lee_think "Cat ve Octa pek sıradan kızlar degil, ama periler…"
-    lee_think "Böyle yaratıkların yasadıgı bir yeri nerden buldum?!"
+    lee_think "Artik hiçbir seyin beni sasirtamayacagini düsünmüstüm."
+    lee_think "Cat ve Octa pek siradan kizlar degil, ama periler…"
+    lee_think "Böyle yaratiklarin yasadigi bir yeri nerden buldum?!"
 
 # game/scenes/addon1/voyeur.rpy:60
 translate turkish scene_addon1_voyeur_complete_decd9ff5:
 
     # lee_think "{e=fairy}{e=speak}{e=say}{e=me}{e=question_white}"
-    lee_think "Sanki bana bir sey söylüyorlar. Onları duyar gibiyim ama tam olarak anlayamıyorum."
+    lee_think "Sanki bana bir sey söylüyorlar. Onlari duyar gibiyim ama tam olarak anlayamiyorum."
     lee_think "Sesleri bir düzine çan gibi geliyor."
 
 # game/scenes/addon1/voyeur.rpy:61
 translate turkish scene_addon1_voyeur_complete_1baffa66:
 
     # lee_think "{e=fairy}{e=pouting_face}"
-    lee_think "Ama kesinlikle öfkeli oldukları açık."
+    lee_think "Ama kesinlikle öfkeli olduklari açik."
 
 # game/scenes/addon1/voyeur.rpy:62
 translate turkish scene_addon1_voyeur_complete_0ae6104b:
@@ -56,19 +56,19 @@ translate turkish scene_addon1_voyeur_complete_0ae6104b:
 translate turkish scene_addon1_voyeur_complete_adb6e926:
 
     # fairy "{e=you}{e=footprints}{e=question_white}{e=angry}"
-    fairy "Hey sen, yabancı! Buraya gelmeye nasıl cüret edersin!"
+    fairy "Hey sen, yabanci! Buraya gelmeye nasil cüret edersin!"
 
 # game/scenes/addon1/voyeur.rpy:64
 translate turkish scene_addon1_voyeur_complete_15aa6128:
 
     # lee_think "{e=ear}{e=speak}{e=brain}{e=exclamation_white}{e=surprised}"
-    lee_think "Sesi tam kafamın içinde!"
+    lee_think "Sesi tam kafamin içinde!"
 
 # game/scenes/addon1/voyeur.rpy:68
 translate turkish scene_addon1_voyeur_complete_a4212e20:
 
     # fairy "{e=fairy_house}{e=boom}{e=you}{e=question_white}{e=angry}"
-    fairy "Neden evimizi kırdın?! Cevap ver!!"
+    fairy "Neden evimizi kirdin?! Cevap ver!!"
 
 # game/scenes/addon1/voyeur.rpy:69
 translate turkish scene_addon1_voyeur_complete_e8220e5f:
@@ -80,13 +80,13 @@ translate turkish scene_addon1_voyeur_complete_e8220e5f:
 translate turkish scene_addon1_voyeur_complete_ca99f498:
 
     # fairy "{e=speak}{e=say}{e=you}{e=brain}{e=exclamation_white}"
-    fairy "Tabii ki! Aptal kulagına dogru bagırıyorum çünkü!"
+    fairy "Tabii ki! Aptal kulagina dogru bagiriyorum çünkü!"
 
 # game/scenes/addon1/voyeur.rpy:74
 translate turkish scene_addon1_voyeur_complete_2e1fd382:
 
     # fairy "{e=you}{e=speak}{e=question_white}{e=boom}{e=fairy_house}"
-    fairy "Söylesene evimiz yoluna nasıl çıktı?!"
+    fairy "Söylesene evimiz yoluna nasil çikti?!"
 
 # game/scenes/addon1/voyeur.rpy:75
 translate turkish scene_addon1_voyeur_complete_7e48198f:
@@ -104,14 +104,14 @@ translate turkish scene_addon1_voyeur_complete_f6cf4948:
 translate turkish scene_addon1_voyeur_complete_f43c674e:
 
     # fairy "{e=you}{e=no}{e=brain}{e=no}{e=eyes}"
-    fairy "Yani sadece aptal degil, aynı zamanda körsün, öyle mi?"
+    fairy "Yani sadece aptal degil, ayni zamanda körsün, öyle mi?"
 
 # game/scenes/addon1/voyeur.rpy:81
 translate turkish scene_addon1_voyeur_complete_554487f7:
 
     # fairy "{e=fairy_house}{e=no}{e=hive}{e=exclamation_white}{e=rolling_eyes}"
-    fairy "Bir evi nasıl kovan sanarsın ki?! Yakınlarda arı var mıydı?"
-    fairy "Arı kovanına benziyor muydu?"
+    fairy "Bir evi nasil kovan sanarsin ki?! Yakinlarda ari var miydi?"
+    fairy "Ari kovanina benziyor muydu?"
 
 # game/scenes/addon1/voyeur.rpy:82
 translate turkish scene_addon1_voyeur_complete_0551e60a:
@@ -123,7 +123,7 @@ translate turkish scene_addon1_voyeur_complete_0551e60a:
 translate turkish scene_addon1_voyeur_complete_a5d26adb:
 
     # lee "{e=pleading_face}{e=question_white}"
-    lee "Bunu nasıl telafi edebilirim?"
+    lee "Bunu nasil telafi edebilirim?"
 
 # game/scenes/addon1/voyeur.rpy:84
 translate turkish scene_addon1_voyeur_complete_7524863c:
@@ -135,13 +135,13 @@ translate turkish scene_addon1_voyeur_complete_7524863c:
 translate turkish scene_addon1_voyeur_bullied_2617f144:
 
     # lee "{e=inventory}{e=anguished_face}{e=exclamation_white}{e=confused_face}"
-    lee "Bunlar benim esyalarım!"
+    lee "Bunlar benim esyalarim!"
 
 # game/scenes/addon1/voyeur.rpy:90
 translate turkish scene_addon1_voyeur_bullied_b6e51986:
 
     # lee_think "{e=silhouette}{e=arrow_right}{e=fairy}{e=exclamation_white}"
-    lee_think "Demek esyalarımı çalanlar onlar! Daha önce anlayabilirdim."
+    lee_think "Demek esyalarimi çalanlar onlar! Daha önce anlayabilirdim."
     lee_think "Ama, kim böyle bir durumu hayal edebilirdi ki?!"
 
 # game/scenes/addon1/voyeur.rpy:91
@@ -154,7 +154,7 @@ translate turkish scene_addon1_voyeur_bullied_48fc2328:
 translate turkish scene_addon1_voyeur_bullied_5fa7bee4:
 
     # lee "{e=me}{e=back}{e=map}{e=pleading_face}"
-    lee "Lütfen, en azından haritamı geri verin!"
+    lee "Lütfen, en azindan haritami geri verin!"
 
 # game/scenes/addon1/voyeur.rpy:93
 translate turkish scene_addon1_voyeur_bullied_66df2dbf:
@@ -166,7 +166,7 @@ translate turkish scene_addon1_voyeur_bullied_66df2dbf:
 translate turkish scene_addon1_voyeur_bullied_7dd50e37:
 
     # lee "{e=hammer}{e=fairy_house}{e=you}{e=question_white}"
-    lee "Kırık olanın yerine sana bir ev yapabilir miyim?"
+    lee "Kirik olanin yerine sana bir ev yapabilir miyim?"
 
 # game/scenes/addon1/voyeur.rpy:95
 translate turkish scene_addon1_voyeur_bullied_8907c5ff:
@@ -184,13 +184,13 @@ translate turkish scene_addon1_voyeur_bullied_d23fc7d3:
 translate turkish scene_addon1_voyeur_bullied_753c45c5:
 
     # fairy "{e=rolling_eyes}{e=handshake}{e=yes}{e=unamused_face}"
-    fairy "Tamam, anlastık! Evleri insa ediyorsun ve esyalarını iade ediyoruz."
+    fairy "Tamam, anlastik! Evleri insa ediyorsun ve esyalarini iade ediyoruz."
 
 # game/scenes/addon1/voyeur.rpy:98
 translate turkish scene_addon1_voyeur_bullied_98d19b80:
 
     # lee "{e=yes}{e=exclamation_white}"
-    lee "TAMAM! Yarın insaata baslayacagım!"
+    lee "TAMAM! Yarin insaata baslayacagim!"
 
 # game/scenes/addon1/voyeur.rpy:100
 translate turkish scene_addon1_voyeur_bullied_f96532db:

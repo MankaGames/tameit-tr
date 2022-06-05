@@ -2,19 +2,19 @@
 translate turkish scene_chapter11_octa_shelter_fc93d7f8:
 
     # octa "{e=footprints}{e=arrow_right}{e=cave}"
-    octa "{e=footprints}{e=arrow_right}{e=cave}{alt}Çok karanlık bir kısma çok derinlere iniyoruz.{/alt}"
+    octa "{e=footprints}{e=arrow_right}{e=cave}{alt}Çok karanlik bir kisma çok derinlere iniyoruz.{/alt}"
 
 # game/scenes/chapter11/cave.rpy:71
 translate turkish scene_chapter11_octa_shelter_mirror_c96508b9:
 
     # lee_think "{e=magnifying_glass}{e=airplane}{e=thinking_face}"
-    lee_think "Ihtiyacım olanı uçakta bulabilecek miyim görmem gerek."
+    lee_think "Ihtiyacim olani uçakta bulabilecek miyim görmem gerek."
 
 # game/scenes/chapter11/cave.rpy:73
 translate turkish scene_chapter11_octa_shelter_mirror_5f7f8004:
 
     # lee_think "{e=repair}{e=mirror_broken}{e=arrow_right}{e=mirror}"
-    lee_think "Buldugum aynayı tamir etmeliyim."
+    lee_think "Buldugum aynayi tamir etmeliyim."
 
 # game/scenes/chapter11/cave.rpy:83
 translate turkish scene_chapter11_octa_shelter_mirror_9687a0d6:
@@ -32,13 +32,13 @@ translate turkish scene_chapter11_octa_shelter_mirror_54afb415:
 translate turkish scene_chapter11_octa_shelter_mirror_d3487acb:
 
     # octa "{e=gift}{e=question_white}{e=flushed_face}"
-    octa "{e=gift}{e=question_white}{e=flushed_face}{alt}Hediye? Bana mı?{/alt}"
+    octa "{e=gift}{e=question_white}{e=flushed_face}{alt}Hediye? Bana mi?{/alt}"
 
 # game/scenes/chapter11/cave.rpy:86
 translate turkish scene_chapter11_octa_shelter_mirror_2f165ccd:
 
     # lee "{e=yes}{e=blush}{e=you}{e=eyes}"
-    lee "Aynen, bak bakıyım."
+    lee "Aynen, bak bakiyim."
 
 # game/scenes/chapter11/cave.rpy:91
 translate turkish scene_chapter11_octa_shelter_mirror_680878fa:
@@ -56,8 +56,8 @@ translate turkish scene_chapter11_octa_shelter_mirror_38eeb469:
 translate turkish scene_chapter11_octa_shelter_mirror_700bfac7:
 
     # lee "{e=mirror}{e=eyes}{e=you}"
-    lee "Sana yansımanı gösteriyor aynı suya bakmak gibi,"
-    lee "ama daha net görebilirsin ve rüzgar yansımayı bozamaz."
+    lee "Sana yansimani gösteriyor ayni suya bakmak gibi,"
+    lee "ama daha net görebilirsin ve rüzgar yansimayi bozamaz."
 
 # game/scenes/chapter11/cave.rpy:94
 translate turkish scene_chapter11_octa_shelter_mirror_c38ee3c9:
@@ -105,7 +105,7 @@ translate turkish scene_chapter11_octa_shelter_mirror_04dd5bac:
 translate turkish scene_chapter11_octa_shelter_mirror_d8954b08:
 
     # lee "{e=cave}{e=arrow_right}{e=question_white}{e=surprised}"
-    lee "Orası mı? Harika! Neden orayı daha önce fark etmedim? Nereye çıkıyor?"
+    lee "Orasi mi? Harika! Neden orayi daha önce fark etmedim? Nereye çikiyor?"
 
 # game/scenes/chapter11/cave.rpy:113
 translate turkish scene_chapter11_octa_shelter_mirror_0525bd07:
@@ -117,7 +117,7 @@ translate turkish scene_chapter11_octa_shelter_mirror_0525bd07:
 translate turkish scene_chapter11_octa_shelter_mirror_ada2414f:
 
     # lee "{e=me}{e=footprints}{e=cave}{e=question_white}"
-    lee "Oraya gitmemde bir sakınca yok, degil mi?"
+    lee "Oraya gitmemde bir sakinca yok, degil mi?"
 
 # game/scenes/chapter11/cave.rpy:115
 translate turkish scene_chapter11_octa_shelter_mirror_6ba47d99:
@@ -129,7 +129,7 @@ translate turkish scene_chapter11_octa_shelter_mirror_6ba47d99:
 translate turkish scene_chapter11_cave1_b2312a42:
 
     # lee_think "{e=cave}{e=arrow_right}{e=desert island}{e=question_white}{e=thinking_face}"
-    lee_think "Burası da tam bir tünelmis! Gerçekten adanın diger tarafına mı gidiyor acaba?"
+    lee_think "Burasi da tam bir tünelmis! Gerçekten adanin diger tarafina mi gidiyor acaba?"
 
 # game/scenes/chapter11/cave.rpy:146
 translate turkish scene_chapter11_cave1_0eba42d0:
@@ -141,7 +141,7 @@ translate turkish scene_chapter11_cave1_0eba42d0:
 translate turkish scene_chapter11_cave1_65320d6d:
 
     # lee_think "{e=crystal}{e=octa}{e=gift}{e=me}"
-    lee_think "Octa'nın bana verdigi kristalin aynısına sahip. Belki de buradan almıstır."
+    lee_think "Octa'nin bana verdigi kristalin aynisina sahip. Belki de buradan almistir."
 
 # game/scenes/chapter11/cave.rpy:148
 translate turkish scene_chapter11_cave1_24ce5d77:
@@ -153,26 +153,26 @@ translate turkish scene_chapter11_cave1_24ce5d77:
 translate turkish scene_chapter11_cave1_1e302510:
 
     # lee "{e=eyes}{e=no}{e=crafting}{e=torch}"
-    lee "Çok karanlık. Mesale olmadan daha ileri gidemem."
+    lee "Çok karanlik. Mesale olmadan daha ileri gidemem."
 
 # game/scenes/chapter11/cave.rpy:227
 translate turkish scene_chapter11_cave1_slab_1d83960c:
 
     # lee_think "{e=astonished_face}{e=exclamation_white}{e=smiley}"
-    lee_think "Vay! Aynı Indiana Jones filmlerindeki sandıklar gibi açıldı!"
+    lee_think "Vay! Ayni Indiana Jones filmlerindeki sandiklar gibi açildi!"
 
 # game/scenes/chapter11/cave.rpy:228
 translate turkish scene_chapter11_cave1_slab_117ca331:
 
     # lee_think "{e=halberd_head_rusty}{e=exclamation_white}{e=star_struck}{e=arrow_right}{e=inventory}"
-    lee_think "Bir savasçı baltası bası! Sanırım bununla silah yapabilirim..."
-    lee_think "Sapı yok ama olsun yine de alacagım. Ise yarayabilir."
+    lee_think "Bir savasçi baltasi basi! Sanirim bununla silah yapabilirim..."
+    lee_think "Sapi yok ama olsun yine de alacagim. Ise yarayabilir."
 
 # game/scenes/chapter11/cave.rpy:264
 translate turkish scene_chapter11_cave2_020cb973:
 
     # lee_think "{e=rock}{e=dead_end}{e=cave}{e=hushed_face}"
-    lee_think "Görünüse göre bu tasın arkasında baska bir magara var ama oraya gidemiyorum -"
+    lee_think "Görünüse göre bu tasin arkasinda baska bir magara var ama oraya gidemiyorum -"
     lee_think "kaya hareket etmiyor. Çok kötü çünkü orada ilginç bir sey fark etmistim."
 
 # game/scenes/chapter11/cave.rpy:266
@@ -203,25 +203,25 @@ translate turkish scene_chapter11_cave2_2165572d:
 translate turkish scene_chapter11_cave2_8f048dad:
 
     # octa "{e=no}{e=confused_face}"
-    octa "{e=no}{e=confused_face}{alt}Hayır, çok agır!{/alt}"
+    octa "{e=no}{e=confused_face}{alt}Hayir, çok agir!{/alt}"
 
 # game/scenes/chapter11/cave.rpy:281
 translate turkish scene_chapter11_cave2_ffd3b792:
 
     # cat "{e=light_bulb}{e=lee}{e=hammer}{e=lever}"
-    cat "{e=light_bulb}{e=lee}{e=hammer}{e=lever}{alt}Ne yapacagımı biliyorum! Lee'nin 'levye' denen seyi kullandıgını görmüstüm.{/alt}"
+    cat "{e=light_bulb}{e=lee}{e=hammer}{e=lever}{alt}Ne yapacagimi biliyorum! Lee'nin 'levye' denen seyi kullandigini görmüstüm.{/alt}"
 
 # game/scenes/chapter11/cave.rpy:282
 translate turkish scene_chapter11_cave2_ba0cf561:
 
     # cat "{e=lever}{e=rock}{e=arrow_right}"
-    cat "{e=lever}{e=rock}{e=arrow_right}{alt}Bununla kayayı itebiliriz.{/alt}"
+    cat "{e=lever}{e=rock}{e=arrow_right}{alt}Bununla kayayi itebiliriz.{/alt}"
 
 # game/scenes/chapter11/cave.rpy:304
 translate turkish scene_chapter11_cave2_d11ceff8:
 
     # cat "{e=mushroom_glowing}{e=foraging}{e=yes}"
-    cat "{e=mushroom_glowing}{e=foraging}{e=yes}{alt}Mantarları aldım!{/alt}"
+    cat "{e=mushroom_glowing}{e=foraging}{e=yes}{alt}Mantarlari aldim!{/alt}"
 
 # game/scenes/chapter11/cave.rpy:305
 translate turkish scene_chapter11_cave2_d461d35e:
@@ -239,7 +239,7 @@ translate turkish scene_chapter11_cave2_90ff7d8f:
 translate turkish scene_chapter11_cave2_lever_ae21341a:
 
     # cat_think "{e=hammer}{e=lever}"
-    cat_think "{e=hammer}{e=lever}{alt}Levye yapmam lazım.{/alt}"
+    cat_think "{e=hammer}{e=lever}{alt}Levye yapmam lazim.{/alt}"
 
 # game/scenes/chapter11/cave.rpy:328
 translate turkish scene_chapter11_cave2_lever_2fd02eb9:
@@ -251,31 +251,31 @@ translate turkish scene_chapter11_cave2_lever_2fd02eb9:
 translate turkish scene_chapter11_cave2_lever_c96150d6:
 
     # cat "{e=catgirl}{e=octa}{e=lever}{e=muscle}{e=beaming_face}"
-    cat "{e=catgirl}{e=octa}{e=lever}{e=muscle}{e=beaming_face}{alt}Birlikte çalısırsak yapabiliriz.{/alt}"
+    cat "{e=catgirl}{e=octa}{e=lever}{e=muscle}{e=beaming_face}{alt}Birlikte çalisirsak yapabiliriz.{/alt}"
 
 # game/scenes/chapter11/cave.rpy:333
 translate turkish scene_chapter11_cave2_lever_939655b9:
 
     # cat "{e=octa}{e=help}{e=exclamation_white}{e=muscle}{e=rock}"
-    cat "{e=octa}{e=help}{e=exclamation_white}{e=muscle}{e=rock}{alt}Yardım! Daha sert it! Biraz daha!{/alt}"
+    cat "{e=octa}{e=help}{e=exclamation_white}{e=muscle}{e=rock}{alt}Yardim! Daha sert it! Biraz daha!{/alt}"
 
 # game/scenes/chapter11/cave.rpy:355
 translate turkish scene_chapter11_cave2_lever_ea349a62:
 
     # octa "{e=smiley}{e=rock}{e=boom}{e=muscle}{e=sparkles}"
-    octa "{e=smiley}{e=rock}{e=boom}{e=muscle}{e=sparkles}{alt}Harika! Basardık!{/alt}"
+    octa "{e=smiley}{e=rock}{e=boom}{e=muscle}{e=sparkles}{alt}Harika! Basardik!{/alt}"
 
 # game/scenes/chapter11/cave.rpy:361
 translate turkish scene_chapter11_cave2_lever_9e97845b:
 
     # octa "{e=eyes}{e=mushroom_glowing}{e=arrow_up}"
-    octa "{e=eyes}{e=mushroom_glowing}{e=arrow_up}{alt}Mantarlar orada büyüyor. Gördün? Duvarlarda parlıyor.{/alt}"
+    octa "{e=eyes}{e=mushroom_glowing}{e=arrow_up}{alt}Mantarlar orada büyüyor. Gördün? Duvarlarda parliyor.{/alt}"
 
 # game/scenes/chapter11/cave.rpy:362
 translate turkish scene_chapter11_cave2_lever_6c5a3425:
 
     # octa "{e=catgirl}{e=take}{e=mushroom_glowing}{e=foraging}{e=question_white}"
-    octa "{e=catgirl}{e=take}{e=mushroom_glowing}{e=foraging}{e=question_white}{alt}Onları alabilir misin?{/alt}"
+    octa "{e=catgirl}{e=take}{e=mushroom_glowing}{e=foraging}{e=question_white}{alt}Onlari alabilir misin?{/alt}"
 
 # game/scenes/chapter11/cave.rpy:363
 translate turkish scene_chapter11_cave2_lever_6249bf17:
@@ -287,7 +287,7 @@ translate turkish scene_chapter11_cave2_lever_6249bf17:
 translate turkish scene_chapter11_cave3_5af36b8d:
 
     # lee_think "{e=eyes}{e=sun}{e=exclamation_white}{e=smiley}"
-    lee_think "Hey! Isıgı görebiliyorum! Çıkıs burada olmalı!"
+    lee_think "Hey! Isigi görebiliyorum! Çikis burada olmali!"
 
 # game/scenes/chapter11/cave.rpy:418
 translate turkish scene_chapter11_cave3_393a33b7:
@@ -311,23 +311,23 @@ translate turkish scene_chapter11_cave_exit_5194b899:
 translate turkish scene_chapter11_cave_exit_478307c7:
 
     # lee_think "{e=back}{e=no}{e=jaguar}{e=confused_face}"
-    lee_think "Görünüse göre jaguarın etrafından dolasamayacagım ve o burada kalacak."
-    lee_think "Bu, açıklıgın diger tarafında gördügüm magara çıkısı olmalı."
-    lee_think "Ve aynı ordaki jaguar. Lanet olsun!"
+    lee_think "Görünüse göre jaguarin etrafindan dolasamayacagim ve o burada kalacak."
+    lee_think "Bu, açikligin diger tarafinda gördügüm magara çikisi olmali."
+    lee_think "Ve ayni ordaki jaguar. Lanet olsun!"
 
 # game/scenes/chapter11/cave.rpy:444
 translate turkish scene_chapter11_cave_exit_bbaf2e61:
 
     # lee_think "{e=thinking_face}{e=hourglass}{e=arrows_counterclockwise}"
-    lee_think "Jaguarın etrafından ne bu sekilde ne de baska sekilde dolasamam."
-    lee_think "Sonunda adanın diger tarafına geçmek için onu yenmem gerekiyor."
+    lee_think "Jaguarin etrafindan ne bu sekilde ne de baska sekilde dolasamam."
+    lee_think "Sonunda adanin diger tarafina geçmek için onu yenmem gerekiyor."
     lee_think "Bir seyler düsünecegim ve daha sonra geri dönecegim."
 
 # game/scenes/chapter11/cave.rpy:450
 translate turkish scene_chapter11_cave_exit_5dbd5ff8:
 
     # lee_think "{e=halberd}{e=crossed_swords}{e=jaguar}{e=thinking_face}"
-    lee_think "Silahım yok Jaguar beni hemen öldürür."
+    lee_think "Silahim yok Jaguar beni hemen öldürür."
 
 # game/scenes/chapter11/cave.rpy:460
 translate turkish scene_chapter11_cave_exit_d06fa9ce:

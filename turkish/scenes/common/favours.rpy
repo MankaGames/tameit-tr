@@ -98,7 +98,7 @@ translate turkish scene_cat_necklace_e5b2037e:
 translate turkish scene_cat_necklace_d3a9aa3c:
 
     # lee "{e=no}{e=fish}{e=beaming_face}{e=gift}{e=sparkles}"
-    lee "Hayır, hayır balık degil. Daha iyi bir sey!"
+    lee "Hayir, hayir balik degil. Daha iyi bir sey!"
 
 # game/scenes/common/favours.rpy:379
 translate turkish scene_cat_necklace_6ecaa931:
@@ -116,5 +116,5 @@ translate turkish scene_cat_necklace_3cbafb80:
 translate turkish scene_cat_necklace_e4c46bea:
 
     # lee "{e=smirk}{e=eyes}{e=you}{e=pearl_necklace}{e=butt}"
-    lee "Evet, ama bunu daha farklı bir sekilde kullanabiliriz. Dur göstereyim."
+    lee "Evet, ama bunu daha farkli bir sekilde kullanabiliriz. Dur göstereyim."
 

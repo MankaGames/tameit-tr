@@ -8,13 +8,13 @@ translate turkish strings:
 
     # game/scenes/chapter07/sleep.rpy:27
     old "{e=catgirl}{e=arrow_right}{e=lever}{e=exclamation_white}"
-    new "Cat'ı kurtarmak için bir levye yapmalıyım!"
+    new "Cat'i kurtarmak için bir levye yapmaliyim!"
 
     # game/scenes/chapter07/sleep.rpy:29
     old "{e=muscle}{e=catgirl}{e=arrow_right}"
-    new "Cat'i kurtarmayı denemeliyim."
+    new "Cat'i kurtarmayi denemeliyim."
 
     # game/scenes/chapter07/sleep.rpy:31
     old "{e=hammer}{e=fishing_pole}{e=weary_face}"
-    new "Hala yeni bir olta yapmak zorundayım."
+    new "Hala yeni bir olta yapmak zorundayim."
 
