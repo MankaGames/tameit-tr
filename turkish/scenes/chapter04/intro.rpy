@@ -4,7 +4,7 @@ translate turkish scene_chapter04_intro_ef0d917b:
     # lee_think "{e=thinking_face}{e=catgirl}{e=gallows_2}{e=arrow_right}{e=lee}"
     lee_think "Bu tuhaf yaratik beni tuzaktan kurtardi."
     lee_think "Yani beni kolayca yaralayabilirdi ya da öldürebilirdi,"
-    lee_think "ya da sadece burada biraksaydi bile kim bilir basima neler gelird!"
+    lee_think "ya da sadece burada biraksaydi bile kim bilir basima neler gelirdi!"
 
 # game/scenes/chapter04/intro.rpy:20
 translate turkish scene_chapter04_intro_ef79760b:
