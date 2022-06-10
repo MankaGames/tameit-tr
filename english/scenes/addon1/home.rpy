@@ -346,19 +346,19 @@ translate english scene_addon1_home_9478d75f:
 translate english scene_addon1_home_84ebb52b:
 
     # lee "{e=me}{e=hammer}{e=fairy_house}{e=relieved}"
-    lee "I’ll construct the houses and everything will be fine."
+    lee "I’ll build the houses and everything will be fine."
 
 # game/scenes/addon1/home.rpy:161
 translate english scene_addon1_home_7107cf66:
 
     # cat "{e=lee}{e=smiling_face_with_hearts}{e=hammer}{e=rolling_eyes}"
-    cat "{e=lee}{e=smiling_face_with_hearts}{e=hammer}{e=rolling_eyes}{alt}Lee just likes constructing.{/alt}"
+    cat "{e=lee}{e=smiling_face_with_hearts}{e=hammer}{e=rolling_eyes}{alt}Lee just likes building.{/alt}"
 
 # game/scenes/addon1/home.rpy:167
 translate english scene_addon1_home_2c4beaf7:
 
     # lee_think "{e=hammer}{e=fairy_house}{e=hourglass}"
-    lee_think "All right, I need to construct houses for them as soon as possible."
+    lee_think "All right, I need to build houses for them as soon as possible."
 
 # game/scenes/addon1/home.rpy:168
 translate english scene_addon1_home_5c889eda:
@@ -403,8 +403,8 @@ translate english scene_addon1_home_fcc3c703:
 translate english scene_addon1_home_bd059338:
 
     # lee_think "{e=muscle}{e=exclamation_white}"
-    lee_think "Phew, I hope it will work out well! I’ve never constructed anything that small."
-    lee_think "Perhaps it’s similar to a bird house that I constructed in my childhood."
+    lee_think "Phew, I hope it will work out well! I’ve never built anything that small."
+    lee_think "Perhaps it’s similar to a bird house that I built in my childhood."
     lee_think "Shouldn’t be that difficult, but I need to do my best!"
 
 # game/scenes/addon1/home.rpy:188

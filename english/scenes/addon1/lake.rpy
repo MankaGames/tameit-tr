@@ -287,3 +287,45 @@ translate english strings:
     old "{e=gift}{e=no}"
     new "Don’t make a present."
 
+# game/scenes/addon1/lake.rpy:178
+translate english scene_addon1_fairies_home_618fcfda:
+
+    # lee_think "{e=thinking_face}{e=gift}{e=question_white}"
+    lee_think "What would be a good gift?"
+    lee_think "I guess the things that they’ve stolen from me sparked their interest,"
+    lee_think "so I should choose from them."
+
+# game/scenes/addon1/lake.rpy:179
+translate english scene_addon1_fairies_home_cd8e2a68:
+
+    # lee_think "{e=no}{e=photo}{e=smiling_face_with_hearts}{e=heart}"
+    lee_think "There’s no way I can give them that photo of Tonya, it’s too precious to me."
+
+# game/scenes/addon1/lake.rpy:180
+translate english scene_addon1_fairies_home_d206260a:
+
+    # lee_think "{e=no}{e=map}{e=exclamation_white}{e=steam_from_nose}"
+    lee_think "Giving the map is out of the question! I had to work so hard to get it back!"
+
+# game/scenes/addon1/lake.rpy:181
+translate english scene_addon1_fairies_home_c9ba7f9e:
+
+    # lee_think "{e=fur}{e=panties}{e=question}{e=thinking_face}"
+    lee_think "I only have panties and fur left."
+
+# game/scenes/addon1/lake.rpy:182
+translate english scene_addon1_fairies_home_846d0dd5:
+
+    # lee_think "{e=beaming_face}{e=fur}{e=panties}{e=arrow_right}"
+    lee_think "He-h, I’ll have no problem parting with these two."
+
+translate english strings:
+
+    # game/scenes/addon1/lake.rpy:183
+    old "{e=fur}"
+    new "{e=fur}"
+
+    # game/scenes/addon1/lake.rpy:183
+    old "{e=panties}"
+    new "{e=panties}"
+
