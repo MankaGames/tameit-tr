@@ -8,7 +8,7 @@ translate turkish scene_addon1_way2_6b2a1284:
 translate turkish scene_addon1_way2_8c06d8cc:
 
     # cat "{e=you}{e=exclamation_white}"
-    cat "{e=you}{e=exclamation_white}{alt}There!{/alt}"
+    cat "{e=you}{e=exclamation_white}{alt}Orada!{/alt}"
 
 # game/scenes/addon1/forest.rpy:33
 translate turkish scene_addon1_way2_59f31933:

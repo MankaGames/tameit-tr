@@ -8,7 +8,7 @@ translate turkish scene_addon1_lake_acc00b08:
 translate turkish scene_addon1_lake_7cd9a3b2:
 
     # cat "{e=catgirl}{e=smiling_face_with_hearts}"
-    cat "{e=catgirl}{e=smiling_face_with_hearts}{alt}Cat likes it!{/alt}"
+    cat "{e=catgirl}{e=smiling_face_with_hearts}{alt}Cat bunu begendi!{/alt}"
 
 # game/scenes/addon1/lake.rpy:42
 translate turkish scene_addon1_lake_e04901ee:
@@ -287,3 +287,44 @@ translate turkish strings:
     old "{e=gift}{e=no}"
     new "Hediye hazirlama."
 
+# game/scenes/addon1/lake.rpy:178
+translate turkish scene_addon1_fairies_home_618fcfda:
+
+    # lee_think "{e=thinking_face}{e=gift}{e=question_white}"
+    lee_think "Hediye olarak ne versem ki?"
+    lee_think "Sanirim benden çaldiklari seyler ilgilerini çekmisti."
+    lee_think "bu yüzden onlardan birini seçmeliyim."
+
+# game/scenes/addon1/lake.rpy:179
+translate turkish scene_addon1_fairies_home_cd8e2a68:
+
+    # lee_think "{e=no}{e=photo}{e=smiling_face_with_hearts}{e=heart}"
+    lee_think "Onlara Tonya'nin o fotografini vermemin imkani yok, benim için çok degerli."
+
+# game/scenes/addon1/lake.rpy:180
+translate turkish scene_addon1_fairies_home_d206260a:
+
+    # lee_think "{e=no}{e=map}{e=exclamation_white}{e=steam_from_nose}"
+    lee_think "Haritayi vermek söz konusu degil! Onu geri almak için çok çalismam gerekti!"
+
+# game/scenes/addon1/lake.rpy:181
+translate turkish scene_addon1_fairies_home_c9ba7f9e:
+
+    # lee_think "{e=fur}{e=panties}{e=question}{e=thinking_face}"
+    lee_think "Sadece Tonya'nin külotu ve kürk kaldi."
+
+# game/scenes/addon1/lake.rpy:182
+translate turkish scene_addon1_fairies_home_846d0dd5:
+
+    # lee_think "{e=beaming_face}{e=fur}{e=panties}{e=arrow_right}"
+    lee_think "He-h, bu ikisinden birini vermem konusunda hiçbir sorunum olmayacak."
+
+translate turkish strings:
+
+    # game/scenes/addon1/lake.rpy:183
+    old "{e=fur}"
+    new "{e=fur}"
+
+    # game/scenes/addon1/lake.rpy:183
+    old "{e=panties}"
+    new "{e=panties}"
