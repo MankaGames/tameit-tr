@@ -290,3 +290,46 @@ translate german strings:
     old "{e=gift}{e=no}"
     new "Mach kein Geschenk."
 
+# game/scenes/addon1/lake.rpy:178
+translate german scene_addon1_fairies_home_618fcfda:
+
+    # lee_think "{e=thinking_face}{e=gift}{e=question_white}"
+    lee_think "Was wäre ein gutes Geschenk?"
+    lee_think "Ich schätze, die Dinge, die sie mir gestohlen haben,"
+    lee_think "haben ihr Interesse geweckt, also sollte ich aus ihnen wählen."
+
+# game/scenes/addon1/lake.rpy:179
+translate german scene_addon1_fairies_home_cd8e2a68:
+
+    # lee_think "{e=no}{e=photo}{e=smiling_face_with_hearts}{e=heart}"
+    lee_think "Ich kann ihnen das Foto von Tonya auf keinen Fall geben,"
+    lee_think "es ist zu wertvoll für mich."
+
+# game/scenes/addon1/lake.rpy:180
+translate german scene_addon1_fairies_home_d206260a:
+
+    # lee_think "{e=no}{e=map}{e=exclamation_white}{e=steam_from_nose}"
+    lee_think "Die Karte herzugeben, kommt nicht in Frage!"
+    lee_think "Ich musste so hart arbeiten, um sie zurückzubekommen!"
+
+# game/scenes/addon1/lake.rpy:181
+translate german scene_addon1_fairies_home_c9ba7f9e:
+
+    # lee_think "{e=fur}{e=panties}{e=question}{e=thinking_face}"
+    lee_think "Ich habe nur noch Höschen und Pelz."
+
+# game/scenes/addon1/lake.rpy:182
+translate german scene_addon1_fairies_home_846d0dd5:
+
+    # lee_think "{e=beaming_face}{e=fur}{e=panties}{e=arrow_right}"
+    lee_think "Ich werde kein Problem damit haben, mich von den beiden zu trennen."
+
+translate german strings:
+
+    # game/scenes/addon1/lake.rpy:183
+    old "{e=fur}"
+    new "{e=fur}"
+
+    # game/scenes/addon1/lake.rpy:183
+    old "{e=panties}"
+    new "{e=panties}"
