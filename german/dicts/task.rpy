@@ -202,48 +202,48 @@
 
     # game/dicts/task.rpy:1972
     old "Clean up the living room"
-    new "Clean up the living room"
+    new "Räum das Wohnzimmer auf"
 
     # game/dicts/task.rpy:1972
     old "Clean up the bedroom"
-    new "Clean up the bedroom"
+    new "Räum das Schlafzimmer auf"
 
     # game/dicts/task.rpy:1972
     old "Clean up the kitchen"
-    new "Clean up the kitchen"
+    new "Räum die Küche auf"
 
     # game/dicts/task.rpy:1972
     old "Find the box of Christmas decorations"
-    new "Find the box of Christmas decorations"
+    new "Finde die Schachtel mit dem Weihnachtsschmuck"
 
     # game/dicts/task.rpy:1972
     old "Open the storeroom door"
-    new "Open the storeroom door"
+    new "Öffnen die Tür zum Lagerraum"
 
     # game/dicts/task.rpy:1972
     old "Peeping on Tonya"
-    new "Peeping on Tonya"
+    new "Beobachte Tonya"
 
     # game/dicts/task.rpy:1972
     old "Find other Christmas decorations"
-    new "Find other Christmas decorations"
+    new "Finde andere Weihnachtsdekorationen"
 
     # game/dicts/task.rpy:1972
     old "Get off the plane"
-    new "Get off the plane"
+    new "Verlasse das Flugzeug"
 
     # game/dicts/task.rpy:1972
     old "Catch a crab"
-    new "Catch a crab"
+    new "Fang eine Krabbe"
 
     # game/dicts/task.rpy:1972
     old "Put out the fire"
-    new "Put out the fire"
+    new "Lösche das Feuer"
 
     # game/dicts/task.rpy:1972
     old "Decorate the Christmas tree"
-    new "Decorate the Christmas tree"
+    new "Schmücke den Weihnachtsbaum"
 
     # game/dicts/task.rpy:1972
     old "Greet Tonya"
-    new "Greet Tonya"
+    new "Begrüße Tonya"

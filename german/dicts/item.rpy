@@ -318,76 +318,76 @@
 
     # game/dicts/item.rpy:91
     old "Cat Christmas decoration"
-    new "Cat Christmas decoration"
+    new "Cat Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Octa Christmas decoration"
-    new "Octa Christmas decoration"
+    new "Octa Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Plane Christmas decoration"
-    new "Plane Christmas decoration"
+    new "Flugzeug Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Jaguar Christmas decoration"
-    new "Jaguar Christmas decoration"
+    new "Jaguar Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Coconut Christmas decoration"
-    new "Coconut Christmas decoration"
+    new "Kokosnuss Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Bananas Christmas decoration"
-    new "Bananas Christmas decoration"
+    new "Bananen Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Berries Christmas decoration"
-    new "Berries Christmas decoration"
+    new "Beeren Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Mushroom Christmas decoration"
-    new "Mushroom Christmas decoration"
+    new "Pilz Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Fish Christmas decoration"
-    new "Fish Christmas decoration"
+    new "Fisch Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Crystal Christmas decoration"
-    new "Crystal Christmas decoration"
+    new "Kristall Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Pearl Necklace Christmas decoration"
-    new "Pearl Necklace Christmas decoration"
+    new "Perlenkette Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Chocolate Christmas decoration"
-    new "Chocolate Christmas decoration"
+    new "Schokolade Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Fairies Christmas decoration"
-    new "Fairies Christmas decoration"
+    new "Feen Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Fairy House Christmas decoration"
-    new "Fairy House Christmas decoration"
+    new "Feenhaus Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Mirror Christmas decoration"
-    new "Mirror Christmas decoration"
+    new "Spiegel Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Panties Christmas decoration"
-    new "Panties Christmas decoration"
+    new "Höschen Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Fur Christmas decoration"
-    new "Fur Christmas decoration"
+    new "Pelz-Weihnachtsdekoration"
 
     # game/dicts/item.rpy:91
     old "Garbage"
-    new "Garbage"
+    new "Müll"
 
     # game/dicts/item.rpy:91
     old "Key"
-    new "Key"
+    new "Schlüssel"

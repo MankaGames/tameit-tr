@@ -30,4 +30,4 @@
 
     # game/dicts/gallery.rpy:2
     old "Don`t get caught by Tonya before the end of her shower"
-    new "Don`t get caught by Tonya"
+    new "Lass dich nicht von Tonya erwischen,\nbevor sie ihre Dusche beendet hat"
