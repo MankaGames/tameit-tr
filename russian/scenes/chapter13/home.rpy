@@ -303,7 +303,7 @@ translate russian scene_chapter13_home_4674080e:
 translate russian scene_chapter13_home_16498255:
 
     # lee "{e=girls}{e=help}{e=dash}{e=hammer}{e=raft}"
-    lee "Коша, Окта, нам нужно ускорить строительство плота."
+    lee "Кошка, Окта, нам нужно ускорить строительство плота."
 
 # game/scenes/chapter13/home.rpy:136
 translate russian scene_chapter13_home_d57612a5:

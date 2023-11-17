@@ -40,3 +40,7 @@
     old "Tonya`s Story"
     new "История Тони"
 
+    # game/screens/menu.rpy:148
+    old "Quit"
+    new "Выход"
+

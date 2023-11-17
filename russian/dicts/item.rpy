@@ -304,3 +304,91 @@
     old "Paper Mass"
     new "Бумажная масса"
 
+    # game/dicts/item.rpy:91
+    old "Meat"
+    new "Мясо"
+
+    # game/dicts/item.rpy:91
+    old "Empty fairy cage"
+    new "Клетка для феи"
+
+    # game/dicts/item.rpy:91
+    old "Fairy in the cage"
+    new "Фея в клетке"
+
+    # game/dicts/item.rpy:91
+    old "Cat Christmas decoration"
+    new "Игрушечная кошка"
+
+    # game/dicts/item.rpy:91
+    old "Octa Christmas decoration"
+    new "Игрушечный осьминог"
+
+    # game/dicts/item.rpy:91
+    old "Plane Christmas decoration"
+    new "Самолётик"
+
+    # game/dicts/item.rpy:91
+    old "Jaguar Christmas decoration"
+    new "Фигурка ягуара"
+
+    # game/dicts/item.rpy:91
+    old "Coconut Christmas decoration"
+    new "Шар с кокосами"
+
+    # game/dicts/item.rpy:91
+    old "Bananas Christmas decoration"
+    new "Декор бананы"
+
+    # game/dicts/item.rpy:91
+    old "Berries Christmas decoration"
+    new "Шар-ягода"
+
+    # game/dicts/item.rpy:91
+    old "Mushroom Christmas decoration"
+    new "Декор грибы"
+
+    # game/dicts/item.rpy:91
+    old "Fish Christmas decoration"
+    new "Игрушечная рыба"
+
+    # game/dicts/item.rpy:91
+    old "Crystal Christmas decoration"
+    new "Кристалл"
+
+    # game/dicts/item.rpy:91
+    old "Pearl Necklace Christmas decoration"
+    new "Шар с ожерельем"
+
+    # game/dicts/item.rpy:91
+    old "Chocolate Christmas decoration"
+    new "Шоколадка"
+
+    # game/dicts/item.rpy:91
+    old "Fairies Christmas decoration"
+    new "Фигурка феи"
+
+    # game/dicts/item.rpy:91
+    old "Fairy House Christmas decoration"
+    new "Домик фей"
+
+    # game/dicts/item.rpy:91
+    old "Mirror Christmas decoration"
+    new "Шар с зеркальцем"
+
+    # game/dicts/item.rpy:91
+    old "Panties Christmas decoration"
+    new "Шар с трусиками"
+
+    # game/dicts/item.rpy:91
+    old "Fur Christmas decoration"
+    new "Шар с шерстью"
+
+    # game/dicts/item.rpy:91
+    old "Garbage"
+    new "Мусор"
+
+    # game/dicts/item.rpy:91
+    old "Key"
+    new "Ключ"
+

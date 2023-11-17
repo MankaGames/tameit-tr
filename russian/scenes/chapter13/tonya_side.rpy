@@ -528,9 +528,8 @@ translate russian scene_chapter13_tonya_home_escape_plan_b735faff:
 translate russian scene_chapter13_tonya_home_escape_plan_d1bb94a7:
 
     # tonya "{e=no}{e=compass}{e=map}{e=skull_and_crossbones}"
-    tonya "У меня тоже возникали такие мысли. 
-
-Но плыть без каких-либо ориентиров сродни самоубийству."
+    tonya "У меня тоже возникали такие мысли."
+    tonya "Но плыть без каких-либо ориентиров сродни самоубийству."
 
 # game/scenes/chapter13/tonya_side.rpy:276
 translate russian scene_chapter13_tonya_home_escape_plan_b4d286af:

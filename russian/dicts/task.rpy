@@ -182,3 +182,67 @@
     old "{e=weary_face}{e=yawning_face}{e=hourglass}{e=arrow_right}"
     new "Фух, устал, продолжу позже."
 
+    # game/dicts/task.rpy:2
+    old "{e=bridge}{e=yes}{e=muscle}{e=beaming_face}{e=arrow_right}"
+    new "Отлично! Мост готов! Путь дальше открыт!"
+
+    # game/dicts/task.rpy:2
+    old "{e=pointing_up}{e=lee_fairy_house}{e=yes}{e=smiley}"
+    new "Ура! Первый домик готов!"
+
+    # game/dicts/task.rpy:2
+    old "{e=weary_face}{e=yawning_face}{e=bed}"
+    new "Я очень устал, надо пойти отдохнуть."
+
+    # game/dicts/task.rpy:2
+    old "{e=lee_fairy_house}{e=yes}{e=muscle}{e=beaming_face}"
+    new "Ну вот, все домики готовы!"
+
+    # game/dicts/task.rpy:1972
+    old "Clean up the living room"
+    new "Прибраться в гостиной"
+
+    # game/dicts/task.rpy:1972
+    old "Clean up the bedroom"
+    new "Прибраться в спальне"
+
+    # game/dicts/task.rpy:1972
+    old "Clean up the kitchen"
+    new "Прибраться на кухне"
+
+    # game/dicts/task.rpy:1972
+    old "Find the box of Christmas decorations"
+    new "Найти коробку с ёлочными игрушками"
+
+    # game/dicts/task.rpy:1972
+    old "Open the storeroom door"
+    new "Открыть дверь в кладовую"
+
+    # game/dicts/task.rpy:1972
+    old "Peeping on Tonya"
+    new "Подсмотреть за Тоней"
+
+    # game/dicts/task.rpy:1972
+    old "Find other Christmas decorations"
+    new "Найти другие ёлочные игрушки"
+
+    # game/dicts/task.rpy:1972
+    old "Get off the plane"
+    new "Выбраться из самолёта"
+
+    # game/dicts/task.rpy:1972
+    old "Catch a crab"
+    new "Поймать краба"
+
+    # game/dicts/task.rpy:1972
+    old "Put out the fire"
+    new "Потушить пожар"
+
+    # game/dicts/task.rpy:1972
+    old "Decorate the Christmas tree"
+    new "Нарядить ёлку"
+
+    # game/dicts/task.rpy:1972
+    old "Greet Tonya"
+    new "Встретить Тоню"
+

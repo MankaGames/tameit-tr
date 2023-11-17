@@ -12,5 +12,5 @@ translate russian strings:
 
     # game/scenes/chapter05/sleep.rpy:26
     old "{e=take}{e=smirk}{e=night}{e=catgirl}"
-    new "I can try touching Cat while she sleeps."
+    new "Буду гладить Кошку каждую ночь, похоже, ей это нравится."
 

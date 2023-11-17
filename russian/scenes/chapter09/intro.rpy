@@ -28,7 +28,8 @@ translate russian scene_chapter09_intro_8cc14e76:
     # lee_think "{e=octa}{e=broken_heart}{e=beard}{e=lee}"
     lee_think "Это создание такое красивое. Она, это она... Окта. Хм, а ведь неплохо звучит."
     lee_think "Как-то само на ум пришло, но ей подходит. Хочется её увидеть,"
-    lee_think "Хочется её увидеть, но я такой страшный с этой бородищей, ещё испугается меня! "
+    lee_think "Хочется её увидеть, но я такой страшный"
+    lee_think "с этой бородищей, ещё испугается меня!"
 
 # game/scenes/chapter09/intro.rpy:52
 translate russian scene_chapter09_intro_a992278e:

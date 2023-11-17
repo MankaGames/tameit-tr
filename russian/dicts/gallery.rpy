@@ -28,3 +28,7 @@
     old "Find an approach to her"
     new "Найдите к ней подход"
 
+    # game/dicts/gallery.rpy:2
+    old "Don`t get caught by Tonya before the end of her shower"
+    new "Не дайте Тоне вас заметить"
+

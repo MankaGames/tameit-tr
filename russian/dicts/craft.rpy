@@ -48,3 +48,10 @@
     old "{e=pearl_necklace}{e=arrow_right}{e=catgirl}{e=butt}{e=smirk}"
     new "Хм, а ведь это можно использовать с Кошкой не только как украшение."
 
+    # game/dicts/craft.rpy:2
+    old "{e=fairy_cage}{e=yes}{e=thumbs_up}"
+    new "Отлично! Клетка для феи готова."
+
+    # game/dicts/craft.rpy:2
+    old "{e=take}{e=fairy}{e=arrow_right}{e=fairy_cage}{e=smirk}"
+    new "Вроде получилось неплохо. Достаточно крепкая и фее не навредит."

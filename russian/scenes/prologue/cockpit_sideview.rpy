@@ -40,7 +40,8 @@ translate russian scene_prologue_cockpit_sideview_drink_ce8b80bd:
 translate russian scene_prologue_cockpit_sideview_drink_17734b99:
 
     # tonya "{e=lee}{e=yoke}{e=airplane}"
-    tonya "Ли, оставляю тебя за главного, держи штурвал и следи за показателями приборов."
+    tonya "Ли, оставляю тебя за главного,"
+    tonya "держи штурвал и следи за показателями приборов."
 
 # game/scenes/prologue/cockpit_sideview.rpy:96
 translate russian scene_prologue_cockpit_sideview_drink_72702b29:
@@ -58,7 +59,8 @@ translate russian scene_prologue_cockpit_sideview_drink_993d09c5:
 translate russian scene_prologue_cockpit_sideview_drink_b81b206f:
 
     # lee_think "{e=question}{e=boobs}{e=heart}{e=light_bulb}{e=eye}"
-    lee_think "Она же будет там переодеваться, верно? Может как-то получится подсмотреть за ней?"
+    lee_think "Она же будет там переодеваться, верно?"
+    lee_think "Может как-то получится подсмотреть за ней?"
 
 # game/scenes/prologue/cockpit_sideview.rpy:126
 translate russian scene_prologue_cockpit_sideview_voyeur_endgame_708ebfae:
