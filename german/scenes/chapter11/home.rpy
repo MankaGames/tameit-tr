@@ -174,7 +174,7 @@ translate german scene_chapter11_basin_df80425a:
 translate german scene_chapter11_basin_a6b06e23:
 
     # octa "{e=mushroom_glowing}{e=magnifying_glass}{e=cave}"
-    octa "{e=mushroom_glowing}{e=magnifying_glass}{e=cave}{altGroße Pilze. Wachsen in meiner Höhle. leuchten. Wir zerdrücken sie und machen daraus Medizin.{/alt}"
+    octa "{e=mushroom_glowing}{e=magnifying_glass}{e=cave}{alt}Große Pilze. Wachsen in meiner Höhle. leuchten. Wir zerdrücken sie und machen daraus Medizin.{/alt}"
 
 # game/scenes/chapter11/home.rpy:351
 translate german scene_chapter11_basin_c2f2f39c:

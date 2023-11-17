@@ -199,3 +199,51 @@
     # game/dicts/task.rpy:2
     old "{e=lee_fairy_house}{e=yes}{e=muscle}{e=beaming_face}"
     new "Das war's! Alle Häuser sind fertig!"
+
+    # game/dicts/task.rpy:1972
+    old "Clean up the living room"
+    new "Clean up the living room"
+
+    # game/dicts/task.rpy:1972
+    old "Clean up the bedroom"
+    new "Clean up the bedroom"
+
+    # game/dicts/task.rpy:1972
+    old "Clean up the kitchen"
+    new "Clean up the kitchen"
+
+    # game/dicts/task.rpy:1972
+    old "Find the box of Christmas decorations"
+    new "Find the box of Christmas decorations"
+
+    # game/dicts/task.rpy:1972
+    old "Open the storeroom door"
+    new "Open the storeroom door"
+
+    # game/dicts/task.rpy:1972
+    old "Peeping on Tonya"
+    new "Peeping on Tonya"
+
+    # game/dicts/task.rpy:1972
+    old "Find other Christmas decorations"
+    new "Find other Christmas decorations"
+
+    # game/dicts/task.rpy:1972
+    old "Get off the plane"
+    new "Get off the plane"
+
+    # game/dicts/task.rpy:1972
+    old "Catch a crab"
+    new "Catch a crab"
+
+    # game/dicts/task.rpy:1972
+    old "Put out the fire"
+    new "Put out the fire"
+
+    # game/dicts/task.rpy:1972
+    old "Decorate the Christmas tree"
+    new "Decorate the Christmas tree"
+
+    # game/dicts/task.rpy:1972
+    old "Greet Tonya"
+    new "Greet Tonya"

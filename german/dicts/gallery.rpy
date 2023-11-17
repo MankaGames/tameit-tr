@@ -27,3 +27,7 @@
     # game/dicts/gallery.rpy:2
     old "Find an approach to her"
     new "Finde einen Weg zu ihr"
+
+    # game/dicts/gallery.rpy:2
+    old "Don`t get caught by Tonya before the end of her shower"
+    new "Don`t get caught by Tonya"
