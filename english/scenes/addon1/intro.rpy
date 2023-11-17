@@ -81,3 +81,9 @@ translate english scene_addon1_intro_652566b6:
     lee_think "I hope I was wrong and it was a dolphin."
     lee_think "Sharks are the last thing I need now!"
 
+# game/scenes/addon1/intro.rpy:78
+translate english scene_addon1_intro_09076375:
+
+    # centered "The addon is not yet available in your language. We're working on it!"
+    centered "The addon is not yet available in your language. We're working on it!"
+

@@ -316,3 +316,79 @@
     old "Fairy in the cage"
     new "Fairy in the cage"
 
+    # game/dicts/item.rpy:91
+    old "Cat Christmas decoration"
+    new "Cat Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Octa Christmas decoration"
+    new "Octa Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Plane Christmas decoration"
+    new "Plane Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Jaguar Christmas decoration"
+    new "Jaguar Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Coconut Christmas decoration"
+    new "Coconut Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Bananas Christmas decoration"
+    new "Bananas Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Berries Christmas decoration"
+    new "Berries Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Mushroom Christmas decoration"
+    new "Mushroom Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Fish Christmas decoration"
+    new "Fish Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Crystal Christmas decoration"
+    new "Crystal Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Pearl Necklace Christmas decoration"
+    new "Pearl Necklace Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Chocolate Christmas decoration"
+    new "Chocolate Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Fairies Christmas decoration"
+    new "Fairies Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Fairy House Christmas decoration"
+    new "Fairy House Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Mirror Christmas decoration"
+    new "Mirror Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Panties Christmas decoration"
+    new "Panties Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Fur Christmas decoration"
+    new "Fur Christmas decoration"
+
+    # game/dicts/item.rpy:91
+    old "Garbage"
+    new "Garbage"
+
+    # game/dicts/item.rpy:91
+    old "Key"
+    new "Key"
+

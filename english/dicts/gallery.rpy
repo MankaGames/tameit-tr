@@ -28,3 +28,7 @@
     old "Find an approach to her"
     new "Find an approach to her"
 
+    # game/dicts/gallery.rpy:2
+    old "Don`t get caught by Tonya before the end of her shower"
+    new "Don`t get caught by Tonya"
+

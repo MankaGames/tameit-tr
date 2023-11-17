@@ -21,7 +21,7 @@ translate english chapter09_stealth_11fc51f4:
 
     # lee_think "{e=smirk}{e=shushing_face}{e=footprints}{e=eye}{e=octa}"
     lee_think "Now I need to be quiet and careful."
-    lee_think "If it works out well, I may snick up to her close enough to take a good look."
+    lee_think "If it works out well, I may sneak up to her close enough to take a good look."
 
 # game/scenes/chapter09/stealth.rpy:81
 translate english chapter09_stealth_a8b85143:

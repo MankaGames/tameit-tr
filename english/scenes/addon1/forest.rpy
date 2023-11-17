@@ -116,6 +116,6 @@ translate english scene_addon1_boars_a47a853d:
 translate english scene_addon1_way2_1830a4c2:
 
     # lee_think "{e=footprints}{e=fairy_house}{e=shushing_face}{e=take}{e=fairy}"
-    lee_think "I need to snick close to their dwelling and quietly still one of them."
+    lee_think "I need to sneak close to their dwelling and quietly steal one of them."
     lee_think "I gotta be careful not to get spotted by others."
 

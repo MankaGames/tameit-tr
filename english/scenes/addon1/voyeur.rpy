@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-06-02 23:32
-
-# game/scenes/addon1/voyeur.rpy:30
+﻿# game/scenes/addon1/voyeur.rpy:30
 translate english scene_addon1_voyeur_7f24bf4f:
 
     # lee_think "{e=exploding_head}{e=exclamation_white}{e=hushed_face}{e=question_white}"
